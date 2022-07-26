@@ -1,0 +1,201 @@
+,index,index,Dutch,Frequency,GooglePos,GoogleLemma,GoogleEnglish
+0,0,200,hallo,116482,noun,hallo,hello hallo
+1,1,201,leuk,116343,adjective,leuk,nice entertaining amusing
+2,2,202,sorry,116048,interjection,Sorry!,Sorry! I am sorry!
+3,3,203,alle,114830,adjective,alle,all
+4,4,204,elkaar,114709,adverb,elkaar,each other one another
+5,5,205,toe,114466,preposition,toe,to
+6,6,206,wist,114289,verb,weten,know wit wot
+7,7,207,zegt,112794,verb,zeggen,say tell put
+8,8,208,bedoel,111995,verb,bedoelen,mean intend design
+9,9,209,blijf,111068,verb,blijven,remain stay keep
+10,10,210,alsjeblieft,110808,interjection,Alsjeblieft!,Please!
+11,11,211,lang,109815,adjective,lang,long tall prolonged
+12,12,212,meneer,109602,abbreviation,meneer,Mr.
+13,13,213,ziet,109385,verb,zien,see view look
+14,14,214,maakt,109295,verb,maken,make do build
+15,15,215,luister,108225,noun,luister,splendor magnificence pomp
+16,16,216,dingen,107800,verb,dingen,bargain sue chaffer
+17,17,217,mooi,106513,adjective,mooi,beautiful nice pretty
+18,18,218,werd,106486,verb,worden,be become get
+19,19,219,eerste,105965,adjective,eerste,first initial former
+20,20,220,graag,105501,adverb,graag,gladly willingly fain
+21,21,221,natuurlijk,105268,adverb,natuurlijk,of course naturally no doubt
+22,22,222,houden,104006,verb,houden,keep hold retain
+23,23,223,zonder,103838,preposition,zonder,without sans out of
+24,24,224,steeds,103491,adverb,steeds,always ever
+25,25,225,krijgen,102922,verb,krijgen,get receive have
+26,26,226,grote,102284,adjective,groot,large great big
+27,27,227,achter,102224,adverb,achter,behind after post
+28,28,228,helemaal,101859,adverb,helemaal,all completely quite
+29,29,229,naam,100664,noun,naam,name first name title
+30,30,230,gek,100386,adjective,gek,crazy mad fool
+31,31,231,blijven,100084,verb,blijven,remain stay keep
+32,32,232,onder,99913,adverb,onder,under below underneath
+33,33,233,vriend,99666,noun,vriend,friend pal well-wisher
+34,34,234,geweest,98850,No Google Info,No Google Info,No Google Info
+35,35,235,kijken,98710,verb,kijken,look see glance
+36,36,236,geven,98686,verb,geven,give deliver impart
+37,37,237,ging,98129,verb,gaan,go proceed work
+38,38,238,vertellen,97831,verb,vertellen,tell relate narrate
+39,39,239,ooit,95370,adverb,ooit,ever sometime whilom
+40,40,240,snel,94773,adverb,snel,quickly fast rapidly
+41,41,241,hand,94597,noun,hand,hand mitt dukes
+42,42,242,idee,94437,noun,idee,idea notion thought
+43,43,243,goede,94154,noun,goede,well
+44,44,244,auto,93713,adjective,auto,auto
+45,45,245,kwam,93681,verb,komen,come get come to
+46,46,246,verdomme,93629,interjection,Verdomme!,Blast it!
+47,47,247,beetje,91002,noun,beetje,bit little tad
+48,48,248,moest,90319,verb,moest,must
+49,49,249,kinderen,90129,noun,kinderen,children kids olive-branches
+50,50,250,wanneer,89911,adverb,wanneer,when
+51,51,251,gebeurd,89505,verb,gebeuren,happen be occur
+52,52,252,jongen,89239,noun,jongen,boy lad pup
+53,53,253,bang,87846,adjective,bang,afraid scared fearful
+54,54,254,vraag,87796,noun,vraag,question demand request
+55,55,255,lijkt,87783,verb,lijken,seem appear look
+56,56,256,geweldig,87705,adjective,geweldig,immense violent colossal
+57,57,257,paar,87664,noun,paar,couple pair couplet
+58,58,258,hoor,87503,verb,horen,hear belong learn
+59,59,259,laatste,87460,noun,laatste,last
+60,60,260,deed,87439,verb,doen,do make perform
+61,61,261,nieuwe,87384,adjective,nieuw,new novel fresh
+62,62,262,vragen,87319,verb,vragen,ask question request
+63,63,263,kun,86117,No Google Info,No Google Info,No Google Info
+64,64,264,zag,85611,verb,zien,see view look
+65,65,265,zorgen,84952,verb,zorgen,care worry look
+66,66,266,staan,84389,verb,staan,stand be face
+67,67,267,wereld,83597,noun,wereld,world universe
+68,68,268,eten,83486,verb,eten,food eat meal
+69,69,269,jongens,83194,adjective,jongens-,boyish
+70,70,270,enige,82779,adjective,enige,some
+71,71,271,zelf,82161,pronoun,zelf,itself self myself
+72,72,272,want,81819,conjunction,want,because for as
+73,73,273,nemen,80223,verb,nemen,take reach seize
+74,74,274,heen,80006,adverb,heen,away
+75,75,275,zo'n,80002,noun,zon,sun daystar
+76,76,276,beste,79491,No Google Info,No Google Info,No Google Info
+77,77,277,ken,79485,verb,kennen,know
+78,78,278,vandaag,79049,adverb,vandaag,today
+79,79,279,zelfs,78653,adverb,zelfs,even
+80,80,280,ie,77676,No Google Info,No Google Info,No Google Info
+81,81,281,gezegd,77384,verb,zeggen,say tell put
+82,82,282,hadden,76559,verb,hebben,have possess own
+83,83,283,vertel,76160,verb,vertellen,tell relate narrate
+84,84,284,eerst,75850,adjective,eerst,first primary one
+85,85,285,gevonden,75611,verb,vinden,find think of hit upon
+86,86,286,zoon,75210,noun,zoon,son
+87,87,287,buiten,74950,adverb,buiten,outside out outdoors
+88,88,288,samen,74836,adverb,samen,together
+89,89,289,denken,74768,verb,denken,think think of conceive
+90,90,290,geloof,74702,noun,geloof,faith belief religion
+91,91,291,morgen,74153,adverb,morgen,tomorrow next day
+92,92,292,geleden,74090,adverb,geleden,ago since
+93,93,293,meisje,73965,noun,meisje,girl maid maiden
+94,94,294,thuis,73452,adverb,thuis,home in indoors
+95,95,295,denkt,73451,verb,denken,think think of conceive
+96,96,296,rustig,73439,adjective,rustig,quiet tranquil calm
+97,97,297,mannen,73358,adjective,mannen-,male
+98,98,298,halen,73344,verb,halen,catch fetch bring
+99,99,299,probleem,73012,noun,probleem,problem puzzler
+100,100,300,hen,72796,pronoun,hen,them
+101,101,301,stop,72195,noun,stop,plug stopper cork
+102,102,302,eigen,72134,adjective,eigen,own specific proper
+103,103,303,kleine,71038,adjective,klein,small little short
+104,104,304,hoop,71017,noun,hoop,hope lot heap
+105,105,305,wou,69733,verb,willen,want like will
+106,106,306,vermoord,68779,verb,vermoorden,murder assassinate slay
+107,107,307,elke,68753,pronoun,elk,each any everyone
+108,108,308,krijg,68617,noun,krijg,war warfare arms
+109,109,309,horen,68607,verb,horen,hear belong learn
+110,110,310,gelijk,67986,adjective,gelijk,equal similar like
+111,111,311,bijna,67920,adverb,bijna,almost nearly near
+112,112,312,zouden,67911,verb,zullen,will shall
+113,113,313,open,67598,adjective,open,open clear overt
+114,114,314,orde,67404,noun,orde,order discipline orderliness
+115,115,315,begrijp,67348,noun,begrijp,prehension
+116,116,316,hoofd,67137,noun,hoofd,head principal chief
+117,117,317,gebeurt,66495,verb,gebeuren,happen be occur
+118,118,318,kant,66457,noun,kant,side lace edge
+119,119,319,vrienden,66122,noun,vrienden,kith
+120,120,320,houdt,65629,verb,houden,keep hold retain
+121,121,321,eigenlijk,65503,adverb,eigenlijk,indeed by rights
+122,122,322,alsof,65165,conjunction,alsof,like as if as though
+123,123,323,pak,64554,noun,pak,suit pack business suit
+124,124,324,geeft,64330,verb,geven,give deliver impart
+125,125,325,politie,64233,noun,politie,police police force law
+126,126,326,precies,64182,adverb,precies,exactly just precisely
+127,127,327,wachten,63368,verb,wachten,wait await expect
+128,128,328,familie,63300,noun,familie,family kin tribe
+129,129,329,verder,63214,adjective,verder,further farther additional
+130,130,330,zat,63005,adjective,zat,drunk intoxicated satiate
+131,131,331,soms,62608,adverb,soms,sometimes sometime now and then
+132,132,332,werken,62578,verb,werken,work operate function
+133,133,333,bel,62257,noun,bel,bubble bell
+134,134,334,voel,62192,verb,voelen,feel sense emote
+135,135,335,kind,61911,noun,kind,child kid baby
+136,136,336,probeer,61802,verb,proberen,try attempt endeavor
+137,137,337,ding,61751,noun,ding,thing object matter
+138,138,338,minuten,61538,noun,minuut,minute
+139,139,339,krijgt,61469,verb,krijgen,get receive have
+140,140,340,zet,61264,noun,zet,move stroke score
+141,141,341,vijf,61236,noun,vijf,five pentad
+142,142,342,gehad,61099,verb,hebben,have possess own
+143,143,343,haal,60818,noun,haal,pull stroke haul
+144,144,344,gemaakt,60509,adjective,gemaakt,artificial forced minikin
+145,145,345,hè,60004,interjection,He!,Hey! He! Eh!
+146,146,346,manier,59982,noun,manier,way manner fashion
+147,147,347,dagen,59905,verb,dagen,dawn summon
+148,148,348,zoek,59872,adjective,zoek,lost mislaid
+149,149,349,heet,59836,adjective,heet,hot warm spicy
+150,150,350,volgende,59563,adjective,volgend,next following subsequent
+151,151,351,daarom,59444,conjunction,daarom,therefore that is why wherefore
+152,152,352,gehoord,59228,verb,horen,hear belong learn
+153,153,353,pas,58649,adverb,pas,only
+154,154,354,werkt,58586,verb,werken,work operate function
+155,155,355,vanavond,58415,adverb,vanavond,tonight
+156,156,356,volgens,57698,adverb,volgens,according to by agreement
+157,157,357,best,57222,adjective,best,best optimum high
+158,158,358,pijn,56898,noun,pijn,pain hurt pine
+159,159,359,kans,56749,noun,kans,chance opportunity hazard
+160,160,360,eruit,56620,adverb,eruit,out outward
+161,161,361,help,56560,interjection,Help!,Help!
+162,162,362,plaats,56532,noun,plaats,place location site
+163,163,363,hoeveel,56363,adverb,hoeveel,how much how many
+164,164,364,vroeg,55462,adjective,vroeg,early
+165,165,365,oude,55353,noun,oude,ancient
+166,166,366,stad,55276,noun,stad,city town borough
+167,167,367,zoeken,55211,verb,zoeken,search seek quest
+168,168,368,ogen,54838,noun,ogen,lights lamps
+169,169,369,jezelf,54738,pronoun,jezelf,yourself
+170,170,370,geloven,54733,verb,geloven,believe think trust
+171,171,371,moment,54653,noun,moment,moment instant momentum
+172,172,372,kamer,54007,noun,kamer,room chamber den
+173,173,373,schiet,53529,verb,schieten,shoot fire gun
+174,174,374,vier,53510,noun,vier,four gauds four-oar
+175,175,375,vindt,53453,verb,vinden,find think of hit upon
+176,176,376,word,53363,verb,worden,be become get
+177,177,377,agent,53276,noun,agent,agent policeman broker
+178,178,378,slecht,53212,adjective,slecht,bad evil ill
+179,179,379,verteld,52923,verb,vertellen,tell relate narrate
+180,180,380,brengen,52308,verb,brengen,bring apply carry
+181,181,381,blij,52283,adjective,blij,happy glad joyous
+182,182,382,hulp,52235,noun,hulp,help assistance aid
+183,183,383,welke,51772,adjective,welke,which what
+184,184,384,blijft,51384,verb,blijven,remain stay keep
+185,185,385,ligt,51345,verb,liggen,lie be sit
+186,186,386,broer,51262,noun,broer,brother sibling
+187,187,387,school,51174,noun,school,school shoal
+188,188,388,tussen,50710,preposition,tussen,between among amongst
+189,189,389,deur,50693,noun,deur,door gate portal
+190,190,390,spreken,50678,verb,spreken,speak talk see
+191,191,391,plan,50369,noun,plan,plan scheme intention
+192,192,392,dollar,50329,noun,dollar,dollar plunk
+193,193,393,handen,50113,adjective,handen-,manual
+194,194,394,ergens,50095,adverb,ergens,somewhere anywhere
+195,195,395,dr.,50094,No Google Info,No Google Info,No Google Info
+196,196,396,klopt,50057,verb,kloppen,knock beat hit
+197,197,397,breng,49949,verb,brengen,bring apply carry
+198,198,398,dokter,49555,noun,dokter,doctor physician doc
+199,199,399,juist,49519,adjective,juist,just correct right

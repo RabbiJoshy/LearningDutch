@@ -1,0 +1,6000 @@
+rank	word	occurrences (ppm)	lemma forms
+1.	que	32894	que
+2.	de	32116	de
+3.	no	29897	no
+4.	a	22313	a
+5.	la	21127	la
+6.	el	18112	el
+7.	es	16620	ser
+8.	y	15743	y
+9.	en	15303	en
+10.	lo	14010	lo
+11.	un	13410	un
+12.	por	10261	por
+13.	qué	9903	qué
+14.	me	9692	me
+15.	una	8656	un
+16.	te	8094	te
+17.	los	7589	lo
+18.	se	7426	se
+19.	con	6799	con
+20.	para	6455	para
+21.	mi	5987	mi
+22.	está	5909	estar
+23.	si	5880	si
+24.	bien	5293	bien
+25.	pero	5012	pero
+26.	yo	4800	yo
+27.	eso	4788	eso
+28.	las	4748	la
+29.	sí	4704	sí
+30.	su	4549	su
+31.	tu	4194	tu
+32.	aquí	3952	aquí
+33.	del	3911	del
+34.	al	3887	al
+35.	como	3760	como comer
+36.	le	3470	le
+37.	más	3395	más
+38.	esto	3152	esto
+39.	ya	2944	ya
+40.	todo	2929	todo
+41.	esta	2927	esta
+42.	vamos	2830	ir
+43.	muy	2618	muy
+44.	hay	2584	haber
+45.	ahora	2523	ahora
+46.	algo	2469	algo
+47.	estoy	2454	estar
+48.	tengo	2349	tener
+49.	nos	2247	nos
+50.	tú	2232	tú
+51.	nada	2122	nada
+52.	cuando	2098	cuando
+53.	ha	2079	haber
+54.	este	2069	este
+55.	sé	2066	saber
+56.	estás	2045	estar
+57.	así	2044	así
+58.	puedo	1972	poder
+59.	cómo	1969	cómo
+60.	quiero	1940	querer
+61.	sólo	1933	sólo
+62.	soy	1913	ser
+63.	tiene	1908	tener
+64.	gracias	1886	gracias
+65.	o	1850	o
+66.	él	1836	él
+67.	bueno	1824	bueno
+68.	fue	1811	ser ir
+69.	ser	1782	ser
+70.	hacer	1749	hacer
+71.	son	1703	ser
+72.	todos	1687	todo
+73.	era	1677	ser
+74.	eres	1677	ser
+75.	vez	1652	vez
+76.	tienes	1636	tener
+77.	creo	1584	creer
+78.	ella	1570	ella
+79.	he	1570	haber
+80.	ese	1508	ese
+81.	voy	1478	ir
+82.	puede	1433	poder
+83.	sabes	1422	saber
+84.	hola	1393	hola
+85.	sus	1384	su
+86.	porque	1362	porque
+87.	dios	1356	dios
+88.	quién	1351	quién
+89.	nunca	1342	nunca
+90.	dónde	1335	dónde
+91.	quieres	1331	querer
+92.	casa	1330	casa casar
+93.	favor	1313	favor
+94.	esa	1306	ese
+95.	dos	1301	dos
+96.	tan	1291	tanto
+97.	señor	1289	señor
+98.	tiempo	1288	tiempo
+99.	verdad	1269	verdad
+100.	estaba	1250	estar
+101.	mejor	1234	mejor
+102.	están	1232	estar
+103.	va	1219	ir
+104.	hombre	1219	hombre
+105.	usted	1218	usted
+106.	mucho	1208	mucho
+107.	hace	1195	hacer
+108.	entonces	1194	entonces
+109.	siento	1186	sentir sentar
+110.	tenemos	1177	tener
+111.	puedes	1134	poder
+112.	ahí	1126	ahí
+113.	ti	1103	ti
+114.	vida	1101	vida
+115.	ver	1097	ver
+116.	alguien	1046	alguien
+117.	sr	1040	señor
+118.	hasta	1032	hasta
+119.	sin	1029	sin
+120.	mí	1022	mí
+121.	solo	1013	solo
+122.	años	1003	año
+123.	sobre	996	sobre
+124.	decir	995	decir
+125.	uno	993	uno
+126.	siempre	986	siempre
+127.	oh	985	oh
+128.	ir	964	ir
+129.	cosas	962	cosa coser
+130.	también	962	también
+131.	antes	955	antes
+132.	has	942	haber
+133.	ni	941	ni
+134.	mis	937	mi
+135.	día	917	día
+136.	estar	907	estar
+137.	estamos	906	estar
+138.	noche	868	noche
+139.	nadie	865	nadie
+140.	otra	857	otro
+141.	quiere	855	querer
+142.	parece	851	parecer
+143.	nosotros	847	nosotros
+144.	poco	844	poco
+145.	padre	833	padre
+146.	trabajo	828	trabajo trabajar
+147.	gente	827	gente
+148.	mira	825	mirar
+149.	vas	817	ir
+150.	sea	814	ser
+151.	les	806	les
+152.	donde	806	donde
+153.	mismo	796	mismo
+154.	hecho	795	hacer hecho
+155.	ellos	792	ellos
+156.	dijo	770	decir
+157.	pasa	751	pasar
+158.	dinero	740	dinero
+159.	hijo	728	hijo
+160.	tal	724	tal
+161.	otro	710	otro
+162.	hablar	706	hablar
+163.	seguro	704	seguro
+164.	claro	699	claro
+165.	estas	685	este
+166.	lugar	684	lugar
+167.	mundo	683	mundo
+168.	amigo	678	amigo
+169.	espera	674	esperar espera
+170.	mierda	673	mierda
+171.	han	673	haber
+172.	tus	670	tu
+173.	sabe	669	saber
+174.	después	661	después
+175.	momento	656	momento
+176.	desde	653	desde
+177.	fuera	650	fuera ir ser
+178.	cosa	648	cosa coser
+179.	tipo	647	tipo
+180.	mañana	646	mañana
+181.	podemos	623	poder
+182.	dije	617	decir
+183.	gran	608	grande
+184.	necesito	607	necesitar
+185.	estado	597	estar estado
+186.	podría	591	poder
+187.	acuerdo	591	acordar acuerdo
+188.	papá	587	papá
+189.	tener	583	tener
+190.	dice	583	decir
+191.	mío	581	mío
+192.	crees	580	creer
+193.	buena	578	bueno buena
+194.	gusta	573	gustar
+195.	nuestro	573	nuestro
+196.	nuevo	572	nuevo
+197.	será	570	ser
+198.	haciendo	568	hacer
+199.	días	566	día
+200.	nombre	565	nombre
+201.	buen	565	bueno
+202.	había	564	haber
+203.	ven	564	ver venir
+204.	tres	562	tres
+205.	menos	560	menos
+206.	debe	560	deber
+207.	tenía	555	tener
+208.	mal	553	mal
+209.	conmigo	551	conmigo
+210.	madre	549	madre
+211.	hoy	548	hoy
+212.	quien	547	quien
+213.	sido	534	ser
+214.	mamá	530	mamá
+215.	tienen	529	tener
+216.	luego	519	luego
+217.	todas	516	todo
+218.	allí	507	allí
+219.	toda	502	todo
+220.	hora	498	hora
+221.	mujer	495	mujer
+222.	visto	490	ver
+223.	haces	490	hacer
+224.	importa	487	importar
+225.	contigo	486	contigo
+226.	ve	481	ver ir
+227.	tarde	480	tarde tardar
+228.	oye	480	oír
+229.	parte	479	partir parte
+230.	haber	477	haber
+231.	hombres	477	hombre
+232.	problema	470	problema
+233.	mas	469	mas
+234.	saber	465	saber
+235.	quería	463	querer
+236.	aún	461	aún
+237.	veces	460	vez
+238.	nuestra	458	nuestro
+239.	hacerlo	454	hacer
+240.	cada	449	cada
+241.	hizo	440	hacer
+242.	veo	439	ver
+243.	tanto	438	tanto
+244.	razón	437	razón
+245.	ustedes	437	usted
+246.	idea	432	idea
+247.	esos	426	eso
+248.	van	424	ir
+249.	quizá	422	quizá
+250.	debo	421	deber
+251.	alguna	420	alguno
+252.	cierto	419	cierto
+253.	ud	414	usted
+254.	muerto	413	muerto morir
+255.	unos	410	un
+256.	estos	408	este
+257.	salir	407	salir
+258.	policía	407	policía
+259.	realmente	402	realmente
+260.	demasiado	402	demasiado
+261.	familia	399	familia
+262.	pueden	396	poder
+263.	cabeza	396	cabeza
+264.	hemos	391	haber
+265.	amigos	386	amigo
+266.	chica	383	chico chica
+267.	cariño	382	cariño
+268.	lado	382	lado
+269.	allá	380	allá
+270.	entre	379	entre
+271.	minutos	379	minuto
+272.	digo	378	decir
+273.	algún	378	algún
+274.	serio	375	serio
+275.	cuidado	372	cuidar cuidado
+276.	pasó	371	pasar
+277.	buenas	370	bueno
+278.	somos	369	ser
+279.	amor	369	amor
+280.	puerta	364	puerta
+281.	ves	363	ver
+282.	vaya	363	ir
+283.	ah	363	ah
+284.	suerte	358	suerte
+285.	eh	357	eh
+286.	rápido	357	rápido
+287.	cuenta	354	contar cuenta
+288.	quizás	352	quizás
+289.	esas	349	ese
+290.	pues	348	pues
+291.	pasado	344	pasar pasado
+292.	pensé	344	pensar
+293.	todavía	340	todavía
+294.	hermano	340	hermano
+295.	debes	338	deber
+296.	casi	338	casi
+297.	forma	337	forma
+298.	aqui	336	aquí
+299.	chico	335	chico
+300.	ok	334	ok
+301.	dicho	333	decir dicho
+302.	nueva	332	nuevo nueva
+303.	sabía	332	saber
+304.	muchas	332	mucho
+305.	dentro	331	dentro
+306.	hice	330	hacer
+307.	contra	329	contra
+308.	auto	327	auto
+309.	camino	325	camino caminar
+310.	ayuda	325	ayuda ayudar
+311.	primera	325	primero primera
+312.	hacia	324	hacia
+313.	vi	324	ver
+314.	miedo	324	miedo
+315.	adiós	322	adiós
+316.	primero	322	primero
+317.	debería	321	deber
+318.	poder	318	poder
+319.	niños	316	niño
+320.	sería	316	ser
+321.	historia	316	historia
+322.	hey	315	hey
+323.	mientras	314	mientras
+324.	ciudad	313	ciudad
+325.	dijiste	313	decir
+326.	espero	310	esperar
+327.	cuánto	309	cuánto
+328.	esposa	309	esposa esposar
+329.	pronto	308	pronto
+330.	chicos	307	chico
+331.	cualquier	307	cualquier
+332.	viejo	307	viejo
+333.	debemos	307	deber
+334.	deja	306	dejar
+335.	año	305	año
+336.	muerte	304	muerte
+337.	hablando	304	hablar
+338.	manos	304	mano
+339.	da	304	dar
+340.	loco	303	loco
+341.	problemas	300	problema
+342.	mano	299	mano
+343.	guerra	298	guerra
+344.	semana	296	semana
+345.	pasar	295	pasar
+346.	vale	294	valer vale
+347.	cuál	292	cuál
+348.	viene	292	venir
+349.	volver	288	volver
+350.	toma	288	tomar
+351.	caso	288	caso casar
+352.	agua	287	agua
+353.	haré	287	hacer
+354.	vete	286	ir
+355.	entiendo	286	entender
+356.	horas	286	hora
+357.	personas	285	persona
+358.	capitán	284	capitán
+359.	adelante	283	adelante
+360.	niño	282	niño
+361.	listo	282	listo
+362.	noches	280	noche
+363.	buenos	279	bueno
+364.	iba	279	ir
+365.	juntos	279	junto
+366.	dame	276	dar
+367.	único	276	único
+368.	déjame	276	dejar
+369.	cerca	276	cerca cercar
+370.	otros	275	otro
+371.	sigue	275	seguir
+372.	grande	275	grande
+373.	arriba	274	arriba
+374.	jefe	274	jefe
+375.	habla	273	hablar habla
+376.	supongo	271	suponer
+377.	manera	271	manera
+378.	quieren	270	querer
+379.	feliz	270	feliz
+380.	significa	269	significar
+381.	sangre	269	sangre
+382.	fin	268	fin
+383.	bajo	268	bajar bajo
+384.	llama	267	llamar llama
+385.	venir	266	venir
+386.	morir	265	morir
+387.	importante	264	importante
+388.	hiciste	264	hacer
+389.	ojos	264	ojo
+390.	escucha	263	escuchar
+391.	entrar	261	entrar
+392.	ningún	260	ninguno
+393.	corazón	260	corazón
+394.	diablos	259	diablo
+395.	necesitamos	259	necesitar
+396.	atrás	259	atrás
+397.	durante	258	durante
+398.	dices	258	decir
+399.	nuestros	257	nuestro
+400.	persona	257	persona
+401.	abajo	256	abajo
+402.	dr	255	doctor
+403.	hija	255	hija
+404.	dejar	254	dejar
+405.	necesita	254	necesitar
+406.	llegar	254	llegar
+407.	hago	253	hacer
+408.	señora	252	señora
+409.	haya	250	haber haya
+410.	suficiente	249	suficiente
+411.	doctor	249	doctor
+412.	gustaría	248	gustar
+413.	tierra	247	tierra
+414.	cara	247	cara
+415.	siquiera	247	siquiera
+416.	genial	246	genial
+417.	cree	246	creer
+418.	supuesto	244	suponer
+419.	tomar	243	tomar
+420.	equipo	242	equipo equipar
+421.	justo	242	justo
+422.	juego	242	juego jugar
+423.	ninguna	240	ninguno
+424.	matar	240	matar
+425.	cinco	238	cinco
+426.	dicen	237	decir
+427.	amo	237	amo amar
+428.	cuándo	236	cuándo
+429.	pequeño	235	pequeño
+430.	algunos	234	alguno
+431.	conozco	233	conocer
+432.	clase	233	clase
+433.	maldito	231	maldito
+434.	unas	231	un
+435.	muchos	231	mucho
+436.	hubiera	230	haber
+437.	segundo	230	segundo
+438.	aunque	229	aunque
+439.	pueda	229	poder
+440.	dime	229	decir
+441.	igual	229	igual
+442.	comida	229	comida comer
+443.	ay	228	ay
+444.	cuerpo	228	cuerpo
+445.	encontrar	228	encontrar
+446.	fuerte	227	fuerte
+447.	vuelta	227	vuelta volver
+448.	venga	226	venir
+449.	creer	225	creer
+450.	realidad	224	realidad
+451.	saben	222	saber
+452.	puta	222	puta
+453.	deberías	219	deber
+454.	pregunta	219	pregunta preguntar
+455.	fui	219	ir ser
+456.	cuatro	218	cuatro
+457.	sra	218	señora
+458.	primer	217	primero
+459.	trabajar	217	trabajar
+460.	e	217	y
+461.	hagas	216	hacer
+462.	alto	216	alto
+463.	maldita	216	maldito
+464.	comer	215	comer
+465.	número	215	número
+466.	dar	215	dar
+467.	necesitas	215	necesitar
+468.	oportunidad	215	oportunidad
+469.	punto	213	punto
+470.	misma	213	mismo
+471.	última	213	último
+472.	afuera	213	afuera
+473.	mujeres	212	mujer
+474.	pensar	212	pensar
+475.	fueron	212	ir ser
+476.	difícil	211	difícil
+477.	vivir	210	vivir
+478.	paso	210	paso pasar
+479.	malo	209	malo
+480.	estabas	208	estar
+481.	vivo	207	vivir vivo
+482.	haga	206	hacer
+483.	queda	206	quedar
+484.	hijos	205	hijo
+485.	mayor	205	mayor
+486.	fiesta	205	fiesta
+487.	hacen	205	hacer
+488.	medio	205	medio
+489.	algunas	204	alguno
+490.	basta	204	bastar
+491.	arma	202	arma armar
+492.	vino	202	venir vino
+493.	meses	201	mes
+494.	cuarto	201	cuarto
+495.	éste	201	este
+496.	escuela	201	escuela
+497.	esté	200	estar
+498.	dólares	200	dólar
+499.	tío	198	tío
+500.	posible	198	posible
+501.	tuve	198	tener
+502.	fácil	198	fácil
+503.	preocupes	198	preocupar
+504.	luz	196	luz
+505.	eran	196	ser
+506.	carajo	196	carajo
+507.	final	196	final
+508.	lista	195	lista listo
+509.	trata	195	tratar
+510.	armas	195	arma armar
+511.	hermana	194	hermana
+512.	exactamente	194	exactamente
+513.	chicas	193	chica
+514.	podía	193	poder
+515.	bastante	193	bastante
+516.	seguridad	193	seguridad
+517.	pasando	193	pasar
+518.	esperando	193	esperar
+519.	acá	192	acá
+520.	teléfono	192	teléfono
+521.	perro	192	perro
+522.	fuego	192	fuego
+523.	murió	191	morir
+524.	tampoco	191	tampoco
+525.	sola	190	solo
+526.	estuvo	189	estar
+527.	verte	189	ver
+528.	iré	189	ir
+529.	tenido	189	tener
+530.	culpa	189	culpa culpar
+531.	veras	188	veras
+532.	adónde	188	adónde
+533.	buscando	188	buscar
+534.	cuanto	187	cuanto
+535.	padres	186	padre
+536.	paz	185	paz
+537.	demonios	184	demonio
+538.	estará	184	estar
+539.	cual	183	cual
+540.	perdón	181	perdón
+541.	asi	181	así
+542.	jugar	181	jugar
+543.	pensando	179	pensar
+544.	esperar	179	esperar
+545.	sabemos	179	saber
+546.	recuerdo	179	recuerdo recordar
+547.	par	178	par
+548.	joven	178	joven
+549.	seguir	178	seguir
+550.	pueblo	178	pueblo
+551.	tenga	177	tener
+552.	caballeros	177	caballero
+553.	idiota	176	idiota
+554.	dio	176	dar
+555.	minuto	176	minuto
+556.	bebé	176	bebé
+557.	única	176	único
+558.	lejos	175	lejos
+559.	nuestras	175	nuestro
+560.	plan	174	plan
+561.	pienso	174	pensar
+562.	sentido	173	sentido sentir
+563.	dormir	173	dormir
+564.	digas	173	decir
+565.	palabra	173	palabra
+566.	correcto	172	correcto
+567.	control	172	control
+568.	vemos	172	ver
+569.	entiendes	172	entender
+570.	país	171	país
+571.	seis	171	seis
+572.	último	171	último
+573.	ésta	170	ésta
+574.	diga	170	decir
+575.	podrías	169	poder
+576.	pequeña	168	pequeña
+577.	cállate	167	callar
+578.	trato	167	trato tratar
+579.	rey	167	rey
+580.	sucede	167	suceder
+581.	muchachos	167	muchacho
+582.	jamás	167	jamás
+583.	cama	167	cama
+584.	srta	167	señorita
+585.	ayudar	166	ayudar
+586.	acerca	166	acerca acercar
+587.	di	165	dar
+588.	cambio	165	cambio cambiar
+589.	falta	164	falta faltar
+590.	hospital	164	hospital
+591.	lleva	164	llevar
+592.	presidente	163	presidente
+593.	mil	163	mil
+594.	gusto	162	gusto gustar
+595.	conoces	161	conocer
+596.	diciendo	161	decir
+597.	os	161	os
+598.	ido	160	ir
+599.	general	160	general
+600.	extraño	160	extraño extrañar
+601.	semanas	160	semana
+602.	coche	160	coche
+603.	peor	159	peor bien
+604.	mucha	159	mucho
+605.	disculpe	159	disculpar
+606.	diré	159	decir
+607.	anoche	159	anoche
+608.	perder	158	perder
+609.	vámonos	158	ir
+610.	nave	157	nave
+611.	cielo	157	cielo
+612.	habrá	157	haber
+613.	orden	157	orden
+614.	segura	156	seguro
+615.	querida	156	querida querido querer
+616.	niña	156	niña
+617.	increíble	155	increíble
+618.	además	155	además
+619.	deben	154	deber
+620.	libro	154	libro
+621.	calle	154	calle callar
+622.	café	154	café
+623.	piensas	153	pensar
+624.	hacemos	153	hacer
+625.	especial	153	especial
+626.	queremos	153	querer
+627.	irme	152	ir
+628.	perfecto	152	perfecto
+629.	buscar	152	buscar
+630.	odio	151	odio odiar
+631.	piensa	151	pensar
+632.	oficina	151	oficina
+633.	hablas	151	hablar habla
+634.	libre	151	libre
+635.	agente	150	agente
+637.	llamar	150	llamar
+638.	mala	150	malo mala
+639.	detrás	150	detrás
+640.	viste	149	ver
+641.	dile	149	decir
+642.	grandes	148	grande
+643.	recuerdas	148	recordar
+644.	real	148	real
+645.	estaban	147	estar
+646.	mía	147	mío
+647.	frente	147	frente
+648.	perdido	147	perder
+649.	llamo	147	llamar
+650.	muertos	146	muerto
+651.	millones	146	millón
+652.	asesino	146	asesino asesinar
+653.	sueño	145	sueño soñar
+654.	quisiera	145	querer
+655.	habría	145	haber
+656.	hará	144	hacer
+657.	viaje	143	viaje viajar
+658.	probablemente	143	probablemente
+659.	resto	143	resto
+660.	estaré	143	estar
+661.	maldición	143	maldición
+662.	lamento	142	lamento lamentar
+663.	muchacho	142	muchacho
+664.	avión	142	avión
+665.	ropa	142	ropa
+666.	fuerza	142	fuerza forzar
+667.	llamado	141	llamado llamar
+668.	oído	141	oído oír
+669.	dado	141	dado dar
+670.	encima	141	encima
+671.	negro	141	negro
+672.	usar	140	usar
+673.	información	140	información
+674.	uds	140	ustedes
+675.	preguntas	139	preguntar pregunta
+676.	tuvo	139	tener
+677.	secreto	139	secreto
+678.	vuelve	139	volver
+679.	miren	139	mirar
+680.	quieras	139	querer
+681.	haría	139	hacer
+682.	acaba	139	acabar
+683.	otras	138	otro
+684.	incluso	138	incluso
+685.	sientes	138	sentir sentar
+686.	deberíamos	138	deber
+687.	haz	137	hacer haz
+688.	decirte	137	decir
+689.	boca	137	boca
+690.	dolor	136	dolor
+691.	baño	136	baño bañar
+692.	adentro	136	adentro
+693.	profesor	136	profesor
+694.	habitación	135	habitación
+695.	daño	135	daño dañar
+696.	tuyo	135	tuyo
+697.	seas	135	ser
+698.	noticias	135	noticia
+699.	demás	134	demás
+700.	querido	134	querido querer
+701.	duro	134	duro durar
+702.	poner	134	poner
+703.	prueba	134	prueba probar
+704.	mire	133	mirar
+705.	tonto	133	tonto
+706.	campo	133	campo campar
+707.	siendo	133	ser
+708.	diez	133	diez
+709.	ése	132	ese
+710.	tranquilo	131	tranquilo
+711.	asunto	131	asunto
+712.	acabó	131	acabar
+713.	quédate	131	quedar
+714.	derecho	131	derecho
+715.	placer	131	placer
+716.	recuerda	131	recordar
+717.	estuve	131	estar
+718.	tratando	131	tratar
+719.	ejército	131	ejército
+720.	futuro	131	futuro
+721.	llevar	130	llevar
+722.	compañía	130	compañía
+723.	venido	130	venir
+724.	listos	130	listo
+725.	haremos	129	hacer
+726.	sitio	129	sitio
+727.	verlo	129	ver
+728.	puesto	129	puesto poner
+729.	atención	129	atención
+730.	sino	128	sino
+731.	cambiar	128	cambiar
+732.	error	128	error
+733.	blanco	127	blanco
+734.	raro	127	raro
+735.	palabras	127	palabra
+736.	llegó	127	llegar
+737.	sal	127	sal salir
+738.	pase	127	pasar
+739.	mente	127	mente
+740.	sistema	126	sistema
+741.	película	126	película
+742.	anda	126	andar
+743.	ello	126	ello
+744.	negocio	126	negocio negociar
+745.	novia	126	novia
+746.	permiso	125	permiso
+747.	creí	125	creer
+748.	suena	125	sonar
+749.	ocurre	125	ocurrir
+750.	oficial	125	oficial
+751.	espere	125	esperar
+752.	aire	125	aire
+753.	mató	124	matar
+754.	regresar	124	regresar
+755.	vio	124	ver
+756.	hazlo	123	hacer
+757.	trasero	122	trasero
+758.	grupo	122	grupo
+759.	entendido	122	entender
+760.	señorita	122	señorita
+761.	música	122	música
+762.	perra	122	perra
+763.	conoce	121	conocer
+764.	empezar	121	empezar
+765.	siente	121	sentir sentar
+766.	acabo	120	acabar
+767.	estúpido	120	estúpido
+768.	diferente	120	diferente
+769.	traje	120	traer traje
+770.	modo	120	modo
+771.	encontré	119	encontrar
+772.	mensaje	119	mensaje
+773.	llamada	119	llamada llamar
+774.	navidad	118	navidad
+775.	eras	118	ser
+776.	pena	118	pena penar
+777.	largo	118	largo largar
+778.	entra	118	entrar
+779.	piso	118	piso pisar
+780.	foto	118	foto
+781.	dijeron	118	decir
+782.	médico	117	médico
+783.	accidente	117	accidente
+784.	fuiste	117	ir ser
+785.	imposible	117	imposible
+786.	podríamos	116	poder
+787.	línea	116	línea
+788.	propia	116	propio
+789.	barco	116	barco
+790.	ganar	116	ganar
+791.	normal	115	normal
+792.	segundos	115	segundo
+793.	vive	115	vivir
+794.	mitad	114	mitad
+795.	quiera	114	querer
+796.	tras	114	tras
+797.	decirle	114	decir
+798.	lindo	114	lindo
+799.	funciona	114	funcionar
+800.	programa	113	programa
+801.	vine	113	venir
+802.	abre	113	abrir
+803.	sean	113	ser
+804.	pagar	113	pagar
+805.	fotos	113	foto
+806.	centro	113	centro centrar
+807.	supone	113	suponer
+808.	basura	112	basura
+809.	situación	112	situación
+810.	mejores	112	mejor
+811.	vienen	112	venir
+812.	encanta	112	encantar
+813.	marido	112	marido
+814.	personal	111	personal
+815.	maestro	111	maestro
+816.	hambre	111	hambre
+817.	ataque	111	ataque atacar
+818.	culo	111	culo
+819.	dale	111	dar
+820.	pie	111	pie
+821.	conseguir	111	conseguir
+822.	trabajando	111	trabajar
+823.	gracioso	111	gracioso
+824.	dejó	111	dejar
+825.	pudo	110	poder
+826.	derecha	110	derecha
+827.	izquierda	110	izquierda
+828.	próxima	110	próximo
+829.	pobre	110	pobre
+830.	respuesta	109	respuesta
+831.	tipos	109	tipo
+832.	sentir	109	sentir
+833.	tenías	109	tener
+834.	pude	109	poder
+835.	darle	109	dar
+836.	voz	109	voz
+837.	amiga	109	amiga
+838.	gustan	109	gustar
+839.	vista	109	vista ver
+840.	salvo	109	salvo salvar
+841.	loca	108	loco
+842.	hotel	108	hotel
+843.	hicieron	108	hacer
+844.	ten	108	tener
+845.	temo	108	temer
+846.	señal	108	señal
+847.	pelo	108	pelo pelar
+848.	llevo	108	llevar
+849.	ayer	108	ayer
+850.	das	108	dar
+851.	nena	108	nena
+852.	servicio	108	servicio
+853.	tren	107	tren
+854.	bonito	107	bonito
+855.	mes	107	mes
+856.	tendrá	107	tener
+857.	tendrás	107	tener
+858.	edad	107	edad
+859.	ellas	107	ellas
+860.	hermosa	107	hermoso
+861.	honor	106	honor
+862.	simplemente	106	simplemente
+863.	llamas	105	llamar llama
+864.	tengas	105	tener
+865.	corre	105	correr
+866.	baja	105	bajo baja
+867.	sol	105	sol
+868.	siéntate	105	sentar
+869.	dan	105	dar
+870.	humano	105	humano
+871.	divertido	105	divertido divertir
+872.	sexo	104	sexo
+873.	vuelto	104	vuelto volver
+874.	peligro	104	peligro peligrar
+875.	mesa	104	mesa
+876.	siguiente	104	siguiente
+877.	hablo	104	hablar
+878.	disculpa	104	disculpa disculpar
+879.	decirme	104	decir
+880.	caja	103	caja
+881.	negocios	103	negocio negociar
+882.	misión	103	misión
+883.	silencio	103	silencio
+884.	sale	103	salir
+885.	llegado	103	llegar
+886.	estaría	102	estar
+887.	regreso	102	regreso regresar
+888.	media	102	media medio
+889.	estan	101	estar
+890.	propio	101	propio
+891.	oro	101	oro orar
+892.	enseguida	101	enseguida
+893.	linda	100	lindo
+894.	prometo	100	prometer
+895.	esposo	100	esposo esposar
+896.	norte	99	norte
+897.	hubo	99	haber
+898.	juro	99	jurar
+899.	muerta	99	muerto morir
+900.	interesante	99	interesante
+901.	pensaba	99	pensar
+902.	busca	99	buscar busca
+903.	terminar	99	terminar
+904.	tendré	98	tener
+905.	completamente	98	completamente
+906.	cita	98	cita citar
+907.	siete	98	siete
+908.	cumpleaños	98	cumpleaños
+909.	abogado	98	abogado
+910.	alrededor	98	alrededor
+911.	cerebro	98	cerebro
+912.	porqué	97	porqué
+913.	llave	97	llave
+914.	santo	97	santo
+915.	hermoso	97	hermoso
+916.	necesario	97	necesario
+917.	edificio	97	edificio
+918.	irnos	97	ir
+919.	aun	97	aun
+920.	tendremos	97	tener
+921.	vayas	97	ir
+922.	doy	96	dar
+923.	trae	96	traer
+924.	salió	96	salir
+925.	ley	96	ley
+926.	ahi	96	ahí
+927.	verdadero	96	verdadero
+928.	pelea	96	pelea pelear
+929.	banco	96	banco
+930.	terrible	95	terrible
+931.	calma	95	calma calmar
+932.	cena	95	cena cenar
+933.	daré	95	dar
+934.	gobierno	95	gobierno
+935.	comprar	95	comprar
+936.	creen	94	creer crear
+937.	sargento	94	sargento
+938.	destino	94	destino
+939.	existe	94	existir
+940.	hacía	94	hacer
+941.	novio	93	novio
+942.	sala	93	sala
+943.	través	93	través
+944.	regalo	93	regalo regalar
+945.	iglesia	92	iglesia
+946.	decía	92	decir
+947.	cualquiera	92	cualquiera
+948.	excelente	92	excelente
+949.	esperen	92	esperar
+950.	deseo	92	deseo desear
+951.	alma	92	alma
+952.	diablo	92	diablo
+953.	deje	92	dejar
+954.	cuántos	92	cuántos
+955.	espada	92	espada
+956.	estábamos	92	estar
+957.	carne	92	carne
+958.	maravilloso	92	maravilloso
+959.	vidas	91	vida
+960.	sucedió	91	suceder
+961.	oí	91	oír
+962.	peligroso	91	peligroso
+963.	dirección	91	dirección
+964.	libertad	91	libertad
+965.	jesús	91	Jesús
+966.	ocurrió	91	ocurrir
+967.	veré	91	ver
+968.	sueños	91	sueño
+969.	pudiera	91	poder
+970.	detective	90	detective
+971.	sorpresa	90	sorpresa
+972.	tuya	90	tuyo
+973.	pies	90	pie
+974.	club	90	club
+975.	terminado	90	terminar
+976.	infierno	90	infierno
+977.	creía	90	creer
+978.	luna	90	luna
+979.	salvar	90	salvar
+980.	carta	90	carta
+981.	estés	90	estar
+982.	cielos	89	cielo
+983.	teniente	89	teniente
+984.	encuentra	89	encontrar
+985.	veamos	89	ver
+986.	quise	89	querer
+987.	escúchame	89	escuchar
+988.	necesitan	89	necesitar
+989.	ambos	89	ambos ambo
+990.	decisión	89	decisión
+991.	enemigo	89	enemigo
+992.	hicimos	89	hacer
+993.	dulce	88	dulce
+994.	pruebas	88	prueba probar
+995.	querías	88	querer
+996.	abuelo	88	abuelo
+997.	totalmente	88	totalmente
+998.	mirando	88	mirar
+999.	vayan	88	ir
+1000.	carrera	88	carrera
+1001.	vuelo	88	vuelo volar
+1002.	ante	87	ante
+1003.	bienvenido	87	bienvenido
+1004.	harás	87	hacer
+1005.	encontramos	87	encontrar
+1006.	encontrado	87	encontrar
+1007.	contacto	87	contacto contactar
+1008.	posición	87	posición
+1009.	saberlo	87	saber
+1010.	planeta	87	planeta
+1011.	humanos	87	humano
+1012.	coronel	87	coronel
+1013.	junto	87	junto juntar
+1014.	diría	87	decir
+1015.	ésa	87	ese
+1016.	base	87	base basar
+1017.	oír	86	oír
+1018.	suelo	86	suelo soler
+1019.	pelear	86	pelear
+1020.	ayudarte	86	ayudar
+1021.	pistola	86	pistola
+1022.	frío	86	frío freír
+1023.	comandante	85	comandante
+1024.	partes	85	parte partir
+1025.	llega	85	llegar
+1026.	verás	85	ver
+1027.	sur	85	sur
+1028.	iremos	85	ir
+1029.	rato	85	rato
+1030.	mar	84	mar
+1031.	espacio	84	espacio
+1032.	asesinato	84	asesinato
+1033.	ventana	84	ventana
+1034.	prisa	84	prisa
+1035.	tienda	84	tienda tender
+1036.	cámara	84	cámara
+1037.	puedas	84	poder
+1038.	según	84	según
+1039.	broma	84	broma
+1040.	reunión	83	reunión
+1041.	despierta	83	despertar
+1042.	sacar	83	sacar
+1043.	tí	83	ti
+1044.	segunda	83	segundo
+1045.	papel	83	papel
+1046.	locura	83	locura
+1047.	departamento	82	departamento
+1048.	horrible	82	horrible
+1049.	enfermo	82	enfermo
+1050.	pregunto	82	preguntar
+1051.	cárcel	82	cárcel
+1052.	órdenes	82	orden
+1053.	intento	82	intento intentar
+1054.	isla	82	isla
+1055.	salida	82	salida salir
+1056.	llamó	82	llamar
+1057.	volveré	82	volver
+1058.	usa	82	usar
+1059.	gato	82	gato
+1060.	hagan	82	hacer
+1061.	dejes	82	dejar
+1062.	duele	81	doler
+1063.	vengan	81	venir
+1064.	crimen	81	crimen
+1065.	esperaba	81	esperar
+1066.	causa	81	causa causar
+1067.	bar	81	bar
+1068.	seré	81	ser
+1069.	ocho	81	ocho
+1070.	temprano	81	temprano
+1071.	río	81	río reír
+1072.	relación	80	relación
+1073.	drogas	80	droga
+1074.	luces	80	luz
+1075.	bromeando	80	bromear
+1076.	ojalá	80	ojalá
+1077.	hablamos	80	hablar
+1078.	trabaja	80	trabajar
+1079.	irse	80	ir
+1080.	libros	80	libro
+1081.	radio	80	radio
+1082.	vienes	79	venir
+1083.	quedan	79	quedar
+1084.	excepto	79	excepto
+1085.	brazo	79	brazo
+1086.	tome	79	tomar
+1087.	rojo	79	rojo
+1088.	conocido	79	conocido conocer
+1089.	universidad	79	universidad
+1090.	investigación	79	investigación
+1091.	batalla	79	batalla
+1092.	reglas	78	regla
+1093.	cargo	78	cargo cargar
+1094.	hogar	78	hogar
+1095.	ninguno	78	ninguno
+1096.	dieron	78	dar
+1097.	vuelva	78	volver
+1098.	sabías	78	saber
+1099.	respeto	78	respeto respetar
+1100.	estación	78	estación
+1101.	corte	78	corte cortar
+1102.	paciente	78	paciente
+1103.	encuentro	78	encuentro encontrar
+1104.	energía	78	energía
+1105.	dejado	78	dejado dejar
+1106.	baile	78	baile
+1107.	abuela	77	abuela
+1108.	caliente	77	caliente
+1109.	vieja	77	viejo
+1110.	viendo	77	ver
+1111.	veremos	77	ver
+1112.	rayos	77	rayo
+1113.	simple	77	simple
+1114.	bailar	77	bailar
+1115.	papa	77	papa
+1116.	triste	76	triste
+1117.	zona	76	zona
+1118.	serás	76	ser
+1119.	guardia	76	guardia
+1120.	canción	76	canción
+1121.	salud	76	salud
+1122.	escuchar	76	escuchar
+1123.	parar	76	parar
+1124.	estarás	76	estar
+1125.	cenar	76	cenar
+1126.	soldados	76	soldado
+1127.	caballo	76	caballo
+1128.	serán	75	ser
+1129.	estaremos	75	estar
+1130.	interesa	75	interesar
+1131.	volar	75	volar
+1132.	principio	75	principio
+1133.	nivel	75	nivel
+1134.	cálmate	75	calmar
+1135.	conocer	75	conocer
+1136.	finalmente	75	finalmente
+1137.	alegro	75	alegrar alegro
+1138.	debajo	75	debajo
+1139.	podrían	74	poder
+1140.	bosque	74	bosque
+1141.	bonita	74	bonito
+1142.	bolsa	74	bolsa
+1143.	pone	74	poner
+1144.	taxi	74	taxi
+1145.	ocupado	74	ocupado ocupar
+1146.	amable	74	amable
+1147.	acaso	74	acaso
+1148.	detente	74	detener
+1149.	imbécil	74	imbécil
+1150.	san	74	san San
+1151.	equivocado	74	equivocado
+1152.	viva	74	vivir
+1153.	puso	74	poner
+1154.	obra	74	obra obrar
+1155.	consejo	74	consejo
+1156.	público	73	público
+1157.	ayúdame	73	ayudar
+1158.	animales	73	animal
+1159.	azul	73	azul
+1160.	apuesto	73	apostar
+1161.	prisión	73	prisión
+1162.	mirar	73	mirar
+1163.	inteligente	73	inteligente
+1164.	metros	73	metro
+1165.	fantástico	73	fantástico
+1166.	próximo	73	próximo
+1167.	jugando	73	jugar
+1168.	ojo	73	ojo
+1169.	salga	72	salir
+1170.	vea	72	ver
+1171.	llaman	72	llamar
+1172.	entrada	72	entrada entrar
+1173.	duda	72	duda dudar
+1174.	cerveza	72	cerveza
+1175.	unidos	72	unido unir
+1176.	matado	72	matado matar
+1177.	princesa	72	princesa
+1178.	perdí	72	perder
+1179.	entender	72	entender
+1180.	santa	72	santo
+1181.	quedar	72	quedar
+1182.	miles	72	mil
+1183.	llamaré	72	llamar
+1184.	compañero	72	compañero
+1185.	pensado	71	pensar
+1186.	espalda	71	espalda
+1187.	dejé	71	dejar
+1188.	bomba	71	bomba
+1189.	cartas	71	carta
+1190.	apenas	71	apenas
+1191.	leer	71	leer
+1192.	hermanos	71	hermano
+1193.	darme	71	dar
+1194.	papi	71	papi
+1195.	mantener	71	mantener
+1196.	suyo	71	suyo
+1197.	rico	71	rico
+1198.	verla	71	ver
+1199.	lee	71	leer
+1200.	sigues	70	seguir
+1201.	toca	70	tocar
+1202.	olvídalo	70	olvidar
+1203.	acción	70	acción
+1204.	hayas	70	haber haya
+1205.	dioses	70	dios
+1206.	mando	70	mando mandar
+1207.	dejaré	70	dejar
+1208.	llegue	69	llegar
+1209.	formas	69	forma formar
+1210.	uh	69	uh
+1211.	cierra	69	cerrar
+1212.	damas	69	dama
+1213.	puente	69	puente
+1214.	memoria	69	memoria
+1215.	regresa	69	regresar
+1216.	muévanse	69	mover
+1217.	parecía	69	parecer
+1218.	vestido	69	vestido vestir
+1219.	llaves	69	llave
+1220.	tv	69	TV
+1221.	camión	69	camión
+1222.	acabar	69	acabar
+1223.	robot	69	robot
+1224.	llevó	69	llevar
+1225.	montón	69	montón
+1226.	estuviste	69	estar
+1227.	máquina	68	máquina
+1228.	puertas	68	puerta
+1229.	podamos	68	poder podar
+1230.	muere	68	morir
+1231.	trago	68	trago tragar
+1232.	mayoría	68	mayoría
+1233.	reina	68	reina reinar
+1234.	lleno	68	lleno llenar
+1235.	inglés	68	inglés
+1236.	don	68	don
+1237.	soldado	68	soldado soldar
+1238.	estrella	68	estrella estrellar
+1239.	escuche	68	escuchar
+1240.	valor	68	valor
+1241.	pido	68	pedir
+1242.	delante	68	delante
+1243.	código	68	código
+1244.	héroe	68	héroe
+1245.	fe	68	fe
+1246.	capaz	68	capaz
+1247.	verme	67	ver
+1248.	beber	67	beber
+1249.	velocidad	67	velocidad
+1250.	darte	67	dar
+1251.	llevas	67	llevar
+1252.	partido	67	partido partir
+1253.	estuviera	67	estar
+1254.	dia	67	día
+1255.	opinión	67	opinión
+1256.	irte	67	ir
+1257.	cocina	67	cocina cocinar
+1258.	abrir	67	abrir
+1259.	perros	67	perro
+1260.	tambien	67	también
+1261.	sepa	67	saber
+1262.	pareces	67	parecer
+1263.	escribir	67	escribir
+1264.	golpe	67	golpe
+1265.	tenia	67	tener
+1266.	alta	67	alta
+1267.	estados	66	estado estar
+1268.	tocar	66	tocar
+1269.	vuelvo	66	volver
+1270.	habían	66	haber
+1271.	ganas	66	gana ganar
+1272.	hacerte	66	hacer
+1273.	dejo	66	dejar
+1274.	volvió	66	volver
+1275.	ejemplo	66	ejemplo
+1276.	contar	66	contar
+1277.	tenían	66	tener
+1278.	propósito	65	propósito
+1279.	entiende	65	entender
+1280.	empieza	65	empezar
+1281.	anillo	65	anillo
+1282.	londres	65	Londres
+1283.	tendría	65	tener
+1284.	pedir	65	pedir
+1285.	estilo	65	estilo
+1286.	ayudarme	65	ayudar
+1287.	pista	65	pista
+1288.	cambiado	65	cambiar cambiado
+1289.	escapar	65	escapar
+1290.	eeuu	65	EEUU
+1291.	encontró	65	encontrar
+1292.	espíritu	65	espíritu
+1293.	viejos	65	viejo
+1294.	molesta	65	molestar
+1295.	nota	65	nota notar
+1296.	diferencia	65	diferencia
+1297.	tratar	65	tratar
+1298.	precio	65	precio
+1299.	caballero	64	caballero
+1300.	sirve	64	servir
+1301.	alegra	64	alegrar
+1302.	doble	64	doble
+1303.	agradable	64	agradable
+1304.	embargo	64	embargo
+1305.	tengan	64	tener
+1306.	tuvimos	64	tener
+1307.	sube	64	subir
+1308.	estén	64	estar
+1309.	mami	64	mami
+1310.	emergencia	64	emergencia
+1311.	cuello	64	cuello
+1312.	boda	64	boda
+1313.	aprender	64	aprender
+1314.	té	64	té
+1315.	informe	64	informe informar
+1316.	blanca	64	blanco Blanca
+1317.	experiencia	64	experiencia
+1318.	debía	64	deber
+1319.	podido	64	poder
+1320.	mentira	63	mentira
+1321.	director	63	director
+1322.	mata	63	matar
+1323.	exacto	63	exacto
+1324.	déjalo	63	dejar
+1325.	defensa	63	defensa
+1326.	tuviste	63	tener
+1327.	confiar	63	confiar
+1328.	color	63	color
+1329.	hacerle	63	hacer
+1330.	aquel	63	aquel
+1331.	conocí	63	conocer
+1332.	probar	63	probar
+1333.	príncipe	63	príncipe
+1334.	irá	63	ir
+1335.	despacio	63	despacio
+1336.	tiro	63	tiro tirar
+1337.	vacaciones	63	vacación
+1338.	perdió	63	perder
+1339.	fondo	63	fondo
+1340.	verde	62	verde
+1341.	parecen	62	parecer
+1342.	mama	62	mama
+1343.	bienvenida	62	bienvenida
+1344.	opción	62	opción
+1345.	operación	62	operación
+1346.	hablado	62	hablar
+1347.	traer	62	traer
+1348.	principal	62	principal
+1349.	demonio	62	demonio
+1350.	zapatos	62	zapato
+1351.	leo	62	leer
+1352.	respecto	62	respecto
+1353.	nuevos	62	nuevo
+1354.	especie	62	especie
+1355.	pidió	62	pedir
+1356.	éxito	62	éxito
+1357.	cabrón	61	cabrón
+1358.	mírame	61	mirar
+1359.	piernas	61	pierna
+1360.	unidad	61	unidad
+1361.	hielo	61	hielo
+1362.	llegamos	61	llegar
+1363.	déjeme	61	dejar
+1364.	debí	61	deber
+1365.	vendrá	61	venir
+1366.	matrimonio	61	matrimonio
+1367.	habías	61	haber
+1368.	podrá	61	poder
+1369.	piel	61	piel
+1370.	preocupa	60	preocupar
+1371.	quedarme	60	quedar
+1372.	mio	60	mío mio
+1373.	tuviera	60	tener
+1374.	tiempos	60	tiempo
+1375.	quienes	60	quien
+1376.	oiga	60	oír
+1377.	últimos	60	último
+1378.	oigan	60	oír
+1379.	fuimos	60	ir ser
+1380.	arte	60	arte
+1381.	necesitaba	60	necesitar
+1382.	quiénes	60	quién
+1383.	común	60	común
+1384.	intentando	59	intentar
+1385.	llevaré	59	llevar
+1386.	levántate	59	levantar
+1387.	correr	59	correr
+1388.	brillante	59	brillante
+1389.	calor	59	calor
+1390.	planes	59	plan
+1391.	dra	59	doctora
+1392.	visita	59	visita
+1393.	presión	59	presión
+1394.	pared	59	pared
+1395.	esperanza	59	esperanza
+1396.	completo	59	completo completar
+1397.	subir	59	subir
+1398.	cansado	59	cansar cansado
+1399.	llame	59	llamar
+1400.	recordar	59	recordar
+1401.	trampa	59	trampa
+1402.	monstruo	59	monstruo
+1403.	bajar	59	bajar
+1404.	pierna	59	pierna
+1405.	señores	59	señor
+1406.	tomó	59	tomar
+1407.	pasará	58	pasar
+1408.	mataste	58	matar
+1409.	grandioso	58	grandioso
+1410.	socio	58	socio
+1411.	herido	58	herir herido
+1412.	cayó	58	caer
+1413.	fuerzas	58	fuerza forzar
+1414.	cine	58	cine
+1415.	escena	58	escena
+1416.	tía	58	tía
+1417.	dando	58	dar
+1418.	puntos	58	punto
+1419.	teníamos	58	tener
+1420.	dejaste	58	dejar
+1421.	muévete	58	mover
+1422.	larga	58	largo largar
+1423.	solía	58	soler
+1424.	tema	58	tema temer
+1425.	preparado	58	preparado preparar
+1426.	depende	58	depender
+1427.	policías	58	policía
+1428.	solos	58	solo
+1429.	matarme	58	matar
+1430.	pon	57	poner
+1431.	hubiese	57	haber
+1432.	bebe	57	beber
+1433.	tanta	57	tanto
+1434.	oeste	57	oeste
+1435.	parís	57	París
+1436.	viento	57	viento
+1437.	jóvenes	57	joven
+1438.	hacerme	57	hacer
+1439.	asiento	57	asiento
+1440.	estupendo	57	estupendo
+1441.	caminar	57	caminar
+1442.	juicio	57	juicio
+1443.	creerlo	57	creer
+1444.	carga	57	carga cargar
+1445.	tranquila	57	tranquilo
+1446.	banda	57	banda
+1447.	estarán	56	estar
+1448.	animal	56	animal
+1449.	escuchen	56	escuchar
+1450.	encontraron	56	encontrar
+1451.	dejas	56	dejar
+1452.	tarjeta	56	tarjeta
+1453.	ibas	56	ir
+1454.	podrás	56	poder
+1455.	nueve	56	nueve
+1456.	seguramente	56	seguramente
+1457.	volverá	56	volver
+1458.	majestad	56	majestad
+1459.	llena	56	lleno llenar
+1460.	caer	56	caer
+1461.	aeropuerto	56	aeropuerto
+1462.	vayamos	56	ir
+1463.	acabado	56	acabar
+1464.	sigo	56	seguir
+1465.	enorme	56	enorme
+1466.	área	56	área
+1467.	muevas	56	mover
+1468.	haberlo	55	haber
+1469.	dejen	55	dejar
+1470.	ridículo	55	ridículo
+1471.	reloj	55	reloj
+1472.	hagamos	55	hacer
+1473.	flores	55	flor
+1474.	mapa	55	mapa
+1475.	culpable	55	culpable
+1476.	cuentas	55	cuenta contar
+1477.	pareja	55	pareja
+1478.	tomando	55	tomar
+1479.	laboratorio	55	laboratorio
+1480.	beso	55	beso besar
+1481.	empezó	55	empezar
+1482.	pedí	55	pedir
+1483.	nariz	55	nariz
+1484.	cuestión	55	cuestión
+1485.	terminó	55	terminar
+1486.	vengo	55	venir
+1487.	perdona	55	perdonar
+1488.	acuerdas	55	acordar
+1489.	verano	55	verano
+1490.	prefiero	55	preferir
+1491.	peso	55	peso pesar
+1492.	oscuridad	55	oscuridad
+1493.	diferentes	55	diferente
+1494.	cliente	55	cliente
+1495.	cuántas	55	cuántos
+1496.	televisión	55	televisión
+1497.	suya	55	suyo
+1498.	prensa	55	prensa
+1499.	vistazo	54	vistazo
+1500.	inmediatamente	54	inmediatamente
+1501.	solamente	54	solamente
+1502.	gordo	54	gordo
+1503.	quedarse	54	quedar
+1504.	posibilidad	54	posibilidad
+1505.	medicina	54	medicina
+1506.	malditos	54	maldito
+1507.	pantalones	54	pantalón
+1508.	mataron	54	matar
+1509.	ayude	54	ayudar
+1510.	podremos	54	poder
+1511.	locos	54	loco
+1512.	nombres	54	nombre
+1513.	parecer	54	parecer
+1514.	américa	54	América
+1515.	definitivamente	54	definitivamente
+1516.	cinta	54	cinta
+1517.	desea	53	desear
+1518.	brazos	53	brazo
+1519.	asuntos	53	asunto
+1520.	riesgo	53	riesgo
+1521.	escuché	53	escuchar
+1522.	lugares	53	lugar
+1523.	cuento	53	cuento contar
+1524.	noticia	53	noticia
+1525.	dígame	53	decir
+1526.	decirlo	53	decir
+1527.	tonterías	53	tontería
+1528.	sentimientos	53	sentimiento
+1529.	objetivo	53	objetivo
+1530.	pasada	53	pasada pasado pasar
+1531.	arreglar	53	arreglar
+1532.	casado	53	casado casar
+1533.	bote	53	bote botar
+1534.	roja	53	rojo
+1535.	leyes	53	ley
+1536.	millón	53	millón
+1537.	árbol	53	árbol
+1538.	hable	53	hablar
+1539.	proyecto	52	proyecto
+1540.	nervioso	52	nervioso
+1541.	lana	52	lana
+1542.	salido	52	salir
+1543.	pedazo	52	pedazo
+1544.	malas	52	malo mala
+1545.	joder	52	joder
+1546.	humana	52	humano
+1547.	absolutamente	52	absolutamente
+1548.	evitar	52	evitar
+1549.	corriendo	52	correr
+1550.	bala	52	bala
+1551.	vosotros	52	vosotros
+1552.	despues	52	después
+1553.	debido	52	debido deber
+1554.	confianza	52	confianza
+1555.	especialmente	52	especialmente
+1556.	intenta	52	intentar
+1557.	pequeños	52	pequeño
+1558.	paga	52	paga pagar
+1559.	ganado	52	ganado ganar
+1560.	ama	52	ama amar
+1561.	limpio	52	limpio limpiar
+1562.	comenzar	52	comenzar
+1563.	ángeles	51	ángel
+1564.	robots	51	robot
+1565.	lleve	51	llevar
+1566.	ruido	51	ruido
+1567.	preocupe	51	preocupar
+1568.	belleza	51	belleza
+1569.	salgan	51	salir
+1570.	come	51	comer
+1571.	verá	51	ver
+1572.	deberían	51	deber
+1573.	líder	51	líder
+1574.	preguntar	51	preguntar
+1575.	inocente	51	inocente
+1576.	lástima	51	lástima
+1577.	red	51	red
+1578.	enfermedad	51	enfermedad
+1579.	desgraciado	51	desgraciado desgraciar
+1580.	harán	51	hacer
+1581.	dientes	51	diente
+1582.	maté	51	matar
+1583.	central	51	central
+1584.	ponte	51	poner
+1585.	felices	51	feliz
+1586.	supe	51	saber
+1587.	haberte	51	haber
+1588.	marcha	50	marcha marchar
+1589.	poderes	50	poder
+1590.	hubieras	50	haber
+1591.	justicia	50	justicia
+1592.	bella	50	bello
+1593.	dé	50	dar
+1594.	proteger	50	proteger
+1595.	cabello	50	cabello
+1596.	pedido	50	pedir pedido
+1597.	oscuro	50	oscuro
+1598.	embarazada	50	embarazado embarazar
+1599.	costa	50	costa
+1600.	dama	50	dama
+1601.	alguno	50	alguno
+1602.	orgulloso	50	orgulloso
+1603.	vos	50	vos
+1604.	tomado	50	tomar
+1605.	digamos	50	decir
+1606.	debió	50	deber
+1607.	gana	50	gana ganar
+1608.	cura	50	cura curar
+1609.	lengua	50	lengua
+1610.	araña	50	araña arañar
+1611.	podré	50	poder
+1612.	voluntad	50	voluntad
+1613.	total	50	total
+1614.	dedo	49	dedo
+1615.	pago	49	pago pagar
+1616.	agradezco	49	agradecer
+1617.	partir	49	partir
+1618.	lucha	49	lucha luchar
+1619.	leche	49	leche
+1620.	diste	49	dar
+1621.	copa	49	copa
+1622.	quedarte	49	quedar
+1623.	seguros	49	seguro
+1624.	destruir	49	destruir
+1625.	bienvenidos	49	bienvenido
+1626.	llevan	49	llevar
+1627.	ponga	49	poner
+1628.	lados	49	lado
+1629.	acceso	49	acceso
+1630.	intentar	49	intentar
+1631.	trajo	49	traer
+1632.	desastre	49	desastre
+1633.	deber	49	deber
+1634.	herida	49	herida herido herir
+1635.	débil	49	débil
+1636.	naturaleza	49	naturaleza
+1637.	luchar	49	luchar
+1638.	extraña	49	extraño extrañar
+1639.	encontraste	49	encontrar
+1640.	vieron	49	ver
+1641.	llámame	49	llamar
+1642.	imagen	49	imagen
+1643.	pan	49	pan
+1644.	refieres	49	referir
+1645.	clientes	49	cliente
+1646.	varios	49	varios
+1647.	show	49	show
+1648.	auxilio	49	auxilio
+1649.	oyes	49	oír
+1650.	siguen	49	seguir
+1651.	sentado	49	sentar sentado
+1652.	saliendo	49	salir
+1653.	responsable	49	responsable
+1654.	olvidado	49	olvidado olvidar
+1655.	quedó	48	quedar
+1656.	permite	48	permitir
+1657.	aquella	48	aquella
+1658.	puse	48	poner
+1659.	sonido	48	sonido
+1660.	quiso	48	querer
+1661.	escrito	48	escribir
+1662.	carro	48	carro
+1663.	preciosa	48	precioso
+1664.	muestra	48	muestra mostrar
+1665.	bastardo	48	bastardo
+1666.	restaurante	48	restaurante
+1667.	huevos	48	huevo
+1668.	fantasma	48	fantasma
+1669.	mismos	48	mismo
+1670.	profesional	48	profesional
+1671.	amas	48	ama amar
+1672.	entero	48	entero
+1673.	películas	48	película
+1674.	cerrado	48	cerrado cerrar
+1675.	dedos	48	dedo
+1676.	sigan	48	seguir
+1677.	dueño	48	dueño
+1678.	cuchillo	48	cuchillo
+1679.	turno	48	turno
+1680.	tormenta	48	tormenta
+1681.	caray	48	caray
+1682.	abierto	48	abierto abrir
+1683.	quede	48	quedar
+1684.	verdadera	48	verdadero
+1685.	mato	48	matar
+1686.	doc	48	doctor
+1687.	playa	48	playa
+1688.	km	48	km
+1689.	victoria	47	victoria
+1690.	primo	47	primo
+1691.	oíste	47	oír
+1692.	lisa	47	liso Lisa
+1693.	interior	47	interior
+1694.	hechos	47	hecho hacer
+1695.	piedra	47	piedra
+1696.	jodido	47	jodido joder
+1697.	militar	47	militar
+1698.	computadora	47	computadora
+1699.	encantaría	47	encantar
+1700.	siga	47	seguir
+1701.	silla	47	silla
+1702.	movimiento	47	movimiento
+1703.	momentos	47	momento
+1704.	familiar	47	familiar
+1705.	apartamento	47	apartamento
+1706.	disparar	47	disparar
+1707.	tesoro	47	tesoro
+1708.	perfecta	47	perfecto
+1709.	refiero	47	referir
+1710.	motivo	47	motivo
+1711.	dará	47	dar
+1712.	nuevas	47	nuevo
+1713.	mr	47	mister
+1714.	querer	47	querer
+1715.	matarlo	47	matar
+1716.	valiente	47	valiente
+1717.	víctima	47	víctima
+1718.	tendrán	47	tener
+1719.	estúpida	47	estúpido
+1720.	envió	47	enviar
+1721.	encantado	47	encantado encantar
+1722.	diario	47	diario
+1723.	abran	47	abrir
+1724.	sentí	46	sentir
+1725.	autobús	46	autobús
+1726.	traído	46	traer
+1727.	casas	46	casa casar
+1728.	apúrate	46	apurar
+1729.	encuentras	46	encontrar
+1730.	descanso	46	descanso descansar
+1731.	sheriff	46	sheriff
+1732.	mueve	46	mover
+1733.	inglaterra	46	Inglaterra
+1734.	quieto	46	quieto
+1735.	matarte	46	matar
+1736.	calles	46	calle callar
+1737.	tamaño	46	tamaño
+1738.	colegio	46	colegio
+1739.	usando	46	usar
+1740.	cabo	46	cabo
+1741.	video	46	video
+1742.	toques	46	toque tocar
+1743.	pelota	46	pelota
+1744.	yendo	46	ir
+1745.	directo	46	directo
+1746.	termine	46	terminar
+1747.	vivos	46	vivo
+1748.	sombrero	46	sombrero
+1749.	tomé	46	tomar
+1750.	estudio	46	estudio estudiar
+1751.	grave	46	grave
+1752.	protección	46	protección
+1753.	secretos	46	secreto
+1754.	perdiendo	46	perder
+1755.	pecho	45	pecho
+1756.	sepas	45	saber
+1757.	enferma	45	enfermo
+1758.	cuesta	45	cuesta costar
+1759.	negros	45	negro
+1760.	estrellas	45	estrella estrellar
+1761.	lago	45	lago
+1762.	clases	45	clase
+1763.	obviamente	45	obviamente
+1764.	inmediato	45	inmediato
+1765.	modos	45	modo
+1766.	irás	45	ir
+1767.	robo	45	robo robar
+1768.	mataré	45	matar
+1769.	seria	45	ser
+1770.	apoyo	45	apoyo apoyar
+1771.	cerrar	45	cerrar
+1772.	imagino	45	imaginar
+1773.	amenaza	45	amenaza amenazar
+1774.	toque	45	toque tocar
+1775.	saca	45	sacar
+1776.	viernes	45	viernes
+1777.	hayan	45	haber
+1778.	roto	45	roto romper
+1779.	piloto	45	piloto
+1780.	marca	45	marca marcar
+1781.	combate	45	combate combatir
+1782.	hablé	45	hablar
+1783.	manejar	44	manejar
+1784.	sección	44	sección
+1785.	profundo	44	profundo
+1786.	tantos	44	tanto
+1787.	conocía	44	conocer
+1788.	serie	44	serie
+1789.	contrato	44	contrato contratar
+1790.	americano	44	americano
+1791.	paseo	44	paseo pasear
+1792.	aviones	44	avión
+1793.	balas	44	bala
+1794.	repente	44	repente
+1795.	cambia	44	cambiar
+1796.	tropas	44	tropa
+1797.	llevará	44	llevar
+1798.	uso	44	uso usar
+1799.	pudiste	44	poder
+1800.	detener	44	detener
+1801.	sabia	44	sabio
+1802.	llegué	44	llegar
+1803.	negra	44	negro
+1804.	decidido	44	decidido decidir
+1805.	comienza	44	comenzar
+1806.	distancia	44	distancia
+1807.	éramos	44	ser
+1808.	murieron	44	morir
+1809.	averiguar	44	averiguar
+1810.	actuar	44	actuar
+1811.	quedo	44	quedar
+1812.	pulso	44	pulso pulsar
+1813.	aguanta	44	aguantar
+1814.	oficiales	44	oficial
+1815.	llamaba	44	llamar
+1816.	enemigos	44	enemigo
+1817.	saldrá	43	salir
+1818.	preocupado	43	preocupado preocupar
+1819.	elección	43	elección
+1820.	sobrevivir	43	sobrevivir
+1821.	bordo	43	bordo
+1822.	sujeto	43	sujeto
+1823.	pacientes	43	paciente
+1824.	disculpen	43	disculpar
+1825.	época	43	época
+1826.	entró	43	entrar
+1827.	pesar	43	pesar
+1828.	habló	43	hablar
+1829.	vender	43	vender
+1830.	piensan	43	pensar
+1831.	ex	43	ex
+1832.	gratis	43	gratis
+1833.	desapareció	43	desaparecer
+1834.	empleo	43	empleo emplear
+1835.	llamé	43	llamar
+1836.	conocen	43	conocer
+1837.	cerdo	43	cerdo
+1838.	puedan	43	poder
+1839.	comprendo	43	comprender
+1840.	tomo	43	tomar
+1841.	termina	43	terminar
+1842.	aléjate	43	alejar
+1843.	busco	43	buscar
+1844.	contento	43	contento
+1845.	date	43	dar
+1846.	tumba	43	tumba tumbar
+1847.	huellas	43	huella
+1848.	cuerpos	43	cuerpo
+1849.	absoluto	43	absoluto
+1850.	pide	43	pedir
+1851.	dura	43	duro durar
+1852.	descansar	43	descansar
+1853.	respuestas	43	respuesta
+1854.	propiedad	43	propiedad
+1855.	llamando	43	llamar
+1856.	dormido	43	dormir
+1857.	castillo	42	castillo
+1858.	china	42	chino China
+1859.	datos	42	dato
+1860.	torre	42	torre
+1861.	robar	42	robar
+1862.	americanos	42	americano
+1863.	malos	42	malo
+1864.	botella	42	botella
+1865.	aquellos	42	aquellos
+1866.	últimamente	42	últimamente
+1867.	testigo	42	testigo
+1868.	presento	42	presentar
+1869.	periódico	42	periódico
+1870.	juez	42	juez
+1871.	historias	42	historia
+1872.	gustaba	42	gustar
+1873.	créeme	42	creer
+1874.	necesitar	42	necesitar
+1875.	esquina	42	esquina
+1876.	millas	42	milla
+1877.	llamadas	42	llamada llamar
+1878.	fuente	42	fuente
+1879.	conocemos	42	conocer
+1880.	techo	42	techo techar
+1881.	genio	42	genio
+1882.	alerta	42	alerta
+1883.	ideas	42	idea
+1884.	tomas	42	toma tomar
+1885.	olvidar	42	olvidar
+1886.	menor	42	menor
+1887.	droga	42	droga
+1888.	explicar	42	explicar
+1889.	abierta	42	abierto abrir
+1890.	privado	42	privado privar
+1891.	miembros	42	miembro
+1892.	nacional	42	nacional
+1893.	gustó	42	gustar
+1894.	discutir	42	discutir
+1895.	evidencia	42	evidencia
+1896.	detalles	42	detalle
+1897.	tardes	41	tarde tardar
+1898.	tomaré	41	tomar
+1899.	presente	41	presente presentar
+1900.	criminal	41	criminal
+1901.	premio	41	premio
+1902.	vuelvas	41	volver
+1903.	siéntese	41	sentar
+1904.	viniste	41	venir
+1905.	recibir	41	recibir
+1906.	mires	41	mirar
+1907.	teniendo	41	tener
+1908.	huele	41	oler
+1909.	hables	41	hablar
+1910.	guardias	41	guardia
+1911.	enamorado	41	enamorado enamorar
+1912.	cuidar	41	cuidar
+1913.	pocos	41	poco
+1914.	perdone	41	perdonar
+1915.	natural	41	natural
+1916.	caballos	41	caballo
+1917.	escucho	41	escuchar
+1918.	enfermera	41	enfermera
+1919.	ángel	41	ángel
+1920.	sospechoso	41	sospechoso
+1921.	local	41	local
+1922.	mentiras	41	mentira
+1923.	camisa	41	camisa
+1924.	confía	41	confiar
+1925.	aceptar	41	aceptar
+1926.	venganza	41	venganza
+1927.	perdimos	41	perder
+1928.	cuantos	41	cuanto
+1929.	parque	41	parque
+1930.	juegos	41	juego
+1931.	vives	41	vivir
+1932.	varias	41	varios
+1933.	harías	41	hacer
+1934.	menudo	41	menudo
+1935.	déjenme	41	dejar
+1936.	barrio	41	barrio
+1937.	virus	41	virus
+1938.	talento	41	talento
+1939.	ministro	41	ministro
+1940.	hiciera	41	hacer
+1941.	robó	40	robar
+1942.	conocerte	40	conocer
+1943.	viviendo	40	vivir
+1944.	responsabilidad	40	responsabilidad
+1945.	respira	40	respirar
+1946.	números	40	número
+1947.	pertenece	40	pertenecer
+1948.	desayuno	40	desayuno desayunar
+1949.	campeón	40	campeón
+1950.	controlar	40	controlar
+1951.	maría	40	María maría
+1952.	nieve	40	nieve
+1953.	méxico	40	México
+1954.	dias	40	día
+1955.	vergüenza	40	vergüenza
+1956.	doctora	40	doctora
+1957.	blancos	40	blanco
+1958.	fumar	40	fumar
+1959.	llevamos	40	llevar
+1960.	Europa	40	Europa
+1961.	dudo	40	dudar
+1962.	pastel	40	pastel
+1963.	quedas	40	quedar
+1964.	cae	40	caer
+1965.	vimos	40	ver
+1966.	recibido	40	recibir
+1967.	andando	40	andar
+1968.	agentes	40	agente
+1969.	fueras	40	ser ir
+1970.	asustado	40	asustado asustar
+1971.	perdóname	40	perdonar
+1972.	reino	40	reino reinar
+1973.	clave	40	clave
+1974.	papeles	40	papel
+1975.	matando	40	matar
+1976.	efecto	40	efecto
+1977.	plata	40	plata
+1978.	olvidé	40	olvidar
+1979.	iban	40	ir
+1980.	universo	40	universo
+1981.	política	40	política
+1982.	almuerzo	40	almuerzo almorzar
+1983.	magia	40	magia
+1984.	lluvia	40	lluvia
+1985.	humor	40	humor
+1986.	autos	40	auto
+1987.	veía	40	ver
+1988.	tantas	40	tanto
+1989.	respirar	40	respirar
+1990.	cantar	40	cantar
+1991.	trabajas	40	trabajar
+1992.	disparo	40	disparo
+1993.	conversación	40	conversación
+1994.	olor	40	olor
+1995.	asesinos	40	asesino
+1996.	muchacha	39	muchacha
+1997.	modelo	39	modelo
+1998.	curso	39	curso
+1999.	canal	39	canal
+2000.	rock	39	rock
+2001.	llorar	39	llorar
+2002.	borracho	39	borracho
+2003.	regresen	39	regresar
+2004.	váyanse	39	ir
+2005.	sentía	39	sentir
+2006.	resultado	39	resultado resultar
+2007.	parado	39	parado parar
+2008.	olvides	39	olvidar
+2009.	mirada	39	mirada mirar
+2010.	inútil	39	inútil
+2011.	acabas	39	acabar
+2012.	ciencia	39	ciencia
+2013.	perdiste	39	perder
+2014.	sociedad	39	sociedad
+2015.	regrese	39	regresar
+2016.	camioneta	39	camioneta
+2017.	coño	39	coño
+2018.	revista	39	revista
+2019.	pareció	39	parecer
+2020.	montaña	39	montaña
+2021.	maravillosa	39	maravilloso
+2022.	dejarlo	39	dejar
+2023.	máximo	39	máximo
+2024.	echar	39	echar
+2025.	corriente	39	corriente
+2026.	escuchando	39	escuchar
+2027.	disculpas	39	disculpa disculpar
+2028.	cadáver	39	cadáver
+2029.	seguimos	39	seguir
+2030.	ron	39	ron Ron
+2031.	espectáculo	39	espectáculo
+2032.	mundial	38	mundial
+2033.	francia	38	Francia
+2034.	decirles	38	decir
+2035.	aspecto	38	aspecto
+2036.	presencia	38	presencia
+2037.	famoso	38	famoso
+2038.	corto	38	corto cortar
+2039.	relájate	38	relajar
+2040.	poderoso	38	poderoso
+2041.	recuerdos	38	recuerdo
+2042.	llego	38	llegar
+2043.	carretera	38	carretera
+2044.	pasé	38	pasar
+2045.	oigo	38	oír
+2046.	esperamos	38	esperar
+2047.	escuchado	38	escuchar
+2048.	cable	38	cable
+2049.	rosa	38	rosa
+2050.	bola	38	bola
+2051.	oferta	38	oferta
+2052.	intentarlo	38	intentar
+2053.	habido	38	haber
+2054.	continuar	38	continuar
+2055.	ladrón	38	ladrón
+2056.	humanidad	38	humanidad
+2057.	estómago	38	estómago
+2058.	entera	38	entero
+2059.	contó	38	contar
+2060.	poniendo	38	poner
+2061.	mercado	38	mercado
+2062.	granja	38	granja
+2063.	idiotas	38	idiota
+2064.	hablemos	38	hablar
+2065.	estudiante	38	estudiante
+2066.	siglo	38	siglo
+2067.	relaciones	38	relación
+2068.	hablan	38	hablar
+2069.	nosotras	38	nosotras
+2070.	miembro	38	miembro
+2071.	fortuna	38	fortuna
+2072.	libres	38	libre
+2073.	acciones	38	acción
+2074.	esperas	38	espera esperar
+2075.	suficientemente	38	suficientemente
+2076.	llevaron	38	llevar
+2077.	ocurrido	38	ocurrir
+2078.	andar	37	andar
+2079.	perfectamente	37	perfectamente
+2080.	pasan	37	pasar
+2081.	jardín	37	jardín
+2082.	cola	37	cola colar
+2083.	resultados	37	resultado
+2084.	francés	37	francés
+2085.	troya	37	Troya
+2086.	tercera	37	tercero
+2087.	entrenamiento	37	entrenamiento
+2088.	azúcar	37	azúcar
+2089.	metido	37	meter
+2090.	ayudarlo	37	ayudar
+2091.	diles	37	decir
+2092.	coger	37	coger
+2093.	lunes	37	lunes
+2094.	ey	37	ey
+2095.	intención	37	intención
+2096.	volviendo	37	volver
+2097.	efectivo	37	efectivo
+2098.	salgamos	37	salir
+2099.	preguntaba	37	preguntar
+2100.	olvida	37	olvidar
+2101.	helicóptero	37	helicóptero
+2102.	fuertes	37	fuerte
+2103.	encantador	37	encantador
+2104.	original	37	original
+2105.	cadena	37	cadena
+2106.	tarea	37	tarea
+2107.	dispara	37	disparar
+2108.	corta	37	corto cortar
+2109.	compañeros	37	compañero
+2110.	cirugía	37	cirugía
+2111.	quítate	37	quitar
+2112.	querían	37	querer
+2113.	precioso	37	precioso
+2114.	lord	37	lord
+2115.	comenzó	37	comenzar
+2116.	truco	37	truco
+2117.	inspector	37	inspector
+2118.	enojado	37	enojado enojar
+2119.	felicidades	37	felicidad
+2120.	desaparecido	37	desaparecido desaparecer
+2121.	acto	37	acto
+2122.	pollo	37	pollo
+2123.	chocolate	37	chocolate
+2124.	adonde	37	adonde
+2125.	resulta	37	resultar
+2126.	merece	37	merecer
+2127.	gas	37	gas
+2128.	examen	36	examen
+2129.	vean	36	ver
+2130.	tonta	36	tonto
+2131.	importantes	36	importante
+2132.	apuesta	36	apuesta apostar
+2133.	directamente	36	directamente
+2134.	recuperar	36	recuperar
+2135.	pongo	36	poner
+2136.	llegaron	36	llegar
+2137.	cobarde	36	cobarde
+2138.	cantidad	36	cantidad
+2139.	sucio	36	sucio
+2140.	habia	36	haber
+2141.	emperador	36	emperador
+2142.	mono	36	mono
+2143.	encontraremos	36	encontrar
+2144.	disparen	36	disparar
+2145.	gloria	36	gloria
+2146.	contrario	36	contrario
+2147.	socorro	36	socorro socorrer
+2148.	sir	36	sir
+2149.	escaleras	36	escalera
+2150.	pasos	36	paso
+2151.	nuevamente	36	nuevamente
+2152.	derechos	36	derecho
+2153.	obtener	36	obtener
+2154.	guste	36	gustar
+2155.	búsqueda	36	búsqueda
+2156.	helado	36	helado helar
+2157.	fútbol	36	fútbol
+2158.	sexual	36	sexual
+2159.	polvo	36	polvo
+2160.	aseguro	36	asegurar
+2161.	rostro	36	rostro
+2162.	robado	36	robar robado
+2163.	policia	36	policía
+2164.	empresa	36	empresa
+2165.	escuchas	36	escuchar
+2166.	pones	36	poner
+2167.	lárgate	36	largar
+2168.	interés	36	interés
+2169.	discúlpeme	36	disculpar
+2170.	dejaron	36	dejar
+2171.	tengamos	36	tener
+2172.	firma	36	firma firmar
+2173.	llevaba	36	llevar
+2174.	llegas	36	llegar
+2175.	cristo	36	Cristo
+2176.	tercer	36	tercero
+2177.	senador	36	senador
+2178.	continúa	36	continuar
+2179.	gracia	36	gracia
+2180.	cien	36	cien
+2181.	des	35	dar
+2182.	tratado	35	tratado tratar
+2183.	razones	35	razón
+2184.	caminando	35	caminar
+2185.	urgencias	35	urgencia
+2186.	u	35	o
+2187.	esperan	35	esperar
+2188.	muñeca	35	muñeca
+2189.	firme	35	firme firmar
+2190.	duerme	35	dormir
+2191.	ambulancia	35	ambulancia
+2192.	limpia	35	limpio limpiar
+2193.	habéis	35	haber
+2194.	flota	35	flota flotar
+2195.	leyenda	35	leyenda
+2196.	encuentre	35	encontrar
+2197.	fué	35	ir ser
+2198.	romper	35	romper
+2199.	muriendo	35	morir
+2200.	encontrarlo	35	encontrar
+2201.	rescate	35	rescate rescatar
+2202.	quedado	35	quedar
+2203.	enfrente	35	enfrente
+2204.	comienzo	35	comienzo comenzar
+2205.	árboles	35	árbol
+2206.	queso	35	queso
+2207.	favorito	35	favorito
+2208.	haberme	35	haber
+2209.	frontera	35	frontera
+2210.	creemos	35	creer
+2211.	colega	35	colega
+2212.	jueves	35	jueves
+2213.	alemanes	35	alemán
+2214.	sábado	35	sábado
+2215.	limpiar	35	limpiar
+2216.	puto	35	puto
+2217.	poquito	35	poco
+2218.	cientos	35	ciento
+2219.	muero	35	morir
+2220.	irak	35	Irak
+2221.	inteligencia	35	inteligencia
+2222.	funcionar	35	funcionar
+2223.	felicitaciones	35	felicitación
+2224.	escapó	35	escapar
+2225.	criatura	35	criatura
+2226.	milagro	35	milagro
+2227.	deprisa	35	deprisa
+2228.	especiales	35	especial
+2229.	campamento	34	campamento
+2230.	responde	34	responder
+2231.	escuchaste	34	escuchar
+2232.	debiste	34	deber
+2233.	adios	34	adiós
+2234.	viven	34	vivir
+2235.	recoger	34	recoger
+2236.	preguntarte	34	preguntar
+2237.	compras	34	compra comprar
+2238.	cansada	34	cansado cansar
+2239.	elegir	34	elegir
+2240.	cáncer	34	cáncer
+2241.	servir	34	servir
+2242.	pata	34	pata
+2243.	huir	34	huir
+2244.	útil	34	útil
+2245.	grados	34	grado
+2246.	atacar	34	atacar
+2247.	recién	34	recién
+2248.	querría	34	querer
+2249.	guapo	34	guapo
+2250.	alcance	34	alcance alcanzar
+2251.	dejame	34	dejar
+2252.	quedamos	34	quedar
+2253.	llegará	34	llegar
+2254.	seremos	34	ser
+2255.	desierto	34	desierto
+2256.	licencia	34	licencia
+2257.	trató	34	tratar
+2258.	proceso	34	proceso procesar
+2259.	llevado	34	llevar
+2260.	durmiendo	34	dormir
+2261.	tensión	34	tensión
+2262.	martes	34	martes
+2263.	kilómetros	34	kilómetro
+2264.	cartera	34	cartera
+2265.	tráfico	34	tráfico
+2266.	guarda	34	guardar
+2267.	impresionante	34	impresionante
+2268.	víctimas	34	víctima
+2269.	ricos	34	rico
+2270.	primeros	34	primero
+2271.	dejamos	34	dejar
+2272.	tomen	34	tomar
+2273.	iguales	34	igual
+2274.	domingo	34	domingo
+2275.	crear	34	crear
+2276.	quedará	34	quedar
+2277.	pérdida	34	pérdida
+2278.	extra	33	extra
+2279.	fuese	33	ser ir
+2280.	confío	33	confiar
+2281.	sabido	33	saber
+2282.	análisis	33	análisis
+2283.	llegaste	33	llegar
+2284.	fría	33	frío freír
+2285.	violencia	33	violencia
+2286.	mate	33	matar mate
+2287.	lobo	33	lobo
+2288.	discurso	33	discurso
+2289.	actor	33	actor
+2290.	orgullo	33	orgullo
+2291.	odia	33	odiar
+2292.	libras	33	libra librar
+2293.	alli	33	allí
+2294.	agencia	33	agencia
+2295.	vuelvan	33	volver
+2296.	necesidad	33	necesidad
+2297.	naves	33	nave
+2298.	descubrir	33	descubrir
+2299.	tira	33	tira tirar
+2300.	resolver	33	resolver
+2301.	pondré	33	poner
+2302.	volando	33	volar
+2303.	pensamos	33	pensar
+2304.	míos	33	mío
+2305.	errores	33	error
+2306.	celular	33	celular
+2307.	cuantas	33	cuanto
+2308.	verlos	33	ver
+2309.	ayudarle	33	ayudar
+2310.	meter	33	meter
+2311.	hablaré	33	hablar
+2312.	ésto	33	esto
+2313.	buscas	33	buscar
+2314.	equivocada	33	equivocado equivocar
+2315.	dejan	33	dejar
+2316.	vacío	33	vacío
+2317.	trabajaba	33	trabajar
+2318.	salón	33	salón
+2319.	motor	33	motor
+2320.	conducir	33	conducir
+2321.	compré	33	comprar
+2322.	quizas	33	quizás
+2323.	den	33	dar
+2324.	cerrada	33	cerrado cerrar
+2325.	cortar	33	cortar
+2326.	crea	33	crear
+2327.	sera	33	ser
+2328.	mueva	33	mover
+2329.	hazme	33	hacer
+2330.	bravo	33	bravo
+2331.	pregunté	33	preguntar
+2332.	promesa	32	promesa
+2333.	espejo	32	espejo
+2334.	dígale	32	decir
+2335.	sienta	32	sentar sentir
+2336.	médicos	32	médico
+2337.	cero	32	cero
+2338.	escribió	32	escribir
+2339.	volveremos	32	volver
+2340.	unidades	32	unidad
+2341.	cheque	32	cheque
+2342.	consigue	32	conseguir
+2343.	antiguo	32	antiguo
+2344.	regla	32	regla
+2345.	pesadilla	32	pesadilla
+2346.	enviar	32	enviar
+2347.	podías	32	poder
+2348.	llevarte	32	llevar
+2349.	entrenador	32	entrenador
+2350.	cuida	32	cuidar
+2351.	paciencia	32	paciencia
+2352.	dilo	32	decir
+2353.	levanta	32	levantar
+2354.	complicado	32	complicado complicar
+2355.	superior	32	superior
+2356.	sugiero	32	sugerir
+2357.	familias	32	familia
+2358.	dirá	32	decir
+2359.	pienses	32	pensar
+2360.	temporada	32	temporada
+2361.	suelta	32	suelto soltar
+2362.	corran	32	correr
+2363.	propios	32	propio
+2364.	feo	32	feo
+2365.	dispuesto	32	dispuesto disponer
+2366.	ayúdenme	32	ayudar
+2367.	teoría	32	teoría
+2368.	salvaje	32	salvaje
+2369.	negativo	32	negativo
+2370.	íbamos	32	ir
+2371.	hubieran	32	haber
+2372.	tripulación	32	tripulación
+2373.	taza	32	taza
+2374.	perdida	32	perdido perder
+2375.	vinieron	32	venir
+2376.	ponen	32	poner
+2377.	pasamos	32	pasar
+2378.	parecido	32	parecido parecer
+2379.	acepto	32	aceptar
+2380.	gay	32	gay
+2381.	señoras	32	señora
+2382.	quedaré	32	quedar
+2383.	parada	32	parada parar
+2384.	niñas	32	niña
+2385.	conseguí	32	conseguir
+2386.	acabamos	32	acabar
+2387.	normalmente	32	normalmente
+2388.	muchísimo	32	muchísimo mucho
+2389.	bruja	32	bruja
+2390.	vegas	31	vega
+2391.	tuvieron	31	tener
+2392.	traigo	31	traer
+2393.	matará	31	matar
+2394.	funeral	31	funeral
+2395.	conseguiste	31	conseguir
+2396.	teatro	31	teatro
+2397.	medianoche	31	medianoche
+2398.	biblioteca	31	biblioteca
+2399.	estemos	31	estar
+2400.	túnel	31	túnel
+2401.	encargo	31	encargo encargar
+2402.	aparece	31	aparecer
+2403.	testigos	31	testigo
+2404.	pensó	31	pensar
+2405.	fueran	31	ser ir
+2406.	fantasmas	31	fantasma
+2407.	correo	31	correo
+2408.	vuestro	31	vuestro
+2409.	piscina	31	piscina
+2410.	paquete	31	paquete
+2411.	copia	31	copia copiar
+2412.	suicidio	31	suicidio
+2413.	crédito	31	crédito
+2414.	consigo	31	conseguir
+2415.	vuestra	31	vuestro
+2416.	rara	31	raro
+2417.	legal	31	legal
+2418.	hablaremos	31	hablar
+2419.	cambió	31	cambiar
+2420.	solas	31	solo
+2421.	salimos	31	salir
+2422.	ganador	31	ganador
+2423.	estudiantes	31	estudiante
+2424.	despierto	31	despierto despertar
+2425.	pare	31	parar
+2426.	invitado	31	invitado invitar
+2427.	guía	31	guía
+2428.	oso	31	oso osar
+2429.	leí	31	leer
+2430.	explosión	31	explosión
+2431.	dejarme	31	dejar
+2432.	chino	31	chino
+2433.	sorprende	31	sorprender
+2434.	sistemas	31	sistema
+2435.	nación	31	nación
+2436.	entienden	31	entender
+2437.	arena	31	arena
+2438.	mentiroso	31	mentiroso
+2439.	hablaba	31	hablar
+2440.	veas	31	ver
+2441.	pura	31	puro
+2442.	asesinado	31	asesinado asesinar
+2443.	mintiendo	31	mentir
+2444.	casos	31	caso
+2445.	vehículo	31	vehículo
+2446.	rata	31	rata
+2447.	importancia	31	importancia
+2448.	distinto	31	distinto
+2449.	pintura	31	pintura
+2450.	intenté	31	intentar
+2451.	conciencia	31	conciencia
+2452.	miras	31	mirar
+2453.	máquinas	31	máquina
+2454.	traeré	31	traer
+2455.	revisar	31	revisar
+2456.	veinte	31	veinte
+2457.	seres	31	ser
+2458.	hablarle	31	hablar
+2459.	disco	31	disco discar
+2460.	transporte	31	transporte transportar
+2461.	mina	31	mina
+2462.	labios	31	labio
+2463.	señoría	31	señoría
+2464.	llamamos	30	llamar
+2465.	doce	30	doce
+2466.	cuídate	30	cuidar
+2467.	pasillo	30	pasillo
+2468.	tele	30	tele televisión
+2469.	podria	30	poder
+2470.	completa	30	completo completar
+2471.	rápida	30	rápido
+2472.	precisamente	30	precisamente
+2473.	llamaste	30	llamar
+2474.	cumplir	30	cumplir
+2475.	servicios	30	servicio
+2476.	señales	30	señal
+2477.	acaban	30	acabar
+2478.	suéltame	30	soltar
+2479.	hablarte	30	hablar
+2480.	traté	30	tratar
+2481.	pescado	30	pescado pescar
+2482.	huesos	30	hueso
+2483.	daría	30	dar
+2484.	compra	30	compra comprar
+2485.	trajiste	30	traer
+2486.	templo	30	templo
+2487.	placa	30	placa
+2488.	posibilidades	30	posibilidad
+2489.	ira	30	ira
+2490.	vengas	30	venir
+2491.	siguiendo	30	seguir
+2492.	podrán	30	poder
+2493.	llamarme	30	llamar
+2494.	cierta	30	cierto
+2495.	permitir	30	permitir
+2496.	condiciones	30	condición
+2497.	atrapar	30	atrapar
+2498.	temperatura	30	temperatura
+2499.	explicación	30	explicación
+2500.	enviado	30	enviado enviar
+2501.	contado	30	contado contar
+2502.	asistente	30	asistente
+2503.	imperio	30	imperio
+2504.	pidiendo	30	pedir
+2505.	notas	30	nota notar
+2506.	curioso	30	curioso
+2507.	operaciones	30	operación
+2508.	mantén	30	mantener
+2509.	tierras	30	tierra
+2510.	creas	30	creer
+2511.	pez	30	pez
+2512.	morirá	30	morir
+2513.	visión	30	visión
+2514.	montañas	30	montaña
+2515.	comido	30	comido comer
+2516.	construir	30	construir
+2517.	comunidad	30	comunidad
+2518.	verán	30	ver
+2519.	pierde	30	perder
+2520.	piense	30	pensar
+2521.	felicidad	30	felicidad
+2522.	diversión	30	diversión
+2523.	salvó	30	salvar
+2524.	quita	30	quitar
+2525.	museo	30	museo
+2526.	disparó	30	disparar
+2527.	desearía	30	desear
+2528.	misterio	29	misterio
+2529.	buscamos	29	buscar
+2530.	aviso	29	aviso avisar
+2531.	almirante	29	almirante
+2532.	solución	29	solución
+2533.	pequeñas	29	pequeño
+2534.	faltan	29	faltar
+2535.	existen	29	existir
+2536.	combustible	29	combustible
+2537.	leído	29	leer
+2538.	tirar	29	tirar
+2539.	responder	29	responder
+2540.	esfuerzo	29	esfuerzo esforzar
+2541.	vuelves	29	volver
+2542.	pájaro	29	pájaro
+2543.	hermanas	29	hermana
+2544.	guerrero	29	guerrero
+2545.	esposas	29	esposas esposa
+2546.	coma	29	coma comer
+2547.	abra	29	abrir abra
+2548.	traes	29	traer
+2549.	sientas	29	sentir sentar
+2550.	olvide	29	olvidar
+2551.	bolsillo	29	bolsillo
+2552.	heridas	29	herida herir
+2553.	saco	29	saco sacar
+2554.	gasolina	29	gasolina
+2555.	conexión	29	conexión
+2556.	correcta	29	correcto
+2557.	pedazos	29	pedazo
+2558.	líneas	29	línea
+2559.	estarías	29	estar
+2560.	convierte	29	convertir
+2561.	ayudará	29	ayudar
+2562.	rumbo	29	rumbo
+2563.	rompió	29	romper
+2564.	muera	29	morir
+2565.	mia	29	mío Mia
+2566.	material	29	material
+2567.	diamantes	29	diamante
+2568.	rápidamente	29	rápidamente
+2569.	mírate	29	mirar
+2570.	fecha	29	fecha
+2571.	escritorio	29	escritorio
+2572.	digan	29	decir
+2573.	registro	29	registro registrar
+2574.	maten	29	matar
+2575.	incendio	29	incendio
+2576.	deme	29	dar
+2577.	sois	29	ser
+2578.	pensamientos	29	pensamiento
+2579.	dímelo	29	decir
+2580.	comiendo	29	comer
+2581.	aparte	29	aparte
+2582.	asesinatos	29	asesinato
+2583.	lección	29	lección
+2584.	algun	29	algún
+2585.	abrigo	29	abrigo
+2586.	tratamiento	29	tratamiento
+2587.	julio	29	julio
+2588.	pene	29	pene
+2589.	conejo	29	conejo
+2590.	suceder	28	suceder
+2591.	ruta	28	ruta
+2592.	ciego	28	ciego
+2593.	asqueroso	28	asqueroso
+2594.	súper	28	súper
+2595.	prisionero	28	prisionero
+2596.	odie	28	odiar
+2597.	ocupada	28	ocupado ocupar
+2598.	llevarlo	28	llevar
+2599.	empezamos	28	empezar
+2600.	estuvimos	28	estar
+2601.	decírselo	28	decir
+2602.	honesto	28	honesto
+2603.	entrevista	28	entrevista
+2604.	antigua	28	antiguo
+2605.	amante	28	amante
+2606.	humo	28	humo
+2607.	gustas	28	gustar
+2608.	condado	28	condado
+2609.	conseguido	28	conseguido conseguir
+2610.	viajar	28	viajar
+2611.	sombra	28	sombra
+2612.	sabrá	28	saber
+2613.	refiere	28	referir
+2614.	lío	28	lío
+2615.	estáis	28	estar
+2616.	entrega	28	entrega entregar
+2617.	drácula	28	Drácula
+2618.	compartir	28	compartir
+2619.	volvamos	28	volver
+2620.	sonrisa	28	sonrisa
+2621.	sencillo	28	sencillo
+2622.	atrapado	28	atrapado atrapar
+2623.	aburrido	28	aburrido aburrir
+2624.	pocas	28	poco
+2625.	pensaste	28	pensar
+2626.	dragón	28	dragón
+2627.	volví	28	volver
+2628.	planta	28	planta plantar
+2629.	clima	28	clima
+2630.	adoro	28	adorar
+2631.	suave	28	suave
+2632.	ruso	28	ruso
+2633.	rodillas	28	rodilla
+2634.	marina	28	marino marina
+2635.	bolso	28	bolso
+2636.	alarma	28	alarma alarmar
+2637.	vivía	28	vivir
+2638.	quédese	28	quedar
+2639.	recompensa	28	recompensa recompensar
+2640.	juega	28	jugar
+2641.	cigarrillo	28	cigarrillo
+2642.	autoridad	28	autoridad
+2643.	amigas	28	amiga
+2644.	agujero	28	agujero
+2645.	acabe	28	acabar
+2646.	sacaste	28	sacar
+2647.	orgullosa	28	orgulloso
+2648.	entendí	28	entender
+2649.	dijera	28	decir
+2650.	sótano	28	sótano
+2651.	paredes	28	pared
+2652.	guapa	28	guapo
+2653.	iría	28	ir
+2654.	imaginar	28	imaginar
+2655.	fiebre	28	fiebre
+2656.	déjala	28	dejar
+2657.	botón	28	botón
+2658.	preguntarle	28	preguntar
+2659.	leyendo	28	leer
+2660.	darles	28	dar
+2661.	uniforme	28	uniforme
+2662.	dulces	28	dulce
+2663.	vaso	28	vaso
+2664.	documentos	28	documento
+2665.	ruego	28	rogar
+2666.	maneras	28	manera
+2667.	invitados	28	invitado invitar
+2668.	cómodo	28	cómodo
+2669.	ayudarnos	28	ayudar
+2670.	visitar	28	visitar
+2671.	vigilancia	28	vigilancia
+2672.	nadar	28	nadar
+2673.	altura	28	altura
+2674.	todavia	28	todavía
+2675.	preparados	28	preparado preparar
+2676.	cuáles	28	cuál
+2677.	mover	28	mover
+2678.	jugador	28	jugador
+2679.	izquierdo	28	izquierdo
+2680.	tecnología	28	tecnología
+2681.	raza	28	raza
+2682.	conocerlo	28	conocer
+2683.	conde	28	conde
+2684.	social	28	social
+2685.	gobernador	28	gobernador
+2686.	coge	28	coger
+2687.	cubierta	28	cubierto cubrir
+2688.	chiste	28	chiste chistar
+2689.	celda	28	celda
+2690.	agarra	28	agarrar
+2691.	secreta	28	secreto
+2692.	personalmente	28	personalmente
+2693.	amistad	28	amistad
+2694.	amaba	28	amar
+2695.	nació	27	nacer
+2696.	interesado	27	interesado interesar
+2697.	intentado	27	intentar
+2698.	educación	27	educación
+2699.	curiosidad	27	curiosidad
+2700.	buscan	27	buscar
+2701.	repito	27	repetir
+2702.	pecado	27	pecado pecar
+2703.	mortal	27	mortal
+2704.	manda	27	mandar manda
+2705.	claramente	27	claramente
+2706.	vía	27	vía
+2707.	juntas	27	junta juntar
+2708.	identificación	27	identificación
+2709.	dirige	27	dirigir
+2710.	declaración	27	declaración
+2711.	alemán	27	alemán
+2712.	tontos	27	tonto
+2713.	mantiene	27	mantener
+2714.	bestia	27	bestia
+2715.	veneno	27	veneno
+2716.	vecinos	27	vecino
+2717.	supiera	27	saber
+2718.	quieran	27	querer
+2719.	salgo	27	salir
+2720.	propias	27	propio
+2721.	privada	27	privado
+2722.	jurado	27	jurado jurar
+2723.	golpes	27	golpe
+2724.	usan	27	usar
+2725.	metas	27	meta meter
+2726.	garganta	27	garganta
+2727.	invierno	27	invierno
+2728.	fila	27	fila
+2729.	miel	27	miel
+2730.	traigan	27	traer
+2731.	sucedido	27	sucedido suceder
+2732.	tranquilos	27	tranquilo
+2733.	madera	27	madera
+2734.	burro	27	burro
+2735.	artista	27	artista
+2736.	pobres	27	pobre
+2737.	impresión	27	impresión
+2738.	ganó	27	ganar
+2739.	cruzar	27	cruzar
+2740.	cigarrillos	27	cigarrillo
+2741.	ó	27	ó
+2742.	llevarme	27	llevar
+2743.	grial	27	grial
+2744.	chaqueta	27	chaqueta
+2745.	alcalde	27	alcalde
+2746.	vueltas	27	vuelta volver
+2747.	usado	27	usar usado
+2748.	reputación	27	reputación
+2749.	pongas	27	poner
+2750.	oxígeno	27	oxígeno
+2751.	cajas	27	caja
+2752.	preocupada	27	preocupado preocupar
+2753.	matan	27	matar
+2754.	empezando	27	empezar
+2755.	cabezas	27	cabeza
+2756.	ponerme	27	poner
+2757.	experto	27	experto
+2758.	océano	27	océano
+2759.	maestra	27	maestra maestro
+2760.	pieza	27	pieza
+2761.	cargos	27	cargo
+2762.	bombas	27	bomba
+2763.	alcohol	27	alcohol
+2764.	trataba	27	tratar
+2765.	salen	27	salir
+2766.	pizza	27	pizza
+2767.	recibí	27	recibir
+2768.	junta	27	junta juntar
+2769.	criaturas	27	criatura
+2770.	apareció	27	aparecer
+2771.	actitud	27	actitud
+2772.	gira	27	gira girar
+2773.	cristal	27	cristal
+2774.	encuentran	27	encontrar
+2775.	dejarte	27	dejar
+2776.	caído	27	caído caer
+2777.	ultima	27	último
+2778.	sensación	27	sensación
+2779.	seguido	27	seguido seguir
+2780.	puro	27	puro
+2781.	whisky	27	whisky
+2782.	vernos	27	ver
+2783.	pantalla	27	pantalla
+2784.	bebida	27	bebida beber
+2785.	estudiar	26	estudiar
+2786.	ducha	26	ducha duchar
+2787.	despedido	26	despedido despedir
+2788.	consiguió	26	conseguir
+2789.	venía	26	venir
+2790.	pagan	26	pagar
+2791.	discúlpame	26	disculpar
+2792.	artículo	26	artículo
+2793.	aparentemente	26	aparentemente
+2794.	ambas	26	ambos
+2795.	trauma	26	trauma
+2796.	pusieron	26	poner
+2797.	fiestas	26	fiesta
+2798.	contesta	26	contestar
+2799.	contenta	26	contento contentar
+2800.	ambiente	26	ambiente
+2801.	prometí	26	prometer
+2802.	llegando	26	llegar
+2803.	mostraré	26	mostrar
+2804.	deba	26	deber
+2805.	berlín	26	Berlín
+2806.	nerviosa	26	nervioso
+2807.	hallar	26	hallar
+2808.	dudas	26	duda dudar
+2809.	llegan	26	llegar
+2810.	instrucciones	26	instrucción
+2811.	baje	26	bajar
+2812.	vinimos	26	venir
+2813.	ritmo	26	ritmo
+2814.	quédense	26	quedar
+2815.	suponía	26	suponer
+2816.	pistas	26	pista
+2817.	palacio	26	palacio
+2818.	encontraré	26	encontrar
+2819.	venta	26	venta
+2820.	urgente	26	urgente
+2821.	tomamos	26	tomar
+2822.	salí	26	salir
+2823.	cuerda	26	cuerda cuerdo
+2824.	vendría	26	venir
+2825.	pasaba	26	pasar
+2826.	instante	26	instante
+2827.	almas	26	alma
+2828.	suficientes	26	suficiente
+2829.	secundaria	26	secundario
+2830.	saltar	26	saltar
+2831.	queria	26	querer
+2832.	quedarnos	26	quedar
+2833.	molesto	26	molesto molestar
+2834.	colina	26	colina
+2835.	porquería	26	porquería
+2836.	sienten	26	sentir sentar
+2837.	pondrá	26	poner
+2838.	terroristas	26	terrorista
+2839.	empecé	26	empezar
+2840.	pongan	26	poner
+2841.	moto	26	moto
+2842.	opinas	26	opinar
+2843.	habilidad	26	habilidad
+2844.	entren	26	entrar
+2845.	descubierto	26	descubierto descubrir
+2846.	convertido	26	convertido convertir
+2847.	asegúrate	26	asegurar
+2848.	quedé	26	quedar
+2849.	kilos	26	kilo
+2850.	florida	26	florido
+2851.	tomará	26	tomar
+2852.	sufrir	26	sufrir
+2853.	mental	26	mental
+2854.	lograr	26	lograr
+2855.	instituto	26	instituto
+2856.	serlo	26	ser
+2857.	rapido	26	rápido
+2858.	plato	26	plato
+2859.	llorando	26	llorar
+2860.	vd	26	usted
+2861.	váyase	26	ir
+2862.	sucediendo	26	suceder
+2863.	robaron	26	robar
+2864.	alemania	26	Alemania
+2865.	bolas	26	bola
+2866.	pasaría	26	pasar
+2867.	ocurra	26	ocurrir
+2868.	ilegal	26	ilegal
+2869.	fresco	26	fresco
+2870.	falso	26	falso
+2871.	abogados	26	abogado
+2872.	tómalo	26	tomar
+2873.	mandó	26	mandar
+2874.	cuán	26	cuán
+2875.	cuales	26	cual
+2876.	botas	26	bota botar
+2877.	tiburones	26	tiburón
+2878.	grado	26	grado
+2879.	deseas	26	desear
+2880.	archivos	26	archivo
+2881.	adivina	26	adivinar
+2882.	cruz	25	cruz
+2883.	campaña	25	campaña
+2884.	asustada	25	asustado asustar
+2885.	centavos	25	centavo
+2886.	vivimos	25	vivir
+2887.	galletas	25	galleta
+2888.	frecuencia	25	frecuencia
+2889.	daños	25	daño
+2890.	minas	25	mina
+2891.	emociones	25	emoción
+2892.	dejará	25	dejar
+2893.	regresó	25	regresar
+2894.	ratas	25	rata
+2895.	pasión	25	pasión
+2896.	hacerse	25	hacer
+2897.	comportamiento	25	comportamiento
+2898.	pense	25	pensar
+2899.	conocimiento	25	conocimiento
+2900.	sales	25	salir
+2901.	fiscal	25	fiscal
+2902.	decisiones	25	decisión
+2903.	criminales	25	criminal
+2904.	cámaras	25	cámara
+2905.	amanecer	25	amanecer
+2906.	convirtió	25	convertir
+2907.	aldea	25	aldea
+2908.	abandonar	25	abandonar
+2909.	obvio	25	obvio
+2910.	habíamos	25	haber
+2911.	apesta	25	apestar
+2912.	abandonado	25	abandonado abandonar
+2913.	volverás	25	volver
+2914.	preocuparse	25	preocupar
+2915.	favorita	25	favorito
+2916.	lanzamiento	25	lanzamiento
+2917.	difíciles	25	difícil
+2918.	vivido	25	vivir
+2919.	roca	25	roca
+2920.	peces	25	pez
+2921.	maravilla	25	maravilla
+2922.	espacial	25	espacial
+2923.	conductor	25	conductor
+2924.	camarada	25	camarada
+2925.	trabajado	25	trabajar
+2926.	caramba	25	caramba
+2927.	sopa	25	sopa
+2928.	numero	25	número
+2929.	gritar	25	gritar
+2930.	envía	25	enviar
+2931.	casino	25	casino
+2932.	alteza	25	alteza
+2933.	identidad	25	identidad
+2934.	cambios	25	cambio
+2935.	guardar	25	guardar
+2936.	gatos	25	gato
+2937.	gané	25	ganar
+2938.	arresto	25	arresto arrestar
+2939.	éstas	25	esta este
+2940.	preguntó	25	preguntar
+2941.	éstos	25	esto este
+2942.	probable	25	probable
+2943.	seamos	25	ser
+2944.	importaría	25	importar
+2945.	firmar	25	firmar
+2946.	federal	25	federal
+2947.	caras	25	cara
+2948.	trabajos	25	trabajo
+2949.	hagámoslo	25	hacer
+2950.	expediente	25	expediente
+2951.	tigre	25	tigre
+2952.	intentó	25	intentar
+2953.	harto	25	harto hartar
+2954.	decidir	25	decidir
+2955.	periódicos	25	periódico
+2956.	casarse	25	casar
+2957.	lento	25	lento
+2958.	hecha	25	hecho hacer
+2959.	daba	25	dar
+2960.	ponerte	25	poner
+2961.	pelotas	25	pelota
+2962.	monstruos	25	monstruo
+2963.	cruel	25	cruel
+2964.	señoritas	25	señorita
+2965.	gigante	25	gigante
+2966.	siglos	24	siglo
+2967.	escalera	24	escalera
+2968.	incidente	24	incidente
+2969.	escenario	24	escenario
+2970.	dirás	24	decir
+2971.	ciertas	24	cierto
+2972.	casar	24	casar
+2973.	llamen	24	llamar
+2974.	biblia	24	biblia
+2975.	reporte	24	reporte
+2976.	moda	24	moda
+2977.	casada	24	casado casar
+2978.	reacción	24	reacción
+2979.	falla	24	falla fallar
+2980.	castigo	24	castigo castigar
+2981.	fácilmente	24	fácilmente
+2982.	caza	24	caza cazar
+2983.	magnífico	24	magnífico
+2984.	decidí	24	decidir
+2985.	camina	24	caminar
+2986.	superficie	24	superficie
+2987.	procedimiento	24	procedimiento
+2988.	condición	24	condición
+2989.	asalto	24	asalto asaltar
+2990.	virgen	24	virgen
+2991.	verle	24	ver
+2992.	conocimos	24	conocer
+2993.	quitar	24	quitar
+2994.	tratas	24	tratar
+2995.	noble	24	noble
+2996.	hierba	24	hierba
+2997.	excelencia	24	excelencia
+2998.	asco	24	asco
+2999.	título	24	título
+3000.	regresaré	24	regresar
+3001.	ejercicio	24	ejercicio
+3002.	pasaporte	24	pasaporte
+3003.	extraños	24	extraño
+3004.	ciento	24	ciento
+3005.	afortunado	24	afortunado
+3006.	sacó	24	sacar
+3007.	irán	24	ir
+3008.	sacerdote	24	sacerdote
+3009.	pedirle	24	pedir
+3010.	impuestos	24	impuesto imponer
+3011.	crisis	24	crisis
+3012.	aventura	24	aventura
+3013.	puestos	24	puesto poner
+3014.	pánico	24	pánico
+3015.	llames	24	llamar
+3016.	ladrones	24	ladrón
+3017.	enseñó	24	enseñar
+3018.	logramos	24	lograr
+3019.	estuvieron	24	estar
+3020.	últimas	24	último
+3021.	página	24	página
+3022.	metro	24	metro
+3023.	alla	24	allá
+3024.	pudieron	24	poder
+3025.	mostrar	24	mostrar
+3026.	escribe	24	escribir
+3027.	ventaja	24	ventaja
+3028.	enamorada	24	enamorado enamorar
+3029.	gorda	24	gordo
+3030.	vendrán	24	venir
+3031.	paren	24	parar
+3032.	piedras	24	piedra
+3033.	pesado	24	pesado pesar
+3034.	despertar	24	despertar
+3035.	pierdes	23	perder
+3036.	jesucristo	23	Jesucristo
+3037.	damos	23	dar
+3038.	treinta	23	treinta
+3039.	recuerde	23	recordar
+3040.	capacidad	23	capacidad
+3041.	soportar	23	soportar
+3042.	senado	23	senado
+3043.	decidió	23	decidir
+3044.	prepárense	23	preparar
+3045.	asusta	23	asustar
+3046.	aquello	23	aquello
+3047.	aguantar	23	aguantar
+3048.	aprendí	23	aprender
+3049.	tenéis	23	tener
+3050.	parezca	23	parecer
+3051.	alegría	23	alegría
+3052.	territorio	23	territorio
+3053.	física	23	física físico
+3054.	escape	23	escape escapar
+3055.	tomes	23	tomar
+3056.	excusa	23	excusa excusar
+3057.	estudios	23	estudio
+3058.	septiembre	23	septiembre
+3059.	personaje	23	personaje
+3060.	fábrica	23	fábrica
+3061.	elegido	23	elegido elegir
+3062.	cole	23	cole colegio
+3063.	tanque	23	tanque
+3064.	salta	23	saltar
+3065.	hablaste	23	hablar
+3066.	conferencia	23	conferencia
+3067.	compromiso	23	compromiso
+3068.	ayudaré	23	ayudar
+3069.	salieron	23	salir
+3070.	rusos	23	ruso
+3071.	parezco	23	parecer
+3072.	llevando	23	llevar
+3073.	exterior	23	exterior
+3074.	punta	23	punta
+3075.	ponerse	23	poner
+3076.	pasen	23	pasar
+3077.	puerto	23	puerto
+3078.	decírtelo	23	decir
+3079.	caro	23	caro
+3080.	asombroso	23	asombroso
+3081.	pasara	23	pasar
+3082.	matarán	23	matar
+3083.	maleta	23	maleta
+3084.	competencia	23	competencia
+3085.	canciones	23	canción
+3086.	cinturón	23	cinturón
+3087.	papas	23	papa
+3088.	marco	23	marco marcar
+3089.	destrucción	23	destrucción
+3090.	paraíso	23	paraíso
+3091.	meta	23	meta meter
+3092.	alternativa	23	alternativa alternativo
+3093.	socios	23	socio
+3094.	alas	23	ala
+3095.	ocasión	23	ocasión
+3096.	casarme	23	casar
+3097.	salsa	23	salsa
+3098.	romano	23	romano
+3099.	prisioneros	23	prisionero
+3100.	encantan	23	encantar
+3101.	encantadora	23	encantador
+3102.	comercial	23	comercial
+3103.	primavera	23	primavera
+3104.	metió	23	meter
+3105.	volvemos	23	volver
+3106.	mandar	23	mandar
+3107.	luce	23	lucir
+3108.	sagrado	23	sagrado
+3109.	nacido	23	nacido nacer
+3110.	fabuloso	23	fabuloso
+3111.	echo	23	echar
+3112.	desaparecer	23	desaparecer
+3113.	potencia	23	potencia
+3114.	adn	23	ADN
+3115.	traiga	23	traer
+3116.	permítame	23	permitir
+3117.	mayores	23	mayor
+3118.	regalos	23	regalo
+3119.	pusiste	23	poner
+3120.	peligrosa	23	peligroso
+3121.	militares	23	militar
+3122.	jodida	23	joder jodido
+3123.	coincidencia	23	coincidencia
+3124.	bandera	23	bandera
+3125.	adivinar	23	adivinar
+3126.	tubo	23	tubo
+3127.	partida	23	partida partido partir
+3128.	opciones	23	opción
+3129.	llamaron	23	llamar
+3130.	hombro	23	hombro
+3131.	vampiros	23	vampiro
+3132.	sabían	23	saber
+3133.	recibió	23	recibir
+3134.	jugadores	23	jugador
+3135.	celebrar	23	celebrar
+3136.	armario	23	armario
+3137.	tetas	22	teta
+3138.	paliza	22	paliza
+3139.	sabor	22	sabor
+3140.	míralo	22	mirar
+3141.	lata	22	lata
+3142.	héroes	22	héroe
+3143.	serpiente	22	serpiente
+3144.	escribí	22	escribir
+3145.	comité	22	comité
+3146.	bendiga	22	bendecir
+3147.	terminé	22	terminar
+3148.	oyó	22	oír
+3149.	imaginación	22	imaginación
+3150.	funcionó	22	funcionar
+3151.	bello	22	bello
+3152.	hígado	22	hígado
+3153.	cierre	22	cierre cerrar
+3154.	cabina	22	cabina
+3155.	queríamos	22	querer
+3156.	pasas	22	pasar pasa
+3157.	mantente	22	mantener
+3158.	japón	22	Japón
+3159.	deseos	22	deseo
+3160.	cuéntame	22	contar
+3161.	rastro	22	rastro
+3162.	compró	22	comprar
+3163.	anterior	22	anterior
+3164.	acero	22	acero
+3165.	desnudo	22	desnudo desnudar
+3166.	comisario	22	comisario
+3167.	refuerzos	22	refuerzo
+3168.	preparar	22	preparar
+3169.	perdidos	22	perdido perder
+3170.	pagaré	22	pagar
+3171.	huevo	22	huevo
+3172.	entrando	22	entrar
+3173.	armada	22	armada armado armar
+3174.	trate	22	tratar
+3175.	supo	22	saber
+3176.	bromeas	22	bromear
+3177.	verdaderamente	22	verdaderamente
+3178.	miro	22	mirar
+3179.	límite	22	límite
+3180.	esperemos	22	esperar
+3181.	sacado	22	sacado sacar
+3182.	diamante	22	diamante
+3183.	secuestro	22	secuestro secuestrar
+3184.	casco	22	casco cascar
+3185.	ayudó	22	ayudar
+3186.	nene	22	nene
+3187.	marcas	22	marca marcar
+3188.	pudieras	22	poder
+3189.	poca	22	poco
+3190.	jugo	22	jugo
+3191.	heridos	22	herido herir
+3192.	congreso	22	congreso
+3193.	cementerio	22	cementerio
+3194.	prostituta	22	prostituta
+3195.	desaparece	22	desaparecer
+3196.	consecuencias	22	consecuencia
+3197.	terreno	22	terreno
+3198.	salvado	22	salvado salvar
+3199.	mueren	22	morir
+3200.	igualmente	22	igualmente
+3201.	ganamos	22	ganar
+3202.	circunstancias	22	circunstancia
+3203.	trabajamos	22	trabajar
+3204.	amén	22	amén
+3205.	funcionando	22	funcionar
+3206.	personalidad	22	personalidad
+3207.	muro	22	muro
+3208.	contestar	22	contestar
+3209.	razon	22	razón
+3210.	peores	22	peor
+3211.	particular	22	particular
+3212.	llévame	22	llevar
+3213.	gimnasio	22	gimnasio
+3214.	emocionante	22	emocionante
+3215.	desgracia	22	desgracia
+3216.	científico	22	científico
+3217.	buscado	22	buscar
+3218.	terapia	22	terapia
+3219.	prepara	22	preparar
+3220.	patrulla	22	patrulla
+3221.	globo	22	globo
+3222.	despejado	22	despejado despejar
+3223.	creado	22	creado crear
+3224.	aprendido	22	aprender
+3225.	nací	22	nacer
+3226.	embajador	22	embajador
+3227.	barcos	22	barco
+3228.	posiblemente	22	posiblemente
+3229.	malvado	22	malvado
+3230.	dormitorio	22	dormitorio
+3231.	despacho	22	despacho despachar
+3232.	desagradable	22	desagradable
+3233.	viniendo	22	venir
+3234.	recibo	22	recibo recibir
+3235.	nuclear	22	nuclear
+3236.	mensajes	22	mensaje
+3237.	mantengan	22	mantener
+3238.	ultimo	22	último
+3239.	autoridades	22	autoridad
+3240.	quedes	22	quedar
+3241.	pasaron	22	pasar
+3242.	gano	22	ganar
+3243.	ayudo	22	ayudar
+3244.	aprecio	22	aprecio apreciar
+3245.	sentimiento	21	sentimiento
+3246.	popular	21	popular
+3247.	extrañas	21	extrañar
+3248.	detenerlo	21	detener
+3249.	civiles	21	civil
+3250.	tontería	21	tontería
+3251.	reyes	21	rey
+3252.	americana	21	americano
+3253.	vuelven	21	volver
+3254.	ventanas	21	ventana
+3255.	tiburón	21	tiburón
+3256.	peleas	21	pelea pelear
+3257.	organización	21	organización
+3258.	ayudarla	21	ayudar
+3259.	tuvieras	21	tener
+3260.	querrás	21	querer
+3261.	querrá	21	querer
+3262.	infección	21	infección
+3263.	decente	21	decente
+3264.	logrado	21	logrado lograr
+3265.	jersey	21	jersey
+3266.	amar	21	amar
+3267.	equipos	21	equipo
+3268.	canta	21	cantar
+3269.	bebés	21	bebé
+3270.	pozo	21	pozo
+3271.	india	21	india indio India
+3272.	esperado	21	esperar esperado
+3273.	enseñar	21	enseñar
+3274.	darnos	21	dar
+3275.	tomaste	21	tomar
+3276.	internet	21	internet
+3277.	habilidades	21	habilidad
+3278.	encanto	21	encanto encantar
+3279.	dispararon	21	disparar
+3280.	comprendes	21	comprender
+3281.	áfrica	21	África
+3282.	adorable	21	adorable
+3283.	rica	21	rico
+3284.	llegaremos	21	llegar
+3285.	reales	21	real
+3286.	mismas	21	mismo
+3287.	medios	21	medio
+3288.	marihuana	21	marihuana
+3289.	traidor	21	traidor
+3290.	funcione	21	funcionar
+3291.	clínica	21	clínica clínico
+3292.	preferiría	21	preferir
+3293.	podían	21	poder
+3294.	olvidó	21	olvidar
+3295.	entramos	21	entrar
+3296.	ejercito	21	ejercitar ejército
+3297.	división	21	división
+3298.	sector	21	sector
+3299.	perdedor	21	perdedor
+3300.	patrón	21	patrón
+3301.	encontrará	21	encontrar
+3302.	crema	21	crema
+3303.	planeado	21	planeado planear
+3304.	mantenga	21	mantener
+3305.	juguete	21	juguete
+3306.	técnica	21	técnica
+3307.	nacimiento	21	nacimiento
+3308.	esperaré	21	esperar
+3309.	termino	21	terminar
+3310.	matas	21	matar
+3311.	entrado	21	entrar
+3312.	destruido	21	destruido destruir
+3313.	daremos	21	dar
+3314.	circo	21	circo
+3315.	ascensor	21	ascensor
+3316.	aca	21	acá
+3317.	investigar	21	investigar
+3318.	encuentren	21	encontrar
+3319.	archivo	21	archivo
+3320.	salve	21	salvar
+3321.	presentar	21	presentar
+3322.	logro	21	logro lograr
+3323.	intentas	21	intentar
+3324.	encargaré	21	encargar
+3325.	armado	21	armado armar
+3326.	apuestas	21	apuesta apostar
+3327.	arrestado	21	arrestado arrestar
+3328.	unión	21	unión
+3329.	permanecer	21	permanecer
+3330.	muéstrame	21	mostrar
+3331.	móvil	21	móvil
+3332.	dificil	21	difícil
+3333.	casados	21	casado casar
+3334.	cañón	21	cañón
+3335.	tribunal	21	tribunal
+3336.	sepan	21	saber
+3337.	satélite	21	satélite
+3338.	recuerden	21	recordar
+3339.	intentaré	21	intentar
+3340.	falsa	21	falsa falso
+3341.	coca	21	coca
+3342.	símbolo	21	símbolo
+3343.	rocas	21	roca
+3344.	putas	21	puta
+3345.	pendejo	21	pendejo
+3346.	mátalo	21	matar
+3347.	judío	21	judío
+3348.	estando	21	estar
+3349.	subtítulos	21	subtítulo
+3350.	gritando	21	gritar
+3351.	dejemos	21	dejar
+3352.	científicos	21	científico
+3353.	bebiendo	21	beber
+3354.	saque	21	sacar
+3355.	metal	21	metal
+3356.	despedida	21	despedida despedido despedir
+3357.	golf	21	golf
+3358.	empiece	21	empezar
+3359.	defender	21	defender
+3360.	crecer	21	crecer
+3361.	rota	21	roto
+3362.	sentimos	21	sentir
+3363.	guerreros	21	guerrero
+3364.	echa	21	echar
+3365.	comunicación	21	comunicación
+3366.	probado	20	probar
+3367.	pensarlo	20	pensar
+3368.	háblame	20	hablar
+3369.	detenido	20	detenido detener
+3370.	sabría	20	saber
+3371.	muertes	20	muerte
+3372.	movimientos	20	movimiento
+3373.	prohibido	20	prohibido prohibir
+3374.	pájaros	20	pájaro
+3375.	cargar	20	cargar
+3376.	podíamos	20	poder
+3377.	junior	20	junior
+3378.	imágenes	20	imagen
+3379.	haberse	20	haber
+3380.	acusado	20	acusado acusar
+3381.	peleando	20	pelear
+3382.	lealtad	20	lealtad
+3383.	considera	20	considerar
+3384.	cazador	20	cazador
+3385.	buscarlo	20	buscar
+3386.	apaga	20	apagar
+3387.	objeto	20	objeto
+3388.	sofá	20	sofá
+3389.	personales	20	personal
+3390.	homicidio	20	homicidio
+3391.	electricidad	20	electricidad
+3392.	advertencia	20	advertencia
+3393.	rumores	20	rumor
+3394.	mentir	20	mentir
+3395.	fíjate	20	fijar
+3396.	deuda	20	deuda
+3397.	celoso	20	celoso
+3398.	bicicleta	20	bicicleta
+3399.	azules	20	azul
+3400.	visitas	20	visita visitar
+3401.	mejorar	20	mejorar
+3402.	escudo	20	escudo
+3403.	cueva	20	cueva
+3404.	aérea	20	aéreo
+3405.	levantar	20	levantar
+3406.	juguetes	20	juguete
+3407.	ciertamente	20	ciertamente
+3408.	bajen	20	bajar
+3409.	temas	20	tema
+3410.	pedirte	20	pedir
+3411.	elegante	20	elegante
+3412.	divorcio	20	divorcio
+3413.	depósito	20	depósito
+3414.	concierto	20	concierto
+3415.	calla	20	callar
+3416.	transmisión	20	transmisión
+3417.	mataría	20	matar
+3418.	flor	20	flor
+3419.	viejas	20	viejo
+3420.	trabajan	20	trabajar
+3421.	onda	20	onda
+3422.	saldremos	20	salir
+3423.	preguntado	20	preguntar
+3424.	aliento	20	aliento
+3425.	academia	20	academia
+3426.	sonar	20	sonar
+3427.	recibe	20	recibir
+3428.	patio	20	patio
+3429.	función	20	función
+3430.	conduce	20	conducir
+3431.	pregúntale	20	preguntar
+3432.	palo	20	palo
+3433.	internacional	20	internacional
+3434.	hueso	20	hueso
+3435.	esclavos	20	esclavo
+3436.	versión	20	versión
+3437.	sacrificio	20	sacrificio
+3438.	judíos	20	judío
+3439.	increible	20	increíble
+3440.	fotografía	20	fotografía
+3441.	delicioso	20	delicioso
+3442.	crímenes	20	crimen
+3443.	zorra	20	zorra
+3444.	valle	20	valle
+3445.	llevaremos	20	llevar
+3446.	lentamente	20	lentamente
+3447.	encantada	20	encantado encantar
+3448.	arreglo	20	arreglo
+3449.	volvería	20	volver
+3450.	logró	20	lograr
+3451.	romántico	20	romántico
+3452.	preocuparte	20	preocupar
+3453.	olvido	20	olvido olvidar
+3454.	fascinante	20	fascinante
+3455.	cuadro	20	cuadro
+3456.	creyó	20	creer
+3457.	adultos	20	adulto
+3458.	wow	20	wow
+3459.	sobrino	20	sobrino
+3460.	secuencia	20	secuencia
+3461.	lleven	20	llevar
+3462.	huh	20	huh
+3463.	entradas	20	entrada entrar
+3464.	decirnos	20	decir
+3465.	resistencia	20	resistencia
+3466.	llamarlo	20	llamar
+3467.	ayudas	20	ayuda ayudar
+3468.	esperanzas	20	esperanza
+3469.	disponible	20	disponible
+3470.	civil	20	civil
+3471.	caos	20	caos
+3472.	velas	20	vela
+3473.	tenerlo	20	tener
+3474.	ponerle	20	poner
+3475.	muestras	20	muestra mostrar
+3476.	lógica	20	lógica
+3477.	casualidad	20	casualidad
+3478.	sigamos	20	seguir
+3479.	rayo	20	rayo
+3480.	pato	20	pato
+3481.	pagado	20	pagar pagado
+3482.	máscara	20	máscara
+3483.	gustado	20	gustar
+3484.	buscarte	20	buscar
+3485.	selva	20	selva
+3486.	pm	20	pm
+3487.	equivoqué	20	equivocar
+3488.	condenado	20	condenado condenar
+3489.	cometido	20	cometer cometido
+3490.	tratan	20	tratar
+3491.	pudimos	20	poder
+3492.	preguntando	20	preguntar
+3493.	tragedia	20	tragedia
+3494.	poli	20	poli policía
+3495.	compañías	20	compañía
+3496.	charla	20	charla charlar
+3497.	mete	19	meter
+3498.	malditas	19	maldito
+3499.	campos	19	campo
+3500.	cadáveres	19	cadáver
+3501.	básicamente	19	básicamente
+3502.	vamonos	19	ir
+3503.	trucos	19	truco
+3504.	preparada	19	preparado preparar
+3505.	funcionará	19	funcionar
+3506.	conté	19	contar
+3507.	contando	19	contar
+3508.	construcción	19	construcción
+3509.	ciudadanos	19	ciudadano
+3510.	agarrar	19	agarrar
+3511.	infeliz	19	infeliz
+3512.	francesa	19	francés
+3513.	explica	19	explicar
+3514.	decide	19	decidir
+3515.	vende	19	vender
+3516.	rutina	19	rutina
+3517.	gustar	19	gustar
+3518.	empieces	19	empezar
+3519.	caída	19	caída caído caer
+3520.	almorzar	19	almorzar
+3521.	actividad	19	actividad
+3522.	inocentes	19	inocente
+3523.	fondos	19	fondo
+3524.	coraje	19	coraje
+3525.	ayudando	19	ayudar
+3526.	aterrizar	19	aterrizar
+3527.	actuación	19	actuación
+3528.	suba	19	subir
+3529.	ayudante	19	ayudante
+3530.	vuela	19	volar
+3531.	vaca	19	vaca
+3532.	cirujano	19	cirujano
+3533.	tio	19	tío
+3534.	olvídate	19	olvidar
+3535.	okay	19	okay
+3536.	entregar	19	entregar
+3537.	encerrado	19	encerrado encerrar
+3538.	rubia	19	rubio
+3539.	joyas	19	joya
+3540.	empecemos	19	empezar
+3541.	amado	19	amado amar
+3542.	terminamos	19	terminar
+3543.	romanos	19	romano
+3544.	piedad	19	piedad
+3545.	llamarte	19	llamar
+3546.	hacían	19	hacer
+3547.	furia	19	furia
+3548.	detalle	19	detalle
+3549.	admitir	19	admitir
+3550.	tendrías	19	tener
+3551.	respiración	19	respiración
+3552.	prepárate	19	preparar
+3553.	escribiendo	19	escribir
+3554.	confundido	19	confundido confundir
+3555.	vigilando	19	vigilar
+3556.	sufrimiento	19	sufrimiento
+3557.	saludos	19	saludo
+3558.	robaste	19	robar
+3559.	golpear	19	golpear
+3560.	garaje	19	garaje
+3561.	buscaré	19	buscar
+3562.	revolución	19	revolución
+3563.	motel	19	motel
+3564.	buscaba	19	buscar
+3565.	alianza	19	alianza
+3566.	estupidez	19	estupidez
+3567.	disparado	19	disparado disparar
+3568.	sangrando	19	sangrar
+3569.	quietos	19	quieto
+3570.	miserable	19	miserable
+3571.	ideal	19	ideal
+3572.	empiezo	19	empezar
+3573.	controla	19	controlar
+3574.	prometiste	19	prometer
+3575.	heroína	19	heroína
+3576.	empezado	19	empezar
+3577.	dámelo	19	dar
+3578.	vecindario	19	vecindario
+3579.	empleado	19	empleado emplear
+3580.	conociste	19	conocer
+3581.	colores	19	color
+3582.	cerebral	19	cerebral
+3583.	plástico	19	plástico
+3584.	piano	19	piano
+3585.	pensamiento	19	pensamiento
+3586.	letra	19	letra
+3587.	empleados	19	empleado emplear
+3588.	dosis	19	dosis
+3589.	dólar	19	dólar
+3590.	agrada	19	agradar
+3591.	tocado	19	tocar
+3592.	tíos	19	tío
+3593.	super	19	súper
+3594.	rifle	19	rifle
+3595.	renunciar	19	renunciar
+3596.	incluyendo	19	incluir
+3597.	hoyo	19	hoyo
+3598.	español	19	español
+3599.	acepta	19	aceptar
+3600.	rueda	19	rueda
+3601.	municiones	19	munición
+3602.	ciudades	19	ciudad
+3603.	béisbol	19	béisbol
+3604.	regresado	19	regresado regresar
+3605.	pediste	19	pedir
+3606.	ja	19	ja
+3607.	sesión	19	sesión
+3608.	comprender	19	comprender
+3609.	tocando	19	tocar
+3610.	montar	19	montar
+3611.	familiares	19	familiar
+3612.	espía	19	espía espiar
+3613.	efectos	19	efecto
+3614.	salto	19	salto saltar
+3615.	pagó	19	pagar
+3616.	impacto	19	impacto
+3617.	emoción	19	emoción
+3618.	disparos	19	disparo
+3619.	comando	19	comando
+3620.	autorización	19	autorización
+3621.	informes	19	informe informar
+3622.	honestamente	19	honestamente
+3623.	existencia	19	existencia
+3624.	demasiada	19	demasiado
+3625.	coches	19	coche
+3626.	clara	19	claro clara
+3627.	alcanzar	19	alcanzar
+3628.	volviste	19	volver
+3629.	octubre	19	octubre
+3630.	conseguimos	19	conseguir
+3631.	barato	19	barato
+3632.	apostar	19	apostar
+3633.	requiere	19	requerir
+3634.	importan	19	importar
+3635.	grano	19	grano
+3636.	demasiados	19	demasiado
+3637.	casarte	19	casar
+3638.	tráeme	18	traer
+3639.	progreso	18	progreso progresar
+3640.	odias	18	odiar
+3641.	ocurrir	18	ocurrir
+3642.	hacías	18	hacer
+3643.	serías	18	ser
+3644.	secretario	18	secretario
+3645.	rusia	18	Rusia rusia
+3646.	piénsalo	18	pensar
+3647.	gatito	18	gatito gato
+3648.	déme	18	dar
+3649.	colección	18	colección
+3650.	vais	18	ir
+3651.	sufrido	18	sufrido sufrir
+3652.	ningun	18	ningún
+3653.	helena	18	heleno Helena
+3654.	terror	18	terror
+3655.	salva	18	salvar salvo salva
+3656.	salgas	18	salir
+3657.	sacarte	18	sacar
+3658.	lanza	18	lanza lanzar
+3659.	usó	18	usar
+3660.	quince	18	quince
+3661.	prometido	18	prometido prometer
+3662.	preciso	18	preciso
+3663.	pirata	18	pirata
+3664.	moral	18	moral
+3665.	moneda	18	moneda
+3666.	haberle	18	haber
+3667.	estuvieras	18	estar
+3668.	dijimos	18	decir
+3669.	cayendo	18	caer
+3670.	bajas	18	bajo baja
+3671.	viniera	18	venir
+3672.	soñando	18	soñar
+3673.	servirá	18	servir
+3674.	moscú	18	Moscú
+3675.	mínimo	18	mínimo
+3676.	hermosas	18	hermoso
+3677.	escondido	18	escondido esconder
+3678.	demostrar	18	demostrar
+3679.	perrito	18	perrito perro
+3680.	intente	18	intentar
+3681.	habrán	18	haber
+3682.	experimento	18	experimento
+3683.	espaldas	18	espalda
+3684.	diseño	18	diseño diseñar
+3685.	barra	18	barra barrer
+3686.	anciano	18	anciano
+3687.	alfombra	18	alfombra alfombrar
+3688.	actriz	18	actriz
+3689.	tono	18	tono
+3690.	sentarse	18	sentar
+3691.	remedio	18	remedio
+3692.	listas	18	lista listo
+3693.	gris	18	gris
+3694.	enviaron	18	enviar
+3695.	entendiste	18	entender
+3696.	disfrutar	18	disfrutar
+3697.	contaré	18	contar
+3698.	comen	18	comer
+3699.	sentada	18	sentado sentar
+3700.	pregunte	18	preguntar
+3701.	japonés	18	japonés
+3702.	gritos	18	grito
+3703.	dolares	18	dólar
+3704.	asegurarme	18	asegurar
+3705.	restos	18	resto
+3706.	pierdo	18	perder
+3707.	motivos	18	motivo
+3708.	dimos	18	decir
+3709.	campeonato	18	campeonato
+3710.	apúrense	18	apurar
+3711.	unico	18	único
+3712.	reír	18	reír
+3713.	prima	18	prima
+3714.	maricón	18	maricón
+3715.	actúa	18	actuar
+3716.	periodista	18	periodista
+3717.	luchando	18	luchar
+3718.	estelar	18	estelar
+3719.	escritor	18	escritor
+3720.	encontrarás	18	encontrar
+3721.	dejando	18	dejar
+3722.	adecuado	18	adecuado
+3723.	terrorista	18	terrorista
+3724.	hierro	18	hierro
+3725.	enterrado	18	enterrado enterrar
+3726.	sincero	18	sincero
+3727.	representa	18	representar
+3728.	positivo	18	positivo
+3729.	mereces	18	merecer
+3730.	italia	18	Italia
+3731.	fea	18	feo
+3732.	acerques	18	acercar
+3733.	petróleo	18	petróleo
+3734.	encargado	18	encargado encargar
+3735.	capítulo	18	capítulo
+3736.	enseñaré	18	enseñar
+3737.	cuentos	18	cuento
+3738.	breve	18	breve
+3739.	atreves	18	atrever
+3740.	súbete	18	subir
+3741.	sed	18	sed
+3742.	patético	18	patético
+3743.	mostrarte	18	mostrar
+3744.	doctores	18	doctor
+3745.	carácter	18	carácter
+3746.	tuyos	18	tuyo
+3747.	plaza	18	plaza
+3748.	obispo	18	obispo
+3749.	necesite	18	necesitar
+3750.	muevan	18	mover
+3751.	involucrado	18	involucrado involucrar
+3752.	darán	18	dar
+3753.	ingleses	18	inglés
+3754.	usas	18	usar
+3755.	ruedas	18	rueda
+3756.	prácticamente	18	prácticamente
+3757.	orejas	18	oreja
+3758.	golpeó	18	golpear
+3759.	costado	18	costado costar
+3760.	conducta	18	conducta
+3761.	toman	18	tomar
+3762.	suban	18	subir
+3763.	médica	18	médica médico
+3764.	manzana	18	manzana
+3765.	escuadrón	18	escuadrón
+3766.	reconozco	18	reconocer
+3767.	ordenes	18	orden
+3768.	gallina	18	gallina
+3769.	cambiando	18	cambiar
+3770.	borde	18	borde
+3771.	ataques	18	ataque
+3772.	actual	18	actual
+3773.	pecados	18	pecado
+3774.	invito	18	invitar
+3775.	inconsciente	18	inconsciente
+3776.	bastardos	18	bastardo
+3777.	abrió	18	abrir
+3778.	oyeron	18	oír
+3779.	intentaba	18	intentar
+3780.	cuartel	18	cuartel
+3781.	consciente	18	consciente
+3782.	tranquilízate	18	tranquilizar
+3783.	suyos	18	suyo
+3784.	residencia	18	residencia
+3785.	máxima	18	máximo
+3786.	llevarla	18	llevar
+3787.	grasa	18	grasa
+3788.	células	18	célula
+3789.	retrocedan	18	retroceder
+3790.	recepción	18	recepción
+3791.	medicinas	18	medicina
+3792.	explotar	18	explotar
+3793.	corona	18	corona
+3794.	callate	18	callar
+3795.	calidad	18	calidad
+3796.	ayúdeme	18	ayudar
+3797.	asesina	18	asesina asesino asesinar
+3798.	absurdo	18	absurdo
+3799.	revés	18	revés
+3800.	producto	18	producto
+3801.	encontrarla	18	encontrar
+3802.	dj	18	DJ
+3803.	descansa	18	descansar
+3804.	copias	18	copia
+3805.	apagar	18	apagar
+3806.	profesionales	18	profesional
+3807.	práctica	18	práctica
+3808.	investigando	18	investigar
+3809.	francamente	18	francamente
+3810.	afganistán	18	Afganistán
+3811.	vecino	17	vecino
+3812.	trozo	17	trozo
+3813.	tómate	17	tomar tomate
+3814.	tercero	17	tercero
+3815.	sirven	17	servir
+3816.	saquen	17	sacar
+3817.	manual	17	manual
+3818.	enciende	17	encender
+3819.	cercano	17	cercano
+3820.	bailando	17	bailar
+3821.	atras	17	atrás
+3822.	usarlo	17	usar
+3823.	telefono	17	teléfono
+3824.	registros	17	registro
+3825.	ponlo	17	poner
+3826.	pasta	17	pasta pastar
+3827.	lleguen	17	llegar
+3828.	saliste	17	salir
+3829.	sabrás	17	saber
+3830.	limpieza	17	limpieza
+3831.	estadounidense	17	estadounidense
+3832.	enojada	17	enojado enojar
+3833.	desafortunadamente	17	desafortunadamente
+3834.	conoció	17	conocer
+3835.	pinta	17	pinta pintar
+3836.	matamos	17	matar
+3837.	funcionan	17	funcionar
+3838.	cocinar	17	cocinar
+3839.	cima	17	cima
+3840.	atractivo	17	atractivo
+3841.	preguntes	17	preguntar
+3842.	necesitaré	17	necesitar
+3843.	lleguemos	17	llegar
+3844.	interrumpir	17	interrumpir
+3845.	haberla	17	haber
+3846.	apropiado	17	apropiado
+3847.	presentimiento	17	presentimiento
+3848.	intentamos	17	intentar
+3849.	finales	17	final
+3850.	evitarlo	17	evitar
+3851.	enviaré	17	enviar
+3852.	deporte	17	deporte
+3853.	bajando	17	bajar
+3854.	sucia	17	sucio
+3855.	recibimos	17	recibir
+3856.	pastillas	17	pastilla
+3857.	ceremonia	17	ceremonia
+3858.	tina	17	tina
+3859.	muelle	17	muelle
+3860.	maletas	17	maleta
+3861.	hijas	17	hija
+3862.	desconocido	17	desconocido desconocer
+3863.	conseguiré	17	conseguir
+3864.	refugio	17	refugio refugiar
+3865.	imagina	17	imaginar
+3866.	franceses	17	francés
+3867.	convertirse	17	convertir
+3868.	arruinado	17	arruinado arruinar
+3869.	vomitar	17	vomitar
+3870.	pasajeros	17	pasajero
+3871.	normales	17	normal
+3872.	disfraz	17	disfraz
+3873.	continúe	17	continuar
+3874.	arreglado	17	arreglado arreglar
+3875.	aprende	17	aprender
+3876.	venimos	17	venir
+3877.	tenerte	17	tener
+3878.	seguirá	17	seguir
+3879.	razonable	17	razonable
+3880.	puesta	17	puesta puesto poner
+3881.	masaje	17	masaje
+3882.	lágrimas	17	lágrima
+3883.	gustaria	17	gustar
+3884.	extranjero	17	extranjero
+3885.	dejaremos	17	dejar
+3886.	apellido	17	apellido
+3887.	alguacil	17	alguacil
+3888.	temporal	17	temporal
+3889.	rompe	17	romper
+3890.	mayo	17	mayo
+3891.	egoísta	17	egoísta
+3892.	aceite	17	aceite
+3893.	platos	17	plato
+3894.	miércoles	17	miércoles
+3895.	indios	17	indio
+3896.	decimos	17	decir
+3897.	bolsas	17	bolsa
+3898.	anuncio	17	anuncio
+3899.	tirado	17	tirado tirar
+3900.	notado	17	notado notar
+3901.	mutantes	17	mutante
+3902.	imaginas	17	imaginar
+3903.	habitaciones	17	habitación
+3904.	grecia	17	Grecia
+3905.	entré	17	entrar
+3906.	díselo	17	decir
+3907.	césar	17	césar César
+3908.	comprado	17	comprado comprar
+3909.	cocaína	17	cocaína
+3910.	amarillo	17	amarillo
+3911.	acabará	17	acabar
+3912.	suceda	17	suceder
+3913.	mentes	17	mente
+3914.	maldad	17	maldad
+3915.	gustará	17	gustar
+3916.	eliminar	17	eliminar
+3917.	corbata	17	corbata
+3918.	atrapados	17	atrapado atrapar
+3919.	sabíamos	17	saber
+3920.	merezco	17	merecer
+3921.	medalla	17	medalla
+3922.	lograste	17	lograr
+3923.	jaula	17	jaula
+3924.	dió	17	dar
+3925.	chofer	17	chofer
+3926.	informado	17	informado informar
+3927.	fatal	17	fatal
+3928.	enfadado	17	enfadado enfadar
+3929.	cubierto	17	cubierto cubrir
+3930.	compañera	17	compañera
+3931.	ronda	17	ronda rondar
+3932.	cobra	17	cobra cobrar
+3933.	cantante	17	cantante
+3934.	abrazo	17	abrazo abrazar
+3935.	tarjetas	17	tarjeta
+3936.	sentarme	17	sentar
+3937.	refería	17	referir
+3938.	indica	17	indicar
+3939.	gravedad	17	gravedad
+3940.	ganando	17	ganar
+3941.	estúpidos	17	estúpido
+3942.	elecciones	17	elección
+3943.	collar	17	collar
+3944.	cincuenta	17	cincuenta
+3945.	programas	17	programa
+3946.	naturalmente	17	naturalmente
+3947.	embajada	17	embajada
+3948.	desayunar	17	desayunar
+3949.	dejaría	17	dejar
+3950.	vigila	17	vigilar
+3951.	quisieras	17	querer
+3952.	intereses	17	interés
+3953.	agárrate	17	agarrar
+3954.	aéreo	17	aéreo
+3955.	traición	17	traición
+3956.	seguiré	17	seguir
+3957.	salvajes	17	salvaje
+3958.	prefiere	17	preferir
+3959.	podéis	17	poder
+3960.	mueres	17	morir
+3961.	molestar	17	molestar
+3962.	italiano	17	italiano
+3963.	dejarla	17	dejar
+3964.	corazones	17	corazón
+3965.	averiguarlo	17	averiguar
+3966.	ave	17	ave
+3967.	arreglarlo	17	arreglar
+3968.	advierto	17	advertir
+3969.	vendiendo	17	vender
+3970.	pública	17	público
+3971.	monje	17	monje
+3972.	jugamos	17	jugar
+3973.	hablarme	17	hablar
+3974.	escoger	17	escoger
+3975.	andas	17	andar
+3976.	ví	17	ver
+3977.	pico	17	pico
+3978.	llevé	17	llevar
+3979.	entro	17	entrar
+3980.	tenias	17	tener
+3981.	priorato	17	priorato
+3982.	perdemos	17	perder
+3983.	industria	17	industria
+3984.	cretino	17	cretino
+3985.	cafetería	17	cafetería
+3986.	cabaña	17	cabaña
+3987.	aparecer	17	aparecer
+3988.	tradición	17	tradición
+3989.	suelto	17	suelto soltar
+3990.	publicidad	17	publicidad
+3991.	pares	17	parar par
+3992.	oídos	17	oído
+3993.	medida	17	medida medir
+3994.	japoneses	17	japonés
+3995.	dieta	17	dieta
+3996.	capa	17	capa
+3997.	vendrás	16	venir
+3998.	sincronizado	16	sincronizado sincronizar
+3999.	historial	16	historial
+4000.	guión	16	guión
+4001.	enano	16	enano
+4002.	devolver	16	devolver
+4003.	solitario	16	solitario
+4004.	misiles	16	misil
+4005.	desnuda	16	desnudo desnudar
+4006.	vaquero	16	vaquero
+4007.	únicos	16	único
+4008.	trasera	16	trasero
+4009.	sano	16	sano
+4010.	piezas	16	pieza
+4011.	liga	16	liga ligar
+4012.	gerente	16	gerente
+4013.	caridad	16	caridad
+4014.	armados	16	armado armar
+4015.	trajeron	16	traer
+4016.	religión	16	religión
+4017.	fotografías	16	fotografía
+4018.	sentirse	16	sentir
+4019.	rezar	16	rezar
+4020.	protege	16	proteger
+4021.	preparen	16	preparar
+4022.	niñera	16	niñera
+4023.	naranja	16	naranja naranjo
+4024.	matarnos	16	matar
+4025.	jugada	16	jugada jugar
+4026.	espérame	16	esperar
+4027.	enseñarte	16	enseñar
+4028.	cohete	16	cohete
+4029.	tanques	16	tanque
+4030.	sombras	16	sombra
+4031.	moverse	16	mover
+4032.	llegara	16	llegar
+4033.	cortó	16	cortar
+4034.	cierren	16	cerrar
+4035.	volverán	16	volver
+4036.	usamos	16	usar
+4037.	sabremos	16	saber
+4038.	maletín	16	maletín
+4039.	lenguaje	16	lenguaje
+4040.	invitación	16	invitación
+4041.	cambian	16	cambiar
+4042.	rehenes	16	rehén
+4043.	encontremos	16	encontrar
+4044.	descubrí	16	descubrir
+4045.	audiencia	16	audiencia
+4046.	agenda	16	agenda
+4047.	sígueme	16	seguir
+4048.	sensible	16	sensible
+4049.	reverendo	16	reverendo
+4050.	queréis	16	querer
+4051.	cazar	16	cazar
+4052.	bodas	16	boda
+4053.	seguiremos	16	seguir
+4054.	rosas	16	rosa
+4055.	retiro	16	retiro retirar
+4056.	primeras	16	primero
+4057.	poderosa	16	poderoso
+4058.	deberia	16	deber
+4059.	cantando	16	cantar
+4060.	antiguos	16	antiguo
+4061.	teme	16	temer
+4062.	síganme	16	seguir
+4063.	moviendo	16	mover
+4064.	juventud	16	juventud
+4065.	equivocas	16	equivocar
+4066.	trabajadores	16	trabajador
+4067.	seguí	16	seguir
+4068.	salvaste	16	salvar
+4069.	pulmones	16	pulmón
+4070.	payaso	16	payaso
+4071.	oírlo	16	oír
+4072.	fama	16	fama
+4073.	engaño	16	engaño engañar
+4074.	distrito	16	distrito
+4075.	disculparme	16	disculpar
+4076.	ciudadano	16	ciudadano
+4077.	robando	16	robar
+4078.	equipaje	16	equipaje
+4079.	ciencias	16	ciencia
+4080.	ubicación	16	ubicación
+4081.	federales	16	federal
+4082.	tratamos	16	tratar
+4083.	ofrece	16	ofrecer
+4084.	junio	16	junio
+4085.	extremadamente	16	extremadamente
+4086.	actuando	16	actuar
+4087.	traducción	16	traducción
+4088.	supiste	16	saber
+4089.	sacarlo	16	sacar
+4090.	preparando	16	preparar
+4091.	letras	16	letra
+4092.	típico	16	típico
+4093.	reserva	16	reserva reservar
+4094.	propuesta	16	propuesta propuesto proponer
+4095.	plataforma	16	plataforma
+4096.	mago	16	mago
+4097.	linea	16	linea
+4098.	dude	16	dudar
+4099.	busque	16	buscar
+4100.	tabaco	16	tabaco
+4101.	principios	16	principio
+4102.	dormida	16	dormido dormir
+4103.	costó	16	costar
+4104.	causar	16	causar
+4105.	temer	16	temer
+4106.	subiendo	16	subir
+4107.	rollo	16	rollo
+4108.	hechizo	16	hechizo hechizar
+4109.	gusano	16	gusano
+4110.	guau	16	guau
+4111.	grupos	16	grupo
+4112.	discos	16	disco
+4113.	despierte	16	despertar
+4114.	ocurriendo	16	ocurrir
+4115.	horario	16	horario
+4116.	expedientes	16	expediente
+4117.	envié	16	enviar
+4118.	dibujos	16	dibujo
+4119.	concurso	16	concurso
+4120.	autopista	16	autopista
+4121.	atacó	16	atacar
+4122.	vendedor	16	vendedor
+4123.	sigas	16	seguir
+4124.	rebeldes	16	rebelde
+4125.	radar	16	radar
+4126.	expresión	16	expresión
+4127.	escuchan	16	escuchar
+4128.	use	16	usar
+4129.	resultó	16	resultar
+4130.	principe	16	príncipe
+4131.	hágalo	16	hacer
+4132.	exposición	16	exposición
+4133.	demasiadas	16	demasiado
+4134.	cuidando	16	cuidar
+4135.	aterrizaje	16	aterrizaje
+4136.	apetece	16	apetecer
+4137.	tomaron	16	tomar
+4138.	sorprendente	16	sorprendente
+4139.	responda	16	responder
+4140.	olvidaste	16	olvidar
+4141.	lobos	16	lobo
+4142.	echado	16	echado echar
+4143.	deberias	16	deber
+4144.	cortado	16	cortado cortar
+4145.	citas	16	cita
+4146.	abiertos	16	abierto abrir
+4147.	zapato	16	zapato
+4148.	preso	16	preso
+4149.	lastimar	16	lastimar
+4150.	explosivos	16	explosivo
+4151.	colegas	16	colega
+4152.	supieras	16	saber
+4153.	secretaria	16	secretaria
+4154.	queridos	16	querido querer
+4155.	morirás	16	morir
+4156.	cuero	16	cuero
+4157.	confesión	16	confesión
+4158.	círculo	16	círculo
+4159.	sabéis	16	saber
+4160.	química	16	química
+4161.	obras	16	obra obrar
+4162.	llores	16	llorar
+4163.	juegas	16	jugar
+4164.	invisible	16	invisible
+4165.	fase	16	fase
+4166.	esconde	16	esconder
+4167.	capitan	16	capitán
+4168.	adulto	16	adulto
+4169.	vacía	16	vacío
+4170.	siéntense	16	sentar
+4171.	pastor	16	pastor
+4172.	llegada	16	llegada llegar
+4173.	gatillo	16	gatillo
+4174.	debamos	16	deber
+4175.	teléfonos	16	teléfono
+4176.	saqué	16	sacar
+4177.	regresará	16	regresar
+4178.	olvidaré	16	olvidar
+4179.	límites	16	límite
+4180.	jovencita	16	jovencita
+4181.	dibujo	16	dibujo dibujar
+4182.	británico	16	británico
+4183.	balboa	16	balboa
+4184.	psiquiatra	15	psiquiatra
+4185.	objetos	15	objeto
+4186.	negociar	15	negociar
+4187.	formar	15	formar
+4188.	fiel	15	fiel
+4189.	diosa	15	diosa
+4190.	descubrió	15	descubrir
+4191.	ala	15	ala
+4192.	abril	15	abril
+4193.	saldré	15	salir
+4194.	mías	15	mío
+4195.	disfruta	15	disfrutar
+4196.	atender	15	atender
+4197.	tomaremos	15	tomar
+4198.	oreja	15	oreja
+4199.	necesitaremos	15	necesitar
+4200.	motores	15	motor
+4201.	intenciones	15	intención
+4202.	cumplido	15	cumplido cumplir
+4203.	brindis	15	brindis
+4204.	villa	15	villa
+4205.	trono	15	trono
+4206.	traen	15	traer
+4207.	sentados	15	sentado sentar
+4208.	samurai	15	samurai
+4209.	salía	15	salir
+4210.	raras	15	raro
+4211.	producción	15	producción
+4212.	medias	15	medio
+4213.	lavar	15	lavar
+4214.	jazz	15	jazz
+4215.	extraordinario	15	extraordinario
+4216.	causado	15	causado causar
+4217.	serpientes	15	serpiente
+4218.	revisa	15	revisar
+4219.	quedate	15	quedar
+4220.	nervios	15	nervio
+4221.	estable	15	estable
+4222.	cerdos	15	cerdo
+4223.	riesgos	15	riesgo
+4224.	pasaste	15	pasar
+4225.	madres	15	madre
+4226.	instinto	15	instinto
+4227.	episodio	15	episodio
+4228.	empezaron	15	empezar
+4229.	aniversario	15	aniversario
+4230.	viera	15	ver
+4231.	viajes	15	viaje
+4232.	trabajé	15	trabajar
+4233.	rango	15	rango
+4234.	preocupación	15	preocupación
+4235.	métete	15	meter
+4236.	imaginé	15	imaginar
+4237.	hayamos	15	haber
+4238.	fenómeno	15	fenómeno
+4239.	dolores	15	dolor
+4240.	demanda	15	demanda demandar
+4241.	creó	15	creer
+4242.	asegurar	15	asegurar
+4243.	pesadillas	15	pesadilla
+4244.	niega	15	negar
+4245.	molestia	15	molestia
+4246.	extremo	15	extremo
+4247.	debilidad	15	debilidad
+4248.	compasión	15	compasión
+4249.	camiones	15	camión
+4250.	aproximadamente	15	aproximadamente
+4251.	afecta	15	afectar
+4252.	administración	15	administración
+4253.	reconocimiento	15	reconocimiento
+4254.	recientemente	15	recientemente
+4255.	practicar	15	practicar
+4256.	pierdas	15	perder
+4257.	pandilla	15	pandilla
+4258.	miss	15	miss
+4259.	mates	15	matar mate
+4260.	disparando	15	disparar
+4261.	británicos	15	británico
+4262.	ayudarlos	15	ayudar
+4263.	sueldo	15	sueldo
+4264.	siguió	15	seguir
+4265.	significado	15	significado significar
+4266.	miente	15	mentir
+4267.	medidas	15	medida medir
+4268.	guitarra	15	guitarra
+4269.	custodia	15	custodia
+4270.	boletos	15	boleto
+4271.	ayudado	15	ayudar
+4272.	sentarte	15	sentar
+4273.	risa	15	risa
+4274.	quemar	15	quemar
+4275.	prometió	15	prometer
+4276.	observando	15	observar
+4277.	lectura	15	lectura
+4278.	jódete	15	joder
+4279.	considerado	15	considerado considerar
+4280.	cometer	15	cometer
+4281.	cambié	15	cambiar
+4282.	asientos	15	asiento
+4283.	satisfecho	15	satisfecho satisfacer
+4284.	saludable	15	saludable
+4285.	lanzar	15	lanzar
+4286.	hoja	15	hoja
+4287.	conozca	15	conocer
+4288.	concepto	15	concepto
+4289.	colgar	15	colgar
+4290.	apunta	15	apuntar
+4291.	renta	15	renta rentar
+4292.	prefieres	15	preferir
+4293.	pediré	15	pedir
+4294.	mediodía	15	mediodía
+4295.	influencia	15	influencia
+4296.	hacernos	15	hacer
+4297.	figura	15	figura figurar
+4298.	ensayo	15	ensayo ensayar
+4299.	coordenadas	15	coordenada
+4300.	casó	15	casar
+4301.	político	15	político
+4302.	países	15	país
+4303.	once	15	once
+4304.	matarlos	15	matar
+4305.	graduación	15	graduación
+4306.	frase	15	frase
+4307.	eterna	15	eterno
+4308.	estarlo	15	estar
+4309.	descuida	15	descuidar
+4310.	toalla	15	toalla
+4311.	próximos	15	próximo
+4312.	monedas	15	moneda
+4313.	mirad	15	mirar
+4314.	miraba	15	mirar
+4315.	griegos	15	griego
+4316.	famosa	15	famoso
+4317.	corredor	15	corredor
+4318.	atravesar	15	atravesar
+4319.	aguas	15	agua
+4320.	modales	15	modal
+4321.	guerras	15	guerra
+4322.	eternidad	15	eternidad
+4323.	conocerla	15	conocer
+4324.	busquen	15	buscar
+4325.	acuerda	15	acuerdo acordar
+4326.	sentirme	15	sentir
+4327.	quema	15	quemar
+4328.	poema	15	poema
+4329.	ordenó	15	ordenar
+4330.	espiritual	15	espiritual
+4331.	costumbre	15	costumbre
+4332.	comencé	15	comenzar
+4333.	cabra	15	cabra
+4334.	alquiler	15	alquiler
+4335.	vencido	15	vencido vencer
+4336.	vela	15	vela velar
+4337.	trataré	15	tratar
+4338.	sospechosos	15	sospechoso
+4339.	quinto	15	quinto
+4340.	pilotos	15	piloto
+4341.	perdieron	15	perder
+4342.	generación	15	generación
+4343.	formación	15	formación
+4344.	estructura	15	estructura
+4345.	concéntrate	15	concentrar
+4346.	complejo	15	complejo
+4347.	voces	15	voz
+4348.	tragos	15	trago
+4349.	temor	15	temor
+4350.	república	15	república
+4351.	recursos	15	recurso
+4352.	presentación	15	presentación
+4353.	pirámide	15	pirámide
+4354.	oficialmente	15	oficialmente
+4355.	maquillaje	15	maquillaje
+4356.	guardaespaldas	15	guardaespaldas
+4357.	escucharme	15	escuchar
+4358.	dejara	15	dejar
+4359.	contiene	15	contener
+4360.	bendición	15	bendición
+4361.	vuestros	15	vuestro
+4362.	semejante	15	semejante
+4363.	pague	15	pagar
+4364.	molestes	15	molestar
+4365.	cultura	15	cultura
+4366.	comió	15	comer
+4367.	antecedentes	15	antecedente
+4368.	tendríamos	15	tener
+4369.	representante	15	representante
+4370.	prestado	15	prestado prestar
+4371.	posesión	15	posesión
+4372.	oir	15	oír
+4373.	nubes	15	nube
+4374.	meterte	15	meter
+4375.	guantes	15	guante
+4376.	esperabas	15	esperar
+4377.	enseña	15	enseñar
+4378.	encontrarme	15	encontrar
+4379.	consejos	15	consejo
+4380.	regreses	15	regresar
+4381.	preocupen	15	preocupar
+4382.	pistolas	15	pistola
+4383.	gane	15	ganar
+4384.	sos	15	ser
+4385.	niveles	15	nivel
+4386.	ganaste	15	ganar
+4387.	considerando	15	considerar
+4388.	capital	15	capital
+4389.	cambie	15	cambiar
+4390.	ánimo	15	ánimo
+4391.	utilizar	15	utilizar
+4392.	lograrlo	15	lograr
+4393.	llévate	15	llevar
+4394.	gafas	15	gafas
+4395.	espíritus	15	espíritu
+4396.	preguntaste	15	preguntar
+4397.	pagará	15	pagar
+4398.	maíz	15	maíz
+4399.	estacionamiento	15	estacionamiento
+4400.	contactos	15	contacto contactar
+4401.	aguja	15	aguja
+4402.	trenes	15	tren
+4403.	soporto	15	soportar
+4404.	sacaré	15	sacar
+4405.	oido	15	oído
+4406.	fortaleza	15	fortaleza
+4407.	corea	15	corea
+4408.	conversar	15	conversar
+4409.	computadoras	15	computadora
+4410.	cálmese	15	calmar
+4411.	volante	15	volante
+4412.	sucederá	15	suceder
+4413.	decías	15	decir
+4414.	data	15	data
+4415.	cuente	15	contar
+4416.	civilización	15	civilización
+4417.	cabrones	15	cabrón
+4418.	arruinar	15	arruinar
+4419.	vampiro	14	vampiro
+4420.	tocó	14	tocar
+4421.	regresé	14	regresar
+4422.	pases	14	pasar
+4423.	fantástica	14	fantástico
+4424.	facil	14	fácil
+4425.	estabamos	14	estar
+4426.	diera	14	dar
+4427.	detenga	14	detener
+4428.	violación	14	violación
+4429.	hemorragia	14	hemorragia
+4430.	fianza	14	fianza
+4431.	docena	14	docena
+4432.	centavo	14	centavo
+4433.	célula	14	célula
+4434.	carreras	14	carrera
+4435.	callado	14	callado callar
+4436.	rodilla	14	rodilla
+4437.	prometes	14	prometer
+4438.	profundamente	14	profundamente
+4439.	posiciones	14	posición
+4440.	hicieras	14	hacer
+4441.	furioso	14	furioso
+4442.	desperté	14	despertar
+4443.	comes	14	comer
+4444.	ciega	14	ciego
+4445.	cicatriz	14	cicatriz
+4446.	bebidas	14	bebida bebido beber
+4447.	acércate	14	acercar
+4448.	tiró	14	tirar
+4449.	policial	14	policial
+4450.	pasear	14	pasear
+4451.	masa	14	masa
+4452.	llegues	14	llegar
+4453.	global	14	global
+4454.	escapado	14	escapado escapar
+4455.	dinos	14	decir
+4456.	cuarta	14	cuarto
+4457.	bienes	14	bien
+4458.	aparato	14	aparato
+4459.	sostén	14	sostén sostener
+4460.	realizar	14	realizar
+4461.	permitiré	14	permitir
+4462.	orgullosos	14	orgulloso
+4463.	corten	14	cortar
+4464.	comisión	14	comisión
+4465.	vidrio	14	vidrio
+4466.	presa	14	presa preso
+4467.	ocupados	14	ocupado ocupar
+4468.	morfina	14	morfina
+4469.	habrían	14	haber
+4470.	columna	14	columna
+4471.	sacaron	14	sacar
+4472.	patas	14	pata
+4473.	oírme	14	oír
+4474.	ocultar	14	ocultar
+4475.	objeción	14	objeción
+4476.	maneja	14	manejar
+4477.	largas	14	largo largar
+4478.	generalmente	14	generalmente
+4479.	fuentes	14	fuente
+4480.	cubrir	14	cubrir
+4481.	ataca	14	atacar
+4482.	tenis	14	tenis
+4483.	santos	14	santo
+4484.	potencial	14	potencial
+4485.	plano	14	plano
+4486.	levante	14	levantar
+4487.	escala	14	escala escalar
+4488.	enfrentar	14	enfrentar
+4489.	cuánta	14	cuánto cuanto
+4490.	sobra	14	sobra sobrar
+4491.	rumor	14	rumor
+4492.	páginas	14	página
+4493.	órganos	14	órgano
+4494.	león	14	león
+4495.	entras	14	entrar
+4496.	decían	14	decir
+4497.	chinos	14	chino
+4498.	brujas	14	bruja
+4499.	barbara	14	bárbaro Barbara
+4500.	admiro	14	admirar
+4501.	voto	14	voto votar
+4502.	volvieron	14	volver
+4503.	suelte	14	soltar
+4504.	reto	14	reto retar
+4505.	metes	14	meter
+4506.	infarto	14	infarto
+4507.	cuyo	14	cuyo
+4508.	construyó	14	construir
+4509.	boleto	14	boleto
+4510.	besar	14	besar
+4511.	portal	14	portal
+4512.	ponemos	14	poner
+4513.	monte	14	monte
+4514.	discusión	14	discusión
+4515.	digno	14	digno
+4516.	desean	14	desear
+4517.	darse	14	dar
+4518.	considerar	14	considerar
+4519.	bancos	14	banco
+4520.	poción	14	poción
+4521.	perdóneme	14	perdonar
+4522.	pensabas	14	pensar
+4523.	generoso	14	generoso
+4524.	estatua	14	estatua
+4525.	convencer	14	convencer
+4526.	conocida	14	conocida conocido conocer
+4527.	comenzamos	14	comenzar
+4528.	aceptado	14	aceptado aceptar
+4529.	rob	14	rob Rob
+4530.	importar	14	importar
+4531.	fracaso	14	fracaso fracasar
+4532.	ciertos	14	cierto
+4533.	bomberos	14	bombero
+4534.	sorprendido	14	sorprendido sorprender
+4535.	protegido	14	protegido proteger
+4536.	presenta	14	presentar
+4537.	metí	14	meter
+4538.	entenderlo	14	entender
+4539.	detengan	14	detener
+4540.	conflicto	14	conflicto
+4541.	códigos	14	código
+4542.	seco	14	seco
+4543.	sabiendo	14	saber
+4544.	hacerla	14	hacer
+4545.	graves	14	grave
+4546.	dejarás	14	dejar
+4547.	convencido	14	convencido convencer
+4548.	comprende	14	comprender
+4549.	bromas	14	broma
+4550.	oyen	14	oír
+4551.	moleste	14	molestar
+4552.	mencionar	14	mencionar
+4553.	gastos	14	gasto
+4554.	estaríamos	14	estar
+4555.	esperaremos	14	esperar
+4556.	encontrarán	14	encontrar
+4557.	billetes	14	billete
+4558.	arco	14	arco
+4559.	altos	14	alto
+4560.	actores	14	actor
+4561.	talvez	14	talvez
+4562.	sitios	14	sitio
+4563.	saluda	14	saludar
+4564.	quejas	14	queja quejar
+4565.	planeando	14	planear
+4566.	moriremos	14	morir
+4567.	marica	14	marica
+4568.	habrías	14	haber
+4569.	estarían	14	estar
+4570.	dejarán	14	dejar
+4571.	amantes	14	amante
+4572.	acostumbrado	14	acostumbrado acostumbrar
+4573.	torneo	14	torneo tornear
+4574.	planos	14	plano
+4575.	ordeno	14	ordenar
+4576.	miré	14	mirar
+4577.	maldicion	14	maldición
+4578.	kg	14	kg kilogramo
+4579.	dirías	14	decir
+4580.	confirmado	14	confirmado confirmar
+4581.	vacas	14	vaca
+4582.	quirófano	14	quirófano
+4583.	ponerlo	14	poner
+4584.	origen	14	origen
+4585.	fusión	14	fusión
+4586.	deberá	14	deber
+4587.	verdaderos	14	verdadero
+4588.	serían	14	ser
+4589.	seguía	14	seguir
+4590.	sabrán	14	saber
+4591.	pasaje	14	pasaje
+4592.	necesidades	14	necesidad
+4593.	lavado	14	lavado lavar
+4594.	galaxia	14	galaxia
+4595.	fresca	14	fresco
+4596.	doloroso	14	doloroso
+4597.	comenzado	14	comenzar
+4598.	uñas	14	uña
+4599.	trajes	14	traje
+4600.	perfil	14	perfil
+4601.	necesitará	14	necesitar
+4602.	manejando	14	manejar
+4603.	lola	14	lola lolo Lola
+4604.	lentes	14	lente lentes
+4605.	engañar	14	engañar
+4606.	cállense	14	callar
+4607.	bate	14	bate batir
+4608.	automático	14	automático
+4609.	tuyas	14	tuyo
+4610.	quedarás	14	quedar
+4611.	profunda	14	profundo
+4612.	piensen	14	pensar
+4613.	permiten	14	permitir
+4614.	heredero	14	heredero
+4615.	entraron	14	entrar
+4616.	canadá	14	Canadá
+4617.	caminos	14	camino
+4618.	sintió	14	sentir
+4619.	robé	14	robar
+4620.	porno	14	porno
+4621.	lejano	14	lejano
+4622.	intercambio	14	intercambio intercambiar
+4623.	hojas	14	hoja
+4624.	dispare	14	disparar
+4625.	cuan	14	cuan
+4626.	champaña	14	champaña
+4627.	atractiva	14	atractivo
+4628.	terminal	14	terminal
+4629.	rita	14	rito Rita
+4630.	poesía	14	poesía
+4631.	pierda	14	perder
+4632.	expertos	14	experto
+4633.	ensalada	14	ensalada
+4634.	convertir	14	convertir
+4635.	calientes	14	caliente
+4636.	autopsia	14	autopsia
+4637.	tristeza	14	tristeza
+4638.	tiendas	14	tienda tender
+4639.	mafia	14	mafia
+4640.	jodas	14	joder
+4641.	escuchó	14	escuchar
+4642.	enormes	14	enorme
+4643.	denme	14	dar
+4644.	atacaron	14	atacar
+4645.	almacén	14	almacén
+4646.	sufrió	14	sufrir
+4647.	productos	14	producto
+4648.	productor	14	productor
+4649.	permitido	14	permitido permitir
+4650.	pegó	14	pegar
+4651.	matarla	14	matar
+4652.	interno	14	interno
+4653.	interna	14	interno internar
+4654.	infantil	14	infantil
+4655.	españa	14	España
+4656.	diarios	14	diario
+4657.	combinación	14	combinación
+4658.	acompañe	14	acompañar
+4659.	ropas	14	ropa
+4660.	pondremos	14	poner
+4661.	metiste	14	meter
+4662.	esencia	14	esencia
+4663.	brillantes	14	brillante
+4664.	bingo	14	bingo
+4665.	sordo	13	sordo
+4666.	sacas	13	sacar
+4667.	rancho	13	rancho
+4668.	objetivos	13	objetivo
+4669.	muebles	13	mueble
+4670.	mencionó	13	mencionar
+4671.	estupido	13	estúpido
+4672.	enterado	13	enterado enterar
+4673.	documento	13	documento
+4674.	vencer	13	vencer
+4675.	sintiendo	13	sentir
+4676.	quieta	13	quieto
+4677.	período	13	período
+4678.	oportunidades	13	oportunidad
+4679.	monos	13	mono
+4680.	mercancía	13	mercancía
+4681.	lastimado	13	lastimado lastimar
+4682.	internos	13	interno
+4683.	hueco	13	hueco
+4684.	golpea	13	golpear
+4685.	evento	13	evento
+4686.	estudiando	13	estudiar
+4687.	elige	13	elegir
+4688.	crecido	13	crecido crecer
+4689.	conspiración	13	conspiración
+4690.	avenida	13	avenida
+4691.	tremendo	13	tremendo
+4692.	tocas	13	tocar
+4693.	sabias	13	sabio saber
+4694.	raya	13	raya rayar
+4695.	líos	13	lío
+4696.	invitar	13	invitar
+4697.	homicidios	13	homicidio
+4698.	herramientas	13	herramienta
+4699.	flecha	13	flecha
+4700.	derrota	13	derrota
+4701.	cervezas	13	cerveza
+4702.	terminará	13	terminar
+4703.	llenar	13	llenar
+4704.	líderes	13	líder
+4705.	ganan	13	ganar
+4706.	fingir	13	fingir
+4707.	estrategia	13	estrategia
+4708.	dirán	13	decir
+4709.	confías	13	confiar
+4710.	cómoda	13	cómoda cómodo
+4711.	comience	13	comenzar
+4712.	cenizas	13	ceniza
+4713.	capaces	13	capaz
+4714.	temía	13	temer
+4715.	sonríe	13	sonreír
+4716.	quite	13	quitar
+4717.	necesites	13	necesitar
+4718.	mostrarle	13	mostrar
+4719.	mordió	13	morder
+4720.	jefa	13	jefa
+4721.	fallo	13	fallo fallar
+4722.	empiezan	13	empezar
+4723.	dispositivo	13	dispositivo
+4724.	detesto	13	detestar
+4725.	aprendiste	13	aprender
+4726.	aman	13	amar
+4727.	agradecido	13	agradecido agradecer
+4728.	agáchate	13	agachar
+4729.	terminaste	13	terminar
+4730.	sida	13	SIDA
+4731.	mueras	13	morir
+4732.	mentí	13	mentir
+4733.	lujo	13	lujo
+4734.	láser	13	láser
+4735.	importe	13	importe importar
+4736.	físico	13	físico
+4737.	caes	13	caer
+4738.	tiros	13	tiro
+4739.	miran	13	mirar
+4740.	hadas	13	hada
+4741.	ganancias	13	ganancia
+4742.	fritas	13	frito
+4743.	fantasía	13	fantasía
+4744.	deténgase	13	detener
+4745.	déjenlo	13	dejar
+4746.	curar	13	curar
+4747.	comidas	13	comida comido comer
+4748.	quisiste	13	querer
+4749.	pacífico	13	pacífico
+4750.	oler	13	oler
+4751.	ofreció	13	ofrecer
+4752.	importaba	13	importar
+4753.	certeza	13	certeza
+4754.	actividades	13	actividad
+4755.	vestidos	13	vestido
+4756.	suele	13	soler
+4757.	submarino	13	submarino
+4758.	podrias	13	poder
+4759.	pesa	13	pesa pesar
+4760.	judas	13	judas
+4761.	idioma	13	idioma
+4762.	identificar	13	identificar
+4763.	hubiéramos	13	haber
+4764.	cañones	13	cañón
+4765.	beneficios	13	beneficio
+4766.	sospecha	13	sospecha sospechar
+4767.	observación	13	observación
+4768.	muchachas	13	muchacha
+4769.	manejo	13	manejo manejar
+4770.	jodiendo	13	joder
+4771.	explicarlo	13	explicar
+4772.	divino	13	divino
+4773.	divertida	13	divertido divertir
+4774.	despegue	13	despegue despegar
+4775.	contrató	13	contratar
+4776.	volumen	13	volumen
+4777.	trabajó	13	trabajar
+4778.	términos	13	término
+4779.	morirán	13	morir
+4780.	hombros	13	hombro
+4781.	hada	13	hada
+4782.	alegre	13	alegre
+4783.	terribles	13	terrible
+4784.	temes	13	temer
+4785.	sabiduría	13	sabiduría
+4786.	prioridad	13	prioridad
+4787.	pluma	13	pluma
+4788.	misil	13	misil
+4789.	mansión	13	mansión
+4790.	detenerme	13	detener
+4791.	despertó	13	despertar
+4792.	decírmelo	13	decir
+4793.	cambiará	13	cambiar
+4794.	arranca	13	arrancar
+4795.	alejado	13	alejado alejar
+4796.	soltero	13	soltero
+4797.	pierden	13	perder
+4798.	mascota	13	mascota
+4799.	empuja	13	empujar
+4800.	dentista	13	dentista
+4801.	cogido	13	cogido coger
+4802.	batería	13	batería
+4803.	visual	13	visual
+4804.	reconoce	13	reconocer
+4805.	pedimos	13	pedir
+4806.	niebla	13	niebla
+4807.	métodos	13	método
+4808.	durmió	13	dormir
+4809.	desfile	13	desfile desfilar
+4810.	creciendo	13	crecer
+4811.	continua	13	continuo continuar
+4812.	borracha	13	borracho
+4813.	beca	13	beca
+4814.	adolescente	13	adolescente
+4815.	actos	13	acto
+4816.	mágica	13	mágico
+4817.	imbéciles	13	imbécil
+4818.	huyendo	13	huir
+4819.	fotógrafo	13	fotógrafo
+4820.	experimentos	13	experimento
+4821.	edificios	13	edificio
+4822.	deténganse	13	detener
+4823.	cálmense	13	calmar
+4824.	atmósfera	13	atmósfera
+4825.	acabaron	13	acabar
+4826.	votos	13	voto
+4827.	tareas	13	tarea
+4828.	presupuesto	13	presupuesto
+4829.	persecución	13	persecución
+4830.	enseñarle	13	enseñar
+4831.	enfermos	13	enfermo
+4832.	cortes	13	corte cortar
+4833.	contaste	13	contar
+4834.	recuerdan	13	recordar
+4835.	probabilidades	13	probabilidad
+4836.	núcleo	13	núcleo
+4837.	multitud	13	multitud
+4838.	moriré	13	morir
+4839.	empresas	13	empresa
+4840.	delta	13	delta
+4841.	asociación	13	asociación
+4842.	verdes	13	verde
+4843.	profesión	13	profesión
+4844.	pelotón	13	pelotón
+4845.	paro	13	paro parar
+4846.	largos	13	largo
+4847.	danos	13	dar
+4848.	creído	13	creído creer
+4849.	cosecha	13	cosecha cosechar
+4850.	cintas	13	cinta
+4851.	agallas	13	agallas agalla
+4852.	vendido	13	vendido vender
+4853.	tortura	13	tortura torturar
+4854.	suéltala	13	soltar
+4855.	sexuales	13	sexual
+4856.	retirado	13	retirado retirar
+4857.	reconoces	13	reconocer
+4858.	pudieran	13	poder
+4859.	desorden	13	desorden
+4860.	desarrollo	13	desarrollo desarollar
+4861.	abandonó	13	abandonar
+4862.	vodka	13	vodka
+4863.	violento	13	violento
+4864.	vestida	13	vestido vestir
+4865.	probarlo	13	probar
+4866.	balón	13	balón
+4867.	población	13	población
+4868.	pechos	13	pecho
+4869.	ocurrirá	13	ocurrir
+4870.	mientes	13	mentir
+4871.	leal	13	leal
+4872.	jo	13	jo
+4873.	federación	13	federación
+4874.	dí	13	dar
+4875.	asustaste	13	asustar
+4876.	apártate	13	apartar
+4877.	vinieras	13	venir
+4878.	valioso	13	valioso
+4879.	profesora	13	profesora
+4880.	misericordia	13	misericordia
+4881.	mancha	13	mancha manchar
+4882.	ilusión	13	ilusión
+4883.	habrás	13	haber
+4884.	golpeado	13	golpear
+4885.	generador	13	generador
+4886.	empiezas	13	empezar
+4887.	detuvo	13	detener
+4888.	despedir	13	despedir
+4889.	cuerdas	13	cuerda cuerdo
+4890.	cráneo	13	cráneo
+4891.	champán	13	champán
+4892.	cartel	13	cartel
+4893.	campana	13	campana
+4894.	vendió	13	vender
+4895.	rompí	13	romper
+4896.	revistas	13	revista
+4897.	ordena	13	ordenar
+4898.	cállese	13	callar
+4899.	avanzar	13	avanzar
+4900.	técnicamente	13	técnicamente
+4901.	remoto	13	remoto
+4902.	pudiéramos	13	poder
+4903.	pega	13	pega pegar
+4904.	parto	13	partir
+4905.	nido	13	nido
+4906.	molestando	13	molestar
+4907.	gota	13	gota
+4908.	fracasado	13	fracasado fracasar
+4909.	esperé	13	esperar
+4910.	escúcheme	13	escuchar
+4911.	eco	13	eco
+4912.	duros	13	duro
+4913.	dispararle	13	disparar
+4914.	desaparecieron	13	desaparecer
+4915.	contarle	13	contar
+4916.	cargando	13	cargar
+4917.	caen	13	caer
+4918.	asesinó	13	asesinar
+4919.	prométeme	13	prometer
+4920.	políticos	13	político
+4921.	plantas	13	planta plantar
+4922.	oculta	13	oculto ocultar
+4923.	mundos	13	mundo
+4924.	fines	13	fin
+4925.	dueños	13	dueño
+4926.	detén	13	detener
+4927.	cm	13	cm centímetro
+4928.	asesinar	13	asesinar
+4929.	agosto	13	agosto
+4930.	rojas	13	roja rojo
+4931.	pantano	13	pantano
+4932.	opina	13	opinar
+4933.	odian	13	odiar
+4934.	llegaré	13	llegar
+4935.	impresionado	13	impresionado impresionar
+4936.	dirigir	13	dirigir
+4937.	diciembre	13	diciembre
+4938.	decidimos	13	decidir
+4939.	conectado	13	conectado conectar
+4940.	toco	13	tocar
+4941.	sinceramente	13	sinceramente
+4942.	relacionado	13	relacionado relacionar
+4943.	quedaron	13	quedar
+4944.	levanten	13	levantar
+4945.	espantoso	13	espantoso
+4946.	enseño	13	enseñar
+4947.	enfermedades	13	enfermedad
+4948.	divirtiendo	13	divertir
+4949.	cubre	13	cubrir
+4950.	confidencial	13	confidencial
+4951.	compre	13	comprar
+4952.	baúl	13	baúl
+4953.	baila	13	bailar
+4954.	aumento	13	aumento aumentar
+4955.	ascenso	13	ascenso
+4956.	testimonio	13	testimonio
+4957.	saliera	13	salir
+4958.	resiste	13	resistir
+4959.	párate	13	parar
+4960.	ofrecer	13	ofrecer
+4961.	ocupo	13	ocupar
+4962.	merecía	13	merecer
+4963.	jabón	13	jabón
+4964.	hamburguesa	13	hamburguesa
+4965.	escuelas	13	escuela
+4966.	equivoco	13	equívoco
+4967.	caiga	13	caer
+4968.	beneficio	13	beneficio
+4969.	suéltalo	12	soltar
+4970.	rusa	12	ruso
+4971.	receta	12	receta recetar
+4972.	modelos	12	modelo
+4973.	misterioso	12	misterioso
+4974.	esconder	12	esconder
+4975.	eche	12	echar
+4976.	contarte	12	contar
+4977.	callejón	12	callejón
+4978.	buscarla	12	buscar
+4979.	bonitas	12	bonito
+4980.	toquen	12	tocar
+4981.	rudo	12	rudo
+4982.	pasaré	12	pasar
+4983.	extrañé	12	extrañar
+4984.	detras	12	detrás
+4985.	detenerlos	12	detener
+4986.	delito	12	delito
+4987.	atacado	12	atacado atacar
+4988.	traerlo	12	traer
+4989.	sentencia	12	sentencia
+4990.	sácame	12	sacar
+4991.	posibles	12	posible
+4992.	participar	12	participar
+4993.	pagas	12	pagar paga
+4994.	mintió	12	mentir
+4995.	jefes	12	jefe
+4996.	excepción	12	excepción
+4997.	espadas	12	espada
+4998.	engañado	12	engañado engañar
+4999.	débiles	12	débil
+5000.	corporación	12	corporación
+5001.	cerrados	12	cerrado
+5002.	carajos	12	carajo
+5003.	vería	12	ver
+5004.	seca	12	seco secar
+5005.	recibiendo	12	recibir
+5006.	pescar	12	pescar
+5007.	olvidas	12	olvidar
+5008.	naciones	12	nación
+5009.	llevara	12	llevar
+5010.	graciosa	12	gracioso
+5011.	emergencias	12	emergencia
+5012.	conviene	12	convenir
+5013.	comunicaciones	12	comunicación
+5014.	caí	12	caer
+5015.	ocuparé	12	ocupar
+5016.	niñita	12	niñita
+5017.	hazte	12	hacer
+5018.	estupenda	12	estupendo
+5019.	disciplina	12	disciplina
+5020.	case	12	casar
+5021.	arriesgado	12	arriesgado arriesgar
+5022.	arquitecto	12	arquitecto
+5023.	vaticano	12	Vaticano
+5024.	traerme	12	traer
+5025.	tiroteo	12	tiroteo
+5026.	sirvo	12	servir
+5027.	sentirás	12	sentir
+5028.	ratón	12	ratón
+5029.	quitarme	12	quitar
+5030.	quedaba	12	quedar
+5031.	preguntan	12	preguntar
+5032.	permíteme	12	permitir
+5033.	masacre	12	masacre
+5034.	infancia	12	infancia
+5035.	indio	12	indio
+5036.	homosexual	12	homosexual
+5037.	chance	12	chance
+5038.	barba	12	barba
+5039.	artes	12	arte
+5040.	acerque	12	acercar
+5041.	susto	12	susto
+5042.	síntomas	12	síntoma
+5043.	salvarte	12	salvar
+5044.	sabio	12	sabio
+5045.	romance	12	romance
+5046.	petición	12	petición
+5047.	peligrosos	12	peligroso
+5048.	orinar	12	orinar
+5049.	macho	12	macho
+5050.	llevarse	12	llevar
+5051.	lindos	12	lindo
+5052.	protegerte	12	proteger
+5053.	profundidad	12	profundidad
+5054.	pides	12	pedir
+5055.	permanente	12	permanente
+5056.	investigaciones	12	investigación
+5057.	cruzando	12	cruzar
+5058.	comenzando	12	comenzar
+5059.	atrapada	12	atrapado atrapar
+5060.	trampas	12	trampa
+5061.	tomemos	12	tomar
+5062.	tímido	12	tímido
+5063.	ola	12	ola
+5064.	narices	12	nariz
+5065.	diana	12	diana Diana
+5066.	presentarles	12	presentar
+5067.	pasaremos	12	pasar
+5068.	observa	12	observar
+5069.	nacer	12	nacer
+5070.	mona	12	mona mono
+5071.	mm	12	mm milímetro
+5072.	increíblemente	12	increíblemente
+5073.	despegar	12	despegar
+5074.	comentario	12	comentario
+5075.	sufre	12	sufrir
+5076.	ramera	12	ramera
+5077.	perfume	12	perfume
+5078.	oscura	12	oscuro
+5079.	olas	12	ola
+5080.	obligado	12	obligado obligar
+5081.	noviembre	12	noviembre
+5082.	logré	12	lograr
+5083.	llevaría	12	llevar
+5084.	fallado	12	fallado fallar
+5085.	escocia	12	Escocia
+5086.	destruyó	12	destruir
+5087.	conduciendo	12	conducir
+5088.	camiseta	12	camiseta
+5089.	venas	12	vena
+5090.	riendo	12	reír
+5091.	resistir	12	resistir
+5092.	pavo	12	pavo
+5093.	pagué	12	pagar
+5094.	nieto	12	nieto
+5095.	liberar	12	liberar
+5096.	hogares	12	hogar
+5097.	denle	12	dar
+5098.	barón	12	barón
+5099.	aguanto	12	aguantar
+5100.	vicepresidente	12	vicepresidente
+5101.	simón	12	simón Simón
+5102.	querrías	12	querer
+5103.	quedara	12	quedar
+5104.	ordenador	12	ordenador
+5105.	jodidos	12	jodido joder
+5106.	enfermeras	12	enfermera
+5107.	despertado	12	despertado despertar
+5108.	comentarios	12	comentario
+5109.	alumnos	12	alumno
+5110.	aburrida	12	aburrido aburrir
+5111.	superar	12	superar
+5112.	norma	12	norma normar
+5113.	musical	12	musical
+5114.	lápiz	12	lápiz
+5115.	jodan	12	joder
+5116.	incluye	12	incluir
+5117.	fruta	12	fruta
+5118.	entran	12	entrar
+5119.	eléctrica	12	eléctrica eléctrico
+5120.	crítica	12	crítica
+5121.	comí	12	comer
+5122.	chip	12	chip
+5123.	cargado	12	cargado cargar
+5124.	altas	12	alta alto
+5125.	venden	12	vender
+5126.	superiores	12	superior
+5127.	sufriendo	12	sufrir
+5128.	sacamos	12	sacar
+5129.	invitó	12	invitar
+5130.	huelo	12	oler
+5131.	harían	12	hacer
+5132.	gastar	12	gastar
+5133.	escapa	12	escapar
+5134.	confirmar	12	confirmar
+5135.	quitado	12	quitado quitar
+5136.	probando	12	probar
+5137.	perímetro	12	perímetro
+5138.	pegado	12	pegado pegar
+5139.	olviden	12	olvidar
+5140.	mentirosa	12	mentiroso
+5141.	incapaz	12	incapaz
+5142.	forense	12	forense
+5143.	ésas	12	ese esa
+5144.	dignidad	12	dignidad
+5145.	detectives	12	detective
+5146.	deportes	12	deporte
+5147.	delicado	12	delicado
+5148.	cuarenta	12	cuarenta
+5149.	constante	12	constante
+5150.	bebes	12	beber
+5151.	sesos	12	seso
+5152.	seriamente	12	seriamente
+5153.	regresemos	12	regresar
+5154.	protegiendo	12	proteger
+5155.	muralla	12	muralla
+5156.	meterse	12	meter
+5157.	lleves	12	llevar
+5158.	inténtalo	12	intentar
+5159.	huye	12	huir
+5160.	embarazo	12	embarazo embarazar
+5161.	debimos	12	deber
+5162.	cuartos	12	cuarto
+5163.	copas	12	copa
+5164.	rehén	12	rehén
+5165.	pisos	12	piso
+5166.	persiguiendo	12	perseguir
+5167.	milagros	12	milagro Milagros
+5168.	horror	12	horror
+5169.	emocional	12	emocional
+5170.	comedor	12	comedor
+5171.	busqué	12	buscar
+5172.	buscarme	12	buscar
+5173.	tumbas	12	tumba tumbar
+5174.	subtitulado	12	subtitulado
+5175.	plazo	12	plazo
+5176.	pesca	12	pesca pescar
+5177.	muertas	12	muerto morir
+5178.	mantenerlo	12	mantener
+5179.	llamaremos	12	llamar
+5180.	litros	12	litro
+5181.	horribles	12	horrible
+5182.	deudas	12	deuda
+5183.	detiene	12	detener
+5184.	compraste	12	comprar
+5185.	comisaría	12	comisaría
+5186.	verlas	12	ver
+5187.	vé	12	ver
+5188.	vago	12	vago vagar
+5189.	unica	12	único
+5190.	radiación	12	radiación
+5191.	múltiples	12	múltiple
+5192.	muchísimas	12	muchísimo mucho
+5193.	equivoca	12	equivocar
+5194.	cuya	12	cuyo
+5195.	cortinas	12	cortina
+5196.	tenerla	12	tener
+5197.	tapa	12	tapa tapar
+5198.	sorpresas	12	sorpresa
+5199.	respiro	12	respiro respirar
+5200.	queja	12	queja quejar
+5201.	preguntarme	12	preguntar
+5202.	oyendo	12	oír
+5203.	mordida	12	mordida mordido morder
+5204.	mmm	12	mmm
+5205.	miró	12	mirar
+5206.	marchar	12	marchar
+5207.	mantequilla	12	mantequilla
+5208.	guardián	12	guardián
+5209.	escándalo	12	escándalo
+5210.	causó	12	causar
+5211.	aléjense	12	alejar
+5212.	acercando	12	acercar
+5213.	vió	12	ver
+5214.	tinta	12	tinta tinto
+5215.	sindicato	12	sindicato
+5216.	reuniones	12	reunión
+5217.	pida	12	pedir
+5218.	personajes	12	personaje
+5219.	lees	12	leer
+5220.	dispuesta	12	dispuesto disponer
+5221.	descripción	12	descripción
+5222.	calzones	12	calzón
+5223.	brigada	12	brigada
+5224.	ayudaría	12	ayudar
+5225.	repugnante	12	repugnante
+5226.	odiaba	12	odiar
+5227.	misa	12	misa
+5228.	metrópolis	12	metrópolis metrópoli
+5229.	meterme	12	meter
+5230.	mamita	12	mamita
+5231.	jamón	12	jamón
+5232.	ésos	12	ese esos
+5233.	cazadores	12	cazador
+5234.	usarla	12	usar
+5235.	retraso	12	retraso retrasar
+5236.	responsabilidades	12	responsabilidad
+5237.	preocupas	12	preocupar
+5238.	pagando	12	pagar
+5239.	linterna	12	linterna
+5240.	inevitable	12	inevitable
+5241.	encender	12	encender
+5242.	distinta	12	distinto
+5243.	compro	12	comprar
+5244.	cacería	12	cacería
+5245.	atacan	12	atacar
+5246.	usaba	12	usar
+5247.	parientes	12	pariente
+5248.	menores	12	menor
+5249.	jungla	12	jungla
+5250.	dedicado	12	dedicado dedicar
+5251.	contentos	12	contento
+5252.	compraré	12	comprar
+5253.	astuto	12	astuto
+5254.	antídoto	12	antídoto
+5255.	vivas	12	vivir
+5256.	vano	12	vano
+5257.	sajones	12	sajón
+5258.	raros	12	raro
+5259.	quemado	12	quemado quemar
+5260.	promesas	12	promesa
+5261.	parejas	12	pareja parejo
+5262.	olvidarlo	12	olvidar
+5263.	locales	12	local
+5264.	fuga	12	fuga
+5265.	estaciones	12	estación
+5266.	dispares	12	disparar
+5267.	despidieron	12	despedir
+5268.	asesinada	12	asesinado asesinar
+5269.	artillería	12	artillería
+5270.	apariencia	12	apariencia
+5271.	advertí	12	advertir
+5272.	sacarme	12	sacar
+5273.	pueblos	12	pueblo
+5274.	mágico	12	mágico
+5275.	garantizo	12	garantizar
+5276.	excusas	12	excusa excusar
+5277.	contratar	12	contratar
+5278.	candidato	12	candidato
+5279.	anteriormente	12	anteriormente
+5280.	adicto	12	adicto
+5281.	sello	11	sello
+5282.	salvarlo	11	salvar
+5283.	retrasado	11	retrasado retrasar
+5284.	placas	11	placa
+5285.	hermosos	11	hermoso
+5286.	galleta	11	galleta
+5287.	escucharon	11	escuchar
+5288.	chistoso	11	chistoso
+5289.	anillos	11	anillo
+5290.	subió	11	subir
+5291.	solar	11	solar
+5292.	píldoras	11	píldora
+5293.	pásame	11	pasar
+5294.	juegues	11	jugar
+5295.	grito	11	grito gritar
+5296.	enseñado	11	enseñado enseñar
+5297.	encontrarte	11	encontrar
+5298.	descubrimiento	11	descubrimiento
+5299.	consigues	11	conseguir
+5300.	clérigo	11	clérigo
+5301.	clásico	11	clásico
+5302.	batallas	11	batalla batallar
+5303.	uses	11	usar
+5304.	trates	11	tratar
+5305.	marzo	11	marzo
+5306.	hechas	11	hecho hacer
+5307.	fraude	11	fraude
+5308.	economía	11	economía
+5309.	disfrute	11	disfrutar
+5310.	creerme	11	creer
+5311.	costo	11	costo costar
+5312.	consiga	11	conseguir
+5313.	condena	11	condena
+5314.	bájate	11	bajar
+5315.	alivio	11	alivio aliviar
+5316.	traerá	11	traer
+5317.	quedaremos	11	quedar
+5318.	micrófono	11	micrófono
+5319.	matemáticas	11	matemática
+5320.	interesan	11	interesar
+5321.	ida	11	ido ir
+5322.	hueles	11	oler
+5323.	giro	11	giro girar
+5324.	desgraciados	11	desgraciado desgraciar
+5325.	arroz	11	arroz
+5326.	andan	11	andar
+5327.	unido	11	unido unir
+5328.	traseros	11	trasero
+5329.	torres	11	torre
+5330.	seda	11	seda sedar
+5331.	engañando	11	engañar
+5332.	encuentres	11	encontrar
+5333.	controles	11	controlar control
+5334.	choque	11	choque chocar
+5335.	celos	11	celo
+5336.	aclarar	11	aclarar
+5337.	sentiría	11	sentir
+5338.	santuario	11	santuario
+5339.	queden	11	quedar
+5340.	piratas	11	pirata
+5341.	impulso	11	impulso
+5342.	impedir	11	impedir
+5343.	grita	11	gritar
+5344.	envíe	11	enviar
+5345.	entraste	11	entrar
+5346.	debieron	11	deber
+5347.	creías	11	creer
+5348.	cobrar	11	cobrar
+5349.	audición	11	audición
+5350.	asesinados	11	asesinado asesinar
+5351.	afueras	11	afueras
+5352.	tribu	11	tribu
+5353.	testamento	11	testamento
+5354.	postre	11	postre
+5355.	paró	11	parar
+5356.	ópera	11	ópera
+5357.	falló	11	fallar
+5358.	estatal	11	estatal
+5359.	esclavo	11	esclavo
+5360.	déjate	11	dejar
+5361.	costillas	11	costilla
+5362.	costará	11	costar
+5363.	chistes	11	chiste
+5364.	arreglaré	11	arreglar
+5365.	alcanza	11	alcanzar
+5366.	valientes	11	valiente
+5367.	privilegio	11	privilegio
+5368.	orina	11	orina
+5369.	jovencito	11	jovencito joven
+5370.	invasión	11	invasión
+5371.	estuvieran	11	estar
+5372.	estupideces	11	estupidez
+5373.	encaja	11	encajar
+5374.	durará	11	durar
+5375.	descanse	11	descansar
+5376.	déjanos	11	dejar
+5377.	camas	11	cama
+5378.	cables	11	cable
+5379.	bárbara	11	bárbaro
+5380.	avanzando	11	avanzar
+5381.	usualmente	11	usualmente
+5382.	sagrada	11	sagrado
+5383.	sable	11	sable
+5384.	retírense	11	retirar
+5385.	retirada	11	retirado retirar
+5386.	psicópata	11	psicópata
+5387.	preocupo	11	preocupar
+5388.	plaga	11	plaga plagar
+5389.	ohh	11	ohh
+5390.	malvada	11	malvado
+5391.	existir	11	existir
+5392.	entendemos	11	entender
+5393.	bendito	11	bendito bendecir
+5394.	arregla	11	arreglar
+5395.	supuestamente	11	supuestamente
+5396.	residente	11	residente
+5397.	rescatar	11	rescatar
+5398.	pesada	11	pesado pesar
+5399.	oímos	11	oír
+5400.	locas	11	loco
+5401.	llegarán	11	llegar
+5402.	hermanito	11	hermanito hermano
+5403.	hamburguesas	11	hamburguesa
+5404.	firmado	11	firmado firmar
+5405.	entrenar	11	entrenar
+5406.	encendido	11	encendido encender
+5407.	disfruten	11	disfrutar
+5408.	deseaba	11	desear
+5409.	conocías	11	conocer
+5410.	cambiaron	11	cambiar
+5411.	boxeo	11	boxeo boxear
+5412.	autorizado	11	autorizado autorizar
+5413.	armadura	11	armadura
+5414.	sobrevivió	11	sobrevivir
+5415.	preocupados	11	preocupado preocupar
+5416.	ocasiones	11	ocasión
+5417.	necesitarás	11	necesitar
+5418.	mutante	11	mutante
+5419.	músculos	11	músculo
+5420.	mantienen	11	mantener
+5421.	justa	11	justo
+5422.	increíbles	11	increíble
+5423.	incómodo	11	incómodo
+5424.	harta	11	harto hartar
+5425.	expedición	11	expedición
+5426.	esfuerzos	11	esfuerzo
+5427.	directa	11	directo
+5428.	deberes	11	deber
+5429.	contratado	11	contratado contratar
+5430.	usé	11	usar
+5431.	sentar	11	sentar
+5432.	presentes	11	presente presentar
+5433.	mierdas	11	mierda
+5434.	merecen	11	merecer
+5435.	llamaban	11	llamar
+5436.	ejecución	11	ejecución
+5437.	darás	11	dar
+5438.	créame	11	creer
+5439.	busquemos	11	buscar
+5440.	afirmativo	11	afirmativo
+5441.	admito	11	admitir
+5442.	talla	11	talla tallar
+5443.	rodeado	11	rodeado rodear
+5444.	reparar	11	reparar
+5445.	quitó	11	quitar
+5446.	patada	11	patada
+5447.	lea	11	leer
+5448.	jugado	11	jugar
+5449.	humilde	11	humilde
+5450.	encantó	11	encantar
+5451.	encantará	11	encantar
+5452.	elefante	11	elefante
+5453.	echaré	11	echar
+5454.	demostración	11	demostración
+5455.	creación	11	creación
+5456.	compañia	11	compañia
+5457.	camaradas	11	camarada
+5458.	bebido	11	bebido beber
+5459.	bata	11	bata batir
+5460.	soga	11	soga
+5461.	signos	11	signo
+5462.	sentirte	11	sentir
+5463.	póngase	11	poner
+5464.	perderé	11	perder
+5465.	pegar	11	pegar
+5466.	ondas	11	onda
+5467.	mapas	11	mapa
+5468.	mantenerte	11	mantener
+5469.	llenos	11	lleno
+5470.	intentes	11	intentar
+5471.	informar	11	informar
+5472.	independiente	11	independiente
+5473.	fuéramos	11	ir ser
+5474.	encontrarnos	11	encontrar
+5475.	distintas	11	distinto
+5476.	conque	11	conque
+5477.	conozcas	11	conocer
+5478.	cometa	11	cometa cometer
+5479.	acostado	11	acostado acostar
+5480.	pentágono	11	pentágono
+5481.	pensaría	11	pensar
+5482.	galería	11	galería
+5483.	duermo	11	dormir
+5484.	decepcionado	11	decepcionado
+5485.	blancas	11	blanco
+5486.	bajó	11	bajar
+5487.	ausencia	11	ausencia
+5488.	asistencia	11	asistencia
+5489.	usaste	11	usar
+5490.	suma	11	suma sumar
+5491.	ogro	11	ogro
+5492.	griego	11	griego
+5493.	caballería	11	caballería
+5494.	bondad	11	bondad
+5495.	bolsillos	11	bolsillo
+5496.	avanzada	11	avanzado avanzar
+5497.	ancestros	11	ancestro
+5498.	alturas	11	altura
+5499.	puño	11	puño
+5500.	otoño	11	otoño
+5501.	observar	11	observar
+5502.	mande	11	mandar
+5503.	ligera	11	ligero
+5504.	iris	11	iris
+5505.	horno	11	horno
+5506.	grosero	11	grosero
+5507.	elementos	11	elemento
+5508.	debías	11	deber
+5509.	culpo	11	culpar
+5510.	comencemos	11	comenzar
+5511.	bebo	11	beber
+5512.	veloz	11	veloz
+5513.	telefónica	11	telefónico
+5514.	tatuaje	11	tatuaje
+5515.	sácalo	11	sacar
+5516.	resuelto	11	resuelto resolver
+5517.	quedaría	11	quedar
+5518.	pais	11	país
+5519.	nocturno	11	nocturno
+5520.	líquido	11	líquido
+5521.	filas	11	fila
+5522.	estes	11	estar
+5523.	espías	11	espía
+5524.	especialidad	11	especialidad
+5525.	aves	11	ave
+5526.	amables	11	amable
+5527.	uniformes	11	uniforme
+5528.	sentirlo	11	sentir
+5529.	retrocede	11	retroceder
+5530.	reconocer	11	reconocer
+5531.	rebelde	11	rebelde
+5532.	plena	11	pleno
+5533.	pervertido	11	pervertido pervertir
+5534.	obedecer	11	obedecer
+5535.	mentido	11	mentido mentir
+5536.	matara	11	matar
+5537.	llamarla	11	llamar
+5538.	jade	11	jade
+5539.	entienda	11	entender
+5540.	ego	11	ego
+5541.	echó	11	echar
+5542.	considero	11	considerar
+5543.	cobardes	11	cobarde
+5544.	césped	11	césped
+5545.	capullo	11	capullo
+5546.	baños	11	baño
+5547.	supervivencia	11	supervivencia
+5548.	soñado	11	soñado soñar
+5549.	separados	11	separado separar
+5550.	respirando	11	respirar
+5551.	negras	11	negro
+5552.	infantería	11	infantería
+5553.	identificado	11	identificado identificar
+5554.	honesta	11	honesto
+5555.	hambriento	11	hambriento
+5556.	escribo	11	escribir
+5557.	despedirme	11	despedir
+5558.	demos	11	dar
+5559.	cortesía	11	cortesía
+5560.	colonia	11	colonia
+5561.	ayudes	11	ayudar
+5562.	amiguito	11	amiguito amigo
+5563.	alfa	11	alfa
+5564.	temen	11	temer
+5565.	suéltenme	11	soltar
+5566.	sensacional	11	sensacional
+5567.	sacarle	11	sacar
+5568.	prostitutas	11	prostituta
+5569.	pondrás	11	poner
+5570.	literalmente	11	literalmente
+5571.	licor	11	licor
+5572.	juzgar	11	juzgar
+5573.	equilibrio	11	equilibrio
+5574.	envíen	11	enviar
+5575.	entregado	11	entregado entregar
+5576.	corazon	11	corazón
+5577.	consulta	11	consulta consultar
+5578.	boxeador	11	boxeador
+5579.	bahía	11	bahía
+5580.	usen	11	usar
+5581.	taller	11	taller
+5582.	rompiste	11	romper
+5583.	quitaron	11	quitar
+5584.	patatas	11	patata
+5585.	operar	11	operar
+5586.	mochila	11	mochila
+5587.	interesada	11	interesado interesar
+5588.	inspiración	11	inspiración
+5589.	explicaré	11	explicar
+5590.	estuviese	11	estar
+5591.	enero	11	enero
+5592.	cumple	11	cumplir
+5593.	claudia	11	claudia Claudia
+5594.	lógico	11	lógico
+5595.	islas	11	isla
+5596.	insignificante	11	insignificante
+5597.	hermandad	11	hermandad
+5598.	goma	11	goma
+5599.	franco	11	franco Franco
+5600.	duermes	11	dormir
+5601.	chimenea	11	chimenea
+5602.	trataron	11	tratar
+5603.	tardará	11	tardar
+5604.	sábanas	11	sábana
+5605.	polo	11	polo
+5606.	podia	11	poder
+5607.	perspectiva	11	perspectiva
+5608.	papás	11	papá
+5609.	ministerio	11	ministerio
+5610.	gesto	11	gesto gestar
+5611.	fumando	11	fumar
+5612.	disfrutando	11	disfrutar
+5613.	debas	11	deber
+5614.	culpar	11	culpar
+5615.	atreve	11	atrever
+5616.	arriesgar	11	arriesgar
+5617.	arabia	11	Arabia arabio
+5618.	vital	11	vital
+5619.	túneles	11	túnel
+5620.	transferencia	11	transferencia
+5621.	suicidó	11	suicidar
+5622.	sucios	11	sucio
+5623.	seguida	11	en seguida seguido seguir
+5624.	regresamos	11	regresar
+5625.	recibirá	11	recibir
+5626.	oculto	11	oculto ocultar
+5627.	honorable	11	honorable
+5628.	hmm	11	hmm
+5629.	generaciones	11	generación
+5630.	escolar	11	escolar
+5631.	dámela	11	dar
+5632.	controlado	11	controlado controlar
+5633.	constantemente	11	constantemente
+5634.	cheques	11	cheque
+5635.	bromeo	11	bromear
+5636.	australia	11	Australia
+5637.	asegurarnos	11	asegurar
+5638.	apetito	11	apetito
+5639.	vivió	11	vivir
+5640.	vías	11	vía
+5641.	piden	11	pedir
+5642.	órbita	11	órbita
+5643.	manzanas	11	manzana
+5644.	interesantes	11	interesante
+5645.	herir	11	herir
+5646.	exámenes	11	examen
+5647.	enfadada	11	enfadado enfadar
+5648.	cuadras	11	cuadra
+5649.	cometí	11	cometer
+5650.	colorado	11	colorado colorar
+5651.	asia	11	Asia
+5652.	término	11	término
+5653.	síndrome	11	síndrome
+5654.	refrigerador	11	refrigerador
+5655.	ofrezco	11	ofrecer
+5656.	mentiste	11	mentir
+5657.	mecanismo	11	mecanismo
+5658.	manejarlo	11	manejar
+5659.	especialista	11	especialista
+5660.	dejarlos	11	dejar
+5661.	crucero	11	crucero
+5662.	avísame	11	avisar
+5663.	ardiendo	11	arder
+5664.	saludar	11	saludar
+5665.	papito	11	papito papá
+5666.	oficio	11	oficio
+5667.	metieron	11	meter
+5668.	estadounidenses	11	estadounidense
+5669.	divertirnos	11	divertir
+5670.	cuentan	11	contar
+5671.	toneladas	10	tonelada
+5672.	tobillo	10	tobillo
+5673.	técnico	10	técnico
+5674.	saudita	10	Arabia Saudita
+5675.	salvador	10	salvador
+5676.	sabré	10	saber
+5677.	presta	10	prestar
+5678.	ordenar	10	ordenar
+5679.	naciste	10	nacer
+5680.	mostró	10	mostrar
+5681.	moderna	10	moderno
+5682.	mito	10	mito
+5683.	juramento	10	juramento
+5684.	garras	10	garra
+5685.	consejero	10	consejero
+5686.	confusión	10	confusión
+5687.	aguarda	10	aguardar
+5688.	vuestras	10	vuestro
+5689.	ventas	10	venta
+5690.	sirviente	10	sirviente
+5691.	sierra	10	sierra
+5692.	serios	10	serio
+5693.	pónganse	10	poner
+5694.	perderte	10	perder
+5695.	juegan	10	jugar
+5696.	indicado	10	indicado indicar
+5697.	entrenado	10	entrenado entrenar
+5698.	enteré	10	enterar
+5699.	enhorabuena	10	enhorabuena
+5700.	cuba	10	Cuba
+5701.	cruce	10	cruce cruzar
+5702.	crean	10	crear
+5703.	contarme	10	contar
+5704.	cancelar	10	cancelar
+5705.	callar	10	callar
+5706.	aceptarlo	10	aceptar
+5707.	suite	10	suite
+5708.	soñar	10	soñar
+5709.	provisiones	10	provisión
+5710.	preferido	10	preferido preferir
+5711.	normas	10	norma
+5712.	mientas	10	mentir
+5713.	mandé	10	mandar
+5714.	mandado	10	mandado mandar
+5715.	llámeme	10	llamar
+5716.	huella	10	huella
+5717.	gilipollas	10	gilipollas
+5718.	fingiendo	10	fingir
+5719.	eterno	10	eterno
+5720.	escopeta	10	escopeta
+5721.	divertirse	10	divertir
+5722.	distintos	10	distinto
+5723.	desesperado	10	desesperado desesperar
+5724.	bailarina	10	bailarina bailarín
+5725.	alimentar	10	alimentar
+5726.	adora	10	adorar
+5727.	simpático	10	simpático
+5728.	ridícula	10	ridículo
+5729.	respetar	10	respetar
+5730.	rabia	10	rabia rabiar
+5731.	presentó	10	presentar
+5732.	poderosos	10	poderoso
+5733.	pito	10	pito pitar
+5734.	perla	10	perla
+5735.	pendiente	10	pendiente
+5736.	maestros	10	maestro
+5737.	humanas	10	humano
+5738.	estare	10	estar
+5739.	escuchame	10	escuchar
+5740.	entere	10	enterar
+5741.	bésame	10	besar
+5742.	suicida	10	suicida
+5743.	suelten	10	soltar
+5744.	sobrina	10	sobrina
+5745.	presentarte	10	presentar
+5746.	padrino	10	padrino
+5747.	fractura	10	fractura fracturar
+5748.	explicarte	10	explicar
+5749.	escuches	10	escuchar
+5750.	envío	10	envío enviar
+5751.	enterrar	10	enterrar
+5752.	destrozado	10	destrozado destrozar
+5753.	dejarle	10	dejar
+5754.	condicional	10	condicional
+5755.	cometió	10	cometer
+5756.	avergonzado	10	avergonzado avergonzar
+5757.	artículos	10	artículo
+5758.	amenazas	10	amenaza amenazar
+5759.	victima	10	víctima
+5760.	val	10	val
+5761.	símbolos	10	símbolo
+5762.	saltó	10	saltar
+5763.	repetir	10	repetir
+5764.	pelos	10	pelo
+5765.	organizado	10	organizado organizar
+5766.	novato	10	novato
+5767.	localizar	10	localizar
+5768.	lindas	10	lindo
+5769.	intentan	10	intentar
+5770.	estara	10	estar
+5771.	enamorados	10	enamorado enamorar
+5772.	discutiendo	10	discutir
+5773.	cajón	10	cajón
+5774.	aliados	10	aliado aliar
+5775.	águila	10	águila
+5776.	sugiere	10	sugerir
+5777.	sexto	10	sexto
+5778.	retirarse	10	retirar
+5779.	reciente	10	reciente
+5780.	protector	10	protector
+5781.	presos	10	preso
+5782.	pidieron	10	pedir
+5783.	mide	10	medir
+5784.	materia	10	materia
+5785.	hueón	10	hueón huevón
+5786.	gentil	10	gentil
+5787.	evidente	10	evidente
+5788.	enlace	10	enlace
+5789.	dorado	10	dorado dorar
+5790.	discúlpenme	10	disculpar
+5791.	dejare	10	dejar
+5792.	conclusión	10	conclusión
+5793.	competir	10	competir
+5794.	auténtico	10	auténtico
+5795.	anuncios	10	anuncio
+5796.	afortunadamente	10	afortunadamente
+5797.	siesta	10	siesta
+5798.	sentidos	10	sentido sentir
+5799.	principales	10	principal
+5800.	mátame	10	matar
+5801.	hallé	10	hallar
+5802.	girar	10	girar
+5803.	extraterrestre	10	extraterrestre
+5804.	egipto	10	Egipto
+5805.	canciller	10	canciller
+5806.	valores	10	valor
+5807.	recibiste	10	recibir
+5808.	quítense	10	quitar
+5809.	protocolo	10	protocolo
+5810.	preocuparme	10	preocupar
+5811.	pacto	10	pacto pactar
+5812.	módulo	10	módulo
+5813.	inteligentes	10	inteligente
+5814.	imaginaba	10	imaginar
+5815.	huracán	10	huracán
+5816.	dejaba	10	dejar
+5817.	canales	10	canal
+5818.	buscaremos	10	buscar
+5819.	botellas	10	botella
+5820.	billones	10	billón
+5821.	atraparlo	10	atrapar
+5822.	arrestar	10	arrestar
+5823.	acento	10	acento
+5824.	accidentes	10	accidente
+5825.	vientre	10	vientre
+5826.	tomaría	10	tomar
+5827.	timón	10	timón
+5828.	tabla	10	tabla
+5829.	sacando	10	sacar
+5830.	pintar	10	pintar
+5831.	particularmente	10	particularmente
+5832.	palma	10	palma palmar
+5833.	organizar	10	organizar
+5834.	llevarán	10	llevar
+5835.	llamaría	10	llamar
+5836.	irlandés	10	irlandés
+5837.	esperes	10	esperar
+5838.	crecí	10	crecer
+5839.	as	10	as
+5840.	agarró	10	agarrar
+5841.	voluntario	10	voluntario
+5842.	vivirá	10	vivir
+5843.	vigilar	10	vigilar
+5844.	vestíbulo	10	vestíbulo
+5845.	soltar	10	soltar
+5846.	siguientes	10	siguiente
+5847.	residentes	10	residente
+5848.	leíste	10	leer
+5849.	hacha	10	hacha
+5850.	felicito	10	felicitar
+5851.	enojar	10	enojar
+5852.	ejercicios	10	ejercicio
+5853.	drogado	10	drogado drogar
+5854.	cagar	10	cagar
+5855.	traducido	10	traducido traducir
+5856.	suplico	10	suplicar
+5857.	salario	10	salario
+5858.	préstamo	10	préstamo
+5859.	mensajero	10	mensajero
+5860.	granjero	10	granjero
+5861.	filosofía	10	filosofía
+5862.	faltaba	10	faltar
+5863.	explosivo	10	explosivo
+5864.	diagnóstico	10	diagnóstico
+5865.	cardíaco	10	cardíaco
+5866.	bosques	10	bosque
+5867.	acabé	10	acabar
+5868.	tomate	10	tomate tomar
+5869.	quitarle	10	quitar
+5870.	magneto	10	magneto
+5871.	lance	10	lance lanzar
+5872.	huyó	10	huir
+5873.	hilo	10	hilo
+5874.	hablará	10	hablar
+5875.	gemelos	10	gemelo
+5876.	eligió	10	elegir
+5877.	doler	10	doler
+5878.	dificultades	10	dificultad
+5879.	concentración	10	concentración
+5880.	artistas	10	artista
+5881.	aceptas	10	aceptar
+5882.	acabando	10	acabar
+5883.	torpe	10	torpe
+5884.	sobrevivientes	10	sobreviviente
+5885.	saldrás	10	salir
+5886.	región	10	región
+5887.	produce	10	producir
+5888.	post	10	post
+5889.	obsesionado	10	obsesionado obsesionar
+5890.	descubre	10	descubrir
+5891.	cerró	10	cerrar
+5892.	cayeron	10	caer
+5893.	casé	10	casar
+5894.	automóvil	10	automóvil
+5895.	atiende	10	atender
+5896.	voló	10	volar
+5897.	ruinas	10	ruina ruinar
+5898.	orilla	10	orilla
+5899.	mañanas	10	mañana
+5900.	magnífica	10	magnífico
+5901.	excitante	10	excitante
+5902.	enseñarles	10	enseñar
+5903.	comenzaron	10	comenzar
+5904.	cerradas	10	cerrado
+5905.	celosa	10	celoso
+5906.	batallón	10	batallón
+5907.	atrae	10	atraer
+5908.	apresúrate	10	apresurar
+5909.	rojos	10	rojo
+5910.	ofender	10	ofender
+5911.	novela	10	novela
+5912.	nazis	10	nazi
+5913.	muros	10	muro
+5914.	limpias	10	limpio
+5915.	espectacular	10	espectacular
+5916.	empiecen	10	empezar
+5917.	cortina	10	cortina
+5918.	construido	10	construido construir
+5919.	comerciales	10	comercial
+5920.	chaval	10	chaval
+5921.	cadenas	10	cadena
+5922.	botones	10	botón
+5923.	arrogante	10	arrogante
+5924.	vendo	10	vender vendar
+5925.	tuviéramos	10	tener
+5926.	tocaba	10	tocar
+5927.	situaciones	10	situación
+5928.	semental	10	semental
+5929.	responsables	10	responsable
+5930.	reportes	10	reporte
+5931.	muestran	10	mostrar
+5932.	facultad	10	facultad
+5933.	envidia	10	envidia envidiar
+5934.	emocionado	10	emocionar
+5935.	disposición	10	disposición
+5936.	diremos	10	decir
+5937.	dejarnos	10	dejar
+5938.	deberiamos	10	deber
+5939.	conquistar	10	conquistar
+5940.	bonitos	10	bonito
+5941.	averigua	10	averiguar
+5942.	almohada	10	almohada
+5943.	activo	10	activo activar
+5944.	abuelita	10	abuelita abuela
+5945.	vitales	10	vital
+5946.	verse	10	ver
+5947.	traicionado	10	traicionado traicionar
+5948.	teresa	10	teresa Teresa
+5949.	soñé	10	soñar
+5950.	roba	10	robar
+5951.	moderno	10	moderno
+5952.	manta	10	manta
+5953.	lidiar	10	lidiar
+5954.	joda	10	joder
+5955.	despejen	10	despejar
+5956.	comunista	10	comunista
+5957.	aprendiendo	10	aprender
+5958.	tirando	10	tirar
+5959.	suiza	10	Suiza suizo
+5960.	pita	10	pita
+5961.	pensaron	10	pensar
+5962.	nudos	10	nudo
+5963.	muestre	10	mostrar
+5964.	molestado	10	molestado molestar
+5965.	llora	10	llorar
+5966.	hembra	10	hembra
+5967.	eternamente	10	eternamente
+5968.	duermas	10	dormir
+5969.	disparan	10	disparar
+5970.	creerá	10	creer
+5971.	colgado	10	colgado colgar
+5972.	arrestaron	10	arrestar
+5973.	acusación	10	acusación
+5974.	viajando	10	viajar
+5975.	tremenda	10	tremendo
+5976.	simples	10	simple
+5977.	servirle	10	servir
+5978.	planea	10	planear
+5979.	negar	10	negar
+5980.	necesitabas	10	necesitar
+5981.	mordido	10	mordido morder
+5982.	lecciones	10	lección
+5983.	insectos	10	insecto
+5984.	imaginado	10	imaginado imaginar
+5985.	habríamos	10	haber
+5986.	fallar	10	fallar
+5987.	escudos	10	escudo
+5988.	diviértete	10	divertir
+5989.	crece	10	crecer
+5990.	combatir	10	combatir
+5991.	canto	10	canto cantar
+5992.	bichos	10	bicho
+5993.	atacando	10	atacar
+5994.	apestoso	10	apestoso
+5995.	visa	10	visa
+5996.	times	10	timar
+5997.	retirar	10	retirar
+5998.	persigue	10	perseguir
+5999.	ooh	10	ooh
+6000.	leerlo	10	leer
