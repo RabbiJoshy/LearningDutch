@@ -1,297 +1,297 @@
 ,Front,Back
-0,Hij: Be,was
-1,Zij: Be,waren
-2,Hij is:  Be,is geweest
-3,Hij: Have,had
-4,Jullie: Have,hadden
-5,Hij heeft:  Have,heeft gehad
-6,Jij: Should,moest
-7,Jullie: Should,moesten
-8,Hij heeft:  Should,heeft gemoeten
-9,Hij: Can,kon
-10,Wij: Can,konden
-11,Hij heeft:  Can,heeft gekund
-12,Ik: Go,ging
-13,Jullie: Go,gingen
-14,Hij is:  Go,is gegaan
-15,Jij: Do,deed
-16,Jullie: Do,deden
-17,Hij heeft:  Do,heeft gedaan
-18,Hij: Know,wist
-19,Jullie: Know,wisten
-20,Hij heeft:  Know,heeft geweten
-21,Ik: Become,werd
-22,Jullie: Become,werden
-23,Hij is:  Become,is geworden
-24,Hij: Say,zei(zegde)
-25,Zij: Say,zegden
-26,Hij heeft:  Say,heeft gezegd
-27,Hij: Want,wou(wilde)
-28,Jullie: Want,wilden
-29,Hij heeft:  Want,heeft gewild
-30,Ik: Will,zou
-31,Wij: Will,zouden
-32,Hij: Come,kwam
-33,Zij: Come,kwamen
-34,Hij Is:  Come,Is gekomen
-35,Hij:  Sit,zat
-36,Zij:  Sit,zaten
-37,Hij heeft:   Sit,heeft gezeten
-38,Ik: Make,maakte
-39,Wij: Make,maakten
-40,Hij heeft:  Make,heeft gemaakt
-41,Jij: Stand,stond
-42,Zij: Stand,stonden
-43,Hij heeft:  Stand,heeft gestaan
-44,Jij: See,zag
-45,Zij: See,zagen
-46,Hij heeft:  See,heeft gezien
-47,Jij: Look,keek
-48,Jullie: Look,keken
-49,Hij heeft:  Look,heeft gekeken
-50,Ik: May,mocht
-51,Zij: May,mochten
-52,Hij heeft:  May,heeft gemogen
-53,Hij: Let,liet
-54,Zij: Let,lieten
-55,Hij heeft:  Let,heeft gelaten
-56,Hij: Think,dacht
-57,Jullie: Think,dachten
-58,Hij heeft:  Think,heeft gedacht
-59,Hij: Get,kreeg
-60,Jullie: Get,kregen
-61,Hij heeft:  Get,heeft gekregen
-62,Jij: Find,vond
-63,Wij: Find,vonden
-64,Hij heeft:  Find,heeft gevonden
-65,Hij: Live,leefde
-66,Jullie: Live,leefden
-67,Hij heeft:  Live,heeft geleefd
-68,Hij: Ask,vroeg
-69,Jullie: Ask,vroegen
-70,Hij heeft:  Ask,heeft gevraagd
-71,Ik: Give,gaf
-72,Jullie: Give,gaven
-73,Hij heeft:  Give,heeft gegeven
-74,Hij: Work,werkte
-75,Zij: Work,werkten
-76,Hij heeft:  Work,heeft gewerkt
-77,Jij: Read,las
-78,Jullie: Read,lazen
-79,Hij heeft:  Read,heeft gelezen
-80,Hij: Stay,bleef
-81,Wij: Stay,bleven
-82,Hij is:  Stay,is gebleven
-83,Hij: Exist,bestond
-84,Wij: Exist,bestonden
-85,Hij heeft:  Exist,heeft bestaan
-86,Jij: Lying,lag
-87,Wij: Lying,lagen
-88,Hij heeft:  Lying,heeft gelegen
-89,Jij: Appear,bleek
-90,Jullie: Appear,bleken
-91,Hij is:  Appear,is gebleken
-92,Jij: Keep,hield
-93,Jullie: Keep,hielden
-94,Hij heeft:  Keep,heeft gehouden
-95,Jij: Cost,kostte
-96,Zij: Cost,kostten
-97,Hij heeft:  Cost,heeft gekost
-98,Hij: Believe,geloofde
-99,Zij: Believe,geloofden
-100,Hij heeft:  Believe,heeft geloofd
-101,Hij: Take,nam
-102,Wij: Take,namen
-103,Hij heeft:  Take,heeft genomen
-104,Jij: Eat,at
-105,Zij: Eat,aten
-106,Hij heeft:  Eat,heeft gegeten
-107,Jij: Appear,leek
-108,Jullie: Appear,leken
-109,Hij heeft:  Appear,heeft geleken
-110,Hij:  Start,begon
-111,Zij:  Start,begonnen
-112,Hij is:   Start,is begonnen
-113,Jij: Drink,dronk
-114,Wij: Drink,dronken
-115,Hij heeft:  Drink,heeft gedronken
-116,Ik: Talk,praatte
-117,Zij: Talk,praatten
-118,Hij heeft:  Talk,heeft gepraat
-119,Jij: Put,zette
-120,Zij: Put,zetten
-121,Hij heeft:  Put,heeft gezet
-122,Hij: Walk,liep
-123,Wij: Walk,liepen
-124,Hij heeft:  Walk,heeft gelopen
-125,Hij: Fetch,haalde
-126,Zij: Fetch,haalden
-127,Hij heeft:  Fetch,heeft gehaald
-128,Jij: Play,speelde
-129,Jullie: Play,speelden
-130,Hij heeft:  Play,heeft gespeeld
-131,Ik: Fall,viel
-132,Wij: Fall,vielen
-133,Hij is:  Fall,is gevallen
-134,Hij: Happen,gebeurde
-135,Jullie: Happen,gebeurden
-136,Hij is:  Happen,is gebeurd
-137,Ik: Concern,betrof
-138,Zij: Concern,betroffen
-139,Hij heeft:  Concern,heeft betroffen
-140,Jij: Hear,hoorde
-141,Jullie: Hear,hoorden
-142,Hij heeft:  Hear,heeft gehoord
-143,Jij: Know,kende
-144,Wij: Know,kenden
-145,Hij heeft:  Know,heeft gekend
-146,Hij: Bring,bracht
-147,Wij: Bring,brachten
-148,Hij heeft:  Bring,heeft gebracht
-149,Ik: Learn,leerde
-150,Zij: Learn,leerden
-151,Hij heeft:  Learn,heeft geleerd
-152,Ik: Imagine,steldevoor
-153,Jullie: Imagine,steldenvoor
-154,Hij heeft:  Imagine,heeft voorgesteld
-155,Hij: Speak,sprak
-156,Jullie: Speak,spraken
-157,Hij heeft:  Speak,heeft gesproken
-158,Jij: Tell,vertelde
-159,Jullie: Tell,vertelden
-160,Hij heeft:  Tell,heeft verteld
-161,Jij: Sleep,sliep
-162,Wij: Sleep,sliepen
-163,Hij heeft:  Sleep,heeft geslapen
-164,Jij: Couple,stelde
-165,Wij: Couple,stelden
-166,Hij heeft:  Couple,heeft gesteld
-167,Hij: Grow,groeide
-168,Zij: Grow,groeiden
-169,Hij heeft:  Grow,heeft gegroeid
-170,Ik: Use,gebruikte
-171,Zij: Use,gebruikten
-172,Hij heeft:  Use,heeft gebruikt
-173,Ik: Expect,verwachtte
-174,Wij: Expect,verwachtten
-175,Hij heeft:  Expect,heeft verwacht
-176,Ik: Mean,betekende
-177,Jullie: Mean,betekenden
-178,Hij heeft:  Mean,heeft betekend
-179,Ik: Pay,betaalde
-180,Wij: Pay,betaalden
-181,Hij heeft:  Pay,heeft betaald
-182,Hij: Shape,vormde
-183,Zij: Shape,vormden
-184,Hij heeft:  Shape,heeft gevormd
-185,Ik:  Buy,kocht
-186,Jullie:  Buy,kochten
-187,Hij heeft:   Buy,heeft gekocht
-188,Ik: Count,telde
-189,Zij: Count,telden
-190,Hij heeft:  Count,heeft geteld
-191,Hij: Concern,zorgde
-192,Zij: Concern,zorgden
-193,Hij heeft:  Concern,heeft gezorgd
-194,Hij: Bid,bood
-195,Jullie: Bid,boden
-196,Hij heeft:  Bid,heeft geboden
-197,Ik: Sell,verkocht
-198,Wij: Sell,verkochten
-199,Hij heeft:  Sell,heeft verkocht
-200,Hij: Follow,volgde
-201,Wij: Follow,volgden
-202,Hij heeft:  Follow,heeft gevolgd
-203,Jij: Draw,trok
-204,Zij: Draw,trokken
-205,Hij heeft:  Draw,heeft getrokken
-206,Hij: Determine,bepaalde
-207,Jullie: Determine,bepaalden
-208,Hij heeft:  Determine,heeft bepaald
-209,Jij: Search,zocht
-210,Zij: Search,zochten
-211,Hij heeft:  Search,heeft gezocht
-212,Ik: Lay,legde
-213,Zij: Lay,legden
-214,Hij heeft:  Lay,heeft gelegd
-215,Ik: Write,schreef
-216,Zij: Write,schreven
-217,Hij heeft:  Write,heeft geschreven
-218,Ik: Limit,beperkte
-219,Zij: Limit,beperkten
-220,Hij heeft:  Limit,heeft beperkt
-221,Ik: Money,gold
-222,Zij: Money,golden
-223,Hij heeft:  Money,heeft gegolden
-224,Jij: Lead,leidde
-225,Wij: Lead,leidden
-226,Hij heeft:  Lead,heeft geleid
-227,Ik: Amount,bedroeg
-228,Wij: Amount,bedroegen
-229,Hij heeft:  Amount,heeft bedragen
-230,Ik: Wait,wachtte
-231,Jullie: Wait,wachtten
-232,Hij heeft:  Wait,heeft gewacht
-233,Jij: Place,plaatste
-234,Zij: Place,plaatsten
-235,Hij heeft:  Place,heeft geplaatst
-236,Jij: Plan,plande
-237,Zij: Plan,planden
-238,Hij heeft:  Plan,heeft gepland
-239,Ik: Start,startte
-240,Zij: Start,startten
-241,Hij is:  Start,is gestart
-242,Hij: Try,probeerde
-243,Wij: Try,probeerden
-244,Hij heeft:  Try,heeft geprobeerd
-245,Hij: Feed,voerde
-246,Zij: Feed,voerden
-247,Hij heeft:  Feed,heeft gevoerd
-248,Ik: Build,bouwde
-249,Wij: Build,bouwden
-250,Hij heeft:  Build,heeft gebouwd
-251,Jij: Choose,koos
-252,Jullie: Choose,kozen
-253,Hij heeft:  Choose,heeft gekozen
-254,Ik: Provide,voorzag
-255,Jullie: Provide,voorzagen
-256,Hij heeft:  Provide,heeft voorzien
-257,Hij: Involve,betrok
-258,Jullie: Involve,betrokken
-259,Hij heeft:  Involve,heeft betrokken
-260,Ik:  Help,hielp
-261,Zij:  Help,hielpen
-262,Hij heeft:   Help,heeft geholpen
-263,Ik: Visit,bezocht
-264,Zij: Visit,bezochten
-265,Hij heeft:  Visit,heeft bezocht
-266,Hij: Deliver,leverde
-267,Jullie: Deliver,leverden
-268,Hij heeft:  Deliver,heeft geleverd
-269,Jij: Reply,antwoordde
-270,Zij: Reply,antwoordden
-271,Hij heeft:  Reply,heeft geantwoord
-272,Hij: Call,noemde
-273,Zij: Call,noemden
-274,Hij is:  Call,is genoemd
-275,Ik: Name,heette
-276,Zij: Name,heetten
-277,Hij heeft:  Name,heeft geheten
-278,Jij: Change,veranderde
-279,Wij: Change,veranderden
-280,Hij is:  Change,is veranderd
-281,Jij: Trust,vertrouwde
-282,Zij: Trust,vertrouwden
-283,Hij heeft:  Trust,heeft vertrouwd
-284,Ik:  Originate,ontstond
-285,Zij:  Originate,ontstonden
-286,Hij is:   Originate,is ontstaan
-287,Ik: Rise,steeg
-288,Zij: Rise,stegen
-289,Hij Is:  Rise,Is gestegen
-290,Hij: Own,bezat
-291,Jullie: Own,bezaten
-292,Hij heeft:  Own,heeft bezeten
-293,Ik: Feel,voelde
-294,Jullie: Feel,voelden
-295,Hij heeft:  Feel,heeft gevoeld
+0,Ik: Zijn,was
+1,Zij: Zijn,waren
+2,Hij:  Zijn,is geweest
+3,Hij: Hebben,had
+4,Zij: Hebben,hadden
+5,Hij:  Hebben,heeft gehad
+6,Hij: Moeten,moest
+7,Jullie: Moeten,moesten
+8,Hij:  Moeten,heeft gemoeten
+9,Hij: Kunnen,kon
+10,Wij: Kunnen,konden
+11,Hij:  Kunnen,heeft gekund
+12,Ik: Gaan,ging
+13,Zij: Gaan,gingen
+14,Hij:  Gaan,is gegaan
+15,Jij: Doen,deed
+16,Wij: Doen,deden
+17,Hij:  Doen,heeft gedaan
+18,Ik: Weten,wist
+19,Zij: Weten,wisten
+20,Hij:  Weten,heeft geweten
+21,Jij: Worden,werd
+22,Wij: Worden,werden
+23,Hij:  Worden,is geworden
+24,Ik: Zeggen,zei(zegde)
+25,Jullie: Zeggen,zegden
+26,Hij:  Zeggen,heeft gezegd
+27,Hij: Willen,wou(wilde)
+28,Zij: Willen,wilden
+29,Hij:  Willen,heeft gewild
+30,Jij: Zullen,zou
+31,Jullie: Zullen,zouden
+32,Hij: Komen,kwam
+33,Wij: Komen,kwamen
+34,Hij:  Komen,Is gekomen
+35,Ik: Zitten,zat
+36,Wij: Zitten,zaten
+37,Hij:  Zitten,heeft gezeten
+38,Hij: Maken,maakte
+39,Zij: Maken,maakten
+40,Hij:  Maken,heeft gemaakt
+41,Ik: Staan,stond
+42,Wij: Staan,stonden
+43,Hij:  Staan,heeft gestaan
+44,Hij: Zien,zag
+45,Wij: Zien,zagen
+46,Hij:  Zien,heeft gezien
+47,Jij: Kijken,keek
+48,Wij: Kijken,keken
+49,Hij:  Kijken,heeft gekeken
+50,Ik: Mogen,mocht
+51,Jullie: Mogen,mochten
+52,Hij:  Mogen,heeft gemogen
+53,Hij: Laten,liet
+54,Jullie: Laten,lieten
+55,Hij:  Laten,heeft gelaten
+56,Jij: Denken,dacht
+57,Jullie: Denken,dachten
+58,Hij:  Denken,heeft gedacht
+59,Ik: Krijgen,kreeg
+60,Jullie: Krijgen,kregen
+61,Hij:  Krijgen,heeft gekregen
+62,Jij: Vinden,vond
+63,Jullie: Vinden,vonden
+64,Hij:  Vinden,heeft gevonden
+65,Ik: Leven,leefde
+66,Jullie: Leven,leefden
+67,Hij:  Leven,heeft geleefd
+68,Jij: Vragen,vroeg
+69,Zij: Vragen,vroegen
+70,Hij:  Vragen,heeft gevraagd
+71,Hij: Geven,gaf
+72,Zij: Geven,gaven
+73,Hij:  Geven,heeft gegeven
+74,Hij: Werken,werkte
+75,Zij: Werken,werkten
+76,Hij:  Werken,heeft gewerkt
+77,Ik: Lezen,las
+78,Zij: Lezen,lazen
+79,Hij:  Lezen,heeft gelezen
+80,Jij: Blijven,bleef
+81,Wij: Blijven,bleven
+82,Hij:  Blijven,is gebleven
+83,Jij: Bestaan,bestond
+84,Wij: Bestaan,bestonden
+85,Hij:  Bestaan,heeft bestaan
+86,Hij: Liggen,lag
+87,Zij: Liggen,lagen
+88,Hij:  Liggen,heeft gelegen
+89,Hij: Blijken,bleek
+90,Jullie: Blijken,bleken
+91,Hij:  Blijken,is gebleken
+92,Ik: Houden,hield
+93,Jullie: Houden,hielden
+94,Hij:  Houden,heeft gehouden
+95,Hij: Kosten,kostte
+96,Jullie: Kosten,kostten
+97,Hij:  Kosten,heeft gekost
+98,Hij: Geloven,geloofde
+99,Wij: Geloven,geloofden
+100,Hij:  Geloven,heeft geloofd
+101,Ik: Nemen,nam
+102,Zij: Nemen,namen
+103,Hij:  Nemen,heeft genomen
+104,Jij: Eten,at
+105,Zij: Eten,aten
+106,Hij:  Eten,heeft gegeten
+107,Hij: Lijken,leek
+108,Zij: Lijken,leken
+109,Hij:  Lijken,heeft geleken
+110,Jij: Beginnen,begon
+111,Wij: Beginnen,begonnen
+112,Hij:  Beginnen,is begonnen
+113,Hij: Drinken,dronk
+114,Wij: Drinken,dronken
+115,Hij:  Drinken,heeft gedronken
+116,Hij: Praten,praatte
+117,Zij: Praten,praatten
+118,Hij:  Praten,heeft gepraat
+119,Jij: Zetten,zette
+120,Zij: Zetten,zetten
+121,Hij:  Zetten,heeft gezet
+122,Hij: Lopen,liep
+123,Wij: Lopen,liepen
+124,Hij:  Lopen,heeft gelopen
+125,Jij: Halen,haalde
+126,Wij: Halen,haalden
+127,Hij:  Halen,heeft gehaald
+128,Ik: Spelen,speelde
+129,Zij: Spelen,speelden
+130,Hij:  Spelen,heeft gespeeld
+131,Jij: Vallen,viel
+132,Zij: Vallen,vielen
+133,Hij:  Vallen,is gevallen
+134,Ik: Gebeuren,gebeurde
+135,Wij: Gebeuren,gebeurden
+136,Hij:  Gebeuren,is gebeurd
+137,Hij: Betreffen,betrof
+138,Zij: Betreffen,betroffen
+139,Hij:  Betreffen,heeft betroffen
+140,Ik: Horen,hoorde
+141,Wij: Horen,hoorden
+142,Hij:  Horen,heeft gehoord
+143,Hij: Kennen,kende
+144,Jullie: Kennen,kenden
+145,Hij:  Kennen,heeft gekend
+146,Hij: Brengen,bracht
+147,Wij: Brengen,brachten
+148,Hij:  Brengen,heeft gebracht
+149,Ik: Leren,leerde
+150,Zij: Leren,leerden
+151,Hij:  Leren,heeft geleerd
+152,Hij: Voorstellen,steldevoor
+153,Zij: Voorstellen,steldenvoor
+154,Hij:  Voorstellen,heeft voorgesteld
+155,Hij: Spreken,sprak
+156,Jullie: Spreken,spraken
+157,Hij:  Spreken,heeft gesproken
+158,Hij: Vertellen,vertelde
+159,Zij: Vertellen,vertelden
+160,Hij:  Vertellen,heeft verteld
+161,Hij: Slapen,sliep
+162,Zij: Slapen,sliepen
+163,Hij:  Slapen,heeft geslapen
+164,Ik: Stellen,stelde
+165,Zij: Stellen,stelden
+166,Hij:  Stellen,heeft gesteld
+167,Jij: Groeien,groeide
+168,Zij: Groeien,groeiden
+169,Hij:  Groeien,heeft gegroeid
+170,Jij: Gebruiken,gebruikte
+171,Zij: Gebruiken,gebruikten
+172,Hij:  Gebruiken,heeft gebruikt
+173,Jij: Verwachten,verwachtte
+174,Wij: Verwachten,verwachtten
+175,Hij:  Verwachten,heeft verwacht
+176,Jij: Betekenen,betekende
+177,Wij: Betekenen,betekenden
+178,Hij:  Betekenen,heeft betekend
+179,Ik: Betalen,betaalde
+180,Jullie: Betalen,betaalden
+181,Hij:  Betalen,heeft betaald
+182,Ik: Vormen,vormde
+183,Wij: Vormen,vormden
+184,Hij:  Vormen,heeft gevormd
+185,Ik: Kopen,kocht
+186,Zij: Kopen,kochten
+187,Hij:  Kopen,heeft gekocht
+188,Hij: Tellen,telde
+189,Wij: Tellen,telden
+190,Hij:  Tellen,heeft geteld
+191,Ik: Zorgen,zorgde
+192,Wij: Zorgen,zorgden
+193,Hij:  Zorgen,heeft gezorgd
+194,Ik: Bieden,bood
+195,Jullie: Bieden,boden
+196,Hij:  Bieden,heeft geboden
+197,Jij: Verkopen,verkocht
+198,Jullie: Verkopen,verkochten
+199,Hij:  Verkopen,heeft verkocht
+200,Hij: Volgen,volgde
+201,Wij: Volgen,volgden
+202,Hij:  Volgen,heeft gevolgd
+203,Jij: Trekken,trok
+204,Wij: Trekken,trokken
+205,Hij:  Trekken,heeft getrokken
+206,Ik: Bepalen,bepaalde
+207,Jullie: Bepalen,bepaalden
+208,Hij:  Bepalen,heeft bepaald
+209,Ik: Zoeken,zocht
+210,Jullie: Zoeken,zochten
+211,Hij:  Zoeken,heeft gezocht
+212,Ik: Leggen,legde
+213,Wij: Leggen,legden
+214,Hij:  Leggen,heeft gelegd
+215,Jij: Schrijven,schreef
+216,Wij: Schrijven,schreven
+217,Hij:  Schrijven,heeft geschreven
+218,Hij: Beperken,beperkte
+219,Zij: Beperken,beperkten
+220,Hij:  Beperken,heeft beperkt
+221,Ik: Gelden,gold
+222,Jullie: Gelden,golden
+223,Hij:  Gelden,heeft gegolden
+224,Hij: Leiden,leidde
+225,Jullie: Leiden,leidden
+226,Hij:  Leiden,heeft geleid
+227,Hij: Bedragen,bedroeg
+228,Zij: Bedragen,bedroegen
+229,Hij:  Bedragen,heeft bedragen
+230,Jij: Wachten,wachtte
+231,Jullie: Wachten,wachtten
+232,Hij:  Wachten,heeft gewacht
+233,Ik: Plaatsen,plaatste
+234,Zij: Plaatsen,plaatsten
+235,Hij:  Plaatsen,heeft geplaatst
+236,Hij: Plannen,plande
+237,Jullie: Plannen,planden
+238,Hij:  Plannen,heeft gepland
+239,Jij: Starten,startte
+240,Wij: Starten,startten
+241,Hij:  Starten,is gestart
+242,Hij: Proberen,probeerde
+243,Jullie: Proberen,probeerden
+244,Hij:  Proberen,heeft geprobeerd
+245,Jij: Voeren,voerde
+246,Wij: Voeren,voerden
+247,Hij:  Voeren,heeft gevoerd
+248,Jij: Bouwen,bouwde
+249,Zij: Bouwen,bouwden
+250,Hij:  Bouwen,heeft gebouwd
+251,Hij: Kiezen,koos
+252,Wij: Kiezen,kozen
+253,Hij:  Kiezen,heeft gekozen
+254,Hij: Voorzien,voorzag
+255,Jullie: Voorzien,voorzagen
+256,Hij:  Voorzien,heeft voorzien
+257,Jij: betrekken,betrok
+258,Jullie: betrekken,betrokken
+259,Hij:  betrekken,heeft betrokken
+260,Ik: Helpen,hielp
+261,Zij: Helpen,hielpen
+262,Hij:  Helpen,heeft geholpen
+263,Hij: Bezoeken,bezocht
+264,Zij: Bezoeken,bezochten
+265,Hij:  Bezoeken,heeft bezocht
+266,Ik: Leveren,leverde
+267,Jullie: Leveren,leverden
+268,Hij:  Leveren,heeft geleverd
+269,Ik: Antwoorden,antwoordde
+270,Jullie: Antwoorden,antwoordden
+271,Hij:  Antwoorden,heeft geantwoord
+272,Ik: Noemen,noemde
+273,Zij: Noemen,noemden
+274,Hij:  Noemen,is genoemd
+275,Jij: Heten,heette
+276,Jullie: Heten,heetten
+277,Hij:  Heten,heeft geheten
+278,Ik: Veranderen,veranderde
+279,Zij: Veranderen,veranderden
+280,Hij:  Veranderen,is veranderd
+281,Ik: Vertrouwen,vertrouwde
+282,Wij: Vertrouwen,vertrouwden
+283,Hij:  Vertrouwen,heeft vertrouwd
+284,Hij: Ontstaan,ontstond
+285,Jullie: Ontstaan,ontstonden
+286,Hij:  Ontstaan,is ontstaan
+287,Hij: Stijgen,steeg
+288,Wij: Stijgen,stegen
+289,Hij:  Stijgen,Is gestegen
+290,Ik: Bezitten,bezat
+291,Wij: Bezitten,bezaten
+292,Hij:  Bezitten,heeft bezeten
+293,Ik: Voelen,voelde
+294,Jullie: Voelen,voelden
+295,Hij:  Voelen,heeft gevoeld
