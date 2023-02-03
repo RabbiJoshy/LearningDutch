@@ -1,17 +1,15 @@
 import pandas as pd
 from googletrans import Translator
 
-def addtranslation():
-    df = pd.read_csv('Spanish/SpanishRawWiki.txt', sep="\t")
+def addtranslation(rawcsv, lang = 'es'):
+    df = pd.read_csv(rawcsv, sep="\t")
     df['occurrences (ppm)'].sum() + 150
     df['CUMSUM'] = df['occurrences (ppm)'].cumsum()
     df['CUMSUM']= round(df['CUMSUM']/10000)
     translator = Translator()
-    df['GTInfo'] = df['word'].apply(lambda x: translator.translate(x ,src = 'es', dest = 'en'))
+    df['GTInfo'] = df['word'].apply(lambda x: translator.translate(x ,src = lang, dest = 'en'))
     # df.to_csv('SpanishGoogle')
 
-    return df
-def quizletready(df):
     translations = []
     for i in df['GTInfo']:
         difftranslations = []
@@ -29,8 +27,7 @@ def quizletready(df):
 
     return df
 
-df = addtranslation()
-df = quizletready(df)
+df = addtranslation('Spanish/SpanishRawWiki.txt', 'es')
 df.to_csv('Spanish/SpanishGoogleQuizlet')
 
 
