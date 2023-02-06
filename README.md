@@ -6,7 +6,4 @@ This is an ongoing project, initially to create CSVs to be used with a 3rd party
 
 ![Screenshot]('Screenshot 2023-02-06 at 13.31.02.png')
 
-
-[url=https://postimg.cc/mcM57YKQ][img]https://i.postimg.cc/mcM57YKQ/Screenshot-2023-02-06-at-13-31-02.png[/img][/url]
-
-[url=https://postimg.cc/sQr0mBRb][img]https://i.postimg.cc/sQr0mBRb/Screenshot-2023-02-06-at-13-31-09.png[/img][/url]
+[![Screenshot-2023-02-06-at-13-31-09.png](https://i.postimg.cc/W3FL2rYp/Screenshot-2023-02-06-at-13-31-09.png)](https://postimg.cc/sQr0mBRb)
