@@ -1,0 +1,226 @@
+Unnamed: 0.1,Unnamed: 0,French,POS,ChatGPT_Sentence,Translation
+0,100,regarder,verb,"Est-ce que vous regardez vos livres?
+
+Are you looking at your books?",look
+1,101,encore,adverb,"La fille demande encore.
+The girl asks again.",Again
+2,102,appeler,verb,"Je vais appeler mon ami et mettre de la musique, ouais.
+I am going to call my friend and put on some music, yeah.",to call
+3,103,est-ce que,adverb,"Est-ce que tu peux tenir cela sans perdre ton équilibre ?
+Can you hold this without losing your balance?",is it that
+4,104,peu,"noun, adverb","Ils ont peu de temps pour finir leur travail.
+They have little time to finish their work.",little
+5,105,homme,noun,"L'homme aide un ami à écrire son nom.
+The man helps a friend write his name.",man
+6,106,partir,verb,"Je vais partir, mais je veux regarder le film avant de m'arrêter.
+
+I am going to leave, but I want to watch the movie before stopping.",leave
+7,107,ma,possessive adjective,"Ma première amie est gentille.
+My first friend is kind.",my
+8,108,toujours,adverb,"Je finis toujours mes devoirs parce que c'est important.  
+I always finish my homework because it's important.",always
+9,109,jour,noun,"Oh, ses amis sont venus ce jour.
+Oh, his friends came this day.",day
+10,110,femme,noun,"La femme aime vivre et profiter du temps.
+
+The woman loves to live and enjoy the time.",women
+11,111,temps,noun,"Quelle femme a le temps pour ça?
+Which woman has the time for that?",time
+12,112,maintenant,adverb,"Maintenant, quelqu'un parle beaucoup.
+
+Now, someone is talking a lot.",NOW
+13,113,notre,possessive adjective,"Notre maison est quelque peu petite.
+Our house is somewhat small.",OUR
+14,114,vie,noun,"La vie est belle quand on est en accord avec chaque heure.
+
+Life is beautiful when one is in harmony with each hour.",life
+15,115,deux,numerical adjective,"Il est deux heures, je peux t'aider.
+It is two o'clock, I can help you.",two
+16,116,mettre,verb,"Mettez vos gens au travail.
+Put your people to work.",put
+17,117,rester,verb,"Je veux rester ici sans arrêter.  
+I want to stay here without stopping.",stay
+18,118,sans,preposition,"Il marche sans s'arrêter, seul dans la rue.
+He walks without stopping, alone in the street.",without
+19,119,seul,"adjective, noun","Il est seul chez lui sans argent.
+He is alone at home without money.",alone
+20,120,arrêter,verb,"Le monde doit arrêter une fois pour réfléchir.
+
+The world must stop once to reflect.",Stop
+21,121,vraiment,adverb,"Je cherche vraiment une maison.
+I am really looking for a house.",Really
+22,122,connaître,verb,"Je veux rendre visite à mon père pour connaître ses amis.
+I want to visit my father to get to know his friends.",to know
+23,123,quelque,"indefinite adjective, adverb","Il y a quelque mal à revenir tard.
+There is some harm in coming back late.",some
+24,124,sûr,adjective,"Mon père est sûr que le problème est résolu.
+My father is sure that the problem is solved.",on
+25,125,tuer,verb,"Il ne faut pas juste mettre fin à la guerre, il faut aussi arrêter de tuer.
+We must not just end the war, we must also stop killing.",kill
+26,126,mourir,verb,"Je peux sentir que l'heure de mourir approche.
+I can feel that the hour to die is approaching.",die
+27,127,demander,verb,"Je vais demander de l'aide parce que j'ai peur du problème.
+I am going to ask for help because I am afraid of the problem.",ask
+28,128,juste,"adjective, adverb","La vie est juste parfois, mais elle peut être mal aussi.
+Life is just sometimes, but it can be bad too.",just
+29,129,peut-être,adverb,"Peut-être que vos amis viendront à notre fête.
+
+Maybe your friends will come to our party.",maybe
+30,130,dieu,noun,"Dieu a créé le monde aux origines.
+
+God created the world in the beginning.",God
+31,131,fois,noun,"J'ai peur d'essayer une fois.  
+I am afraid to try once.",times
+32,132,oh,onomatopoeia,"Oh, ouais, d'accord.
+
+Oh, yeah, okay.",Oh
+33,133,père,noun,"Mon père essaye de réparer la voiture seul.
+My father is trying to fix the car alone.",father
+34,134,comprendre,verb,"Bonjour, je ne comprends pas mal.  
+Hello, I don't understand badly.",to understand
+35,135,sortir,verb,"Je vais sortir ce soir pour plaire à mes amis, mais je ne veux pas mourir de fatigue.
+
+I am going out tonight to please my friends, but I don't want to die of exhaustion.",to go out
+36,136,personne,"indefinite pronoun, noun","Personne ne comprend vos instructions, il y a peu de clarté.
+No one understands your instructions, there is little clarity.",person
+37,137,an,noun,"Est-ce que ta vie change chaque an ?
+Does your life change every year?",year
+38,138,trop,adverb,"Il fait trop chaud pendant le jour et trop froid la nuit.
+It is too hot during the day and too cold at night.",too much
+39,139,chez,preposition,"Peut-être que je vais mal chez le médecin.
+
+Maybe I am doing poorly at the doctor's.",at the house of
+40,140,fille,noun,"La fille voit le monde mal.
+The girl sees the world badly.",girl
+41,141,aux,definite article,"Je suis déjà allé aux maisons.
+
+I have already been to the houses.",to
+42,142,monde,noun,"Avant, le monde était différent, donc nous devons nous adapter.
+Before, the world was different, so we must adapt.",world
+43,143,ami,"noun, adjective","J'ai entendu mon ami sortir de la maison.
+I heard my friend leaving the house.",friend
+44,144,vrai,adjective,"Notre chien est un vrai ami depuis quelque temps.
+Our dog has been a true friend for some time.",TRUE
+45,145,après,"preposition, adverb","Après le dîner, j'ai besoin de parler à mon père.
+After dinner, I need to talk to my father.",After
+46,146,mal,"adverb, noun","Ouais, vos conseils ont fait plus de mal que de bien.
+Yeah, your advice did more harm than good.",wrong
+47,147,besoin,noun,"J'ai besoin de regarder un film avant de jouer.  
+I need to watch a movie before playing.",need
+48,148,accord,noun,"Nous avons beaucoup mieux travaillé en accord.  
+We worked much better in agreement.",agreement
+49,149,ses,possessive adjective,"Ses enfants aiment jouer avec leur argent.
+His children like to play with their money.",his
+50,150,avant,"preposition, adverb","Avant le dernier appel, je suis parti.
+Before the last call, I left.",Before
+51,151,monsieur,noun,"Monsieur a perdu sa vie.
+
+The gentleman lost his life.",Sir
+52,152,enfant,noun,"L'enfant a peur de mettre son manteau.  
+The child is afraid to put on his coat.",child
+53,153,grand,"adjective, noun","Bonjour, le grand arbre est vraiment beau.
+Hello, the big tree is really beautiful.",big
+54,154,entendre,verb,"Je n'entends plus trop bien depuis l'accident.
+I don't hear too well anymore since the accident.",hear
+55,155,voilà,preposition,"Bonjour, je suis là pour vous aider, voilà.
+
+Hello, I am here to help you, there you go.",There
+56,156,chercher,verb,"Ils cherchent leur chien pour le tenir.
+
+They are looking for their dog to hold it.",seek
+57,157,heure,noun,"Notre rendez-vous est vraiment à cette heure.
+Our appointment is really at this time.",hour
+58,158,mieux,"adverb, noun","Chez moi, je me sens mieux depuis que j'ai changé de travail.
+At home, I feel better since I changed jobs.",better
+59,159,tes,possessive adjective,"Quel est le nom de tes amis chez toi ?
+What is the name of your friends at your place?",your
+60,160,aider,verb,"Nous allons mettre nos efforts pour aider.
+We will put our efforts to help.",help
+61,161,mère,noun,"Ma mère est belle depuis toujours.  
+My mother has been beautiful forever.",mother
+62,162,déjà,adverb,"Ah, c'est déjà vrai.
+
+Ah, it is already true.",Already
+63,163,beau,adjective,"La maison devant est très belle.
+
+The house in front is very beautiful.",beautiful
+64,164,essayer,verb,"Je vais essayer de regarder un film ce jour.
+I am going to try to watch a movie today.",to try
+65,165,quel,interrogative adjective,"Quel jour de l'an préfères-tu ?
+Which day of the year do you prefer?",what
+66,166,vos,possessive adjective,"Vos amis sont des personnes gentilles.
+Your friends are kind people.",your
+67,167,depuis,"preposition, adverb","La fille est une enfant depuis sa naissance.
+The girl has been a child since her birth.",Since
+68,168,quelqu'un,indefinite pronoun,"Quelqu'un joue à être Dieu.
+
+Someone is playing at being God.",someone
+69,169,beaucoup,adverb,"Quelle est la raison de vos pleurs? Vous pleurez beaucoup.
+What is the reason for your tears? You cry a lot.",a lot
+70,170,revenir,verb,"Je dois revenir chez ma mère pour ne pas perdre mon livre.
+I have to return to my mother's place to not lose my book.",to come back
+71,171,donc,conjunction,"Vos amis veulent jouer, donc allons au parc.
+Your friends want to play, so let's go to the park.",SO
+72,172,plaire,verb,"Cette femme a quelque chose qui me plaît.
+This woman has something that pleases me.",to please
+73,173,maison,noun,"Notre maison est grande, ouais.
+Our house is big, yeah.",House
+74,174,gens,noun,"L'homme parle avec ses gens.
+
+The man talks with his people.",people
+75,175,nuit,noun,"Je suis sûr de rentrer tôt parce que la nuit est sombre.
+I am sure to come back early because the night is dark.",night
+76,176,ah,onomatopoeia,"Ah, ma mère est arrivée après le dîner.
+Ah, my mother arrived after dinner.",oh
+77,177,soir,noun,"Vos amis viennent ce soir.  
+Your friends are coming this evening.",evening
+78,178,nom,noun,"Ils ont donné leur accord pour changer le nom.
+They gave their agreement to change the name.",name
+79,179,bonjour,noun,"Le dernier bonjour avant de partir.
+
+The last hello before leaving.",Good morning
+80,180,jouer,verb,"Ouais, je veux essayer de jouer au football.
+Yeah, I want to try to play football.",play
+81,181,leur,"personal pronoun, possessive pronoun","Après tes cours, je leur donne des livres.
+After your classes, I give them books.",their
+82,182,finir,verb,"Je veux finir ce dernier chapitre sans problème.
+I want to finish this last chapter without any problem.",finish
+83,183,peur,noun,"J'ai déjà eu peur avant.
+
+I have already been afraid before.",fear
+84,184,mort,"noun, adjective","Le soir, il revient et trouve son chat mort.
+In the evening, he comes back and finds his cat dead.",dead
+85,185,parce que,conjunction,"Les gens sont heureux parce que c'est la première fois qu'ils voyagent ensemble.
+The people are happy because it's the first time they are traveling together.",because
+86,186,perdre,verb,"L'enfant a perdu son jouet l'année dernière.
+The child lost his toy last year.",lose
+87,187,maman,noun,"Maman va sortir et elle m'a demandé de ranger ma chambre.
+Mom is going out and she asked me to tidy my room.",Mom
+88,188,sentir,verb,"Peut-être que je peux sentir quel parfum tu portes.
+Maybe I can smell which perfume you are wearing.",feel
+89,189,ouais,adverb,"Ouais, je ne peux pas sortir ce soir parce que je suis fatigué.
+Yeah, I can't go out tonight because I'm tired.",Yeah
+90,190,rentrer,verb,"Je rentre chez moi sans problème après une longue journée de vie.
+
+I return home without any problem after a long day of life.",to return
+91,191,nos,possessive adjective,"Nos amis arrivent après leur voyage.
+Our friends arrive after their trip.",our
+92,192,premier,"adjective, noun","French: Mon premier souvenir est quand j'avais peur et ma maman m'a réconforté.
+
+English: My first memory is when I was scared and my mom comforted me.",first
+93,193,problème,noun,"Il y a un problème avec rester ici pendant un an.
+There is a problem with staying here for a year.",issue
+94,194,argent,noun,"Ils veulent aider leurs amis avec de l'argent.
+They want to help their friends with money.",money
+95,195,quelle,interrogative adjective,"Quelle enfant dit la vérité?  
+Which child is telling the truth?",what
+96,196,vivre,verb,"Je ne veux pas mal vivre, alors je vais partir.  
+I don't want to live badly, so I am going to leave.",live
+97,197,rendre,verb,"Je vais rendre tes livres avant que tu sois mort.
+I will return your books before you are dead.",give back
+98,198,dernier,"adjective, noun","Le dernier film était sans trop d'action.
+
+The last movie was without too much action.",last
+99,199,tenir,verb,"Mon père me dit de rester et de tenir la porte.
+
+My father tells me to stay and hold the door.",hold

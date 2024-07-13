@@ -1,0 +1,101 @@
+,French,POS,English
+0,être,"verb, auxiliary verb, noun",to be; being
+1,avoir,"verb, auxiliary verb",to have
+2,je,personal pronoun,I
+3,de,preposition,"of, from, by, than, in, with (see #28)"
+4,ne,adverb,not
+5,pas,"adverb, noun","not; step, pace"
+6,le,"definite article, personal pronoun","the; him, it (refering to a masculine singular noun) (see #8, 15, 18)"
+7,la,"definite article, personal pronoun","the; her, it (refering to a feminine singular noun) (see #7, 15, 18)"
+8,tu,personal pronoun,you
+9,vous,personal pronoun,"you, yourself"
+10,il,personal pronoun,"he, it"
+11,et,conjunction,and
+12,à,preposition,"in, to, with"
+13,un,indefinite article,"a, an; one (used before a masculine singular noun) (see #26, 31)"
+14,l',"definite article, personal pronoun","the (used instead of ''le'' or ''la'' before nouns that begin with a vowel) (see #7, 8, 18)"
+15,qui,"relative pronoun, interrogative pronoun","who, whom; that, which"
+16,aller,verb,to go
+17,les,"definite article, personal pronoun","the; them (referring to a plural noun) (see #7, 8, 15)"
+18,en,"preposition, personal pronoun, adverb","in, into, to, as"
+19,ça,demonstrative pronoun,"this, that (see #203)"
+20,faire,verb,"to do, make"
+21,tout,"adjective, indefinite adjective, indefinite pronoun, adverb, noun","all, everything, any; very, quite"
+22,on,personal pronoun,"we, you"
+23,que,"relative pronoun, interrogative pronoun",that; what; which
+24,ce,"demonstrative pronoun, demonstrative adjective","this, that (see #73, 99, 201)"
+25,une,indefinite article,"a, an; one (used before a feminine singular noun); french.languagedaily.com (see #14, 31)"
+26,mes,possessive adjective,"my (used before plural nouns) (see #50, 108)"
+27,d',preposition,"of, from, by, than, in, with (used before a vowel or mute h) (see #4)"
+28,pour,preposition,for
+29,se,personal pronoun,"himself, herself, themselves (see #60)"
+30,des,indefinite article,"some (used before a plural noun) (see #14, 26)"
+31,dire,"verb, noun","to say, tell"
+32,pouvoir,"verb, noun","can, to be able to"
+33,vouloir,verb,to want
+34,mais,conjunction,but
+35,me,personal pronoun,"me, myself"
+36,nous,personal pronoun,"we, us"
+37,dans,preposition,"in, into"
+38,elle,personal pronoun,"she, it (refers to a feminine singular noun)"
+39,savoir,verb,to know; languagedaily dot com
+40,du,definite article,"(de + le/les) = of the, from the"
+41,où,"relative pronoun, interrogative pronoun","where, that"
+42,y,personal pronoun,"it, there"
+43,t',personal pronoun,"you, yourself (shortened form used before a vowel)"
+44,bien,"adverb, noun","well, very; good"
+45,voir,verb,to see
+46,plus,adverb,more
+47,non,adverb,no
+48,te,personal pronoun,"you, yourself"
+49,mon,possessive adjective,"my (used before a masculine singular noun) (see #27, 108)"
+50,au,definite article,"at the, to the, in the (contraction of à + le; used with a singular masculine noun)"
+51,avec,preposition,with
+52,moi,personal pronoun,"I, me"
+53,si,"adverb, conjunction","yes; if; so, such"
+54,quoi,"adjective, relative pronoun, interrogative pronoun","what (exclamatory, interrogative, after preposition)"
+55,devoir,"verb, noun","to have to, must; duty, test"
+56,oui,adverb,yes
+57,ils,personal pronoun,they (refers to a group of masculine or mixed masculine/feminine nouns)
+58,comme,"conjunction, adverb","as, like; how, same"
+59,s',"personal pronoun, conjunction","himself, herself, themselves (variation of ""se"" used before a word starting with a vowel or mute h)"
+60,venir,verb,"to come, occur"
+61,sur,"preposition, adjective","on, upon; over (preposition); sour (adjective)"
+62,toi,personal pronoun,you
+63,ici,adverb,here
+64,rien,indefinite pronoun,nothing
+65,lui,personal pronoun,"he, him, it, her"
+66,bon,"adjective, onomatopoeia, noun, adverb","good, right, kind; good!; voucher; then; french.languagedaily.com"
+67,là,adverb,"there, here, then"
+68,suivre,verb,to follow
+69,pourquoi,"adverb, conjunction",why
+70,parler,verb,"to speak, talk"
+71,prendre,verb,"to take, get"
+72,cette,demonstrative adjective,"this, that (feminine singular)"
+73,quand,conjunction,"when, whenever"
+74,alors,adverb,then; so; hence
+75,une chose,noun,"thing, matter"
+76,par,preposition,"per, by, through, out of"
+77,son,possessive adjective,"his, her, its (possessive adjective); sound (noun - le son)"
+78,croire,verb,"to believe, think"
+79,aimer,verb,"to love, like, be fond of"
+80,falloir,verb,"it is necessary, must, have to"
+81,comment,"adverb, conjunction, onomatopoeia",how; what
+82,très,adverb,very
+83,ou,conjunction,or; either… or
+84,passer,verb,"to pass, go by, cross"
+85,penser,verb,to think
+86,aussi,adverb,"also, too"
+87,jamais,adverb,never
+88,attendre,verb,"to wait for, expect"
+89,trouver,verb,to find
+90,laisser,verb,to leave
+91,petit,"adjective, noun","small, little, young (adjective); languagedaily dot com; kid, child (masculine noun)"
+92,merci,"onomatopoeia, noun","thanks, thank you"
+93,même,"adverb, adjective","same; even, so much as, as"
+94,sa,possessive adjective,"his, her, its (feminine)"
+95,ta,possessive adjective,your (reminine)
+96,autre,"adjective, indefinite pronoun","other, another, different (singular)"
+97,arriver,verb,to arrive
+98,ces,demonstrative adjective,"these, those (plural form of masculine ""ce"" and feminine ""cette"")"
+99,donner,verb,"to give, give away"
