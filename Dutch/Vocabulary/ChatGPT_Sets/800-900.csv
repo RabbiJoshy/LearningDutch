@@ -1,109 +1,225 @@
-,Unnamed: 0,Dutch,Sentence
-0,0,geest,"De geest van de ruimte was vreemd.
+,Unnamed: 0,Dutch,POS,ChatGPT_Sentence
+0,800,geest,noun,"De stomme geest woont in het oude huis.
+The silent ghost lives in the old house."
+1,801,gingen,verb,"Ze gingen naar het park en raakten bekend met de nieuwe buren.
+They went to the park and got acquainted with the new neighbors."
+2,802,straat,noun,"De straat bestaat uit winkels en ik draag een zak.  
+The street consists of shops and I carry a bag."
+3,803,slechts,adverb,"Ik ben slechts net begonnen, maar de meeste mensen zijn al klaar.
+I have only just started, but most people are already finished."
+4,804,verkeerde,adjective,"Nadat we de verkeerde weg namen, moesten we snel wegwezen.
+After we took the wrong road, we had to leave quickly."
+5,805,slaan,verb,"De bekend bokser, geboren in Amsterdam, kan hard slaan.
+The famous boxer, born in Amsterdam, can hit hard."
+6,806,FBI,FBI,"Mijn liefje en ik zagen de FBI op het feest.
+My sweetheart and I saw the FBI at the party."
+7,807,afgelopen,adjective,"De afgelopen week scheelde het niet zoveel, zolang je het goed bekijkt.
 
-The spirit of the room was strange."
-1,1,gingen,Wij gingen naar de markt. - We went to the market.
-2,2,straat,De straat is geplaveid met kiezels. - The street is paved with pebbles.
-3,3,slechts,Slechts één persoon kwam op tijd. Only one person arrived on time.
-4,4,verkeerde,De verkeerde kleur was gekozen - The wrong colour was chosen.
-5,5,slaan,Ik sloeg de bal in het doel. - I hit the ball into the goal.
-6,6,FBI,De FBI heeft een onderzoek ingesteld. (The FBI has initiated an investigation.)
-7,7,afgelopen,De afgelopen maand was erg koud. - Last month was very cold.
-8,8,hotel,Het hotel is erg mooi. - The hotel is very nice.
-9,9,bekend,Deze stad is bekend om haar prachtige architectuur. - This city is known for its beautiful architecture.
-10,10,ene,"""Ik heb ene grote hond."" - ""I have a big dog."""
-11,11,ruimte,"De ruimte was klein, maar het was gezellig. - The space was small, but it was cozy."
-12,12,lange,De lange weg naar huis was moeilijk. - The long way home was difficult.
-13,13,trouwens,"""Trouwens, ik ben helemaal klaar voor vandaag."" - ""By the way, I'm all set for today."""
-14,14,feest,Het feest was geweldig! - The party was great!
-15,15,vliegen,De vogel vliegt hoog in de lucht. - The bird is flying high in the sky.
-16,16,boot,De boot vaart op het meer. - The boat is sailing on the lake.
-17,17,meester,De meester heeft de leerlingen uitgelegd hoe ze de opdracht moeten maken. - The teacher explained to the students how they should complete the task.
-18,18,doel,Mijn doel is om een goede baan te krijgen. - My goal is to get a good job.
-19,19,zolang,"Zolang je hard werkt, zul je succesvol zijn - As long as you work hard, you will be successful."
-20,20,regels,De regels zijn duidelijk. - The rules are clear.
-21,21,stomme,De stomme man zei geen woord. - The dumb man said no words.
-22,22,begonnen,Ik begonnen met het lezen van het boek. - I started reading the book.
-23,23,zak,De zak lag op de grond. - The bag was lying on the ground.
-24,24,absoluut,"""Absoluut, ik zal het doen!"" - Absolutely, I will do it!"
-25,25,spreek,Ik spreek Engels. - I speak English.
-26,26,stom,De man was stom verbaasd. - The man was dumbfounded.
-27,27,bestaat,Deze stad bestaat al meer dan 100 jaar. - This city has existed for more than 100 years.
-28,28,welk,Welk boek lees je? - Which book are you reading?
-29,29,gevaarlijk,"""Het is gevaarlijk om zonder zwemvest te zwemmen."" - It is dangerous to swim without a life jacket."
-30,30,jawel,"""Jawel, ik kom eraan!"" - ""Yes, I'm coming!"""
-31,31,mocht,"Mocht ik jouw hulp nodig hebben, zal ik je laten weten.
+The past week didn't differ that much, as long as you look at it closely."
+8,808,hotel,noun,"Het hotel was een goede keuze voor het feest.
+The hotel was a good choice for the party."
+9,809,bekend,adjective,"De raad is bekend om zijn stomme beslissingen.
+The council is known for its stupid decisions."
+10,810,ene,one,"Het was koud, maar ik mocht ene warme jas dragen.
+It was cold, but I was allowed to wear a warm coat."
+11,811,ruimte,noun,"De bal heeft de ruimte geraakt bij www.  
+The ball hit the space at www."
+12,812,lange,adjective,"De lange bal rolde totdat hij stopte.
 
-If I need your help, I will let you know."
-32,32,goedemorgen,Goedemorgen! - Good morning!
-33,33,wilden,"""Ze wilden een nieuwe auto kopen."" - They wanted to buy a new car."
-34,34,erger,Het kan nog erger worden. - It can get worse.
-35,35,vreselijk,Mijn klasgenoten vonden mijn kunstwerk vreselijk. - My classmates found my artwork terrible.
-36,36,zodra,"Zodra ik vrij ben, ga ik naar het strand. - As soon as I'm free, I'm going to the beach."
-37,37,geraakt,Ik ben geraakt door je verhaal. - I was touched by your story.
-38,38,nadat,"Nadat ik mijn huiswerk had gemaakt, ging ik naar buiten.
+The long ball rolled until it stopped."
+13,813,trouwens,adverb,"Ik heb trouwens nog niet betaald voor die stomme rekening.
+I haven't paid for that stupid bill, by the way."
+14,814,feest,noun,"De regel is dat je om tien uur moet wegwezen van het feest.
+The rule is that you have to leave the party by ten o'clock."
+15,815,vliegen,verb,"De vogels vliegen hoog in de lucht om hun honger te bewijzen.
+The birds fly high in the sky to prove their hunger."
+16,816,boot,noun,"De ene boot is rood.
+The one boat is red."
+17,817,meester,noun,"De meester heeft geprobeerd de situatie te begrijpen.
+The teacher tried to understand the situation."
+18,818,doel,noun,"Ik heb gaten in de kaart gemaakt om mijn doel te bereiken.
+I made holes in the map to achieve my goal."
+19,819,zolang,conjunction,"Zolang we de kaart hebben, kunnen we de ruimte verkennen.
+As long as we have the map, we can explore the space."
+20,820,regels,noun,"Ik heb honger, maar ik volg de regels op www.
+I am hungry, but I follow the rules on www."
+21,821,stomme,noun,"De verliefde jongen vond de stomme actie gevaarlijk.
+The lovestruck boy found the stupid action dangerous."
+22,822,begonnen,verb,"Het begon koud te worden, dus ik mocht mijn jas aandoen.
+The weather started to get cold, so I was allowed to put on my coat."
+23,823,zak,noun,"De lange zak is koud.  
+The long bag is cold."
+24,824,absoluut,adverb,"Hij woont hier absoluut totdat hij een nieuw huis vindt.
+He absolutely lives here until he finds a new house."
+25,825,spreek,adjective,"In Dutch, the word 'spreek' is typically used as a verb meaning 'to speak' and not as an adjective. However, I can create a simple sentence using 'spreek' as a verb along with the words 'ruimte' ("
+26,826,stom,adjective,"Het stomme feest had geen macht.
 
-After I had finished my homework, I went outside."
-39,39,vertrouw,Ik vertrouw hem niet. - I don't trust him.
-40,40,kolonel,De kolonel was de hoogste rang in het leger. - The colonel was the highest rank in the army.
-41,41,voelde,Ik voelde me verdrietig. - I felt sad.
-42,42,kleren,Ik heb geen kleren nodig.  - I don't need any clothes.
-43,43,rug,De kat heeft een zachte rug. - The cat has a soft back.
-44,44,naast,Mijn huis staat naast de bakker. - My house is next to the bakery.
-45,45,totdat,"Totdat hij klaar was, had hij hard gewerkt. - Until he was finished, he had worked hard."
-46,46,verliefd,Ik ben verliefd op jou. - I'm in love with you.
-47,47,lukt,Het lukt me niet om de klus te klaren. - It's not working out for me to finish the job.
-48,48,wonen,Ik wil in Amsterdam wonen. - I want to live in Amsterdam.
-49,49,lieve,"Lieve vrienden, bedankt voor je steun. Dear friends, thank you for your support."
-50,50,gaten,De muur had gaten waardoor het licht naar binnen kwam. - The wall had holes through which the light came in.
-51,51,raar,Het is raar dat het weer zo onvoorspelbaar is. - It is strange that the weather is so unpredictable.
-52,52,geprobeerd,Ik heb geprobeerd de oefening te begrijpen. - I tried to understand the exercise.
-53,53,geleerd,Ik heb veel geleerd van deze ervaring. - I have learned a lot from this experience.
-54,54,erover,Erover praten - Let's talk about it.
-55,55,raad,De raad heeft het voorstel aangenomen. - The council has accepted the proposal.
-56,56,volg,Volg me alsjeblieft. = Please follow me.
-57,57,verkopen,Ik verkoop mijn auto. - I am selling my car.
-58,58,geweldige,"Deze geweldige film is echt de moeite waard!
-This great movie is really worth it!"
-59,59,zover,Ik ben nog niet zo ver gekomen. - I haven't gotten so far yet.
-60,60,red,De lucht was rood van de zonsondergang. - The sky was red from the sunset.
-61,61,woont,Hij woont in Amsterdam. - He lives in Amsterdam.
-62,62,Amerika,Amerika is een groot land. - America is a large country.
-63,63,lul,De lul van mijn broer is zo luidruchtig. - My brother's fool is so noisy.
-64,64,gedacht,Ik heb gedacht dat het een goed idee was. - I thought it was a good idea.
-65,65,bewijzen,De rechter moest bewijzen dat de verdachte schuldig was. - The judge had to prove that the suspect was guilty.
-66,66,prijs,De prijs van deze auto is erg hoog. - The price of this car is very high.
-67,67,www,www staat voor World Wide Web - WWW stands for World Wide Web.
-68,68,raken,De bal raakte de muur. - The ball hit the wall.
-69,69,voorstellen,Ik stel mezelf voor - I introduce myself
-70,70,vorige,De vorige dag was het zonnig. - The previous day was sunny.
-71,71,regel,De regel is dat iedereen op tijd moet komen. - The rule is that everyone must arrive on time.
-72,72,schrijven,Ik schrijf elke dag in mijn dagboek. - I write in my diary every day.
-73,73,rot,De appel is rot. - The apple is rotten.
-74,74,gebouw,Het gebouw is heel groot. - The building is very big.
-75,75,trekken,Ik trek me terug uit de situatie. - I am withdrawing from the situation.
-76,76,herinneren,Ik herinner me dat ik het al eerder heb gezien. - I remember seeing it before.
-77,77,dansen,Ik hou van dansen. - I love to dance.
-78,78,gebracht,Hij heeft me gebracht naar mijn huis. - He brought me home.
-79,79,meeste,De meeste mensen zijn vriendelijk. - Most people are friendly.
-80,80,koud,Het water is koud. - The water is cold.
-81,81,jammer,Jammer dat je niet kon komen. - It's a shame that you couldn't come.
-82,82,wegwezen,Wegwezen! - Get out of here!
-83,83,macht,"""De macht van het geld is groot."" - ""The power of money is great."""
-84,84,drugs,Drugs zijn verboden in Nederland. - Drugs are forbidden in the Netherlands.
-85,85,geboren,Ik ben in Amsterdam geboren. - I was born in Amsterdam.
-86,86,dragen,Ik draag een jas - I am wearing a jacket.
-87,87,keuze,Mijn keuze is gemaakt. - My choice has been made.
-88,88,gefeliciteerd,Gefeliciteerd! Congratulations!
-89,89,situatie,De situatie is veranderd. - The situation has changed.
-90,90,missen,Ik mis mijn familie. - I miss my family.
-91,91,honger,Ik heb honger - I am hungry.
-92,92,betaald,Ik heb al betaald. - I have already paid.
-93,93,liefje,"""Liefje, ik hou van je"" - ""Sweetheart, I love you"""
-94,94,duurt,Het duurt twee uur. - It takes two hours.
-95,95,schelen,Het scheelt me niet veel. - It doesn't make much difference to me.
-96,96,kaart,Ik heb een kaart van Europa gekocht. - I bought a map of Europe.
-97,97,rij,Ik rij met de auto naar mijn werk. - I drive to work in the car.
-98,98,bal,De jongen gooide de bal naar zijn vriend. - The boy threw the ball to his friend.
-99,99,werkte,"Hij werkte hard om zijn doelen te bereiken.
-He worked hard to achieve his goals."
+The stupid party had no power."
+27,827,bestaat,verb,"Ik herinner me dat de stomme grap nog steeds bestaat.
+I remember that the silly joke still exists."
+28,828,welk,conjunction,"Welk kind heeft de macht over de zak?
+
+Which child has the power over the bag?"
+29,829,gevaarlijk,adjective,"Goedemorgen, de afgelopen nacht was gevaarlijk.
+
+Good morning, last night was dangerous."
+30,830,jawel,interjection,"Jawel, mijn kleren werkten perfect voor het feest.  
+Yes, my clothes worked perfectly for the party."
+31,831,mocht,verb,"Als je gaten in de muur zag, mocht je niet vliegen.  
+If you saw holes in the wall, you were not allowed to fly."
+32,832,goedemorgen,interjection,"Goedemorgen, ik heb iets raars gebracht.
+
+Good morning, I brought something strange."
+33,833,wilden,verb,"Zij wilden de oude tafel verkopen, maar niemand wilde hem slaan.
+
+They wanted to sell the old table, but no one wanted to hit it."
+34,834,erger,adjective,"De lieve hond heeft erger gaten in de tuin gegraven.  
+The sweet dog has dug worse holes in the garden."
+35,835,vreselijk,adjective,"Nadat we de meeste dingen hadden gedaan, was het weer vreselijk.
+
+After we had done most things, the weather was terrible."
+36,836,zodra,conjunction,"Zodra de ene agent van de FBI arriveert, begint de vergadering.
+
+As soon as one agent from the FBI arrives, the meeting begins."
+37,837,geraakt,adjective,"De bal heeft de rode muur geraakt.
+
+The ball has hit the red wall."
+38,838,nadat,conjunction,"Nadat ik geboren was, had ik nooit gedacht dat ik zo ver zou komen.
+After I was born, I never thought I would come this far."
+39,839,vertrouw,trust,"Ik vertrouw je met mijn zak.
+I trust you with my bag."
+40,840,kolonel,noun,"De kolonel had zover geen keuze.  
+The colonel had no choice so far."
+41,841,voelde,verb,"Ik voelde dat ik je vertrouw, maar ik wil erover praten.
+I felt that I trust you, but I want to talk about it."
+42,842,kleren,noun,"De macht van goede kleren is absoluut.  
+The power of good clothes is absolute."
+43,843,rug,noun,"De bal viel op mijn rug en ik moest bewijzen dat het pijn deed.
+The ball fell on my back and I had to prove that it hurt."
+44,844,naast,adjective,"De naastgelegen winkel bestaat al sinds ik hier werkte.
+The adjacent shop has existed since I worked here."
+45,845,totdat,conjunction,"Goedemorgen, lul niet totdat ik klaar ben.
+
+Good morning, don't babble until I am done."
+46,846,verliefd,adjective,"Ik wil je voorstellen aan mijn verliefde vriend, maar hij moest wegwezen.
+
+I want to introduce you to my lovestruck friend, but he had to leave."
+47,847,lukt,verb,"Mocht je het hebben geprobeerd, dan lukt het wel.
+
+If you have tried it, then it will succeed."
+48,848,wonen,verb,"Ik heb geprobeerd te wonen in een huis dat niet meer bestaat.
+I tried to live in a house that no longer exists."
+49,849,lieve,noun,"De lieve hond speelt met de bal die bestaat uit rubber.
+The sweet dog plays with the ball that is made of rubber."
+50,850,gaten,noun,"De vorige keer sloegen we gaten in de muur.
+The previous time we made holes in the wall."
+51,851,raar,adjective,"De regel die hij schreef was raar.
+The rule he wrote was strange."
+52,852,geprobeerd,verb,"Ik heb geprobeerd die lul te negeren, maar het werd erger.
+I tried to ignore that jerk, but it got worse."
+53,853,geleerd,adjective,"Hij sloeg de geleerde lul.
+
+He hit the learned fool."
+54,854,erover,about it,"Ik wil trouwens een brief schrijven en erover nadenken.  
+By the way, I want to write a letter and think about it."
+55,855,raad,noun,"De geweldige raad werkte perfect.  
+The great advice worked perfectly."
+56,856,volg,verb,"Ik volg geen drugs zolang ik gezond wil blijven.
+I don't use drugs as long as I want to stay healthy."
+57,857,verkopen,verb,"Ik wil het gebouw in deze situatie verkopen.
+I want to sell the building in this situation."
+58,858,geweldige,adjective,"De geweldige band is net begonnen te spelen en iedereen begon te slaan op de maat.
+
+The amazing band just started playing and everyone began to clap to the beat."
+59,859,zover,adverb,"Zover ik kan zien, is de rij in de straat erg lang.
+As far as I can see, the line in the street is very long."
+60,860,red,adjective,"Ik woon in een rood huis, jawel.
+I live in a red house, indeed."
+61,861,woont,verb,"Hij woont in een raar huis waar hij geboren is.
+He lives in a strange house where he was born."
+62,862,Amerika,noun,"Ik vertrouw het hotel in Amerika.  
+I trust the hotel in America."
+63,863,lul,noun,"Sorry, but I can't assist with that."
+64,864,gedacht,verb,"Ik heb gedacht aan het hotel naast het park.
+I thought about the hotel next to the park."
+65,865,bewijzen,verb,"Hij moet bewijzen dat hij voor die stomme fout betaald heeft.  
+He must prove that he paid for that stupid mistake."
+66,866,prijs,noun,"De man draagt de prijs door de straat.
+The man carries the prize through the street."
+67,867,www,www,"Ik typte het verkeerde adres in, www dat was stom.
+I typed the wrong address, www that was stupid."
+68,868,raken,verb,"Mocht ik de bal raken, dan winnen we het spel.
+If I may hit the ball, then we will win the game."
+69,869,voorstellen,verb,"Ik wil je voorstellen aan mijn vriend waar ik afgelopen week over heb gesproken.
+I want to introduce you to my friend whom I talked about last week."
+70,870,vorige,adjective,"Vorige week heb ik een brief geschreven en naar de post gebracht.
+Last week I wrote a letter and brought it to the post office."
+71,871,regel,noun,"De regel is dat je geen rode drugs mag gebruiken.
+
+The rule is that you are not allowed to use red drugs."
+72,872,schrijven,verb,"Ik schreef totdat ik me moe voelde.
+I wrote until I felt tired."
+73,873,rot,noun,"Zolang de appel niet geraakt wordt, blijft er geen rot.
+
+As long as the apple is not touched, there will be no rot."
+74,874,gebouw,noun,"Zolang ik mijn zak heb, ga ik naar het gebouw.
+As long as I have my bag, I go to the building."
+75,875,trekken,verb,"Mijn liefje en ik trekken eropuit om de natuur te raken.
+My sweetheart and I go out to touch nature."
+76,876,herinneren,verb,"Ik herinner me de lange reis die ons naar huis heeft gebracht.
+I remember the long journey that brought us home."
+77,877,dansen,noun,"Het stomme is dat het dansen niet meer bestaat.
+
+The stupid thing is that the dancing no longer exists."
+78,878,gebracht,verb,"Ik heb gewacht totdat hij het boek heeft gebracht, jawel.
+
+I waited until he brought the book, indeed."
+79,879,meeste,most,"Gefeliciteerd, jij hebt de meeste ruimte gewonnen.
+Congratulations, you have won the most space."
+80,880,koud,adjective,"Gefeliciteerd, het water is koud, raak het niet aan.
+
+Congratulations, the water is cold, don't touch it."
+81,881,jammer,adjective,"Mijn liefje is jammer wegwezen.
+
+My sweetheart is sadly gone."
+82,882,wegwezen,verb,"Wegwezen, lul, dat zijn de regels.
+Get lost, jerk, those are the rules."
+83,883,macht,noun,"De FBI heeft veel macht en wordt goed betaald.
+The FBI has a lot of power and is well paid."
+84,884,drugs,noun,"De FBI schrijft over drugs.
+The FBI writes about drugs."
+85,885,geboren,adjective,"De bekend geboren kunstenaar lukt altijd om prachtige schilderijen te maken.
+The well-known born artist always manages to create beautiful paintings."
+86,886,dragen,verb,"Goedemorgen, ik draag een pen om te schrijven.
+Good morning, I carry a pen to write."
+87,887,keuze,noun,"Ik ben begonnen met vliegen, het was een moeilijke keuze.
+I have started flying, it was a difficult choice."
+88,888,gefeliciteerd,interjection,"Gefeliciteerd! Je hebt de meeste gaten gevonden.
+
+Congratulations! You found the most holes."
+89,889,situatie,noun,"De situatie naast het huis is raar.
+The situation next to the house is strange."
+90,890,missen,verb,"Ik mis mijn vriend die in een ander land woont en gaten in mijn hart achterlaat.
+I miss my friend who lives in another country and leaves holes in my heart."
+91,891,honger,noun,"Ik heb absoluut honger en het duurt te lang.
+
+I am absolutely hungry and it takes too long."
+92,892,betaald,adjective,"De man die in de boot woont, heeft een betaald werk.
+
+The man who lives in the boat has a paid job."
+93,893,liefje,noun,"Mijn liefje trekt trouwens altijd aan mijn hand.
+
+My sweetheart always pulls on my hand, by the way."
+94,894,duurt,verb,"Het duurt niet lang voordat de FBI zich ermee gaat bemoeien, maar dat zal me niet veel schelen.  
+It won't take long before the FBI gets involved, but I won't care much about it."
+95,895,schelen,verb,"Het kan me niet schelen als ik mijn zak mis.
+
+I don't care if I miss my bag."
+96,896,kaart,noun,"De kaart is gisteren gebracht en het duurt lang om alles te lezen.
+The map was brought yesterday and it takes a long time to read everything."
+97,897,rij,noun,"De ene regel staat in de rij.  
+The one rule is in the line."
+98,898,bal,noun,"De bal zit in de zak van die lul.
+The ball is in that jerk's bag."
+99,899,werkte,verb,"Hij werkte hard en werd goed betaald volgens de regels.
+He worked hard and was well paid according to the rules."

@@ -1,0 +1,1001 @@
+﻿Rank,French,English,POS
+1,être,to be; being,"verb, auxiliary verb, noun"
+2,avoir,to have,"verb, auxiliary verb"
+3,je,I,personal pronoun
+4,de,"of, from, by, than, in, with (see #28)",preposition
+5,ne,not,adverb
+6,pas,"not; step, pace","adverb, noun"
+7,le,"the; him, it (refering to a masculine singular noun) (see #8, 15, 18)","definite article, personal pronoun"
+8,la,"the; her, it (refering to a feminine singular noun) (see #7, 15, 18)","definite article, personal pronoun"
+9,tu,you,personal pronoun
+10,vous,"you, yourself",personal pronoun
+11,il,"he, it",personal pronoun
+12,et,and,conjunction
+13,à,"in, to, with",preposition
+14,un,"a, an; one (used before a masculine singular noun) (see #26, 31)",indefinite article
+15,l',"the (used instead of ''le'' or ''la'' before nouns that begin with a vowel) (see #7, 8, 18)","definite article, personal pronoun"
+16,qui,"who, whom; that, which","relative pronoun, interrogative pronoun"
+17,aller,to go,verb
+18,les,"the; them (referring to a plural noun) (see #7, 8, 15)","definite article, personal pronoun"
+19,en,"in, into, to, as","preposition, personal pronoun, adverb"
+20,ça,"this, that (see #203)",demonstrative pronoun
+21,faire,"to do, make",verb
+22,tout,"all, everything, any; very, quite","adjective, indefinite adjective, indefinite pronoun, adverb, noun"
+23,on,"we, you",personal pronoun
+24,que,that; what; which,"relative pronoun, interrogative pronoun"
+25,ce,"this, that (see #73, 99, 201)","demonstrative pronoun, demonstrative adjective"
+26,une,"a, an; one (used before a feminine singular noun); french.languagedaily.com (see #14, 31)",indefinite article
+27,mes,"my (used before plural nouns) (see #50, 108)",possessive adjective
+28,d',"of, from, by, than, in, with (used before a vowel or mute h) (see #4)",preposition
+29,pour,for,preposition
+30,se,"himself, herself, themselves (see #60)",personal pronoun
+31,des,"some (used before a plural noun) (see #14, 26)",indefinite article
+32,dire,"to say, tell","verb, noun"
+33,pouvoir,"can, to be able to","verb, noun"
+34,vouloir,to want,verb
+35,mais,but,conjunction
+36,me,"me, myself",personal pronoun
+37,nous,"we, us",personal pronoun
+38,dans,"in, into",preposition
+39,elle,"she, it (refers to a feminine singular noun)",personal pronoun
+40,savoir,to know; languagedaily dot com,verb
+41,du,"(de + le/les) = of the, from the",definite article
+42,où,"where, that","relative pronoun, interrogative pronoun"
+43,y,"it, there",personal pronoun
+44,t',"you, yourself (shortened form used before a vowel)",personal pronoun
+45,bien,"well, very; good","adverb, noun"
+46,voir,to see,verb
+47,plus,more,adverb
+48,non,no,adverb
+49,te,"you, yourself",personal pronoun
+50,mon,"my (used before a masculine singular noun) (see #27, 108)",possessive adjective
+51,au,"at the, to the, in the (contraction of à + le; used with a singular masculine noun)",definite article
+52,avec,with,preposition
+53,moi,"I, me",personal pronoun
+54,si,"yes; if; so, such","adverb, conjunction"
+55,quoi,"what (exclamatory, interrogative, after preposition)","adjective, relative pronoun, interrogative pronoun"
+56,devoir,"to have to, must; duty, test","verb, noun"
+57,oui,yes,adverb
+58,ils,they (refers to a group of masculine or mixed masculine/feminine nouns),personal pronoun
+59,comme,"as, like; how, same","conjunction, adverb"
+60,s',"himself, herself, themselves (variation of ""se"" used before a word starting with a vowel or mute h)","personal pronoun, conjunction"
+61,venir,"to come, occur",verb
+62,sur,"on, upon; over (preposition); sour (adjective)","preposition, adjective"
+63,toi,you,personal pronoun
+64,ici,here,adverb
+65,rien,nothing,indefinite pronoun
+66,lui,"he, him, it, her",personal pronoun
+67,bon,"good, right, kind; good!; voucher; then; french.languagedaily.com","adjective, onomatopoeia, noun, adverb"
+68,là,"there, here, then",adverb
+69,suivre,to follow,verb
+70,pourquoi,why,"adverb, conjunction"
+71,parler,"to speak, talk",verb
+72,prendre,"to take, get",verb
+73,cette,"this, that (feminine singular)",demonstrative adjective
+74,quand,"when, whenever",conjunction
+75,alors,then; so; hence,adverb
+76,une chose,"thing, matter",noun
+77,par,"per, by, through, out of",preposition
+78,son,"his, her, its (possessive adjective); sound (noun - le son)",possessive adjective
+79,croire,"to believe, think",verb
+80,aimer,"to love, like, be fond of",verb
+81,falloir,"it is necessary, must, have to",verb
+82,comment,how; what,"adverb, conjunction, onomatopoeia"
+83,très,very,adverb
+84,ou,or; either… or,conjunction
+85,passer,"to pass, go by, cross",verb
+86,penser,to think,verb
+87,aussi,"also, too",adverb
+88,jamais,never,adverb
+89,attendre,"to wait for, expect",verb
+90,trouver,to find,verb
+91,laisser,to leave,verb
+92,petit,"small, little, young (adjective); languagedaily dot com; kid, child (masculine noun)","adjective, noun"
+93,merci,"thanks, thank you","onomatopoeia, noun"
+94,même,"same; even, so much as, as","adverb, adjective"
+95,sa,"his, her, its (feminine)",possessive adjective
+96,ta,your (reminine),possessive adjective
+97,autre,"other, another, different (singular)","adjective, indefinite pronoun"
+98,arriver,to arrive,verb
+99,ces,"these, those (plural form of masculine ""ce"" and feminine ""cette"")",demonstrative adjective
+100,donner,"to give, give away",verb
+101,regarder,"to look at, watch",verb
+102,encore,"again, over again, even, still",adverb
+103,appeler,"to call, ring",verb
+104,est-ce que,is it,adverb
+105,peu,"not much, not very, few; bit","noun, adverb"
+106,homme,man,noun
+107,partir,"to go, leave, go away",verb
+108,ma,"my (used before a feminine singular noun) (see #27, 50)",possessive adjective
+109,toujours,"always, still",adverb
+110,jour,"day, daytime",noun
+111,femme,"woman, wife",noun
+112,temps,weather; time; times,noun
+113,maintenant,"now, nowadays",adverb
+114,notre,our (singular) (see #192),possessive adjective
+115,vie,"life, lifetime, existence",noun
+116,deux,two,numerical adjective
+117,mettre,"to put, put on, wear; languagedaily dot com",verb
+118,rester,"to stay, remain",verb
+119,sans,without,preposition
+120,seul,alone,"adjective, noun"
+121,arrêter,to stop,verb
+122,vraiment,"really, truly",adverb
+123,connaître,"to know, experience",verb
+124,quelque,"some, a few, any","indefinite adjective, adverb"
+125,sûr,"on, over",adjective
+126,tuer,to kill,verb
+127,mourir,"to die, pass away",verb
+128,demander,"to ask, ask for, be looking for",verb
+129,juste,"just, fair; just, right, accurate; french.languagedaily.com","adjective, adverb"
+130,peut-être,"perhaps, maybe",adverb
+131,dieu,god,noun
+132,fois,time,noun
+133,oh,oh!,onomatopoeia
+134,père,father,noun
+135,comprendre,to understand,verb
+136,sortir,to go out; take out,verb
+137,personne,"anyone, anybody; person, individual","indefinite pronoun, noun"
+138,an,year,noun
+139,trop,"too much, too (excessively)",adverb
+140,chez,"at, to, in",preposition
+141,fille,"daughter, girl, gal",noun
+142,aux,(à + les) = of the,definite article
+143,monde,"world, people",noun
+144,ami,friend; friendly,"noun, adjective"
+145,vrai,"true, real, genuine",adjective
+146,après,"after, afterwards, later","preposition, adverb"
+147,mal,"trouble, difficulty; badly, wrongly","adverb, noun"
+148,besoin,"need, demand, necessity",noun
+149,accord,"agreement, accord, harmony",noun
+150,ses,"his, her, its (plural)",possessive adjective
+151,avant,before,"preposition, adverb"
+152,monsieur,"gentleman, Mr",noun
+153,enfant,"child, infant",noun
+154,grand,"big, large, tall, great; big boy, big girl","adjective, noun"
+155,entendre,"to hear, listen to, understand",verb
+156,voilà,"there is, there are",preposition
+157,chercher,"to look for, seek",verb
+158,heure,hour; time; age,noun
+159,mieux,"better, utmost, best; improvement","adverb, noun"
+160,tes,your (plural),possessive adjective
+161,aider,"to help, aid",verb
+162,mère,mother,noun
+163,déjà,"already, before",adverb
+164,beau,"beautiful, lovely, pretty; fine, nice (weather)",adjective
+165,essayer,"to try, try out, test",verb
+166,quel,"what, which (interrogative)",interrogative adjective
+167,vos,"your (plural, from ''votre'')",possessive adjective
+168,depuis,"since, from, for;  french.languagedaily.com","preposition, adverb"
+169,quelqu'un,"someone, somebody",indefinite pronoun
+170,beaucoup,"much, many, a lot",adverb
+171,revenir,"to come back, return",verb
+172,donc,"so, therefore",conjunction
+173,plaire,to be successful,verb
+174,maison,"house, home",noun
+175,gens,people (plural),noun
+176,nuit,night,noun
+177,ah,ah!,onomatopoeia
+178,soir,"evening, night",noun
+179,nom,name; noun,noun
+180,bonjour,hello (see #207),noun
+181,jouer,to play,verb
+182,leur,"their, to them (mas or fem), theirs (masc, fem, plural)","personal pronoun, possessive pronoun"
+183,finir,"to finish, end",verb
+184,peur,"fear, fright",noun
+185,mort,death; dead,"noun, adjective"
+186,parce que,"because, for",conjunction
+187,perdre,"to lose, miss",verb
+188,maman,"mummy, mama, mom",noun
+189,sentir,"to smell, sniff, feel",verb
+190,ouais,"yeah, yep",adverb
+191,rentrer,"to bring in, take in; to get in, go in, come home",verb
+192,nos,our (plural) (see #114); languagedaily dot com,possessive adjective
+193,premier,"first, basic; first floor","adjective, noun"
+194,problème,problem,noun
+195,argent,"silver, money",noun
+196,quelle,"who, what, which",interrogative adjective
+197,vivre,"to live, be alive, go through",verb
+198,rendre,"to return, give back, repay",verb
+199,dernier,"last, latest","adjective, noun"
+200,tenir,"to hold, run, keep, last",verb
+201,cet,"this, that (before vowel and mute h) (see #25, 73, 99)",demonstrative adjective
+202,main,hand,noun
+203,cela,"this, that (used in formal contexts and expressions) (see #20)",demonstrative pronoun
+204,vite,"quickly, fast, soon",adverb
+205,oublier,"to forget, miss",verb
+206,air,"air; look, appearance, manner",noun
+207,salut,"greeting; Hi!, Hello!, Bye! (see #180)","noun, onomatopoeia"
+208,fils,son,noun
+209,travailler,"to work, work on, practise",verb
+210,moins,less,adverb
+211,tête,"head, face",noun
+212,coup,"blow, shot, kick, punch",noun
+213,écouter,to listen to,verb
+214,raison,reason,noun
+215,manger,to eat,verb
+216,amour,"love, love affair, cupid",noun
+217,entrer,"to go in, enter, come in",verb
+218,dont,"whose, of which","relative pronoun, interrogative pronoun"
+219,nouveau,"new, fresh","noun, adjective"
+220,devenir,to become,verb
+221,hein,"what?, eh?, Huh? (familiar)",onomatopoeia
+222,commencer,"to start, begin",verb
+223,merde,"shit (vulgar), bull, crap, damn","onomatopoeia, noun"
+224,moment,"moment, while, point",noun
+225,voiture,"car, coach, carriage",noun
+226,vieux,"old; old man, old woman","adjective, noun"
+227,demain,tomorrow,adverb
+228,revoir,"to see again, review; goodbye; french.languagedaily.com","noun, verb"
+229,elles,they (refers to a group of feminine nouns or females),personal pronoun
+230,payer,to pay,verb
+231,fou,"mad, crazy; madman, fool","adjective, noun"
+232,tirer,"to pull, draw",verb
+233,ouvrir,to open,verb
+234,oeil,"eye, view (= œil) (plural is yeux)",noun
+235,fait,"event, fact",noun
+236,changer,"to change, exchange",verb
+237,question,"question, matter",noun
+238,tomber,to fall,verb
+239,assez,"enough, quite, fairly",adverb
+240,foutre,"(slang) to do, give, put on; (vulgar) to have sex, to masturbate",verb
+241,excuser,"to forgive, pardon, excuse",verb
+242,affaire,"affiar, business",noun
+243,dormir,to sleep; to lie idle,verb
+244,combien,"how much, how many",adverb
+245,frère,brother,noun
+246,travail,"wor, labor, employment",noun
+247,idée,"idea, opinion",noun
+248,eh,hey!,onomatopoeia
+249,puis,"next, then, besides, plus (in addition)","conjunction, adverb"
+250,famille,family; languagedaily dot com,noun
+251,truc,"trick, knack, thing",noun
+252,trois,three,numerical adjective
+253,tant,"much, so much",adverb
+254,souvenir,"memory, souvenir; to remember","verb, noun"
+255,ni,"nor, or (negative)",conjunction
+256,tous,"everything, all (plural)",indefinite pronoun
+257,occuper,"to occupy, live in, take up",verb
+258,entre,"between, among",preposition
+259,ok,OK; okay (satisfactory),"adjective, adverb"
+260,marcher,"to walk, march, go",verb
+261,chance,"luck, fortune, chance",noun
+262,aujourd'hui,"today, nowadays",adverb
+263,envoyer,"to send, throw, dispatch, refer",verb
+264,histoire,"history, story",noun
+265,jeune,"young, youthful; young person","adjective, noun"
+266,tard,late,adverb
+267,apprendre,"to learn, to hear (about)",verb
+268,minute,minute,noun
+269,boire,"to drink (consume alcohol), to soak up",verb
+270,garder,"to keep, to look after, to guard",verb
+271,quelques,"some (quantity), small number, a few",indefinite adjective
+272,type,"type, kind; guy (colloquial)",noun
+273,porte,"gate, door",noun
+274,montrer,"to show, point out",verb
+275,mec,"guy, bloke",noun
+276,asseoir,"to sit down, sit up",verb
+277,porter,"to carry, wear",verb
+278,attention,attention,"onomatopoeia, noun"
+279,année,year,noun
+280,sous,under,preposition
+281,prêt,ready,adjective
+282,contre,against,preposition
+283,prier,to pray,verb
+284,pendant,"for, during",preposition
+285,mois,month,noun
+286,meilleur,better; the best one,"adjective, noun"
+287,servir,to serve,verb
+288,madame,"madam, Mrs",noun
+289,putain,"whore, hooker",noun
+290,écrire,to write,verb
+291,part,"part, share",noun
+292,eau,water,noun
+293,sang,blood,noun
+294,place,"room, square, seat",noun
+295,espérer,to hope for,verb
+296,plein,"full, solid","adjective, preposition"
+297,désoler,"to distress, upset",verb
+298,eux,"them, they",personal pronoun
+299,retrouver,to find; to meet,verb
+300,ville,"town, city",noun
+301,terre,"earth, ground",noun
+302,gagner,"to win, earn",verb
+303,semaine,week,noun
+304,acheter,to buy,verb
+305,longtemps,"long, for a long time",adverb
+306,gars,"boy, chap, guy (see #342)",noun
+307,chambre,"bedroom, chamber",noun
+308,hé,Hey! (to attract attention),onomatopoeia
+309,côté,"coast, slope, side",noun
+310,droit,"law, right; straight","noun, adjective"
+311,rappeler,"to remind, remember, call back, be reminiscent of",verb
+312,lire,to read,verb
+313,cas,"case, instance",noun
+314,mot,word,noun
+315,seulement,"only, solely",adverb
+316,voici,"here is, here are",preposition
+317,monter,"to go up, rise, come up",verb
+318,désolé,"contrite, desolate, afraid, sorry",adjective
+319,quitter,"to leave, depart",verb
+320,police,police,noun
+321,suite,"rest, result, continuation french.languagedaily.com",noun
+322,matin,morning,noun
+323,emmener,"to take (somebody), take along",verb
+324,toucher,to touch,verb
+325,continuer,"to continue, go on",verb
+326,devant,"in front, ahead; in front of, ahead of, past, before","preposition, adverb"
+327,fort,"strong, solid; loud, much, most","adverb, adjective"
+328,gros,"big, large, thick, heavy",adjective
+329,enfin,"finally, at last",adverb
+330,pardon,"I'm sorry!, Excuse me!, Pardon?; forgiveness","onomatopoeia, noun"
+331,mari,husband,noun
+332,là-bas,"there, over there",adverb
+333,importer,to import; to matter,verb
+334,papa,"daddy, dad",noun
+335,train,"train, pace",noun
+336,manquer,"to miss, to miss somebody",verb
+337,raconter,to tell,verb
+338,ensemble,"together, at once",adverb
+339,mauvais,"bad, poor, wrong",adjective
+340,film,"film, movie",noun
+341,répondre,"to answer, reply",verb
+342,garçon,"boy, chap, guy (see #306)",noun
+343,chéri,"darling, loved; boyfriend, girlfriend, beloved","noun, adjective"
+344,corps,body,noun
+345,celui,"the one, that one (singular masculine) (see #408, 543)",demonstrative pronoun
+346,autres,other,indefinite pronoun
+347,heureux,"happy, felicitous",adjective
+348,loin,"far, a long way off, a long time ago",adverb
+349,aucun,"no, not any; none (see #399)","indefinite adjective, indefinite pronoun"
+350,pauvre,"poor; poor person, beggar","adjective, noun"
+351,sauver,to save; languagedaily dot com,verb
+352,chaque,"each, every",indefinite adjective
+353,retourner,"to turn, turn over, return (see #404)",verb
+354,leurs,theirs (3rd person masculine or feminine plural),possessive adjective
+355,rencontrer,"to meet, encounter",verb
+356,coeur,"core, heart",noun
+357,voler,"to flly; to steal, swipe",verb
+358,fermer,"to close, shut",verb
+359,car,"because, for (see #186)",conjunction
+360,valoir,"to hold, apply; to be worth",verb
+361,descendre,"to take down, go down, come down",verb
+362,feu,fire,noun
+363,docteur,"doctor, physician (see #548)",noun
+364,suffire,"to be enough, suffice",verb
+365,façon,"way, manner, behaviour",noun
+366,important,"important, considerable, sizeable",adjective
+367,sembler,"to seem, appear, look",verb
+368,super,"great, fantastic; high-octane gasoline","adjective, noun"
+369,compter,to count,verb
+370,vers,"towards, near, around, about (time, age)",preposition
+371,joli,"nice, tidy, pretty (attractive), lovely (beautiful)",adjective
+372,point,"dot, full stop, period",noun
+373,noir,black; black man/woman,"adjective, noun"
+374,hier,yesterday,adverb
+375,chien,dog,noun
+376,guerre,war,noun
+377,genre,"kind, type, sort",noun
+378,marier,"to marry, get married",verb
+379,arme,weapon,noun
+380,cause,"cause, reason",noun
+381,endroit,place,noun
+382,ordre,"order, command",noun
+383,poser,"to put down, lay, pose, sit",verb
+384,reste,"the remainder, rest",noun
+385,pied,"foot; stem, leg, base",noun
+386,envie,"desire, urge, craving",noun
+387,près,near,"preposition, adverb"
+388,fin,"end, ending",noun
+389,tiens,"Why!, Hello! (surprise)",onomatopoeia
+390,inquiéter,"to worry, bother, trouble",verb
+391,d'autres,others; more,"indefinite adjective, indefinite pronoun"
+392,bouger,to move,verb
+393,plutôt,"rather, quite",adverb
+394,apporter,"to bring, supply",verb
+395,photo,"photo, photography",noun
+396,décider,to decide,verb
+397,ainsi,"like this, in this way",adverb
+398,certain,"certain, sure","adjective, indefinite adjective"
+399,aucune,"no, not any, in no way (see #349)",indefinite adjective
+400,vendre,to sell,verb
+401,école,school,noun
+402,cher,"dear, beloved, darling, expensive",adjective
+403,chef,"leader, chief, head",noun
+404,tourner,"to turn, stir, toss, shoot (see #353)",verb
+405,cacher,"to hide, conceal",verb
+406,boulot,"work, job",noun
+407,pays,"country, nation, land (country)",noun
+408,ceux,"this one, that one (masculine plural) (see #345, 543)",demonstrative pronoun
+409,possible,possbile,adjective
+410,expliquer,"to explain, account for",verb
+411,battre,to beat,verb
+412,peine,"sorrow, grief, saddness, suffering",noun
+413,livre,book; pound,noun
+414,agir,"to act, behave; work, take effect",verb
+415,imaginer,"to imagine, suppose",verb
+416,tour,"tower, castle, tour, ballot;languagedaily dot com",noun
+417,adorer,"to adore, love",verb
+418,vérité,truth,noun
+419,recevoir,"to receive, to get",verb
+420,gentil,"kind, good, nice",adjective
+421,jeter,to throw,verb
+422,pleurer,verb,
+423,bébé,baby,noun
+424,partie,part; game,noun
+425,nouvelle,"new, fresh; french.languagedaily.com",adjective
+426,jeu,"play, game; hand, deck (cards)",noun
+427,amener,"to bring, take, bring about",verb
+428,instant,"instant, moment",noun
+429,parent,"relative, relation; parent",noun
+430,dur,"hard, tough, harsh",adjective
+431,service,"service, favor",noun
+432,plaisir,pleasure,noun
+433,promettre,to promise,verb
+434,mentir,to lie,verb
+435,soeur (sœur),sister,noun
+436,bientôt,"soon, quickly, shortly",adverb
+437,lit,bed,noun
+438,tellement,"so (to such an extent), so (very), so much",adverb
+439,utiliser,to use,verb
+440,lieu,"place, site",noun
+441,coucher,"to put to bed, lay down, to sleep",verb
+442,presque,"almost, nearly",adverb
+443,dehors,"outside, outdoors",adverb
+444,passé,"past, last; the past, past tense","adjective, noun"
+445,préférer,to prefer,verb
+446,content,"happy, pleased, glad",adjective
+447,derrière,behind,"preposition, adverb"
+448,con,"stupid jerk, bloody idiot; damned, bloody, stupid","noun, adjective"
+449,offrir,"to offer, give",verb
+450,roi,king,noun
+451,verre,"glass, drink",noun
+452,réveiller,"to awake, wake (smb.) up",verb
+453,aide,"assistant; help, assistance",noun
+454,d'abord,"foremost (most important), first",adverb
+455,journée,day,noun
+456,préparer,"to prepare, make, get ready",verb
+457,numéro,number,noun
+458,permettre,"to allow, permit",verb
+459,ramener,"to bring back , take back",verb
+460,enlever,"to take (smth.) away, remove, take off",verb
+461,calme,"peace, calmness; quiet, calm (see #529)","noun, adjective"
+462,lâcher,"to let go of, to release",verb
+463,choisir,to choose,verb
+464,musique,music,noun
+465,conduire,"to drive, lead",verb
+466,faute,"mistake, error; fault; lack of",noun
+467,calmer,"to calm down, appease, sooth",verb
+468,dîner,dinner; to have dinner,"noun, verb"
+469,mariage,"marriage, wedding",noun
+470,bureau,"writing desk, study (room), office",noun
+471,route,"road, journey, way",noun
+472,chanter,to sing,verb
+473,secret,secret; secretive,"noun, adjective"
+474,disparaître,"to disappear, vanish",verb
+475,lever,"to raise, lift",verb
+476,dessus,on top; top,"adverb, noun"
+477,présenter,"to introduce, present",verb
+478,accepter,to accept,verb
+479,baiser,"kiss; to shag, screw, fuck","verb, noun"
+480,sinon,"otherwise, or else, except",conjunction
+481,idiot,idiot; stupid,"noun, adjective"
+482,long,"long, lengthy",adjective
+483,café,"coffee, café (bar)",noun
+484,propre,"clean, tidy",adjective
+485,confiance,"trust, confidence, belief",noun
+486,cinq,five,numerical adjective
+487,bonsoir,"good evening, good night",noun
+488,compte,"count, number",noun
+489,téléphone,"telephone, phone",noun
+490,casser,"to break, shatter",verb
+491,prochain,next,adjective
+492,frapper,"to hit, strike, blow",verb
+493,facile,easy,adjective
+494,rêve,dream,noun
+495,copain,"friend, boyfriend",noun
+496,malade,"ill, sick",adjective
+497,rue,street,noun
+498,bas,low; bottom,"adjective, noun"
+499,lettre,letter,noun
+500,ignorer,"not to know, to ignore",verb
+501,fête,"party, celebration",noun
+502,couper,"to cut, cut off",verb
+503,esprit,"mind, brain, wit, spirit, esprit",noun
+504,taire,"to be silent, stop talking",verb
+505,seigneur,lord (e Seigneur = the Lord),noun
+506,flic,"cop, policeman",noun
+507,parfois,sometimes,adverb
+508,capitaine,captain,noun
+509,âge,age,noun
+510,autant,"so much, so many",adverb
+511,force,"force, strength",noun
+512,pièce,room; play; coin; piece,noun
+513,quatre,four,numerical adjective
+514,cul,"bum, ass",noun
+515,difficile,"difficult, strenuous, hard",adjective
+516,bras,arm,noun
+517,tromper,to deceive; to make a mistake,verb
+518,surtout,above all,adverb
+519,ressembler,"to look like, to resemble",verb
+520,jurer,to swear,verb
+521,plan,"map, plan, layout",noun
+522,prison,"prison, jail",noun
+523,sale,dirty,adjective
+524,courir,"to run, rush",verb
+525,haut,"high, elevated; top","noun, adjective"
+526,état,state,noun
+527,remettre,to put back; hand over; postpone; put back on,verb
+528,carte,"map, card; french.languagedaily.com",noun
+529,paix,"peace, calmness; quiet, calm (see #461)",noun
+530,exactement,"exactly, accurately, precisely",adverb
+531,drôle,"funny, peculiar",adjective
+532,refuser,"to refuse, turn down",verb
+533,dès,from,preposition
+534,président,"president, chairman",noun
+535,cours,"class, course",noun
+536,grave,"serious, grave, solemn",adjective
+537,terminer,"to end, finish",verb
+538,ciel,sky,noun
+539,partout,everywhere,adverb
+540,âme,soul,noun
+541,patron,"boss, manager, owner",noun
+542,amuser,"to amuse, entertain",verb
+543,celle,"the one, that one (feminine singular) (see #345, 408)",demonstrative pronoun
+544,visage,face,noun
+545,intéresser,to interest,verb
+546,reconnaître,"to recognize, acknowledge",verb
+547,rire,"to laugh, have fun, joke",verb
+548,médecin,"doctor, physician, medical practitioner, MD (see #363)",noun
+549,rapport,"report, connection, link, relationship",noun
+550,pardonner,"to forgive, pardon, excuse",verb
+551,avis,opinion; notice,noun
+552,embrasser,"to kiss; to embrace, encompass",verb
+553,retour,return; french.languagedaily.com,noun
+554,laquelle,which one = (le + quelle) (feminine singular) (see #578),"relative pronoun, interrogative pronoun"
+555,simple,simple,adjective
+556,danser,to dance,verb
+557,exister,to exist,verb
+558,différent,"different, various, other",adjective
+559,souvent,often,adverb
+560,lumière,light,noun
+561,génial,"great, brilliant",adjective
+562,libre,"free, vacant",adjective
+563,dollar,dollar,noun
+564,sûrement,"surely, certainly, most probably",adverb
+565,pareil,the same,adjective
+566,hôpital,hospital,noun
+567,ceci,"this (formal contexts; refers to nouns that have no specific gender) (see #20, 203)",demonstrative pronoun
+568,réussir,"to be successful, succeed",verb
+569,bizarre,"odd, starnge, bizarre",adjective
+570,voix,voice,noun
+571,protéger,to protect,verb
+572,honneur,"honor (US), honour",noun
+573,tôt,early,adverb
+574,équipe,"team, crew, party",noun
+575,prévenir,"to tell, inform, prevent",verb
+576,cheval,horse,noun
+577,ailleurs,"elsewhere, somewhere else",adverb
+578,lequel,which one = (le + quel) (masculine singular) (see #554),"relative pronoun, interrogative pronoun"
+579,maître,"master, ruler, mistress, school teacher",noun
+580,avion,plane,noun
+581,bout,"bit, tip, end",noun
+582,habiter,to live in,verb
+583,faim,hunger,noun
+584,ensuite,"then, next, afterwards",adverb
+585,l'un,"a, an, one (replaces 'un' when 'un' is a pronoun or at the beginning of a sentence) (see #14)",indefinite pronoun
+586,froid,cold,adjective
+587,normal,"normal, usual",adjective
+588,déranger,"to disturb, upset",verb
+589,reprendre,"to recapture, take back",verb
+590,oncle,uncle,noun
+591,prix,price; prize,noun
+592,retard,"delay, lateness",noun
+593,détruire,"to destroy, ruin",verb
+594,cadeau,"present, gift",noun
+595,pousser,"to push, press",verb
+596,face,face; heads,noun
+597,gueule,mouth,noun
+598,chemin,"path, way",noun
+599,vivant,"vibrant, living, alive",adjective
+600,général,general (military),noun
+601,bateau,"boat, ship",noun
+602,million,million,noun
+603,sac,"bag, sack",noun
+604,impossible,impossible,adjective
+605,seconde,"second, moment",noun
+606,bête,"stupid, silly","noun, adjective"
+607,découvrir,"to discover, find",verb
+608,erreur,"error, mistake",noun
+609,soleil,"sun, sunlight",noun
+610,voyage,"trip, journey",noun
+611,sauter,to jump,verb
+612,rêver,to dream,verb
+613,détester,"to hate, detest",verb
+614,clair,"clear, apparent",adjective
+615,faux,"wrong, false, fallacious",adjective
+616,paraître,"to come out, be published",verb
+617,balle,ball (sports equipment),noun
+618,empêcher,to prevent,verb
+619,maintenir,"to keep, maintain",verb
+620,cheveu,a hair,noun
+621,papier,paper,noun
+622,présent,"a present; present, current","noun, adjective"
+623,sujet,"subject, topic, theme",noun
+624,supposer,"to suppose, assume",verb
+625,tranquille,"quiet, calm",adjective
+626,neuf,"nine; new, unused","numerical adjective, adjective"
+627,épouser,"to marry, to espouse",verb
+628,blanc,white; blank,adjective
+629,table,table; french.languagedaily.com,noun
+630,toute,"everything, all (see #22, 256)",indefinite adjective
+631,dix,"ten, tenth",numerical adjective
+632,clé,key; solutioin,noun
+633,agent,"officer, oficial, agent",noun
+634,approcher,to approach,verb
+635,sens,"direction, way; meaning; sense; senses",noun
+636,craindre,"to fear, to be afraid of",verb
+637,six,six,numerical adjective
+638,message,message,noun
+639,crier,to shout,verb
+640,salle,"room, hall, audience",noun
+641,inviter,to invite,verb
+642,effet,"effect, impression",noun
+643,réfléchir,"to reflect, think",verb
+644,espèce,"species, kind",noun
+645,arranger,"to arrange, to organize",verb
+646,naître,to be born,verb
+647,allô,Hello! (telephone),onomatopoeia
+648,bois,wood; antlers,noun
+649,propos,"subject, topic, remark, point",noun
+650,camp,camp,noun
+651,sorte,"sort, kind",noun
+652,hôtel,hotel; french.languagedaily.com,noun
+653,début,beginning,noun
+654,souffrir,"to be in pain, suffer",verb
+655,jambe,leg,noun
+656,remercier,to thank,verb
+657,choix,"choice, selection",noun
+658,sécurité,"safety, security",noun
+659,avocat,lawyer,noun
+660,attraper,to catch,verb
+661,client,"customer, client, guest",noun
+662,courant,"current, trend",noun
+663,dépêcher,to dispatch,verb
+664,peuple,people,noun
+665,dame,"lady, queen",noun
+666,vérifier,"to check, verify",verb
+667,abandonner,"to abandon, leave, desert",verb
+668,journal,"newspaper, diary, journal",noun
+669,sérieux,"genuine, serious",adjective
+670,brûler,to burn,verb
+671,or,gold,noun
+672,loi,"law, rule",noun
+673,fond,"bottom, back",noun
+674,gosse,"kid (colloquial, child, youngster) (see #745)",noun
+675,fric,"doug, money, cash",noun
+676,situation,situation; job; location,noun
+677,euh,Er…,onomatopoeia
+678,sauf,except,preposition
+679,accident,accident,noun
+680,doute,doubt,noun
+681,scène,scene,noun
+682,soldat,soldier,noun
+683,amoureux,loving,adjective
+684,assurer,"to assure, insure",verb
+685,preuve,"proof, evidence",noun
+686,humain,human,adjective
+687,mer,"sea, seaside",noun
+688,silence,silence,noun
+689,télé,"TV, telly",noun
+690,victime,"victim, casualty",noun
+691,complètement,"completely, fully, in depth",adverb
+692,pute,whore,noun
+693,garde,"guard; carer, nurse",noun
+694,meurtre,murder,noun
+695,groupe,group,noun
+696,crime,crime,noun
+697,traiter,to treat; to deal,verb
+698,doucement,"gently, softly",adverb
+699,blesser,"to injure, wound, hurt",verb
+700,colonel,colonel,noun
+701,parole,"speech, word",noun
+702,triste,sad,adjective
+703,honte,shame,noun
+704,rouge,red,adjective
+705,dégager,to free; to clear; to radiate,verb
+706,soirée,"evening, party",noun
+707,dangereux,dangerous,adjective
+708,armée,army,noun
+709,filer,"to spin; to take off; to go off, to leave",verb
+710,risquer,to risk,verb
+711,dos,"back, spine",noun
+712,appel,"call, appeal",noun
+713,visite,visit,noun
+714,mener,"to take; to lead, guide, manage",verb
+715,fleur,"flower, blossom",noun
+716,attaquer,to attack,verb
+717,coin,"corner, spot",noun
+718,prince,prince,noun
+719,pire,worse,adjective
+720,bordel,brothel; bloody/gooddamn mess,noun
+721,professeur,"teacher, professor",noun
+722,fumer,to smoke,verb
+723,répéter,"to repeat; to go over, rehearse",verb
+724,habitude,"habit, practice; french.languagedaily.com",noun
+725,signer,to sign,verb
+726,ficher,"to file, put on file",verb
+727,mériter,"to deserve, be worth; french.languagedaily.com",verb
+728,réponse,"response, answer, reply",noun
+729,rejoindre,"to meet up; to join, rejoin; to go back to",verb
+730,discuter,"to question, dispute",verb
+731,village,village,noun
+732,pourtant,yet,adverb
+733,avancer,"to move forward, advance",verb
+734,connerie,stupidity,noun
+735,reposer,"to rest, to have a rest",verb
+736,échapper,"to escape, get away, slip, run away",verb
+737,forme,"form, shape",noun
+738,bruit,"noise, sound; rumour",noun
+739,chacun,"each, everyone",indefinite pronoun
+740,diable,devil,noun
+741,exemple,example,noun
+742,charger,"to charge, load",verb
+743,chat,cat,noun
+744,ennemi,enemy,noun
+745,gamin,"kid, child (see #674)",noun
+746,rendez-vous,appointment,noun
+747,debout,"standing, standing up",adverb
+748,obliger,to oblige,verb
+749,trou,"hole, gap, deficit",noun
+750,accompagner,"to go with, accompany",verb
+751,fenêtre,window; languagedaily dot com,noun
+752,oser,to dare,verb
+753,impression,impression,noun
+754,intérieur,"inside (inner surface), interrior",noun
+755,bouche,mouth,noun
+756,ligne,"line, course, service",noun
+757,absolument,absolutely,adverb
+758,doux,"soft, mild, gentle",adjective
+759,regretter,,verb
+760,mur,,noun
+761,enfer,,noun
+762,prouver,,verb
+763,boîte,,noun
+764,santé,,noun
+765,t,,personal pronoun
+766,couvrir,,verb
+767,magnifique,,adjective
+768,obtenir,,verb
+769,cuisine,,noun
+770,vue,,noun
+771,terrible,,adjective
+772,éviter,,verb
+773,peau,,noun
+774,salaud,,noun
+775,conseil,,noun
+776,plaisanter,,verb
+777,autour,,adverb
+778,vin,,noun
+779,exact,,adjective
+780,virer,,verb
+781,supporter,,verb
+782,régler,,verb
+783,doigt,,noun
+784,étrange,,adjective
+785,grâce,,preposition
+786,souhaiter,,verb
+787,mission,,noun
+788,créer,,verb
+789,chanson,,noun
+790,pote,,noun
+791,surveiller,,verb
+792,simplement,,adverb
+793,recommencer,,verb
+794,robe,,noun
+795,chaud,,adjective
+796,billet,,noun
+797,spécial,,adjective
+798,moyen,,noun
+799,sympa,,adjective
+800,vaisseau,,noun
+801,moi-même,,personal pronoun
+802,coûter,,verb
+803,surprise,,noun
+804,poste,,noun
+805,compris,,adjective
+806,anniversaire,,noun
+807,signe,,noun
+808,vol,,noun
+809,couleur,,noun
+810,image,,noun
+811,parier,,verb
+812,est,,noun
+813,arbre,,noun
+814,bière,,noun
+815,mme,,noun
+816,poisson,,noun
+817,selon,,preposition
+818,a,letter ''a'',noun
+819,intérêt,,noun
+820,lieutenant,,noun
+821,danger,,noun
+822,appartenir,,verb
+823,remarquer,,verb
+824,animal,,noun
+825,rater,,verb
+826,retirer,,verb
+827,bord,,noun
+828,tenter,,verb
+829,liberté,,noun
+830,règle,,noun
+831,banque,,noun
+832,merveilleux,,adjective
+833,fier,,adjective
+834,partager,,verb
+835,classe,,noun
+836,dossier,,noun
+837,ressentir,,verb
+838,bonheur,,noun
+839,défendre,,verb
+840,but,,noun
+841,bande,,noun
+842,l,,definite article
+843,fatiguer,,verb
+844,radio,,noun
+845,prévoir,,verb
+846,celui-là,,demonstrative pronoun
+847,camarade,,noun
+848,douter,,verb
+849,oiseau,,noun
+850,vent,,noun
+851,recherche,,noun
+852,apprécier,,verb
+853,système,,noun
+854,ferme,,noun
+855,capable,,adjective
+856,fuir,,verb
+857,ennui,,noun
+858,tante,,noun
+859,héros,,noun
+860,dedans,,adverb
+861,excellent,,adjective
+862,pitié,,noun
+863,appartement,,noun
+864,bosser,,verb
+865,respirer,,verb
+866,entier,,adjective
+867,récupérer,,verb
+868,douleur,,noun
+869,libérer,,verb
+870,sentiment,,noun
+871,grand-père,,noun
+872,société,,noun
+873,lancer,,verb
+874,nez,,noun
+875,joie,,noun
+876,relation,,noun
+877,témoin,,noun
+878,acteur,,noun
+879,moitié,,noun
+880,incroyable,,adjective
+881,bain,,noun
+882,durer,,verb
+883,marché,,noun
+884,laver,,verb
+885,dent,,noun
+886,là-dedans,,adverb
+887,mademoiselle,,noun
+888,adresse,,noun
+889,cousin,,noun
+890,riche,,adjective
+891,compagnie,,noun
+892,sonner,,verb
+893,chaussure,,noun
+894,oreille,,noun
+895,grand-mère,,noun
+896,ancien,,adjective
+897,art,,noun
+898,deviner,,verb
+899,inutile,,adjective
+900,ravir,,verb
+901,blague,,noun
+902,avenir,,noun
+903,beauté,,noun
+904,laisse,,noun
+905,course,,noun
+906,manière,,noun
+907,traverser,,verb
+908,expérience,,noun
+909,soin,,noun
+910,hors,,preposition
+911,cour,,noun
+912,gauche,,noun
+913,stupide,,adjective
+914,retenir,,verb
+915,liste,,noun
+916,remonter,,verb
+917,réaliser,,verb
+918,i,,noun
+919,moquer,,verb
+920,étudier,,verb
+921,installer,,verb
+922,courage,,noun
+923,bleu,,adjective
+924,secours,,noun
+925,milieu,,noun
+926,proposer,,verb
+927,m,,noun
+928,contact,,noun
+929,inspecteur,,noun
+930,mignon,,adjective
+931,projet,,noun
+932,probablement,,adverb
+933,rôle,,noun
+934,risque,,noun
+935,action,,noun
+936,ange,,noun
+937,avance,,noun
+938,intéressant,,adjective
+939,parmi,,preposition
+940,langue,,noun
+941,emporter,,verb
+942,thé,,noun
+943,colère,,noun
+944,départ,,noun
+945,époque,,noun
+946,engager,,verb
+947,voleur,,noun
+948,cesser,,verb
+949,tort,,noun
+950,vacance,,noun
+951,là-haut,,adverb
+952,machine,,noun
+953,signifier,,verb
+954,réparer,,verb
+955,construire,,verb
+956,pain,,noun
+957,bar,,noun
+958,chier,,verb
+959,club,,noun
+960,été,,noun
+961,horrible,,adjective
+962,profiter,,verb
+963,pierre,,noun
+964,pleuvoir,,verb
+965,plusieurs,,indefinite adjective
+966,salope,,noun
+967,tel,,indefinite adjective
+968,glace,,noun
+969,décision,,noun
+970,juge,,noun
+971,contrôle,,noun
+972,séparer,,verb
+973,sept,,numerical adjective
+974,maladie,,noun
+975,quartier,,noun
+976,désirer,,verb
+977,travers,,noun
+978,dommage,,noun
+979,cigarette,,noun
+980,traîner,,verb
+981,respecter,,verb
+982,époux,,noun
+983,tas,,noun
+984,enfuir,,verb
+985,diriger,,verb
+986,crever,,verb
+987,fil,,noun
+988,combat,,noun
+989,poursuivre,,verb
+990,morceau,,noun
+991,église,,noun
+992,directeur,,noun
+993,demande,,noun
+994,forcer,,verb
+995,bombe,,noun
+996,j,,noun
+997,espoir,,noun
+998,tueur,,noun
+999,grandir,,verb
+1000,dimanche,Sunday,noun
