@@ -1,0 +1,611 @@
+,Dutch,Quizlet,Sentence,English,Alternatives,P-O-S,Quizlet P-O-S,MoreInfo,Quizlet Alternatives
+
+
+0,nou,"*Well*
+adverb: now
+Nou, laten we gaan! - Now, let's go!","Nou, laten we gaan! - Now, let's go!",*Well*,[['now']],adverb,adverb,https://www.linguee.com/english-dutch/search?source=auto&query=nou,adverb: now
+
+
+1,mee,"*along*
+noun: mead
+adverb: also
+Ik ga mee naar huis. - I'm going home with (them).",Ik ga mee naar huis. - I'm going home with (them).,*along*,"[['mead'], ['also']]",noun adverb,noun adverb,https://www.linguee.com/english-dutch/search?source=auto&query=mee,"noun: mead
+adverb: also"
+
+
+2,misschien,"*maybe*
+adverb: perhaps, maybe, possibly
+Misschien ga ik naar het strand vandaag. - Maybe I'll go to the beach today.",Misschien ga ik naar het strand vandaag. - Maybe I'll go to the beach today.,*maybe*,"[['perhaps', 'maybe', 'possibly', 'perchance']]",adverb,adverb,https://www.linguee.com/english-dutch/search?source=auto&query=misschien,"adverb: perhaps, maybe, possibly"
+
+
+3,even,"*for a bit*
+adverb: equally, momentarily, for a while
+Ik ben even naar de winkel gegaan. - I just went to the store.",Ik ben even naar de winkel gegaan. - I just went to the store.,*for a bit*,"[['equally', 'momentarily', 'for a while']]",adverb,adverb,https://www.linguee.com/english-dutch/search?source=auto&query=even,"adverb: equally, momentarily, for a while"
+
+
+4,iemand,"*someone*
+pronoun: someone, anyone, one
+noun: person
+Iemand heeft me gebeld. - Someone called me.",Iemand heeft me gebeld. - Someone called me.,*someone*,"[['someone', 'anyone', 'one', 'somebody', 'anybody'], ['person']]",pronoun noun,pronoun noun,https://www.linguee.com/english-dutch/search?source=auto&query=iemand,"pronoun: someone, anyone, one
+noun: person"
+
+
+5,komt,"*comes*
+verb: come, get, come to
+Komt er nog iemand? - Is anyone else coming?",Komt er nog iemand? - Is anyone else coming?,*comes*,"[['come', 'get', 'come to', 'fly into']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=komt,"verb: come, get, come to"
+
+
+6,niets,"*nothing*
+noun: nothing, naught, nil
+pronoun: nothing, ought
+adjective: none
+adverb: none
+Ik heb niets gezegd. - I didn't say anything.",Ik heb niets gezegd. - I didn't say anything.,*nothing*,"[['nothing', 'naught', 'nil', 'nought'], ['nothing', 'ought'], ['none'], ['none']]",noun pronoun adjective adverb,noun pronoun adjective adverb,https://www.linguee.com/english-dutch/search?source=auto&query=niets,"noun: nothing, naught, nil
+pronoun: nothing, ought
+adjective: none
+adverb: none"
+
+
+7,zei,"*said*
+verb: say, tell, put
+""Hij zei dat hij moe was,"" He said he was tired.","""Hij zei dat hij moe was,"" He said he was tired.",*said*,"[['say', 'tell', 'put', 'pronounce', 'predicate']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=zei,"verb: say, tell, put"
+
+
+8,hou,"*love*
+verb: keep, hold, retain
+Hou je van mij? - Do you love me?",Hou je van mij? - Do you love me?,*love*,"[['keep', 'hold', 'retain', 'have', 'handle']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=hou,"verb: keep, hold, retain"
+
+
+9,komen,"*come*
+verb: come, get, come to
+""Ze komen morgen aan."" - They will arrive tomorrow.","""Ze komen morgen aan."" - They will arrive tomorrow.",*come*,"[['come', 'get', 'come to', 'fly into']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=komen,"verb: come, get, come to"
+
+
+10,mensen,"*people*
+noun: people, men, persons
+Mensen zijn op zoek naar manieren om het milieu te beschermen.
+
+People are looking for ways to protect the environment.","Mensen zijn op zoek naar manieren om het milieu te beschermen.
+
+People are looking for ways to protect the environment.",*people*,"[['people', 'men', 'persons', 'folk']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=mensen,"noun: people, men, persons"
+
+
+11,onze,"*our*
+pronoun: our
+Onze familie is groot. - Our family is big.",Onze familie is groot. - Our family is big.,*our*,[['our']],pronoun,pronoun,https://www.linguee.com/english-dutch/search?source=auto&query=onze,pronoun: our
+
+
+12,nodig,"*necessary*
+adjective: necessary, required, needful
+Ik heb je hulp nodig. - I need your help.",Ik heb je hulp nodig. - I need your help.,*necessary*,"[['necessary', 'required', 'needful', 'requisite']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=nodig,"adjective: necessary, required, needful"
+
+
+13,tot,"*until*
+preposition: to, until, for
+conjunction: until
+Ik ben tot morgen hier. - I'll be here till tomorrow.",Ik ben tot morgen hier. - I'll be here till tomorrow.,*until*,"[['to', 'until', 'for', 'into', 'till', 'unto', 'at', 'towards', 'pending', 'while'], ['until']]",preposition conjunction,preposition conjunction,https://www.linguee.com/english-dutch/search?source=auto&query=tot,"preposition: to, until, for
+conjunction: until"
+
+
+14,worden,"*become*
+verb: be, become, get
+De veranderingen zullen worden aangekondigd. - The changes will be announced.",De veranderingen zullen worden aangekondigd. - The changes will be announced.,*become*,"[['be', 'become', 'get', 'take', 'grow', 'come', 'force upon', 'flake off', 'go']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=worden,"verb: be, become, get"
+
+
+15,veel,"*a lot of*
+adverb: much, many, heaps of
+Veel plezier! = Have fun!",Veel plezier! = Have fun!,*a lot of*,"[['much', 'many', 'heaps of', 'not a few', 'in any quantity']]",adverb,adverb,https://www.linguee.com/english-dutch/search?source=auto&query=veel,"adverb: much, many, heaps of"
+
+
+16,weten,"*know*
+verb: know, wit, wot
+Ik weet het niet. - I don't know.",Ik weet het niet. - I don't know.,*know*,"[['know', 'wit', 'wot']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=weten,"verb: know, wit, wot"
+
+
+17,leven,"*to live*
+noun: life, living, animation
+verb: live, exist
+Het leven is kort, maar de herinneringen zijn eeuwig. - Life is short, but the memories are eternal.","Het leven is kort, maar de herinneringen zijn eeuwig. - Life is short, but the memories are eternal.",*to live*,"[['life', 'living', 'animation', 'noise', 'ado', 'din'], ['live', 'exist']]",noun verb,noun verb,https://www.linguee.com/english-dutch/search?source=auto&query=leven,"noun: life, living, animation
+verb: live, exist"
+
+
+18,wij,"*We*
+pronoun: we
+Wij gaan naar het park. - We are going to the park.",Wij gaan naar het park. - We are going to the park.,*We*,[['we']],pronoun,pronoun,https://www.linguee.com/english-dutch/search?source=auto&query=wij,pronoun: we
+
+
+19,weer,"*weather*
+noun: weather, defense, weir
+adverb: again, fro
+""Het weer is vandaag mooi."" - ""The weather is nice today.""","""Het weer is vandaag mooi."" - ""The weather is nice today.""",*weather*,"[['weather', 'defense', 'weir', 'defence'], ['again', 'fro']]",noun adverb,noun adverb,https://www.linguee.com/english-dutch/search?source=auto&query=weer,"noun: weather, defense, weir
+adverb: again, fro"
+
+
+20,gewoon,"*Ordinary*
+adverb: just, plainly, habitually
+adjective: ordinary, plain, common
+phrase: common or garden
+Gewoon even rustig aan doen. - Just take it easy.",Gewoon even rustig aan doen. - Just take it easy.,*Ordinary*,"[['just', 'plainly', 'habitually'], ['ordinary', 'plain', 'common', 'normal', 'usual', 'simple', 'accustomed', 'commonplace', 'natural', 'everyday', 'general', 'habitual', 'customary', 'homely', 'wonted', 'vulgar', 'lowbrow', 'unartful', 'earthbound', 'popular'], ['common or garden']]",adverb adjective phrase,adverb adjective phrase,https://www.linguee.com/english-dutch/search?source=auto&query=gewoon,"adverb: just, plainly, habitually
+adjective: ordinary, plain, common
+phrase: common or garden"
+
+
+21,kijk,"*look*
+noun: outlook
+Kijk eens naar de zon! - Look at the sun!",Kijk eens naar de zon! - Look at the sun!,*look*,[['outlook']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=kijk,noun: outlook
+
+
+22,zeggen,"*say*
+verb: say, tell, put
+""Ik zeg dat ik je zal helpen."" - I say that I will help you.","""Ik zeg dat ik je zal helpen."" - I say that I will help you.",*say*,"[['say', 'tell', 'put', 'pronounce', 'predicate']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=zeggen,"verb: say, tell, put"
+
+
+23,tijd,"*time*
+noun: time, period, season
+De tijd vliegt! - Time flies!",De tijd vliegt! - Time flies!,*time*,"[['time', 'period', 'season', 'tense']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=tijd,"noun: time, period, season"
+
+
+24,zeg,"*say*
+interjection: Hey!
+""Zeg me wat je denkt."" - Tell me what you think.","""Zeg me wat je denkt."" - Tell me what you think.",*say*,[['Hey!']],interjection,interjection,https://www.linguee.com/english-dutch/search?source=auto&query=zeg,interjection: Hey!
+
+
+25,twee,"*two*
+noun: two, twain, deuce
+: two
+Twee mensen stonden samen op het podium. - Two people stood together on the stage.",Twee mensen stonden samen op het podium. - Two people stood together on the stage.,*two*,"[['two', 'twain', 'deuce'], ['two']]",noun ,noun ,https://www.linguee.com/english-dutch/search?source=auto&query=twee,"noun: two, twain, deuce
+: two"
+
+
+26,toen,"*when*
+conjunction: when, as
+adverb: then, at that time, next
+Toen gingen we naar huis. - Then we went home.",Toen gingen we naar huis. - Then we went home.,*when*,"[['when', 'as'], ['then', 'at that time', 'next']]",conjunction adverb,conjunction adverb,https://www.linguee.com/english-dutch/search?source=auto&query=toen,"conjunction: when, as
+adverb: then, at that time, next"
+
+
+27,tegen,"*in return for*
+preposition: against, at, to
+adverb: counter, contrary
+noun: con
+De kat liep tegen de muur aan. - The cat ran into the wall.",De kat liep tegen de muur aan. - The cat ran into the wall.,*in return for*,"[['against', 'at', 'to', 'by', 'towards', 'versus', 'contra'], ['counter', 'contrary'], ['con']]",preposition adverb noun,preposition adverb noun,https://www.linguee.com/english-dutch/search?source=auto&query=tegen,"preposition: against, at, to
+adverb: counter, contrary
+noun: con"
+
+
+28,zit,"*sit*
+noun: seat
+Ik zit in de auto. - I am sitting in the car.",Ik zit in de auto. - I am sitting in the car.,*sit*,[['seat']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=zit,noun: seat
+
+
+29,net,"*just*
+adverb: just, just so, nicely
+noun: net, network, grid
+adjective: spruce, tidy, elegant
+Ik heb net een kopje koffie gedronken. - I just drank a cup of coffee.",Ik heb net een kopje koffie gedronken. - I just drank a cup of coffee.,*just*,"[['just', 'just so', 'nicely', 'beautifully', 'elegantly'], ['net', 'network', 'grid', 'mesh', 'web', 'string bag'], ['spruce', 'tidy', 'elegant', 'trim', 'fine', 'trig', 'handsome']]",adverb noun adjective,adverb noun adjective,https://www.linguee.com/english-dutch/search?source=auto&query=net,"adverb: just, just so, nicely
+noun: net, network, grid
+adjective: spruce, tidy, elegant"
+
+
+30,dood,"*dead*
+noun: death, dissolution, expiration
+adjective: dead, lifeless
+adverb: dead
+""Hij was dood moe."" - He was dead tired.","""Hij was dood moe."" - He was dead tired.",*dead*,"[['death', 'dissolution', 'expiration', 'exit'], ['dead', 'lifeless'], ['dead']]",noun adjective adverb,noun adjective adverb,https://www.linguee.com/english-dutch/search?source=auto&query=dood,"noun: death, dissolution, expiration
+adjective: dead, lifeless
+adverb: dead"
+
+
+31,uw,"*your*
+pronoun: your, thy, thine
+Uw huis is mooi. - Your house is beautiful.",Uw huis is mooi. - Your house is beautiful.,*your*,"[['your', 'thy', 'thine', 'yours']]",pronoun,pronoun,https://www.linguee.com/english-dutch/search?source=auto&query=uw,"pronoun: your, thy, thine"
+
+
+32,wordt,"*is becoming*
+verb: be, become, get
+De kat wordt vermist. - The cat is missing.",De kat wordt vermist. - The cat is missing.,*is becoming*,"[['be', 'become', 'get', 'take', 'grow', 'come', 'force upon', 'flake off', 'go']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=wordt,"verb: be, become, get"
+
+
+33,hé,"*Hey*
+interjection: Hey!, He!, Eh!
+Hé, wat doe je hier? - Hey, what are you doing here?","Hé, wat doe je hier? - Hey, what are you doing here?",*Hey*,"[['Hey!', 'He!', 'Eh!', 'Phew!', 'Holloa!', 'Hollo!', 'Ha!', 'Oh!']]",interjection,interjection,https://www.linguee.com/english-dutch/search?source=auto&query=hé,"interjection: Hey!, He!, Eh!"
+
+
+34,maken,"*to make*
+verb: make, do, build
+Ik maak een taart, I am making a cake.","Ik maak een taart, I am making a cake.",*to make*,"[['make', 'do', 'build', 'manufacture', 'realize', 'develop', 'cause', 'fabricate', 'shape', 'frame']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=maken,"verb: make, do, build"
+
+
+35,mag,"*allowed*
+noun: maw
+Ik mag naar huis gaan - I may go home.",Ik mag naar huis gaan - I may go home.,*allowed*,[['maw']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=mag,noun: maw
+
+
+36,één,"*An*
+noun: ace
+Ik heb één appel gegeten - I ate one apple.",Ik heb één appel gegeten - I ate one apple.,*An*,[['ace']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=één,noun: ace
+
+
+37,z'n,"*his*
+
+Hij heeft z'n boeken meegenomen. - He has taken his books.",Hij heeft z'n boeken meegenomen. - He has taken his books.,*his*,,,no P-O-S info,https://www.linguee.com/english-dutch/search?source=auto&query=z'n,
+
+
+38,omdat,"*because*
+conjunction: because, for, just because
+Omdat ik het leuk vind, ga ik naar het strand. - Because I like it, I'm going to the beach.","Omdat ik het leuk vind, ga ik naar het strand. - Because I like it, I'm going to the beach.",*because*,"[['because', 'for', 'just because']]",conjunction,conjunction,https://www.linguee.com/english-dutch/search?source=auto&query=omdat,"conjunction: because, for, just because"
+
+
+39,gedaan,"*done*
+adjective: done
+Ik heb het gedaan. - I have done it.",Ik heb het gedaan. - I have done it.,*done*,[['done']],adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=gedaan,adjective: done
+
+
+40,heel,"*all*
+adjective: very, whole, all
+adverb: very, quite, all
+noun: integer
+Ik heb heel veel energie. - I have a lot of energy.",Ik heb heel veel energie. - I have a lot of energy.,*all*,"[['very', 'whole', 'all', 'entire'], ['very', 'quite', 'all', 'completely', 'entirely', 'wholly', 'fully', 'not', 'ever-so'], ['integer']]",adjective adverb noun,adjective adverb noun,https://www.linguee.com/english-dutch/search?source=auto&query=heel,"adjective: very, whole, all
+adverb: very, quite, all
+noun: integer"
+
+
+41,af,"*off*
+adverb: off, down, out
+suffix: on
+adjective: ready
+De kat is van de tafel af gesprongen. - The cat jumped off the table.",De kat is van de tafel af gesprongen. - The cat jumped off the table.,*off*,"[['off', 'down', 'out'], ['on'], ['ready']]",adverb suffix adjective,adverb suffix adjective,https://www.linguee.com/english-dutch/search?source=auto&query=af,"adverb: off, down, out
+suffix: on
+adjective: ready"
+
+
+42,altijd,"*always*
+adverb: always, ever, evermore
+Altijd ben ik je vriend. - Always I am your friend.",Altijd ben ik je vriend. - Always I am your friend.,*always*,"[['always', 'ever', 'evermore']]",adverb,adverb,https://www.linguee.com/english-dutch/search?source=auto&query=altijd,"adverb: always, ever, evermore"
+
+
+43,jouw,"*your*
+pronoun: your
+noun: yours
+Jouw ogen zijn zo mooi. - Your eyes are so beautiful.",Jouw ogen zijn zo mooi. - Your eyes are so beautiful.,*your*,"[['your'], ['yours']]",pronoun noun,pronoun noun,https://www.linguee.com/english-dutch/search?source=auto&query=jouw,"pronoun: your
+noun: yours"
+
+
+44,zeker,"*Certainly*
+adjective: sure, certain, confident
+adverb: sure, certainly, surely
+""Zeker, ik zal het doen."" - ""Certainly, I will do it.""","""Zeker, ik zal het doen."" - ""Certainly, I will do it.""",*Certainly*,"[['sure', 'certain', 'confident', 'assured', 'secure', 'safe', 'positive', 'foolproof', 'undoubted', 'infallible', 'cocksure', 'unfailing', 'surefooted', 'dependable', 'umpteen', 'anchored'], ['sure', 'certainly', 'surely', 'undoubtedly', 'no doubt', 'assuredly', 'securely', 'sure thing', 'by all means', 'must needs', 'right enough']]",adjective adverb,adjective adverb,https://www.linguee.com/english-dutch/search?source=auto&query=zeker,"adjective: sure, certain, confident
+adverb: sure, certainly, surely"
+
+
+45,geef,"*give*
+verb: give, deliver, impart
+Geef me een kus! - Give me a kiss!",Geef me een kus! - Give me a kiss!,*give*,"[['give', 'deliver', 'impart', 'lend', 'render', 'afford', 'deal']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=geef,"verb: give, deliver, impart"
+
+
+46,zie,"*see *
+interjection: Lo!
+Ik zie je morgen - I'll see you tomorrow.",Ik zie je morgen - I'll see you tomorrow.,*see *,[['Lo!']],interjection,interjection,https://www.linguee.com/english-dutch/search?source=auto&query=zie,interjection: Lo!
+
+
+47,wacht,"*guard*
+noun: guard, watch, sentry
+""Ik wacht op je antwoord."" - I'm waiting for your answer.","""Ik wacht op je antwoord."" - I'm waiting for your answer.",*guard*,"[['guard', 'watch', 'sentry', 'ward', 'cue', 'sentry-go']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=wacht,"noun: guard, watch, sentry"
+
+
+48,allemaal,"*all*
+pronoun: everything, everybody, altogether
+Allemaal hebben we een goede tijd gehad. - We all had a good time.",Allemaal hebben we een goede tijd gehad. - We all had a good time.,*all*,"[['everything', 'everybody', 'altogether']]",pronoun,pronoun,https://www.linguee.com/english-dutch/search?source=auto&query=allemaal,"pronoun: everything, everybody, altogether"
+
+
+49,jaar,"*year*
+noun: year, annum, twelvemonth
+Het jaar is bijna voorbij. - The year is nearly over.",Het jaar is bijna voorbij. - The year is nearly over.,*year*,"[['year', 'annum', 'twelvemonth']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=jaar,"noun: year, annum, twelvemonth"
+
+
+50,doet,"*do*
+verb: do, make, perform
+Het doet me goed om je te zien. - It's good to see you.",Het doet me goed om je te zien. - It's good to see you.,*do*,"[['do', 'make', 'perform', 'put', 'cause', 'act', 'bloat']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=doet,"verb: do, make, perform"
+
+
+51,dag,"*day*
+noun: day, daytime
+Dag iedereen! - Hello everyone!",Dag iedereen! - Hello everyone!,*day*,"[['day', 'daytime']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=dag,"noun: day, daytime"
+
+
+52,zij,"*she*
+pronoun: they, it, she
+noun: side, way, flank
+Zij zijn de koningen van het feest. - They are the kings of the party.",Zij zijn de koningen van het feest. - They are the kings of the party.,*she*,"[['they', 'it', 'she', 'those', 'such'], ['side', 'way', 'flank', 'silk', 'hand', 'aspect', 'faille']]",pronoun noun,pronoun noun,https://www.linguee.com/english-dutch/search?source=auto&query=zij,"pronoun: they, it, she
+noun: side, way, flank"
+
+
+53,hun,"*their*
+pronoun: their, them
+Hun kat is zwart. - Their cat is black.",Hun kat is zwart. - Their cat is black.,*their*,"[['their', 'them']]",pronoun,pronoun,https://www.linguee.com/english-dutch/search?source=auto&query=hun,"pronoun: their, them"
+
+
+54,huis,"*house*
+noun: house, home, place
+""Ik heb een mooi huis."" - ""I have a beautiful house.""","""Ik heb een mooi huis."" - ""I have a beautiful house.""",*house*,"[['house', 'home', 'place', 'family', 'premises']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=huis,"noun: house, home, place"
+
+
+55,vader,"*father*
+noun: father, parent, old man
+Mijn vader is de beste, My father is the best.","Mijn vader is de beste, My father is the best.",*father*,"[['father', 'parent', 'old man', 'pa']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=vader,"noun: father, parent, old man"
+
+
+56,dank,"*thanks*
+noun: thanks, acknowledgement
+Ik wil je danken voor je hulp. - I want to thank you for your help.",Ik wil je danken voor je hulp. - I want to thank you for your help.,*thanks*,"[['thanks', 'acknowledgement']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=dank,"noun: thanks, acknowledgement"
+
+
+57,dacht,"*thought*
+verb: think, think of, conceive
+Ik dacht dat ik het al wist. - I thought I already knew.",Ik dacht dat ik het al wist. - I thought I already knew.,*thought*,"[['think', 'think of', 'conceive', 'intend', 'reckon', 'guess', 'fancy', 'cogitate', 'ween', 'trow']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=dacht,"verb: think, think of, conceive"
+
+
+58,kunt,"*can*
+verb: can, may, be able
+U kunt mij helpen, You can help me.","U kunt mij helpen, You can help me.",*can*,"[['can', 'may', 'be able']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=kunt,"verb: can, may, be able"
+
+
+59,zoals,"*as*
+adverb: as, such as
+conjunction: as, like, just as
+adjective: such as, like, of same gender
+preposition: like
+""Ik hou van het leven zoals het is,"" which translates to ""I love life as it is.""","""Ik hou van het leven zoals het is,"" which translates to ""I love life as it is.""",*as*,"[['as', 'such as'], ['as', 'like', 'just as', 'so as', 'how'], ['such as', 'like', 'of same gender'], ['like']]",adverb conjunction adjective preposition,adverb conjunction adjective preposition,https://www.linguee.com/english-dutch/search?source=auto&query=zoals,"adverb: as, such as
+conjunction: as, like, just as
+adjective: such as, like, of same gender
+preposition: like"
+
+
+60,vrouw,"*woman*
+noun: woman, wife, female
+De vrouw ging naar de winkel, The woman went to the store.","De vrouw ging naar de winkel, The woman went to the store.",*woman*,"[['woman', 'wife', 'female', 'lady', 'queen', 'missus', 'missis', 'petticoat', 'dona']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=vrouw,"noun: woman, wife, female"
+
+
+61,keer,"*time*
+noun: time, occasion, volution
+Ik heb het al drie keer geprobeerd. - I have tried it three times.",Ik heb het al drie keer geprobeerd. - I have tried it three times.,*time*,"[['time', 'occasion', 'volution', 'about-turn', 'about-face']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=keer,"noun: time, occasion, volution"
+
+
+62,anders,"*otherwise*
+adverb: otherwise, else, other
+adjective: other, unlike, alien
+pronoun: other
+""Het is anders dan ik had verwacht"" - ""It is different than I had expected"".","""Het is anders dan ik had verwacht"" - ""It is different than I had expected"".",*otherwise*,"[['otherwise', 'else', 'other', 'differently', 'or else', 'anew'], ['other', 'unlike', 'alien'], ['other']]",adverb adjective pronoun,adverb adjective pronoun,https://www.linguee.com/english-dutch/search?source=auto&query=anders,"adverb: otherwise, else, other
+adjective: other, unlike, alien
+pronoun: other"
+
+
+63,andere,"*Others*
+adjective: other, another, else
+Andere mensen hebben andere ideeën. - Other people have different ideas.",Andere mensen hebben andere ideeën. - Other people have different ideas.,*Others*,"[['other', 'another', 'else', 'second', 'opposite', 'variant']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=andere,"adjective: other, another, else"
+
+
+64,willen,"*want*
+verb: want, like, will
+Ik wil naar het strand gaan. - I want to go to the beach.",Ik wil naar het strand gaan. - I want to go to the beach.,*want*,"[['want', 'like', 'will', 'mean']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=willen,"verb: want, like, will"
+
+
+65,erg,"*terribly*
+adverb: very, extremely, quite
+noun: erg
+adjective: serious
+Erg moe, I'm very tired.","Erg moe, I'm very tired.",*terribly*,"[['very', 'extremely', 'quite', 'much', 'terribly', 'seriously', 'mightily', 'heartily', 'ever-so'], ['erg'], ['serious']]",adverb noun adjective,adverb noun adjective,https://www.linguee.com/english-dutch/search?source=auto&query=erg,"adverb: very, extremely, quite
+noun: erg
+adjective: serious"
+
+
+66,spijt,"*sorry*
+noun: regret, repentance, compunction
+Ik heb spijt van mijn beslissing. - I regret my decision.",Ik heb spijt van mijn beslissing. - I regret my decision.,*sorry*,"[['regret', 'repentance', 'compunction']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=spijt,"noun: regret, repentance, compunction"
+
+
+67,bedankt,"*Thank you*
+interjection: Thanks!, Thankee!
+Bedankt voor je hulp! - Thank you for your help!",Bedankt voor je hulp! - Thank you for your help!,*Thank you*,"[['Thanks!', 'Thankee!']]",interjection,interjection,https://www.linguee.com/english-dutch/search?source=auto&query=bedankt,"interjection: Thanks!, Thankee!"
+
+
+68,niemand,"*no one*
+noun: nobody, nix
+pronoun: nobody, no one, none
+adjective: none
+Niemand weet wat er gaat gebeuren. - No one knows what is going to happen.",Niemand weet wat er gaat gebeuren. - No one knows what is going to happen.,*no one*,"[['nobody', 'nix'], ['nobody', 'no one', 'none'], ['none']]",noun pronoun adjective,noun pronoun adjective,https://www.linguee.com/english-dutch/search?source=auto&query=niemand,"noun: nobody, nix
+pronoun: nobody, no one, none
+adjective: none"
+
+
+69,wilt,"*want*
+verb: want, like, will
+Wil je mee naar de bioscoop gaan? - Do you want to go to the movies?",Wil je mee naar de bioscoop gaan? - Do you want to go to the movies?,*want*,"[['want', 'like', 'will', 'mean']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=wilt,"verb: want, like, will"
+
+
+70,geld,"*money*
+noun: money, cash, dough
+abbreviation: L.S.D.
+""Hij heeft veel geld verdiend."" - He has earned a lot of money.","""Hij heeft veel geld verdiend."" - He has earned a lot of money.",*money*,"[['money', 'cash', 'dough', 'tin', 'shiners', 'brass', 'pile', 'shekels', 'moolah', 'lollipops', 'lollipop', 'ocher', 'oof', 'pelf', 'stiff', 'gilt', 'gingerbread', 'siller', 'rhino', 'golden key', 'ochre'], ['L.S.D.']]",noun abbreviation,noun abbreviation,https://www.linguee.com/english-dutch/search?source=auto&query=geld,"noun: money, cash, dough
+abbreviation: L.S.D."
+
+
+71,zitten,"*to sit*
+verb: sit, be seated, set
+Ik zit in de klas. - I am sitting in the classroom.",Ik zit in de klas. - I am sitting in the classroom.,*to sit*,"[['sit', 'be seated', 'set']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=zitten,"verb: sit, be seated, set"
+
+
+72,niks,"*nothing*
+pronoun: nothing
+adverb: none
+noun: nix
+Ik heb niks gezegd. - I didn't say anything.",Ik heb niks gezegd. - I didn't say anything.,*nothing*,"[['nothing'], ['none'], ['nix']]",pronoun adverb noun,pronoun adverb noun,https://www.linguee.com/english-dutch/search?source=auto&query=niks,"pronoun: nothing
+adverb: none
+noun: nix"
+
+
+73,iedereen,"*everyone*
+pronoun: everyone, anyone, every
+noun: all the world
+phrase: every mother's son
+Iedereen heeft recht op geluk. - Everyone has a right to happiness.",Iedereen heeft recht op geluk. - Everyone has a right to happiness.,*everyone*,"[['everyone', 'anyone', 'every', 'each'], ['all the world'], [""every mother's son""]]",pronoun noun phrase,pronoun noun phrase,https://www.linguee.com/english-dutch/search?source=auto&query=iedereen,"pronoun: everyone, anyone, every
+noun: all the world
+phrase: every mother's son"
+
+
+74,binnen,"*inside*
+adverb: within, in, inside
+preposition: within, inside, into
+adjective: inlying
+""De kat loopt binnen."" - The cat is walking inside.","""De kat loopt binnen."" - The cat is walking inside.",*inside*,"[['within', 'in', 'inside'], ['within', 'inside', 'into', 'per', 'until'], ['inlying']]",adverb preposition adjective,adverb preposition adjective,https://www.linguee.com/english-dutch/search?source=auto&query=binnen,"adverb: within, in, inside
+preposition: within, inside, into
+adjective: inlying"
+
+
+75,staat,"*stands*
+noun: state, condition, status
+""De staat heeft veel geld geïnvesteerd in de infrastructuur."" - ""The state has invested a lot of money in the infrastructure.""","""De staat heeft veel geld geïnvesteerd in de infrastructuur."" - ""The state has invested a lot of money in the infrastructure.""",*stands*,"[['state', 'condition', 'status', 'estate', 'polity', 'plight', 'posture', 'insolvency', 'fig']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=staat,"noun: state, condition, status"
+
+
+76,wilde,"*wild*
+noun: savage, freelance, extremist
+Ik wilde een ijsje. - I wanted an ice cream.",Ik wilde een ijsje. - I wanted an ice cream.,*wild*,"[['savage', 'freelance', 'extremist']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=wilde,"noun: savage, freelance, extremist"
+
+
+77,zich,"*himself*
+pronoun: himself, itself, themselves
+Zij verzachtte zich. - She softened herself.",Zij verzachtte zich. - She softened herself.,*himself*,"[['himself', 'itself', 'themselves', 'herself', 'them', 'oneself']]",pronoun,pronoun,https://www.linguee.com/english-dutch/search?source=auto&query=zich,"pronoun: himself, itself, themselves"
+
+
+78,beter,"*better*
+adverb: better, superiorly
+adjective: superior
+noun: bettor
+prefix: out-
+'Het kan beter.' - It could be better.",'Het kan beter.' - It could be better.,*better*,"[['better', 'superiorly'], ['superior'], ['bettor'], ['out-']]",adverb adjective noun prefix,adverb adjective noun prefix,https://www.linguee.com/english-dutch/search?source=auto&query=beter,"adverb: better, superiorly
+adjective: superior
+noun: bettor
+prefix: out-"
+
+
+79,werk,"*work*
+noun: work, job, employment
+adjective: ferial
+Ik heb veel werk te doen. - I have a lot of work to do.",Ik heb veel werk te doen. - I have a lot of work to do.,*work*,"[['work', 'job', 'employment', 'labor', 'business', 'employ', 'action', 'doing', 'tow', 'workmanship', 'service', 'pursuits', 'lay', 'graft', 'metier', 'oakum', 'hards', 'labour'], ['ferial']]",noun adjective,noun adjective,https://www.linguee.com/english-dutch/search?source=auto&query=werk,"noun: work, job, employment
+adjective: ferial"
+
+
+80,praten,"*to talk*
+verb: talk, speak, chat
+Ik praat met mijn vrienden. - I am talking to my friends.",Ik praat met mijn vrienden. - I am talking to my friends.,*to talk*,"[['talk', 'speak', 'chat', 'chatter', 'have a talk', 'gab', 'patter', 'discourse']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=praten,"verb: talk, speak, chat"
+
+
+81,gezien,"*seen*
+adjective: respected, dear
+Ik heb gezien dat het regende. - I have seen that it was raining.",Ik heb gezien dat het regende. - I have seen that it was raining.,*seen*,"[['respected', 'dear']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=gezien,"adjective: respected, dear"
+
+
+82,zullen,"*shall*
+verb: will, shall
+Wij zullen morgen naar het strand gaan. - We will go to the beach tomorrow.",Wij zullen morgen naar het strand gaan. - We will go to the beach tomorrow.,*shall*,"[['will', 'shall']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=zullen,"verb: will, shall"
+
+
+83,waren,"*goods*
+noun: vendibles, goods and chattels
+""Ze waren verrast door de veranderingen."" - They were surprised by the changes.","""Ze waren verrast door de veranderingen."" - They were surprised by the changes.",*goods*,"[['vendibles', 'goods and chattels']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=waren,"noun: vendibles, goods and chattels"
+
+
+84,god,"*God*
+noun: god
+God zij dank! - Thank God!",God zij dank! - Thank God!,*God*,[['god']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=god,noun: god
+
+
+85,maak,"*make*
+noun: making
+Ik maak een kop thee. - I am making a cup of tea.",Ik maak een kop thee. - I am making a cup of tea.,*make*,[['making']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=maak,noun: making
+
+
+86,neem,"*take*
+verb: take, reach, seize
+Neem alsjeblieft even de tijd om het te lezen. - Please take the time to read it.",Neem alsjeblieft even de tijd om het te lezen. - Please take the time to read it.,*take*,"[['take', 'reach', 'seize', 'understand']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=neem,"verb: take, reach, seize"
+
+
+87,vinden,"*find*
+verb: find, think of, hit upon
+Ik vind het leuk. - I like it.",Ik vind het leuk. - I like it.,*find*,"[['find', 'think of', 'hit upon', 'contrive', 'open up']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=vinden,"verb: find, think of, hit upon"
+
+
+88,vind,"*find*
+verb: find, think of, hit upon
+Ik vind het leuk om met je te praten. - I enjoy talking to you.",Ik vind het leuk om met je te praten. - I enjoy talking to you.,*find*,"[['find', 'think of', 'hit upon', 'contrive', 'open up']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=vind,"verb: find, think of, hit upon"
+
+
+89,moeder,"*mother*
+noun: mother, parent, mam
+Mijn moeder is mijn beste vriendin. - My mother is my best friend.",Mijn moeder is mijn beste vriendin. - My mother is my best friend.,*mother*,"[['mother', 'parent', 'mam', 'mammy']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=moeder,"noun: mother, parent, mam"
+
+
+90,kon,"*could*
+verb: could
+Ik kon niet slapen. - I couldn't sleep.",Ik kon niet slapen. - I couldn't sleep.,*could*,[['could']],verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=kon,verb: could
+
+
+91,uur,"*o'clock*
+noun: hour
+Het is twee uur 'It is two o'clock.",Het is twee uur 'It is two o'clock.,*o'clock*,[['hour']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=uur,noun: hour
+
+
+92,klaar,"*finished*
+adjective: ready, finished, done
+adverb: clear, clearly, pat
+noun: clear
+Ik ben klaar. - I'm done.",Ik ben klaar. - I'm done.,*finished*,"[['ready', 'finished', 'done', 'clear', 'obvious', 'over', 'plain', 'bright', 'lucid', 'serene', 'pat', 'light', 'perspicuous', 'fabricated', 'distinct', 'fair'], ['clear', 'clearly', 'pat', 'perspicuously'], ['clear']]",adjective adverb noun,adjective adverb noun,https://www.linguee.com/english-dutch/search?source=auto&query=klaar,"adjective: ready, finished, done
+adverb: clear, clearly, pat
+noun: clear"
+
+
+93,genoeg,"*enough*
+adjective: enough, sufficient
+adverb: enough, sufficiently, satis
+Genoeg is genoeg. Enough is enough.",Genoeg is genoeg. Enough is enough.,*enough*,"[['enough', 'sufficient'], ['enough', 'sufficiently', 'satis']]",adjective adverb,adjective adverb,https://www.linguee.com/english-dutch/search?source=auto&query=genoeg,"adjective: enough, sufficient
+adverb: enough, sufficiently, satis"
+
+
+94,helpen,"*to help*
+verb: help, assist, aid
+phrase: lend a hand, give a leg, give a leg up
+Ik kan je helpen. - I can help you.",Ik kan je helpen. - I can help you.,*to help*,"[['help', 'assist', 'aid', 'contribute', 'serve', 'avail', 'relieve', 'profit', 'befriend', 'play up to', 'be of use', 'second', 'give a hoist'], ['lend a hand', 'give a leg', 'give a leg up']]",verb phrase,verb phrase,https://www.linguee.com/english-dutch/search?source=auto&query=helpen,"verb: help, assist, aid
+phrase: lend a hand, give a leg, give a leg up"
+
+
+95,oh,"*Oh*
+interjection: Oh!, Ah!, Ow!
+Oh, wat een mooi huis! - Oh, what a beautiful house!","Oh, wat een mooi huis! - Oh, what a beautiful house!",*Oh*,"[['Oh!', 'Ah!', 'Ow!', 'Aha!']]",interjection,interjection,https://www.linguee.com/english-dutch/search?source=auto&query=oh,"interjection: Oh!, Ah!, Ow!"
+
+
+96,hele,"*whole*
+adjective: very, whole, all
+Hij heeft de hele dag gewerkt. - He has worked the whole day.",Hij heeft de hele dag gewerkt. - He has worked the whole day.,*whole*,"[['very', 'whole', 'all', 'entire']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=hele,"adjective: very, whole, all"
+
+
+97,drie,"*three*
+: three
+noun: trey
+Mijn broer heeft drie katten - My brother has three cats.",Mijn broer heeft drie katten - My brother has three cats.,*three*,"[['three'], ['trey']]", noun, noun,https://www.linguee.com/english-dutch/search?source=auto&query=drie,": three
+noun: trey"
+
+
+98,vast,"*fixed*
+adjective: fixed, solid, set
+adverb: firmly, firm, fixedly
+De kat zat vast in de kast - The cat was stuck in the cupboard.",De kat zat vast in de kast - The cat was stuck in the cupboard.,*fixed*,"[['fixed', 'solid', 'set', 'secure', 'permanent', 'firm', 'certain', 'fast', 'sure', 'steady', 'stable', 'settled', 'constant', 'stated', 'immovable', 'compact', 'determinate', 'concrete', 'perpetual', 'real', 'wakeless', 'reliant', 'stock', 'hard-and-fast', 'hard-shell', 'strong-willed', 'all-out'], ['firmly', 'firm', 'fixedly', 'securely', 'sure', 'certainly', 'tightly', 'steadily', 'determinately', 'home']]",adjective adverb,adjective adverb,https://www.linguee.com/english-dutch/search?source=auto&query=vast,"adjective: fixed, solid, set
+adverb: firmly, firm, fixedly"
+
+
+99,na,"*after*
+preposition: after, on, behind
+adverb: post
+Na het eten gingen we naar huis. - After eating, we went home.","Na het eten gingen we naar huis. - After eating, we went home.",*after*,"[['after', 'on', 'behind', 'past'], ['post']]",preposition adverb,preposition adverb,https://www.linguee.com/english-dutch/search?source=auto&query=na,"preposition: after, on, behind
+adverb: post"
+
+

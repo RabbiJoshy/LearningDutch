@@ -1,0 +1,565 @@
+,Dutch,Quizlet,Sentence,English,Alternatives,P-O-S,Quizlet P-O-S,MoreInfo,Quizlet Alternatives
+
+
+0,hen,"*them*
+pronoun: them
+noun: hen
+""Hen zijn hier al een paar dagen."" - They have been here for a few days.","""Hen zijn hier al een paar dagen."" - They have been here for a few days.",*them*,"[['them'], ['hen']]",pronoun noun,pronoun noun,https://www.linguee.com/english-dutch/search?source=auto&query=hen,"pronoun: them
+noun: hen"
+
+
+1,stop,"*Stop*
+noun: plug, stopper, cork
+verb: fuse
+Stop alsjeblieft! Please stop!",Stop alsjeblieft! Please stop!,*Stop*,"[['plug', 'stopper', 'cork', 'stopple', 'plug fitting', 'faucet', 'tampion'], ['fuse']]",noun verb,noun verb,https://www.linguee.com/english-dutch/search?source=auto&query=stop,"noun: plug, stopper, cork
+verb: fuse"
+
+
+2,eigen,"*own*
+adjective: own, specific, proper
+pronoun: one's own
+Mijn eigen stijl is uniek. - My own style is unique.",Mijn eigen stijl is uniek. - My own style is unique.,*own*,"[['own', 'specific', 'proper', 'particular', 'peculiar', 'inborn', 'several', 'appropriate'], [""one's own""]]",adjective pronoun,adjective pronoun,https://www.linguee.com/english-dutch/search?source=auto&query=eigen,"adjective: own, specific, proper
+pronoun: one's own"
+
+
+3,kleine,"*little*
+adjective: small, little, short
+""Hij heeft een kleine auto."" - He has a small car.","""Hij heeft een kleine auto."" - He has a small car.",*little*,"[['small', 'little', 'short', 'petty', 'young', 'wee', 'narrow', 'miniature', 'mini', 'diminutive', 'minuscule', 'teeny', 'puny', 'bijou', 'minikin', 'potty', 'pimping', 'scrubby', 'elfish', 'elvish', 'cheap', 'pint-size', 'pint-sized']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=kleine,"adjective: small, little, short"
+
+
+4,hoop,"*heap*
+noun: hope, lot, heap
+Ik hoop dat ik slaag voor mijn examen. - I hope that I pass my exam.",Ik hoop dat ik slaag voor mijn examen. - I hope that I pass my exam.,*heap*,"[['hope', 'lot', 'heap', 'pile', 'trust', 'multitude', 'mass', 'hopefulness', 'crowd', 'troop', 'lump', 'clamp', 'accumulation', 'peck', 'world', 'bevy', 'huddle', 'sight', 'shoal', 'hoard', 'drove', 'hillock', 'reposal', 'collection']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=hoop,"noun: hope, lot, heap"
+
+
+5,wou,"*wish*
+verb: want, like, will
+Ik wou dat ik meer tijd had. - I wish I had more time.",Ik wou dat ik meer tijd had. - I wish I had more time.,*wish*,"[['want', 'like', 'will', 'mean']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=wou,"verb: want, like, will"
+
+
+6,vermoord,"*murdered*
+verb: murder, assassinate, slay
+Hij vermoordde de vijand, He murdered the enemy.","Hij vermoordde de vijand, He murdered the enemy.",*murdered*,"[['murder', 'assassinate', 'slay', 'slaughter', 'massacre']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=vermoord,"verb: murder, assassinate, slay"
+
+
+7,elke,"*each  *
+pronoun: each, any, everyone
+Elke dag ga ik naar school. - I go to school every day.",Elke dag ga ik naar school. - I go to school every day.,*each  *,"[['each', 'any', 'everyone']]",pronoun,pronoun,https://www.linguee.com/english-dutch/search?source=auto&query=elke,"pronoun: each, any, everyone"
+
+
+8,krijg,"*get*
+noun: war, warfare, arms
+Ik krijg een cadeau. - I'm getting a present.",Ik krijg een cadeau. - I'm getting a present.,*get*,"[['war', 'warfare', 'arms']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=krijg,"noun: war, warfare, arms"
+
+
+9,horen,"*to belong*
+verb: hear, belong, learn
+auxiliary verb: should
+Ik hoor de klok luiden. - I hear the bell ringing.",Ik hoor de klok luiden. - I hear the bell ringing.,*to belong*,"[['hear', 'belong', 'learn', 'hearken', 'must', 'harken', 'befit'], ['should']]",verb auxiliary verb,verb auxiliary verb,https://www.linguee.com/english-dutch/search?source=auto&query=horen,"verb: hear, belong, learn
+auxiliary verb: should"
+
+
+10,gelijk,"*directly*
+adjective: equal, similar, like
+noun: equal
+adverb: as, alike, equally
+Ik heb gelijk gekregen. - I have been proven right.",Ik heb gelijk gekregen. - I have been proven right.,*directly*,"[['equal', 'similar', 'like', 'identical', 'alike', 'even', 'flush', 'smooth', 'peer', 'identic'], ['equal'], ['as', 'alike', 'equally', 'similarly', 'smooth', 'on all fours', 'fifty-fifty']]",adjective noun adverb,adjective noun adverb,https://www.linguee.com/english-dutch/search?source=auto&query=gelijk,"adjective: equal, similar, like
+noun: equal
+adverb: as, alike, equally"
+
+
+11,bijna,"*almost*
+adverb: almost, nearly, near
+phrase: within an inch
+Bijna ben ik klaar met mijn huiswerk. - Almost I am finished with my homework.",Bijna ben ik klaar met mijn huiswerk. - Almost I am finished with my homework.,*almost*,"[['almost', 'nearly', 'near', 'practically', 'all but', 'hardly ever', 'well-nigh'], ['within an inch']]",adverb phrase,adverb phrase,https://www.linguee.com/english-dutch/search?source=auto&query=bijna,"adverb: almost, nearly, near
+phrase: within an inch"
+
+
+12,zouden,"*would*
+verb: will, shall
+Wij zouden het graag willen weten. - We would like to know.",Wij zouden het graag willen weten. - We would like to know.,*would*,"[['will', 'shall']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=zouden,"verb: will, shall"
+
+
+13,open,"*Open*
+adjective: open, clear, overt
+adverb: overtly, aboveboard
+Ik heb mijn deur opengezet. - I opened my door.",Ik heb mijn deur opengezet. - I opened my door.,*Open*,"[['open', 'clear', 'overt', 'unoccupied', 'unfortified', 'open-ended', 'free-for-all'], ['overtly', 'aboveboard']]",adjective adverb,adjective adverb,https://www.linguee.com/english-dutch/search?source=auto&query=open,"adjective: open, clear, overt
+adverb: overtly, aboveboard"
+
+
+14,orde,"*order*
+noun: order, discipline, orderliness
+De orde moet worden hersteld. - The order must be restored.",De orde moet worden hersteld. - The order must be restored.,*order*,"[['order', 'discipline', 'orderliness', 'class', 'method', 'decorations']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=orde,"noun: order, discipline, orderliness"
+
+
+15,begrijp,"*understand*
+noun: prehension
+""Ik begrijp het niet."" - ""I don't understand it.""","""Ik begrijp het niet."" - ""I don't understand it.""",*understand*,[['prehension']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=begrijp,noun: prehension
+
+
+16,hoofd,"*head*
+noun: head, principal, chief
+Mijn hoofd doet pijn. - My head hurts.",Mijn hoofd doet pijn. - My head hurts.,*head*,"[['head', 'principal', 'chief', 'top', 'heading', 'leader', 'header', 'poll', 'pate', 'nut', 'mistress', 'onion', 'manageress', 'householder', 'superscription', 'hegemony', 'noddle', 'nob']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=hoofd,"noun: head, principal, chief"
+
+
+17,gebeurt,"*happens*
+verb: happen, be, occur
+Er gebeurt veel in de wereld. - A lot is happening in the world.",Er gebeurt veel in de wereld. - A lot is happening in the world.,*happens*,"[['happen', 'be', 'occur', 'take place', 'come about', 'befall', 'hap', 'grow', 'fortune']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=gebeurt,"verb: happen, be, occur"
+
+
+18,kant,"*side*
+noun: side, lace, edge
+""Hij stond aan de kant van de weg."" - He was standing by the side of the road.","""Hij stond aan de kant van de weg."" - He was standing by the side of the road.",*side*,"[['side', 'lace', 'edge', 'way', 'aspect', 'border', 'margin', 'skirting', 'brink', 'lacing', 'hem', 'brim', 'tatting']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=kant,"noun: side, lace, edge"
+
+
+19,vrienden,"*friends*
+noun: kith
+Mijn vrienden en ik gaan naar de bioscoop. - My friends and I are going to the movies.",Mijn vrienden en ik gaan naar de bioscoop. - My friends and I are going to the movies.,*friends*,[['kith']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=vrienden,noun: kith
+
+
+20,houdt,"*holds*
+verb: keep, hold, retain
+Houdt je vast aan je doelen! - Hold on to your goals!",Houdt je vast aan je doelen! - Hold on to your goals!,*holds*,"[['keep', 'hold', 'retain', 'have', 'handle']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=houdt,"verb: keep, hold, retain"
+
+
+21,eigenlijk,"*actually*
+adverb: indeed, by rights
+adjective: proper
+Eigenlijk wil ik naar het strand gaan. - Actually, I want to go to the beach.","Eigenlijk wil ik naar het strand gaan. - Actually, I want to go to the beach.",*actually*,"[['indeed', 'by rights'], ['proper']]",adverb adjective,adverb adjective,https://www.linguee.com/english-dutch/search?source=auto&query=eigenlijk,"adverb: indeed, by rights
+adjective: proper"
+
+
+22,alsof,"*as if*
+conjunction: like, as if, as though
+adverb: as
+""Het was alsof ik een droom had."" - It was as if I had a dream.","""Het was alsof ik een droom had."" - It was as if I had a dream.",*as if*,"[['like', 'as if', 'as though'], ['as']]",conjunction adverb,conjunction adverb,https://www.linguee.com/english-dutch/search?source=auto&query=alsof,"conjunction: like, as if, as though
+adverb: as"
+
+
+23,pak,"*business suit*
+noun: suit, pack, business suit
+Hij pakte de bal. - He grabbed the ball.",Hij pakte de bal. - He grabbed the ball.,*business suit*,"[['suit', 'pack', 'business suit', 'package', 'bundle', 'parcel', 'burden', 'jar', 'bastinado', 'drubbing']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=pak,"noun: suit, pack, business suit"
+
+
+24,geeft,"*gives*
+verb: give, deliver, impart
+Hij geeft mij een cadeau - He is giving me a present.",Hij geeft mij een cadeau - He is giving me a present.,*gives*,"[['give', 'deliver', 'impart', 'lend', 'render', 'afford', 'deal']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=geeft,"verb: give, deliver, impart"
+
+
+25,politie,"*Police*
+noun: police, police force, law
+De politie komt om de situatie te onderzoeken. - The police are coming to investigate the situation.",De politie komt om de situatie te onderzoeken. - The police are coming to investigate the situation.,*Police*,"[['police', 'police force', 'law']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=politie,"noun: police, police force, law"
+
+
+26,precies,"*precisely*
+adverb: exactly, just, precisely
+adjective: exact, precise, correct
+Precies op tijd kwam hij aan. - He arrived precisely on time.",Precies op tijd kwam hij aan. - He arrived precisely on time.,*precisely*,"[['exactly', 'just', 'precisely', 'precise', 'plumb', 'prompt', 'quite so', 'literatim'], ['exact', 'precise', 'correct', 'well-directed']]",adverb adjective,adverb adjective,https://www.linguee.com/english-dutch/search?source=auto&query=precies,"adverb: exactly, just, precisely
+adjective: exact, precise, correct"
+
+
+27,wachten,"*to wait*
+verb: wait, await, expect
+Ik wacht op je antwoord. - I'm waiting for your answer.",Ik wacht op je antwoord. - I'm waiting for your answer.,*to wait*,"[['wait', 'await', 'expect']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=wachten,"verb: wait, await, expect"
+
+
+28,familie,"*family*
+noun: family, kin, tribe
+Mijn familie is heel belangrijk voor mij. - My family is very important to me.",Mijn familie is heel belangrijk voor mij. - My family is very important to me.,*family*,"[['family', 'kin', 'tribe', 'line', 'kith']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=familie,"noun: family, kin, tribe"
+
+
+29,verder,"*further*
+adjective: further, farther, additional
+adverb: further, more, on
+Verder heb ik nog geen plannen gemaakt. - Further, I haven't made any plans yet.","Verder heb ik nog geen plannen gemaakt. - Further, I haven't made any plans yet.",*further*,"[['further', 'farther', 'additional', 'remaining', 'off', 'ulterior'], ['further', 'more', 'on', 'beyond', 'farther', 'furthermore', 'otherwise', 'then', 'again', 'moreover']]",adjective adverb,adjective adverb,https://www.linguee.com/english-dutch/search?source=auto&query=verder,"adjective: further, farther, additional
+adverb: further, more, on"
+
+
+30,zat,"*fed up*
+adjective: drunk, intoxicated, satiate
+Ik zat in de trein. - I was sitting on the train.",Ik zat in de trein. - I was sitting on the train.,*fed up*,"[['drunk', 'intoxicated', 'satiate']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=zat,"adjective: drunk, intoxicated, satiate"
+
+
+31,soms,"*sometimes*
+adverb: sometimes, sometime, now and then
+Soms heb ik zin in een ijsje. - Sometimes I feel like having an ice cream.",Soms heb ik zin in een ijsje. - Sometimes I feel like having an ice cream.,*sometimes*,"[['sometimes', 'sometime', 'now and then', 'at all']]",adverb,adverb,https://www.linguee.com/english-dutch/search?source=auto&query=soms,"adverb: sometimes, sometime, now and then"
+
+
+32,werken,"*to work*
+verb: work, operate, function
+noun: works
+Ik werk in een kantoor. - I work in an office.",Ik werk in een kantoor. - I work in an office.,*to work*,"[['work', 'operate', 'function', 'act', 'labor', 'play', 'ply', 'functionate', 'ferment', 'labour'], ['works']]",verb noun,verb noun,https://www.linguee.com/english-dutch/search?source=auto&query=werken,"verb: work, operate, function
+noun: works"
+
+
+33,bel,"*bell*
+noun: bubble, bell
+Bel me als je vragen hebt. - Call me if you have any questions.",Bel me als je vragen hebt. - Call me if you have any questions.,*bell*,"[['bubble', 'bell']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=bel,"noun: bubble, bell"
+
+
+34,voel,"*feel*
+verb: feel, sense, emote
+Ik voel me goed. - I feel good.",Ik voel me goed. - I feel good.,*feel*,"[['feel', 'sense', 'emote', 'grope', 'sensate', 'fumble up', 'poke']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=voel,"verb: feel, sense, emote"
+
+
+35,kind,"*child*
+noun: child, kid, baby
+Mijn kind heeft een nieuwe fiets gekregen. - My child has received a new bike.",Mijn kind heeft een nieuwe fiets gekregen. - My child has received a new bike.,*child*,"[['child', 'kid', 'baby', 'infant', 'brat', 'bairn', 'tad']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=kind,"noun: child, kid, baby"
+
+
+36,probeer,"*try*
+verb: try, attempt, endeavor
+Probeer een nieuwe taal te leren.
+Try to learn a new language.","Probeer een nieuwe taal te leren.
+Try to learn a new language.",*try*,"[['try', 'attempt', 'endeavor', 'test', 'sample', 'give it a try', 'prove', 'endeavour']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=probeer,"verb: try, attempt, endeavor"
+
+
+37,ding,"*thing*
+noun: thing, object, matter
+""Het is een raar ding."" - It is a strange thing.","""Het is een raar ding."" - It is a strange thing.",*thing*,"[['thing', 'object', 'matter', 'affair', 'case', 'business', 'proposition']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=ding,"noun: thing, object, matter"
+
+
+38,minuten,"*minutes*
+noun: minute
+Ik heb twintig minuten geleden gegeten. - I ate twenty minutes ago.",Ik heb twintig minuten geleden gegeten. - I ate twenty minutes ago.,*minutes*,[['minute']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=minuten,noun: minute
+
+
+39,krijgt,"*gets*
+verb: get, receive, have
+Ze krijgt een cadeau van haar ouders. - She is getting a gift from her parents.",Ze krijgt een cadeau van haar ouders. - She is getting a gift from her parents.,*gets*,"[['get', 'receive', 'have', 'gain', 'take', 'pick up']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=krijgt,"verb: get, receive, have"
+
+
+40,zet,"*sets*
+noun: move, stroke, score
+Ik zet mijn schoenen aan. - I put on my shoes.",Ik zet mijn schoenen aan. - I put on my shoes.,*sets*,"[['move', 'stroke', 'score']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=zet,"noun: move, stroke, score"
+
+
+41,vijf,"*five*
+noun: five, pentad
+: five
+""Vijf mensen kwamen op het feest."" - Five people came to the party.","""Vijf mensen kwamen op het feest."" - Five people came to the party.",*five*,"[['five', 'pentad'], ['five']]",noun ,noun ,https://www.linguee.com/english-dutch/search?source=auto&query=vijf,"noun: five, pentad
+: five"
+
+
+42,gehad,"*had*
+verb: have, possess, own
+Ik heb gehad een geweldige dag. - I've had a great day.",Ik heb gehad een geweldige dag. - I've had a great day.,*had*,"[['have', 'possess', 'own']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=gehad,"verb: have, possess, own"
+
+
+43,haal,"*get*
+noun: pull, stroke, haul
+Ik haal het boek van de plank. - I'm taking the book off the shelf.",Ik haal het boek van de plank. - I'm taking the book off the shelf.,*get*,"[['pull', 'stroke', 'haul', 'tug', 'dash', 'trait', 'streak']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=haal,"noun: pull, stroke, haul"
+
+
+44,gemaakt,"*made*
+adjective: artificial, forced, minikin
+De taart is gemaakt. - The cake is made.",De taart is gemaakt. - The cake is made.,*made*,"[['artificial', 'forced', 'minikin', 'prissy', 'ready-made', 'reach-me-down', 'far-fetched', 'pretty-pretty', 'namby-pamby']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=gemaakt,"adjective: artificial, forced, minikin"
+
+
+45,hè,"*Hey*
+interjection: Hey!, He!, Eh!
+Hè, wat een verrassing! - Wow, what a surprise!","Hè, wat een verrassing! - Wow, what a surprise!",*Hey*,"[['Hey!', 'He!', 'Eh!', 'Phew!', 'Holloa!', 'Hollo!', 'Ha!', 'Oh!']]",interjection,interjection,https://www.linguee.com/english-dutch/search?source=auto&query=hè,"interjection: Hey!, He!, Eh!"
+
+
+46,manier,"*way*
+noun: way, manner, fashion
+De manier waarop hij het deed, was verrassend. - The way he did it was surprising.","De manier waarop hij het deed, was verrassend. - The way he did it was surprising.",*way*,"[['way', 'manner', 'fashion', 'how', 'mode', 'modus']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=manier,"noun: way, manner, fashion"
+
+
+47,dagen,"*to dawn*
+verb: dawn, summon
+Ik heb de laatste dagen veel gereisd. - I have been travelling a lot these last days.",Ik heb de laatste dagen veel gereisd. - I have been travelling a lot these last days.,*to dawn*,"[['dawn', 'summon']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=dagen,"verb: dawn, summon"
+
+
+48,zoek,"*search*
+adjective: lost, mislaid
+Ik zoek een boek - I'm looking for a book.",Ik zoek een boek - I'm looking for a book.,*search*,"[['lost', 'mislaid']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=zoek,"adjective: lost, mislaid"
+
+
+49,heet,"*is called*
+adjective: hot, warm, spicy
+adverb: fervidly
+Het heet 'Good Morning' in het Engels. = It's called 'Good Morning' in English.",Het heet 'Good Morning' in het Engels. = It's called 'Good Morning' in English.,*is called*,"[['hot', 'warm', 'spicy', 'scalding', 'torrid', 'searing', 'fervid', 'thermic', 'hot-blooded'], ['fervidly']]",adjective adverb,adjective adverb,https://www.linguee.com/english-dutch/search?source=auto&query=heet,"adjective: hot, warm, spicy
+adverb: fervidly"
+
+
+50,volgende,"*next one*
+adjective: next, following, subsequent
+De volgende dag gingen we naar de stad. - The next day we went to the city.",De volgende dag gingen we naar de stad. - The next day we went to the city.,*next one*,"[['next', 'following', 'subsequent', 'after', 'ensuing', 'sequent', 'supervenient']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=volgende,"adjective: next, following, subsequent"
+
+
+51,daarom,"*therefore*
+conjunction: therefore, that is why, wherefore
+adverb: hence, wherefore
+Daarom kiezen we ervoor om deze route te nemen. - Therefore, we choose to take this route.","Daarom kiezen we ervoor om deze route te nemen. - Therefore, we choose to take this route.",*therefore*,"[['therefore', 'that is why', 'wherefore'], ['hence', 'wherefore']]",conjunction adverb,conjunction adverb,https://www.linguee.com/english-dutch/search?source=auto&query=daarom,"conjunction: therefore, that is why, wherefore
+adverb: hence, wherefore"
+
+
+52,gehoord,"*heard*
+verb: hear, belong, learn
+Ik heb gehoord dat je verhuisd bent. - I heard that you moved.",Ik heb gehoord dat je verhuisd bent. - I heard that you moved.,*heard*,"[['hear', 'belong', 'learn', 'hearken', 'must', 'harken', 'befit']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=gehoord,"verb: hear, belong, learn"
+
+
+53,pas,"*pass*
+adverb: only
+noun: pass, pas, step
+conjunction: if only
+Ik ben pas gisteravond thuisgekomen. - I only came home last night.",Ik ben pas gisteravond thuisgekomen. - I only came home last night.,*pass*,"[['only'], ['pass', 'pas', 'step', 'pace', 'passport', 'gait', 'let-pass'], ['if only']]",adverb noun conjunction,adverb noun conjunction,https://www.linguee.com/english-dutch/search?source=auto&query=pas,"adverb: only
+noun: pass, pas, step
+conjunction: if only"
+
+
+54,werkt,"*works*
+verb: work, operate, function
+Het werkt goed. - It works well.",Het werkt goed. - It works well.,*works*,"[['work', 'operate', 'function', 'act', 'labor', 'play', 'ply', 'functionate', 'ferment', 'labour']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=werkt,"verb: work, operate, function"
+
+
+55,vanavond,"*this evening*
+adverb: tonight
+Vanavond gaan we naar de film. - Tonight we are going to the movies.",Vanavond gaan we naar de film. - Tonight we are going to the movies.,*this evening*,[['tonight']],adverb,adverb,https://www.linguee.com/english-dutch/search?source=auto&query=vanavond,adverb: tonight
+
+
+56,volgens,"*according to*
+adverb: according to, by agreement
+preposition: according to, by, under
+adjective: accordant
+Volgens mij gaat het regenen. - According to me, it is going to rain.","Volgens mij gaat het regenen. - According to me, it is going to rain.",*according to*,"[['according to', 'by agreement'], ['according to', 'by', 'under', 'in', 'after'], ['accordant']]",adverb preposition adjective,adverb preposition adjective,https://www.linguee.com/english-dutch/search?source=auto&query=volgens,"adverb: according to, by agreement
+preposition: according to, by, under
+adjective: accordant"
+
+
+57,best,"*best*
+adjective: best, optimum, high
+adverb: best
+""Het beste is om het rustig aan te doen."" - The best thing is to take it easy.","""Het beste is om het rustig aan te doen."" - The best thing is to take it easy.",*best*,"[['best', 'optimum', 'high'], ['best']]",adjective adverb,adjective adverb,https://www.linguee.com/english-dutch/search?source=auto&query=best,"adjective: best, optimum, high
+adverb: best"
+
+
+58,pijn,"*pain*
+noun: pain, hurt, pine
+Ik heb veel pijn in mijn rug. - I have a lot of pain in my back.",Ik heb veel pijn in mijn rug. - I have a lot of pain in my back.,*pain*,"[['pain', 'hurt', 'pine', 'ache', 'smart']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=pijn,"noun: pain, hurt, pine"
+
+
+59,kans,"*opportunity*
+noun: chance, opportunity, hazard
+De kans is klein dat het gaat gebeuren. - The chance is small that it will happen.",De kans is klein dat het gaat gebeuren. - The chance is small that it will happen.,*opportunity*,"[['chance', 'opportunity', 'hazard', 'life', 'opening']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=kans,"noun: chance, opportunity, hazard"
+
+
+60,eruit,"*out*
+adverb: out, outward
+Eruit halen wat erin zit - To get out what is inside",Eruit halen wat erin zit - To get out what is inside,*out*,"[['out', 'outward']]",adverb,adverb,https://www.linguee.com/english-dutch/search?source=auto&query=eruit,"adverb: out, outward"
+
+
+61,help,"*Help*
+interjection: Help!
+Help alsjeblieft! - Please help!",Help alsjeblieft! - Please help!,*Help*,[['Help!']],interjection,interjection,https://www.linguee.com/english-dutch/search?source=auto&query=help,interjection: Help!
+
+
+62,plaats,"*place*
+noun: place, location, site
+De plaats van de vergadering was in het park. - The place of the meeting was in the park.",De plaats van de vergadering was in het park. - The place of the meeting was in the park.,*place*,"[['place', 'location', 'site', 'town', 'space', 'village', 'spot', 'locality', 'stead', 'venue', 'lieu', 'situation', 'vacancy', 'courtyard']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=plaats,"noun: place, location, site"
+
+
+63,hoeveel,"*how many*
+adverb: how much, how many
+conjunction: what, whilst, while
+Hoeveel kost het? - How much does it cost?",Hoeveel kost het? - How much does it cost?,*how many*,"[['how much', 'how many'], ['what', 'whilst', 'while']]",adverb conjunction,adverb conjunction,https://www.linguee.com/english-dutch/search?source=auto&query=hoeveel,"adverb: how much, how many
+conjunction: what, whilst, while"
+
+
+64,vroeg,"*early*
+adjective: early
+adverb: early, soon, in waking hours
+Ik ben vroeg thuis gekomen. - I came home early.",Ik ben vroeg thuis gekomen. - I came home early.,*early*,"[['early'], ['early', 'soon', 'in waking hours']]",adjective adverb,adjective adverb,https://www.linguee.com/english-dutch/search?source=auto&query=vroeg,"adjective: early
+adverb: early, soon, in waking hours"
+
+
+65,oude,"*old*
+noun: ancient
+De oude man wandelde langzaam. - The old man walked slowly.",De oude man wandelde langzaam. - The old man walked slowly.,*old*,[['ancient']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=oude,noun: ancient
+
+
+66,stad,"*city*
+noun: city, town, borough
+De stad is erg druk vandaag. - The city is very busy today.",De stad is erg druk vandaag. - The city is very busy today.,*city*,"[['city', 'town', 'borough', 'burg']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=stad,"noun: city, town, borough"
+
+
+67,zoeken,"*to search*
+verb: search, seek, quest
+Ik zoek naar mijn huis sleutel. - I am searching for my house key.",Ik zoek naar mijn huis sleutel. - I am searching for my house key.,*to search*,"[['search', 'seek', 'quest', 'hunt', 'fossick', 'rake', 'court']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=zoeken,"verb: search, seek, quest"
+
+
+68,ogen,"*eyes*
+noun: lights, lamps
+Ik heb mooie blauwe ogen. - I have beautiful blue eyes.",Ik heb mooie blauwe ogen. - I have beautiful blue eyes.,*eyes*,"[['lights', 'lamps']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=ogen,"noun: lights, lamps"
+
+
+69,jezelf,"*yourself*
+pronoun: yourself
+Jezelf verzorgen is belangrijk. - Taking care of yourself is important.",Jezelf verzorgen is belangrijk. - Taking care of yourself is important.,*yourself*,[['yourself']],pronoun,pronoun,https://www.linguee.com/english-dutch/search?source=auto&query=jezelf,pronoun: yourself
+
+
+70,geloven,"*to believe*
+verb: believe, think, trust
+Ik geloof dat het waar is. - I believe that it is true.",Ik geloof dat het waar is. - I believe that it is true.,*to believe*,"[['believe', 'think', 'trust', 'credit', 'deem', 'opine', 'fancy', 'guess', 'reckon']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=geloven,"verb: believe, think, trust"
+
+
+71,moment,"*moment*
+noun: moment, instant, momentum
+""Het is een kort moment geweest"" - It has been a short moment.","""Het is een kort moment geweest"" - It has been a short moment.",*moment*,"[['moment', 'instant', 'momentum']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=moment,"noun: moment, instant, momentum"
+
+
+72,kamer,"*room*
+noun: room, chamber, den
+De kamer was klein, maar gezellig. - The room was small, but cozy.","De kamer was klein, maar gezellig. - The room was small, but cozy.",*room*,"[['room', 'chamber', 'den', 'lair', 'camera', 'dig']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=kamer,"noun: room, chamber, den"
+
+
+73,schiet,"*shoot*
+verb: shoot, fire, gun
+Ik schiet de bal in het doel. - I shoot the ball into the goal.",Ik schiet de bal in het doel. - I shoot the ball into the goal.,*shoot*,"[['shoot', 'fire', 'gun', 'dart', 'pop', 'cannon', 'shed', 'let fly', 'pot', 'send']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=schiet,"verb: shoot, fire, gun"
+
+
+74,vier,"*four*
+noun: four, gauds, four-oar
+Ik heb vier boeken gekocht. - I bought four books.",Ik heb vier boeken gekocht. - I bought four books.,*four*,"[['four', 'gauds', 'four-oar']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=vier,"noun: four, gauds, four-oar"
+
+
+75,vindt,"*finds*
+verb: find, think of, hit upon
+Ik vindt het leuk. - I like it.",Ik vindt het leuk. - I like it.,*finds*,"[['find', 'think of', 'hit upon', 'contrive', 'open up']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=vindt,"verb: find, think of, hit upon"
+
+
+76,word,"*become*
+verb: be, become, get
+Deze zin heeft het woord 'word' erin. - This sentence has the word 'word' in it.",Deze zin heeft het woord 'word' erin. - This sentence has the word 'word' in it.,*become*,"[['be', 'become', 'get', 'take', 'grow', 'come', 'force upon', 'flake off', 'go']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=word,"verb: be, become, get"
+
+
+77,agent,"*agent*
+noun: agent, policeman, broker
+De agent hielp de oudere man. - The agent helped the elderly man.",De agent hielp de oudere man. - The agent helped the elderly man.,*agent*,"[['agent', 'policeman', 'broker', 'factor', 'emissary']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=agent,"noun: agent, policeman, broker"
+
+
+78,slecht,"*bad*
+adjective: bad, evil, ill
+adverb: badly, perversely
+Het eten was slecht. - The food was bad.",Het eten was slecht. - The food was bad.,*bad*,"[['bad', 'evil', 'ill', 'wicked', 'wrong', 'wretched', 'malicious', 'naughty', 'perverse', 'misbegotten', 'nefarious', 'dammfool', 'malign', 'mucky', 'ill-conditioned', 'penny-a-line'], ['badly', 'perversely']]",adjective adverb,adjective adverb,https://www.linguee.com/english-dutch/search?source=auto&query=slecht,"adjective: bad, evil, ill
+adverb: badly, perversely"
+
+
+79,verteld,"*told*
+verb: tell, relate, narrate
+Hij vertelde me een verhaal. - He told me a story.",Hij vertelde me een verhaal. - He told me a story.,*told*,"[['tell', 'relate', 'narrate', 'recite', 'make a report', 'rede', 'pitch']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=verteld,"verb: tell, relate, narrate"
+
+
+80,brengen,"*to take*
+verb: bring, apply, carry
+Ik breng je thuis. - I will take you home.",Ik breng je thuis. - I will take you home.,*to take*,"[['bring', 'apply', 'carry', 'reduce', 'fetch', 'freshen up', 'show']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=brengen,"verb: bring, apply, carry"
+
+
+81,blij,"*pleased*
+adjective: happy, glad, joyous
+adverb: gladly
+Ik ben blij dat je hier bent. - I'm happy that you are here.",Ik ben blij dat je hier bent. - I'm happy that you are here.,*pleased*,"[['happy', 'glad', 'joyous', 'blithe', 'gleesome', 'jocund', 'larky', 'elate'], ['gladly']]",adjective adverb,adjective adverb,https://www.linguee.com/english-dutch/search?source=auto&query=blij,"adjective: happy, glad, joyous
+adverb: gladly"
+
+
+82,hulp,"*staff*
+noun: help, assistance, aid
+""Ik heb hulp nodig."" - ""I need help.""","""Ik heb hulp nodig."" - ""I need help.""",*staff*,"[['help', 'assistance', 'aid', 'relief', 'assistant', 'rescue', 'helper', 'succor', 'hand', 'lift', 'subvention', 'ministration', 'succour']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=hulp,"noun: help, assistance, aid"
+
+
+83,welke,"*which*
+adjective: which, what
+conjunction: which
+pronoun: which, what, that
+Welke boeken heb je al gelezen? - Which books have you already read?",Welke boeken heb je al gelezen? - Which books have you already read?,*which*,"[['which', 'what'], ['which'], ['which', 'what', 'that', 'whichever']]",adjective conjunction pronoun,adjective conjunction pronoun,https://www.linguee.com/english-dutch/search?source=auto&query=welke,"adjective: which, what
+conjunction: which
+pronoun: which, what, that"
+
+
+84,blijft,"*stays*
+verb: remain, stay, keep
+""Het blijft een mysterie."" - It remains a mystery.","""Het blijft een mysterie."" - It remains a mystery.",*stays*,"[['remain', 'stay', 'keep', 'stick', 'sit', 'rest']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=blijft,"verb: remain, stay, keep"
+
+
+85,ligt,"*is*
+verb: lie, be, sit
+Het boek ligt op tafel. - The book is on the table.",Het boek ligt op tafel. - The book is on the table.,*is*,"[['lie', 'be', 'sit', 'stand', 'recline', 'lie by', 'lodge']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=ligt,"verb: lie, be, sit"
+
+
+86,broer,"*brother*
+noun: brother, sibling
+Mijn broer is mijn beste vriend. - My brother is my best friend.",Mijn broer is mijn beste vriend. - My brother is my best friend.,*brother*,"[['brother', 'sibling']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=broer,"noun: brother, sibling"
+
+
+87,school,"*school*
+noun: school, shoal
+De school is gesloten. - The school is closed.",De school is gesloten. - The school is closed.,*school*,"[['school', 'shoal']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=school,"noun: school, shoal"
+
+
+88,tussen,"*between*
+preposition: between, among, amongst
+Ik loop tussen de bomen. - I'm walking between the trees.",Ik loop tussen de bomen. - I'm walking between the trees.,*between*,"[['between', 'among', 'amongst']]",preposition,preposition,https://www.linguee.com/english-dutch/search?source=auto&query=tussen,"preposition: between, among, amongst"
+
+
+89,deur,"*door*
+noun: door, gate, portal
+De deur stond open. - The door was open.",De deur stond open. - The door was open.,*door*,"[['door', 'gate', 'portal']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=deur,"noun: door, gate, portal"
+
+
+90,spreken,"*speak*
+verb: speak, talk, see
+Ik spreek Nederlands. - I speak Dutch.",Ik spreek Nederlands. - I speak Dutch.,*speak*,"[['speak', 'talk', 'see', 'discourse', 'commune']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=spreken,"verb: speak, talk, see"
+
+
+91,plan,"*plan*
+noun: plan, scheme, intention
+Het plan is om de tuin te veranderen. - The plan is to change the garden.",Het plan is om de tuin te veranderen. - The plan is to change the garden.,*plan*,"[['plan', 'scheme', 'intention', 'project', 'schedule', 'idea', 'design', 'plane', 'layout', 'blueprint', 'lay', 'object', 'meaning', 'rede', 'device']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=plan,"noun: plan, scheme, intention"
+
+
+92,dollar,"*dollars*
+noun: dollar, plunk
+""Ik heb een dollar gespendeerd."" - I spent a dollar.","""Ik heb een dollar gespendeerd."" - I spent a dollar.",*dollars*,"[['dollar', 'plunk']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=dollar,"noun: dollar, plunk"
+
+
+93,handen,"*hands*
+adjective: manual
+De kinderen hadden hun handen vol met snoep. - The children had their hands full with candy.",De kinderen hadden hun handen vol met snoep. - The children had their hands full with candy.,*hands*,[['manual']],adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=handen,adjective: manual
+
+
+94,ergens,"*somewhere*
+adverb: somewhere, anywhere
+pronoun: someplace
+Ik heb ergens iets verloren. - I lost something somewhere.",Ik heb ergens iets verloren. - I lost something somewhere.,*somewhere*,"[['somewhere', 'anywhere'], ['someplace']]",adverb pronoun,adverb pronoun,https://www.linguee.com/english-dutch/search?source=auto&query=ergens,"adverb: somewhere, anywhere
+pronoun: someplace"
+
+
+95,dr.,"*dr.*
+
+De dr. heeft me gezegd dat ik gezond moet eten. - The doctor told me to eat healthily.",De dr. heeft me gezegd dat ik gezond moet eten. - The doctor told me to eat healthily.,*dr.*,,,no P-O-S info,https://www.linguee.com/english-dutch/search?source=auto&query=dr.,
+
+
+96,klopt,"*Correct*
+verb: knock, beat, hit
+""Het klopt."" - It is correct.","""Het klopt."" - It is correct.",*Correct*,"[['knock', 'beat', 'hit', 'throb', 'rap', 'tally', 'whip', 'pound', 'correspond', 'pat', 'whisk', 'pulse', 'agree', 'pulsate', 'strike', 'hammer', 'percuss', 'knap', 'rap out', 'dap', 'mill', 'sack', 'pink']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=klopt,"verb: knock, beat, hit"
+
+
+97,breng,"*bring*
+verb: bring, apply, carry
+Ik breng de krant naar de deur. - I bring the newspaper to the door.",Ik breng de krant naar de deur. - I bring the newspaper to the door.,*bring*,"[['bring', 'apply', 'carry', 'reduce', 'fetch', 'freshen up', 'show']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=breng,"verb: bring, apply, carry"
+
+
+98,dokter,"*doctor*
+noun: doctor, physician, doc
+De dokter heeft mij medicijnen voorgeschreven. - The doctor prescribed me medicine.",De dokter heeft mij medicijnen voorgeschreven. - The doctor prescribed me medicine.,*doctor*,"[['doctor', 'physician', 'doc', 'medical man', 'medico', 'medic man', 'hakeem', 'hakim']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=dokter,"noun: doctor, physician, doc"
+
+
+99,juist,"*correct*
+adjective: just, correct, right
+adverb: just, right, precisely
+prefix: ortho-
+""Ik heb het juist gedaan."" - ""I did it correctly.""","""Ik heb het juist gedaan."" - ""I did it correctly.""",*correct*,"[['just', 'correct', 'right', 'true', 'exact', 'precise', 'apt', 'striking', 'surefire', 'fair and square', 'well-directed'], ['just', 'right', 'precisely', 'correctly', 'properly', 'exactly', 'aright', 'strikingly'], ['ortho-']]",adjective adverb prefix,adjective adverb prefix,https://www.linguee.com/english-dutch/search?source=auto&query=juist,"adjective: just, correct, right
+adverb: just, right, precisely
+prefix: ortho-"
+
+
