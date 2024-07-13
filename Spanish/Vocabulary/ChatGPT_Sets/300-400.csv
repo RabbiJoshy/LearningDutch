@@ -1,0 +1,310 @@
+,Unnamed: 0,Number,Spanish,lemma forms,Sentence
+0,300,301.0,dicho,decir dicho,"
+
+""El dicho dice: 'Más vale prevenir que lamentar'."" - ""The saying goes: 'Better to prevent than to regret.'"""
+1,301,302.0,nueva,nuevo nueva,"
+
+""Ella compró una nueva computadora."" - She bought a new computer."
+2,302,303.0,sabía,saber,"
+
+""Ella sabía que él la amaba."" - She knew that he loved her."
+3,303,304.0,muchas,mucho,"
+
+Muchas gracias. - Thank you very much."
+4,304,305.0,dentro,dentro,"
+
+""Estoy dentro de la casa"" - I am inside the house."
+5,305,306.0,hice,hacer,"
+
+Hice una tarea, I did a task."
+6,306,307.0,contra,contra,"
+
+""Él luchó contra la injusticia."" - He fought against injustice."
+7,307,308.0,auto,auto,"
+
+""El auto estaba aparcado en la esquina."" - The car was parked on the corner."
+8,308,309.0,camino,camino caminar,"
+
+""El camino a la escuela es muy largo."" - The road to school is very long."
+9,309,310.0,ayuda,ayuda ayudar,"
+
+""Necesito su ayuda para completar esta tarea."" - I need your help to complete this task."
+10,310,311.0,primera,primero primera,"
+
+La primera vez que lo vi, me impresionó. - The first time I saw it, it impressed me."
+11,311,312.0,hacia,hacia,"
+
+""Ella se dirigió hacia el parque."" - She headed towards the park."
+12,312,313.0,vi,ver,"
+
+Vi la luna brillando sobre el lago.
+I saw the moon shining over the lake."
+13,313,314.0,miedo,miedo,"
+
+Tengo mucho miedo. = I am very afraid."
+14,314,315.0,adiós,adiós,"
+
+Adiós, hasta luego. Goodbye, see you later."
+15,315,316.0,primero,primero,"
+
+Primero, quiero agradecerte por tu amabilidad. - First, I want to thank you for your kindness."
+16,316,317.0,debería,deber,"
+
+Debería estudiar más para el examen.
+
+I should study more for the exam."
+17,317,318.0,poder,poder,"
+
+""Puedo hacerlo"" - ""I can do it""."
+18,318,319.0,niños,niño,"
+
+""Los niños están jugando afuera."" - The children are playing outside."
+19,319,320.0,sería,ser,"
+
+Sería mejor si pudiéramos ir al parque. It would be better if we could go to the park."
+20,320,321.0,historia,historia,"
+
+La historia de mi familia es muy interesante.
+Translation: The history of my family is very interesting."
+21,321,322.0,hey,hey,"
+
+""¡Hey! ¿Cómo estás?"" - ""Hey! How are you?"""
+22,322,323.0,mientras,mientras,"
+
+Mientras esperamos, leeremos un libro. - While we wait, we will read a book."
+23,323,324.0,ciudad,ciudad,"
+
+""La ciudad es muy grande."" - The city is very big."
+24,324,325.0,dijiste,decir,"
+
+""¿Qué dijiste?"" - ""What did you say?"""
+25,325,326.0,espero,esperar,"
+
+Espero que tengas un buen día. - I hope you have a good day."
+26,326,327.0,cuánto,cuánto,"
+
+Cuánto cuesta esto? - How much does this cost?"
+27,327,328.0,esposa,esposa esposar,"
+
+Mi esposa y yo somos muy felices juntos. - My wife and I are very happy together."
+28,328,329.0,pronto,pronto,"
+
+""Voy a llegar pronto."" - I'm going to arrive soon."
+29,329,330.0,chicos,chico,"
+
+""Los chicos son muy divertidos."" = ""The boys are very fun."""
+30,330,331.0,cualquier,cualquier,"
+
+""Puedes tomar cualquier camino que desees."" - You can take any path you wish."
+31,331,332.0,viejo,viejo,"
+
+""Mi abuelo es muy viejo."" - My grandfather is very old."
+32,332,333.0,debemos,deber,"
+
+Debemos aprender las lecciones de la vida. - We must learn the lessons of life."
+33,333,334.0,deja,dejar,"
+
+Deja que el amor te guíe. - Let love guide you."
+34,334,335.0,año,año,"
+
+""Este año fue muy diferente para todos nosotros."" - This year was very different for all of us."
+35,335,336.0,muerte,muerte,"
+
+""La muerte es inevitable."" - Death is inevitable."
+36,336,337.0,hablando,hablar,"
+
+""Estaban hablando de la película."" - They were talking about the movie."
+37,337,338.0,manos,mano,"
+
+""Lavé mis manos con agua y jabón."" (I washed my hands with water and soap.)"
+38,338,339.0,da,dar,"
+
+Da gusto verte. - It's nice to see you."
+39,339,340.0,loco,loco,"
+
+""Es un loco de atar."" - He is a crazy one."
+40,340,341.0,problemas,problema,"
+
+""Tengo muchos problemas que resolver."" - I have many problems to solve."
+41,341,342.0,mano,mano,"
+
+""Él levantó su mano para preguntar una pregunta."" - He raised his hand to ask a question."
+42,342,343.0,guerra,guerra,"
+
+""La guerra es una tragedia para todos."" - War is a tragedy for all."
+43,343,344.0,semana,semana,"
+
+La semana pasada fue muy emocionante. - Last week was very exciting."
+44,344,345.0,pasar,pasar,"
+
+Pasamos la tarde en el parque. - We spent the afternoon in the park."
+45,345,346.0,vale,valer vale,"
+
+Vale, entendido. = Okay, understood."
+46,346,347.0,cuál,cuál,"
+
+Cuál es tu dirección? What is your address?"
+47,347,348.0,viene,venir,"
+
+""Viene el profesor."" = ""The teacher is coming."""
+48,348,349.0,volver,volver,"
+
+""Vuelvo a casa temprano."" - I'm returning home early."
+49,349,350.0,toma,tomar,"
+
+Toma una decisión. - Take a decision."
+50,350,351.0,caso,caso casar,"
+
+""En este caso, debemos tomar una decisión diferente."" - In this case, we must make a different decision."
+51,351,352.0,agua,agua,"
+
+""Tomé un vaso de agua para hidratarme."" - I took a glass of water to hydrate myself."
+52,352,353.0,haré,hacer,"
+
+Haré mi tarea esta noche. 
+I will do my homework tonight."
+53,353,354.0,vete,ir,"
+
+""Vete de aquí!"" - ""Go away from here!"""
+54,354,355.0,entiendo,entender,"
+
+Entiendo la situación. - I understand the situation."
+55,355,356.0,horas,hora,"
+
+""Pasamos muchas horas en la biblioteca."" - We spent many hours in the library."
+56,356,357.0,personas,persona,"
+
+Las personas tienen diferentes opiniones. - People have different opinions."
+57,357,358.0,capitán,capitán,"
+
+El capitán de la nave estaba muy orgulloso de su tripulación.
+
+The captain of the ship was very proud of his crew."
+58,358,359.0,adelante,adelante,"
+
+""Adelante, no hay nada que nos detenga!"" - Forward, there is nothing that can stop us!"
+59,359,360.0,niño,niño,"
+
+""El niño estaba jugando en el patio."" - The boy was playing in the yard."
+60,360,361.0,listo,listo,"
+
+""Estoy listo para empezar."" - I am ready to start."
+61,361,362.0,noches,noche,"
+
+""Buenas noches!"" - Good night!"
+62,362,363.0,buenos,bueno,"
+
+""Buenos días!"" - Good morning!"
+63,363,364.0,iba,ir,"
+
+Iba al cine. - I was going to the movies."
+64,364,365.0,juntos,junto,"
+
+""Trabajamos juntos para lograr nuestro objetivo."" - We worked together to achieve our goal."
+65,365,366.0,dame,dar,"
+
+""Dame un beso."" - Give me a kiss."
+66,366,367.0,único,único,"
+
+""Este regalo es único para ti."" - This gift is unique for you."
+67,367,368.0,déjame,dejar,"
+
+Déjame en paz. - Leave me alone."
+68,368,369.0,cerca,cerca cercar,"
+
+""La farmacia está cerca de aquí."" - The pharmacy is close by here."
+69,369,370.0,otros,otro,"
+
+""Los otros niños también quieren una galleta."" - The other children also want a cookie."
+70,370,371.0,sigue,seguir,"
+
+""Sigue adelante!"" - Keep going!"
+71,371,372.0,grande,grande,"
+
+""Ella es muy grande"" - She is very big."
+72,372,373.0,arriba,arriba,"
+
+""Arriba está el sol."" - Up is the sun."
+73,373,374.0,jefe,jefe,"
+
+""Mi jefe me dijo que hiciera el trabajo lo más rápido posible."" - My boss told me to do the work as fast as possible"
+74,374,375.0,habla,hablar habla,"
+
+""Él habla español."" - He speaks Spanish."
+75,375,376.0,supongo,suponer,"
+
+Supongo que él está en casa. - I suppose he is at home."
+76,376,377.0,manera,manera,"
+
+""Ella hace las cosas de una manera diferente."" - She does things in a different way."
+77,377,378.0,quieren,querer,"
+
+Ellos quieren bailar. - They want to dance."
+78,378,379.0,feliz,feliz,"
+
+""Estoy muy feliz!"" - I am very happy!"
+79,379,380.0,significa,significar,"
+
+La palabra significa ""means""."
+80,380,381.0,sangre,sangre,"
+
+""La sangre es la vida."" - Blood is life."
+81,381,382.0,fin,fin,"
+
+""La cena ha terminado, fin."" - ""Dinner is over, end."""
+82,382,383.0,bajo,bajar bajo,"
+
+""Él está bajo el árbol."" - He is under the tree."
+83,383,384.0,llama,llamar llama,"
+
+""La llama saltó sobre el muro."" - The llama jumped over the wall."
+84,384,385.0,venir,venir,"
+
+""Vengo a traerte algo especial."" - I come to bring you something special."
+85,385,386.0,morir,morir,"
+
+""Él murió trágicamente a los 25 años.""  - He tragically died at 25 years old."
+86,386,387.0,importante,importante,"
+
+""La educación es muy importante."" Translation: ""Education is very important."""
+87,387,388.0,hiciste,hacer,"
+
+Hiciste un trabajo excelente. - You did an excellent job."
+88,388,389.0,ojos,ojo,"
+
+""Ella tiene unos ojos hermosos."" - She has beautiful eyes."
+89,389,390.0,escucha,escuchar,"
+
+""Escucha con atención."" - Listen carefully."
+90,390,391.0,entrar,entrar,"
+
+""Él entra en la casa."" - He enters the house."
+91,391,392.0,ningún,ninguno,"
+
+""No hay ningún problema."" - There is no problem."
+92,392,393.0,corazón,corazón,"
+
+""Mi corazón late muy rápido cuando estoy nervioso."" - My heart beats very fast when I'm nervous."
+93,393,394.0,diablos,diablo,"
+
+""¡Diablos! Me olvidé de comprar la leche."" = ""Darn it! I forgot to buy the milk."""
+94,394,395.0,necesitamos,necesitar,"
+
+Necesitamos una solución rápida. = We need a quick solution."
+95,395,396.0,atrás,atrás,"
+
+""Él estaba atrás de la puerta."" - He was behind the door."
+96,396,397.0,durante,durante,"
+
+Durante el verano, mi familia fue a la playa.
+During the summer, my family went to the beach."
+97,397,398.0,dices,decir,"
+
+""¿Qué dices?"" - ""What do you say?"""
+98,398,399.0,nuestros,nuestro,"
+
+Nuestros amigos nos invitaron a una fiesta. 
+Our friends invited us to a party."
+99,399,400.0,persona,persona,"
+
+""La persona es muy inteligente."" - The person is very intelligent."
