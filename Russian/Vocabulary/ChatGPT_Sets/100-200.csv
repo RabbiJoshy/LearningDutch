@@ -1,0 +1,239 @@
+,Unnamed: 0,Russian,POS,ChatGPT_Sentence
+0,101,то,conjunction,"Если я пойду через парк, то быстро дойду до дома.
+If I go through the park, then I will quickly get home."
+1,102,сейчас,adverb pronoun,"Сейчас я сижу в машине.
+Right now, I am sitting in the car."
+2,103,тут,adverb pronoun,"Тогда тут стоить не стоит.
+
+Then it is not worth standing here."
+3,104,лицо,noun,"Сейчас я могу получить фотографию твоего лица.
+
+Right now, I can get a photo of your face."
+4,105,каждый,adjective pronoun,"Каждый конец имеет свою сторону.
+Each end has its own side."
+5,106,друг,noun,"Мой друг придёт через один час.  
+My friend will come in one hour."
+6,107,нет,adverb,"Никто не хочет жить там, где нет света.
+
+No one wants to live where there is no light."
+7,108,теперь,adverb pronoun,"Теперь я, конечно, могу пойти с тобой.
+Now I, of course, can go with you."
+8,109,ни,particle,"Отец не мог ни спросить, ни ответить.
+
+The father could neither ask nor answer."
+9,110,глаз,noun,"Никто не думал, что у него такой красивый глаз.
+No one thought that he had such a beautiful eye."
+10,111,тоже,adverb,"Я тоже хочу сидеть там.
+I also want to sit there."
+11,112,тогда,adverb pronoun,"Тогда я не знал, что это, хотя и пытался понять.
+
+At that time, I didn't know what it was, although I tried to understand."
+12,113,видеть,verb,"Я хочу видеть страну, которую стоит посетить.
+I want to see a country that is worth visiting."
+13,114,вопрос,noun,"Никто не знал ответ на этот вопрос, да?
+
+Nobody knew the answer to this question, right?"
+14,115,через,pr,"Перед тем как получить подарок, нужно пройти через лес.
+Before receiving the gift, you need to go through the forest."
+15,116,да,conjunction,"Я понимаю тебя, да и мой друг тоже.
+
+I understand you, and so does my friend."
+16,117,здесь,adverb pronoun,"Здесь можно получить и дать помощь.
+
+Here you can receive and give help."
+17,118,дом,noun,"Я хочу дать общий обзор нашего дома.
+I want to give a general overview of our house."
+18,119,да,particle,"Да, мир и вода важны для жизни.
+Yes, the world and water are important for life."
+19,120,потому,adverb pronoun,"Я не понимаю этот вид искусства, потому не могу оценить его.
+
+I don't understand this type of art, therefore I can't appreciate it."
+20,121,сторона,noun,"Мы решили пойти лишь на одну сторону парка.  
+We decided to go to only one side of the park."
+21,122,какой-то,adjective pronoun,"В какой-то момент я понял, что просто хочу работать.
+
+At some point, I realized that I just want to work."
+22,123,думать,verb,"Я думаю, что нам нужно выйти и заработать деньги.  
+I think that we need to go out and earn money."
+23,124,сделать,verb,"Я хочу взять книгу и сделать всё, чтобы получить хорошие оценки.
+I want to take the book and do everything to get good grades."
+24,125,страна,noun,"Россия — большая страна, и каждая её часть вдруг может удивить.
+Russia is a large country, and each part of it can suddenly surprise."
+25,126,жить,verb,"Тут живёт какой-то человек.
+Here lives some person."
+26,127,чем,conjunction,"Я предпочитаю этот вид работы, чем другой.
+
+I prefer this type of work rather than another."
+27,128,мир,noun,"Отец вернулся домой и принёс мир в наш дом.
+The father returned home and brought peace to our house."
+28,129,об,pr,"Я люблю думать об этой проблеме.
+
+I love thinking about this problem."
+29,130,последний,adjective,"В последний день почти какой-то праздник был.
+
+On the last day, there was almost some kind of celebration."
+30,131,случай,noun,"Вдруг российский случай оказался важным для всех.
+Suddenly, the Russian case turned out to be important for everyone."
+31,132,голова,noun,"Передо мной много людей, и у каждого своя голова.
+Before me, there are many people, and each has their own head."
+32,133,более,adverb,"Этот случай более сложный, чем я думал.
+
+This case is more complicated than I thought."
+33,134,делать,verb,"Отец попросил меня взять инструменты и делать ремонт.
+
+Father asked me to take the tools and do the repairs."
+34,135,что-то,subject pronoun,"Что-то ни начало, ни конец.
+Something is neither the beginning nor the end."
+35,136,смотреть,verb,"Я люблю сидеть и смотреть на звезды ночью.
+I love to sit and watch the stars at night."
+36,137,ребенок,noun,"В этом случае высокий ребенок быстро нашел свою игрушку.
+In this case, the tall child quickly found their toy."
+37,138,просто,particle,"Сейчас это просто проблема.
+
+Right now, it's just a problem."
+38,139,конечно,adverb,"Конечно, российский рынок сейчас очень изменился.
+Of course, the Russian market has changed a lot now."
+39,140,сила,noun,"Сила остаться между нами.
+
+The strength to stay between us."
+40,141,российский,adjective,"Мы решили выйти из дома и пойти в российский музей.
+
+We decided to leave the house and go to the Russian museum."
+41,142,конец,noun,"Фильм подошёл к концу, и более никто не хотел остаться в зале.
+
+The movie came to an end, and no one wanted to stay in the hall any longer."
+42,143,перед,pr,"Я работаю над проектом перед дедлайном.  
+I am working on the project before the deadline."
+43,144,несколько,numeral,"Я просто хочу остаться здесь на несколько минут.
+I just want to stay here for a few minutes."
+44,145,вид,noun,"Последний вид, который я видел тогда, был очень красивым.
+The last view I saw then was very beautiful."
+45,146,система,noun,"Почему ты не спросил, как работает эта система?
+Why didn't you ask how this system works?"
+46,147,всегда,adverb pronoun,"Я всегда думаю много над этим вопросом.
+I always think a lot about this question."
+47,148,работать,verb,"Мы должны работать вместе, чтобы улучшить общий результат и отношение в команде.
+We need to work together to improve the overall result and the relationship within the team."
+48,149,между,pr,"Я хочу спросить, как жить между городом и деревней.
+
+I want to ask how to live between the city and the village."
+49,150,три,numeral,"Российский спортсмен выиграл три медали больше, чем его соперники.
+
+The Russian athlete won three more medals than his competitors."
+50,151,нет,particle,"Ведь нет возможности получить это сейчас.
+After all, there is no way to get it now."
+51,152,понять,verb,"Я сразу понял, что нужно выйти.  
+I immediately understood that I need to leave."
+52,153,пойти,verb,"Я думаю, что нам пора пойти и посмотреть на новую машину.
+I think it's time for us to go and look at the new car."
+53,154,часть,noun,"Вдруг несколько человек начали обсуждать важную часть проекта.
+Suddenly, several people started discussing an important part of the project."
+54,155,спросить,verb,"Я хочу спросить, можно ли взять что-то из кухни.
+I want to ask if I can take something from the kitchen."
+55,156,город,noun,"Город имеет сложную систему, которую трудно понять.
+
+The city has a complex system that is difficult to understand."
+56,157,дать,verb,"Я могу дать тебе час, ведь у меня есть время.
+I can give you an hour, after all, I have time."
+57,158,также,adverb,"Вода является важной частью природы, а также необходима для жизни.
+
+Water is an important part of nature, and also necessary for life."
+58,159,никто,subject pronoun,"Никто не знал ответ на вопрос с другой стороны.
+
+No one knew the answer to the question from the other side."
+59,160,понимать,verb,"Система является сложной, но я начинаю её понимать.
+The system is complex, but I am beginning to understand it."
+60,161,получить,verb,"Я спросил, где в городе можно получить информацию.
+I asked where in the city I can get information."
+61,162,отношение,noun,"Его отношение к работе всегда является положительным.
+His attitude towards work is always positive."
+62,163,лишь,particle,"Русский язык — лишь часть моего образования.
+Russian language is only a part of my education."
+63,164,второй,anum,"Второй город, который я увидел своими глазами, был очень красивым.
+The second city that I saw with my own eyes was very beautiful."
+64,165,именно,particle,"Именно никто не знал, какой-то человек пришёл вчера.
+
+Exactly no one knew, some person came yesterday."
+65,166,ваш,adjective pronoun,"Ваш общий друг любит смотреть фильмы.
+Your mutual friend likes to watch movies."
+66,167,хотя,conjunction,"Хотя русский язык сложный, он имеет общий алфавит с другими славянскими языками.
+Although the Russian language is difficult, it shares a common alphabet with other Slavic languages."
+67,168,ни,conjunction,"В этом случае ни он, ни она не являются виноватыми.  
+In this case, neither he nor she is at fault."
+68,169,сидеть,verb,"Я сижу и вижу что-то интересное.
+I am sitting and seeing something interesting."
+69,170,над,pr,"Да, конечно, птица летит над домом.  
+Yes, of course, the bird is flying over the house."
+70,171,женщина,noun,"Хотя женщина устала, да она продолжает работать.
+
+Although the woman is tired, yes she continues to work."
+71,172,оказаться,verb,"В парке оказалось много людей, да и погода была хорошая.
+In the park, there turned out to be many people, and the weather was good."
+72,173,русский,adjective,"Нет, это не оказался русский язык.  
+No, it did not turn out to be the Russian language."
+73,174,один,anum,"Один дом, однако, был пуст.
+
+One house, however, was empty."
+74,175,взять,verb,"Он решил взять силу в свои руки и не спускать глаз с цели.
+He decided to take power into his own hands and not take his eyes off the goal."
+75,176,прийти,verb,"Один человек пришёл, чтобы стать частью команды.
+One person came to become part of the team."
+76,177,являться,verb,"Глаз является важным органом, также он помогает нам видеть мир.
+
+The eye is an important organ, it also helps us see the world."
+77,178,деньги,noun,"Лишь именно деньги могут решить эту проблему.
+Only money can solve this problem."
+78,179,почему,adverb pronoun,"Почему ты хочешь начать, если это не является важным?
+
+Why do you want to start if it is not important?"
+79,180,вдруг,adverb,"Вдруг его отношение к работе изменилось перед важной встречей.
+Suddenly, his attitude towards work changed before the important meeting."
+80,181,любить,verb,"Я люблю машину, которая стоит на другой стороне улицы.
+I love the car that is parked on the other side of the street."
+81,182,стоить,verb,"Этот телефон сейчас стоит дорого, но он также очень качественный.
+This phone costs a lot right now, but it is also very high quality."
+82,183,почти,adverb,"В этом случае тут почти никого нет.
+In this case, there is almost no one here."
+83,184,земля,noun,"Земля именно просто прекрасна.
+
+The earth is simply beautiful."
+84,185,общий,adjective,"Тут наша общая сила.
+
+Here is our common strength."
+85,186,ведь,particle,"Ты ведь видишь, как красиво здесь.
+You do see how beautiful it is here."
+86,187,машина,noun,"Потому что у нас общий гараж, моя машина стоит рядом с твоей.
+
+Because we have a shared garage, my car is parked next to yours."
+87,188,однако,conjunction,"Он хотел пойти гулять, однако, ведь шёл дождь, тогда он остался дома.
+
+He wanted to go for a walk, however, since it was raining, then he stayed home."
+88,189,сразу,adverb,"Мы решили сразу жить в нескольких городах.
+
+We decided to live in several cities at once."
+89,190,хорошо,adverb,"Почему у тебя проблема, если всё хорошо?
+Why do you have a problem if everything is fine?"
+90,191,вода,noun,"Вода является важной для жизни, и три литра в день - это хорошая норма.
+
+Water is essential for life, and three liters a day is a good standard."
+91,192,отец,noun,"Мой отец здесь уже час.
+
+My father has been here for an hour."
+92,193,высокий,adjective,"Этот высокий дом также имеет красивый вид.
+This tall building also has a beautiful view."
+93,194,остаться,verb,"Хотя я хотел уйти, я решил остаться и посмотреть на закат своими глазами.
+Although I wanted to leave, I decided to stay and watch the sunset with my own eyes."
+94,195,выйти,verb,"Отец решил выйти из дома и оказался на улице.
+
+Father decided to go out of the house and found himself on the street."
+95,196,много,numeral,"В России много земли.
+In Russia, there is a lot of land."
+96,197,проблема,noun,"Часть проблемы можно видеть сразу.
+
+Part of the problem can be seen immediately."
+97,198,начать,verb,"Перед тем как начать, нужно проверить систему.
+Before starting, it is necessary to check the system."
+98,199,хороший,adjective,"У него хороший план, чтобы использовать свою силу и деньги.
+He has a good plan to use his strength and money."
+99,200,час,noun,"Этот час стоит что-то особенное.
+This hour is worth something special."
