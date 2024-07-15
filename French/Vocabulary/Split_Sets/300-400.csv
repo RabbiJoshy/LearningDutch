@@ -1,10 +1,10 @@
-,French,POS,English
+,French,POS,Translation
 300,terre,noun,"earth, ground"
 301,gagner,verb,"to win, earn"
 302,semaine,noun,week
 303,acheter,verb,to buy
 304,longtemps,adverb,"long, for a long time"
-305,gars,noun,"boy, chap, guy (see #342)"
+305,gars,noun,"boy, chap, guy"
 306,chambre,noun,"bedroom, chamber"
 307,hé,onomatopoeia,Hey! (to attract attention)
 308,côté,noun,"coast, slope, side"
@@ -19,7 +19,7 @@
 317,désolé,adjective,"contrite, desolate, afraid, sorry"
 318,quitter,verb,"to leave, depart"
 319,police,noun,police
-320,suite,noun,"rest, result, continuation french.languagedaily.com"
+320,suite,noun,"rest, result, continuation"
 321,matin,noun,morning
 322,emmener,verb,"to take (somebody), take along"
 323,toucher,verb,to touch
@@ -40,28 +40,28 @@
 338,mauvais,adjective,"bad, poor, wrong"
 339,film,noun,"film, movie"
 340,répondre,verb,"to answer, reply"
-341,garçon,noun,"boy, chap, guy (see #306)"
+341,garçon,noun,"boy, chap, guy"
 342,chéri,"noun, adjective","darling, loved; boyfriend, girlfriend, beloved"
 343,corps,noun,body
-344,celui,demonstrative pronoun,"the one, that one (singular masculine) (see #408, 543)"
+344,celui,demonstrative pronoun,"the one, that one (singular masculine)"
 345,autres,indefinite pronoun,other
 346,heureux,adjective,"happy, felicitous"
 347,loin,adverb,"far, a long way off, a long time ago"
-348,aucun,"indefinite adjective, indefinite pronoun","no, not any; none (see #399)"
+348,aucun,"indefinite adjective, indefinite pronoun","no, not any; none"
 349,pauvre,"adjective, noun","poor; poor person, beggar"
 350,sauver,verb,to save; languagedaily dot com
 351,chaque,indefinite adjective,"each, every"
-352,retourner,verb,"to turn, turn over, return (see #404)"
+352,retourner,verb,"to turn, turn over, return"
 353,leurs,possessive adjective,theirs (3rd person masculine or feminine plural)
 354,rencontrer,verb,"to meet, encounter"
 355,coeur,noun,"core, heart"
 356,voler,verb,"to flly; to steal, swipe"
 357,fermer,verb,"to close, shut"
-358,car,conjunction,"because, for (see #186)"
+358,car,conjunction,"because, for"
 359,valoir,verb,"to hold, apply; to be worth"
 360,descendre,verb,"to take down, go down, come down"
 361,feu,noun,fire
-362,docteur,noun,"doctor, physician (see #548)"
+362,docteur,noun,"doctor, physician"
 363,suffire,verb,"to be enough, suffice"
 364,façon,noun,"way, manner, behaviour"
 365,important,adjective,"important, considerable, sizeable"
@@ -97,5 +97,5 @@
 395,décider,verb,to decide
 396,ainsi,adverb,"like this, in this way"
 397,certain,"adjective, indefinite adjective","certain, sure"
-398,aucune,indefinite adjective,"no, not any, in no way (see #349)"
+398,aucune,indefinite adjective,"no, not any, in no way"
 399,vendre,verb,to sell

@@ -1,101 +1,101 @@
-,Dutch,POS
-800,geest,noun
-801,gingen,verb
-802,straat,noun
-803,slechts,adverb
-804,verkeerde,adjective
-805,slaan,verb
-806,FBI,FBI
-807,afgelopen,adjective
-808,hotel,noun
-809,bekend,adjective
-810,ene,one
-811,ruimte,noun
-812,lange,adjective
-813,trouwens,adverb
-814,feest,noun
-815,vliegen,verb
-816,boot,noun
-817,meester,noun
-818,doel,noun
-819,zolang,conjunction
-820,regels,noun
-821,stomme,noun
-822,begonnen,verb
-823,zak,noun
-824,absoluut,adverb
-825,spreek,adjective
-826,stom,adjective
-827,bestaat,verb
-828,welk,conjunction
-829,gevaarlijk,adjective
-830,jawel,interjection
-831,mocht,verb
-832,goedemorgen,interjection
-833,wilden,verb
-834,erger,adjective
-835,vreselijk,adjective
-836,zodra,conjunction
-837,geraakt,adjective
-838,nadat,conjunction
-839,vertrouw,trust
-840,kolonel,noun
-841,voelde,verb
-842,kleren,noun
-843,rug,noun
-844,naast,adjective
-845,totdat,conjunction
-846,verliefd,adjective
-847,lukt,verb
-848,wonen,verb
-849,lieve,noun
-850,gaten,noun
-851,raar,adjective
-852,geprobeerd,verb
-853,geleerd,adjective
-854,erover,about it
-855,raad,noun
-856,volg,verb
-857,verkopen,verb
-858,geweldige,adjective
-859,zover,adverb
-860,red,adjective
-861,woont,verb
-862,Amerika,noun
-863,lul,noun
-864,gedacht,verb
-865,bewijzen,verb
-866,prijs,noun
-867,www,www
-868,raken,verb
-869,voorstellen,verb
-870,vorige,adjective
-871,regel,noun
-872,schrijven,verb
-873,rot,noun
-874,gebouw,noun
-875,trekken,verb
-876,herinneren,verb
-877,dansen,noun
-878,gebracht,verb
-879,meeste,most
-880,koud,adjective
-881,jammer,adjective
-882,wegwezen,verb
-883,macht,noun
-884,drugs,noun
-885,geboren,adjective
-886,dragen,verb
-887,keuze,noun
-888,gefeliciteerd,interjection
-889,situatie,noun
-890,missen,verb
-891,honger,noun
-892,betaald,adjective
-893,liefje,noun
-894,duurt,verb
-895,schelen,verb
-896,kaart,noun
-897,rij,noun
-898,bal,noun
-899,werkte,verb
+,Dutch,POS,Translation
+800,geest,Noun,spirit
+801,gingen,Verb,used to go
+802,straat,Noun,street
+803,slechts,Adverb,only
+804,verkeerde,Adjective,wrong
+805,slaan,Verb,to beat
+806,FBI,Proper noun,FBI
+807,afgelopen,Verb,last
+808,hotel,Noun,hotel
+809,bekend,Adjective,known
+810,ene,Pronoun,one
+811,ruimte,Noun,room
+812,lange,Adjective,long
+813,trouwens,Adverb,Incidentally
+814,feest,Noun,party
+815,vliegen,Verb,to fly
+816,boot,Noun,boat
+817,meester,Noun,master
+818,doel,Noun,goal
+819,zolang,Conjunction,so long
+820,regels,Noun,lines
+821,stomme,Adjective,stupid
+822,begonnen,Verb,started
+823,zak,Noun,bag
+824,absoluut,Adjective,absolute
+825,spreek,Verb,speak
+826,stom,Verb,stupid
+827,bestaat,Verb,consists
+828,welk,Determiner,which
+829,gevaarlijk,Adjective,dangerous
+830,jawel,Adverb,Yes
+831,mocht,Auxiliary,was allowed
+832,goedemorgen,Noun,Good morning
+833,wilden,Verb,wild ones
+834,erger,Adjective,worse
+835,vreselijk,Adjective,horrible
+836,zodra,Conjunction,as soon
+837,geraakt,Verb,touched
+838,nadat,Conjunction,once
+839,vertrouw,Noun,trust
+840,kolonel,Noun,colonel
+841,voelde,Verb,felt
+842,kleren,Verb,clothes
+843,rug,Noun,back
+844,naast,Preposition,next
+845,totdat,Conjunction,until
+846,verliefd,Adjective,in love
+847,lukt,Verb,succeeds
+848,wonen,Verb,to live
+849,lieve,Adjective,dear
+850,gaten,Noun,holes
+851,raar,Adjective,weird
+852,geprobeerd,Verb,tried
+853,geleerd,Verb,learned
+854,erover,Adverb,about it
+855,raad,Noun,council
+856,volg,Verb,follow
+857,verkopen,Verb,to sell
+858,geweldige,Adjective,great
+859,zover,Adverb,as far
+860,red,Proper noun,ed
+861,woont,Verb,lives
+862,Amerika,Proper noun,America
+863,lul,Proper noun,dick
+864,gedacht,Verb,thought
+865,bewijzen,Verb,prove
+866,prijs,Noun,price
+867,www,Noun,www
+868,raken,Verb,touch
+869,voorstellen,Verb,to suggest
+870,vorige,Adjective,previous
+871,regel,Noun,rule
+872,schrijven,Verb,to write
+873,rot,Adjective,rot
+874,gebouw,Noun,building
+875,trekken,Verb,Pull
+876,herinneren,Verb,to remind
+877,dansen,Verb,dancing
+878,gebracht,Verb,brought
+879,meeste,Adverb,most
+880,koud,Adjective,cold
+881,jammer,Adjective,Shame
+882,wegwezen,Noun,get out
+883,macht,Noun,power
+884,drugs,Noun,drugs
+885,geboren,Verb,born
+886,dragen,Verb,wear
+887,keuze,Noun,choice
+888,gefeliciteerd,Verb,congratulations
+889,situatie,Noun,situation
+890,missen,Verb,to miss
+891,honger,Noun,hungry
+892,betaald,Verb,paid
+893,liefje,Noun,Darling
+894,duurt,Verb,takes
+895,schelen,Noun,care
+896,kaart,Noun,card
+897,rij,Noun,queue
+898,bal,Noun,ball
+899,werkte,Verb,worked

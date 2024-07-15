@@ -1,11 +1,11 @@
-,French,POS,English
-200,cet,demonstrative adjective,"this, that (before vowel and mute h) (see #25, 73, 99)"
+,French,POS,Translation
+200,cet,demonstrative adjective,"this, that (before vowel and mute h)"
 201,main,noun,hand
-202,cela,demonstrative pronoun,"this, that (used in formal contexts and expressions) (see #20)"
+202,cela,demonstrative pronoun,"this, that (used in formal contexts and expressions)"
 203,vite,adverb,"quickly, fast, soon"
 204,oublier,verb,"to forget, miss"
 205,air,noun,"air; look, appearance, manner"
-206,salut,"noun, onomatopoeia","greeting; Hi!, Hello!, Bye! (see #180)"
+206,salut,"noun, onomatopoeia","greeting; Hi!, Hello!, Bye!"
 207,fils,noun,son
 208,travailler,verb,"to work, work on, practise"
 209,moins,adverb,less
@@ -26,7 +26,7 @@
 224,voiture,noun,"car, coach, carriage"
 225,vieux,"adjective, noun","old; old man, old woman"
 226,demain,adverb,tomorrow
-227,revoir,"noun, verb","to see again, review; goodbye; french.languagedaily.com"
+227,revoir,"noun, verb","to see again, review; goodbye"
 228,elles,personal pronoun,they (refers to a group of feminine nouns or females)
 229,payer,verb,to pay
 230,fou,"adjective, noun","mad, crazy; madman, fool"
@@ -48,7 +48,7 @@
 246,idée,noun,"idea, opinion"
 247,eh,onomatopoeia,hey!
 248,puis,"conjunction, adverb","next, then, besides, plus (in addition)"
-249,famille,noun,family; languagedaily dot com
+249,famille,noun,family
 250,truc,noun,"trick, knack, thing"
 251,trois,numerical adjective,three
 252,tant,adverb,"much, so much"

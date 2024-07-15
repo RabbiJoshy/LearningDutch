@@ -1,0 +1,502 @@
+Adjective : *able*	*capaz*
+Ella es capaz de manejar una emergencia con calma y una mente blanca.
+She is capable of handling an emergency with calmness and a clear mind.
+
+
+Verb : *see me*	*verme*
+Tu opinión me sirve para verme mejor.  
+Your opinion helps me to see myself better.
+
+
+Verb : *to drink*	*beber*
+El gato sube por el cuello de la botella para beber agua.
+The cat climbs up the neck of the bottle to drink water.
+
+
+Noun : *speed*	*velocidad*
+El niño entiende que los coches viejos no tienen mucha velocidad.
+The child understands that old cars do not have much speed.
+
+
+Verb : *to give you*	*darte*
+Quiero darte las gracias por aprender lo que ha cambiado.
+I want to thank you for learning what has changed.
+
+
+Adjective : *you carry*	*llevas*
+¿Mami, llevas el uniforme al partido?
+Mom, are you taking the uniform to the game?
+
+
+Noun : *game*	*partido*
+El partido de tenis en la pista terminó con un golpe increíble.
+The tennis match on the court ended with an incredible shot.
+
+
+Noun : *game*	*partido*
+Estén atentos y caminen despacio hacia el partido.
+Be attentive and walk slowly towards the game.
+
+
+Auxiliary : *was*	*estuviera*
+Si el príncipe estuviera aquí, ¿qué llevas puesto?
+If the prince were here, what are you wearing?
+
+
+Verb : *day*	*dia*
+¿Puedes ayudarme en esta emergencia hoy en día?
+Can you help me in this emergency nowadays?
+
+
+Noun : *opinion*	*opinión*
+¿Cuál es tu opinión sobre los estados que visitaste cuando tuviste vacaciones?
+What is your opinion about the states you visited when you had vacations?
+
+
+Noun : *go away*	*irte*
+El príncipe te invita a irte a EEUU.
+The prince invites you to go to the USA.
+
+
+Noun : *kitchen*	*cocina*
+Tuviste un accidente en la cocina y se te cayó el tiro.
+You had an accident in the kitchen and you dropped the shot.
+
+
+Noun : *kitchen*	*cocina*
+Si estuviera en la cocina, trataría de cocinar algo delicioso.
+If I were in the kitchen, I would try to cook something delicious.
+
+
+Verb : *open*	*abrir*
+El príncipe decidió abrir la puerta después de escuchar un tiro.
+The prince decided to open the door after hearing a shot.
+
+
+Noun : *dogs*	*perros*
+Los perros siempre tratan de ayudarme cuando estoy triste.
+The dogs always try to help me when I am sad.
+
+
+Adverb : *also*	*tambien*
+Conocí a María y también tengo ganas de verla otra vez.
+I met María and I also want to see her again.
+
+
+Proper noun : *know*	*sepa*
+Espero que el príncipe sepa que vuelvo mañana.
+I hope the prince knows that I return tomorrow.
+
+
+Adjective : *you seem*	*pareces*
+Pareces muy agradable, así que déjalo así.
+You seem very nice, so leave it like that.
+
+
+Verb : *write*	*escribir*
+Me gusta escribir historias con estilo para contar aventuras.
+I like to write stories with style to tell adventures.
+
+
+Noun : *bang*	*golpe*
+El golpe fue una experiencia que me enseñó a ir despacio.  
+The hit was an experience that taught me to go slowly.
+
+
+Noun : *had*	*tenia*
+Tenía unos libros viejos para aprender español.
+I had some old books to learn Spanish.
+
+
+Adjective : *high*	*alta*
+La camisa tiene un precio muy alto.
+The shirt has a very high price.
+
+
+Noun : *state*	*estados*
+Los estados son capaces de asegurar que tengan recursos suficientes.
+The states are capable of ensuring that they have sufficient resources.
+
+
+Noun : *state*	*estados*
+Ella se molesta cuando empieza a pensar en esos estados.
+She gets upset when she starts thinking about those states.
+
+
+Verb : *tap*	*tocar*
+Me gusta tocar la guitarra cuando mis amigos viejos vienen a verme.
+I like to play the guitar when my old friends come to see me.
+
+
+Noun : *I come back*	*vuelvo*
+Vuelvo a casa con una experiencia nueva de los Estados Unidos.
+I return home with a new experience from the United States.
+
+
+Auxiliary : *had*	*habían*
+Habían muchos libros en la biblioteca cuando los encontró.
+There were many books in the library when he found them.
+
+
+Noun : *desire*	*ganas*
+Tuvimos muchas ganas de ganar el partido.
+We were very eager to win the game.
+
+
+Noun : *desire*	*ganas*
+Tengo muchas ganas de darte un abrazo y contarte todo.
+I really want to give you a hug and tell you everything.
+
+
+Noun : *make you*	*hacerte*
+Claro, aquí tienes una oración:
+"El espíritu te hace capaz de hacerte más fuerte."
+"The spirit makes you capable of making yourself stronger."
+
+
+Verb : *let*	*dejo*
+El príncipe deja su sombrero en la cocina.
+The prince leaves his hat in the kitchen.
+
+
+Verb : *went back*	*volvió*
+Él volvió y me alegra saber que todo fue una mentira.
+He returned and it makes me happy to know that everything was a lie.
+
+
+Noun : *example*	*ejemplo*
+En este ejemplo, yo tendría que escribir una carta.
+In this example, I would have to write a letter.
+
+
+Verb : *count*	*contar*
+Debía contar lo que había podido ver.
+I had to tell what I had been able to see.
+
+
+Verb : *They had*	*tenían*
+Los niños tenían que pedir permiso para usar el estilo nuevo.
+The children had to ask for permission to use the new style.
+
+
+Noun : *purpose*	*propósito*
+El propósito de esta experiencia me alegra mucho.
+The purpose of this experience makes me very happy.
+
+
+Verb : *understands*	*entiende*
+El jefe quiere que todos entiendan el informe antes de que tengan la reunión.
+The boss wants everyone to understand the report before they have the meeting.
+
+
+Verb : *begin*	*empieza*
+Empieza a estudiar con ganas, pareces muy motivado.
+Start studying with enthusiasm, you seem very motivated.
+
+
+Noun : *ring*	*anillo*
+El príncipe no entiende dónde está su anillo.
+The prince does not understand where his ring is.
+
+
+Adjective : *London*	*londres*
+Aunque estuviera en Londres, sin embargo, extrañaría mi hogar.
+Even if I were in London, however, I would miss my home.
+
+
+Verb : *would have*	*tendría*
+Tendría una mejor opinión si llevas una actitud positiva.
+I would have a better opinion if you carry a positive attitude.
+
+
+Verb : *ask*	*pedir*
+Voy a pedir el precio antes de que suba.
+I am going to ask for the price before it goes up.
+
+
+Noun : *style*	*estilo*
+El director tiene un estilo único para tocar el piano.
+The director has a unique style for playing the piano.
+
+
+Verb : *help me*	*ayudarme*
+¿Pueden ayudarme a asegurar que los datos estén exactos?
+Can you help me ensure that the data is accurate?
+
+
+Noun : *clue*	*pista*
+A pesar del embargo, tengo muchas ganas de ir a la pista de baile.
+Despite the embargo, I really want to go to the dance floor.
+
+
+Adjective : *changed*	*cambiado*
+He cambiado mis ganas de aprender.  
+I have changed my desire to learn.
+
+
+Adjective : *changed*	*cambiado*
+Él volvió a probar la comida y notó que el sabor había cambiado.
+He tried the food again and noticed that the taste had changed.
+
+
+Verb : *escape*	*escapar*
+El gato intentó escapar de la cocina en EEUU.
+The cat tried to escape from the kitchen in the USA.
+
+
+Proper noun : *USA*	*eeuu*
+El director quiere escapar a EEUU.
+The director wants to escape to the USA.
+
+
+Verb : *found*	*encontró*
+El equipo encontró una buena defensa que no tenían antes.
+The team found a good defense that they didn't have before.
+
+
+Adjective : *spirit*	*espíritu*
+El espíritu de la fiesta empieza cuando dejo mis preocupaciones.
+The spirit of the party begins when I leave my worries behind.
+
+
+Adjective : *old*	*viejos*
+El reloj viejo volvió a funcionar y ahora sirve bien.
+The old clock started working again and now it works well.
+
+
+Verb : *bothers*	*molesta*
+La nueva disposición de la cocina me molesta porque todo ha cambiado.
+The new arrangement of the kitchen bothers me because everything has changed.
+
+
+Noun : *note*	*nota*
+Él sacó una buena nota para probar que no era una mentira.
+He got a good grade to prove it wasn't a lie.
+
+
+Noun : *note*	*nota*
+La diferencia entre los sistemas educativos de EEUU y España es notable.
+The difference between the educational systems of the USA and Spain is noticeable.
+
+
+Noun : *difference*	*diferencia*
+Si estuviera en tu lugar, mi opinión sería diferente, pero la diferencia es pequeña.
+If I were in your place, my opinion would be different, but the difference is small.
+
+
+Verb : *treat*	*tratar*
+Voy a tratar de hacer un buen tiro, pero si no puedo, dejo de intentarlo.
+I will try to make a good shot, but if I can't, I will stop trying.
+
+
+Verb : *price*	*precio*
+Tuvimos que caminar despacio para ver el precio de los productos.
+We had to walk slowly to see the price of the products.
+
+
+Noun : *gentleman*	*caballero*
+El caballero tenía una taza de té.  
+The gentleman had a cup of tea.
+
+
+Verb : *it serves*	*sirve*
+El mapa que encontró sirve para escapar.
+The map he found is useful for escaping.
+
+
+Verb : *happy*	*alegra*
+La música me alegra, pero el ruido me molesta en todos los estados.
+Music makes me happy, but noise bothers me in all states.
+
+
+Adjective : *double*	*doble*
+La puerta blanca tiene un doble cerrojo y también una cadena de seguridad.
+The white door has a double lock and also a security chain.
+
+
+Adjective : *pleasant*	*agradable*
+Tuvimos una conversación muy agradable y me gustó contar historias.
+We had a very pleasant conversation and I enjoyed telling stories.
+
+
+Noun : *embargo*	*embargo*
+No dejo de pedir ayuda, pero hay un embargo.
+I don't stop asking for help, but there is an embargo.
+
+
+Verb : *have*	*tengan*
+Espero que tengan una buena defensa cuando empieza el partido.
+I hope they have a good defense when the game starts.
+
+
+Verb : *we had*	*tuvimos*
+Tuvimos que ayudarme cuando conocí a mi nuevo profesor.
+We had to help me when I met my new teacher.
+
+
+Verb : *goes up*	*sube*
+La marea alta sube rápidamente.
+The high tide rises quickly.
+
+
+Verb : *are*	*estén*
+Espero que estén en Londres cuando reciban mi nota.
+I hope you are in London when you receive my note.
+
+
+Adjective : *Mommy*	*mami*
+Mami estuviera alegra si vinieras a visitarla.
+Mom would be happy if you came to visit her.
+
+
+Noun : *emergency*	*emergencia*
+Tenían una luz blanca para la emergencia.
+They had a white light for the emergency.
+
+
+Noun : *neck*	*cuello*
+El anillo no cabe en mi cuello, así que no puedo abrir el paquete.
+The ring doesn't fit on my neck, so I can't open the package.
+
+
+Noun : *wedding*	*boda*
+La boda tiene un color doble en la decoración.
+The wedding has a double color in the decoration.
+
+
+Verb : *learn*	*aprender*
+He podido aprender mucho del informe.
+I have been able to learn a lot from the report.
+
+
+Auxiliary : *tea*	*té*
+Tenía un buen día y decidí tomar un té.
+I was having a good day and decided to have some tea.
+
+
+Verb : *report*	*informe*
+El propósito del informe es contar los detalles del proyecto.
+The purpose of the report is to tell the details of the project.
+
+
+Verb : *report*	*informe*
+Tuviste que preparar un informe sobre la cocina.
+You had to prepare a report about the kitchen.
+
+
+Adjective : *white*	*blanca*
+Mami quiere hacerle una bufanda blanca.  
+Mom wants to make her a white scarf.
+
+
+Adjective : *white*	*blanca*
+La profesora Blanca entiende el informe.
+Professor Blanca understands the report.
+
+
+Noun : *experience*	*experiencia*
+La experiencia en la cocina fue muy divertida y llena de color.
+The experience in the kitchen was very fun and full of color.
+
+
+Auxiliary : *should*	*debía*
+Debía aprender el estilo de baile.
+I had to learn the dance style.
+
+
+Adjective : *I have*	*podido*
+He podido entregar el informe al director.
+I have been able to deliver the report to the director.
+
+
+Noun : *lie*	*mentira*
+No he podido creer esa mentira, es un mal ejemplo.
+I couldn't believe that lie, it's a bad example.
+
+
+Noun : *director*	*director*
+El director sube al escenario para dar un tiro de salida.
+The director goes up to the stage to give a starting shot.
+
+
+Verb : *Bush*	*mata*
+Los novios tenían una boda hermosa bajo una mata de flores.
+The couple had a beautiful wedding under a flower tree.
+
+
+Noun : *exact*	*exacto*
+La camisa blanca es exacto lo que también necesito.
+The white shirt is exactly what I also need.
+
+
+Verb : *leave it alone*	*déjalo*
+Déjalo, el príncipe necesita el informe ahora.  
+Leave it, the prince needs the report now.
+
+
+Noun : *defending*	*defensa*
+Necesitas un informe antes de irte a la defensa.  
+You need a report before you go to the defense.
+
+
+Adjective : *You saw*	*tuviste*
+¿Tuviste tiempo para darme tu opinión sobre la cocina?
+Did you have time to give me your opinion about the kitchen?
+
+
+Verb : *rely*	*confiar*
+Confío en que la diferencia en la boda será maravillosa.
+I trust that the difference in the wedding will be wonderful.
+
+
+Noun : *color*	*color*
+Voy a escribir un ejemplo con mucho color.
+I am going to write an example with a lot of color.
+
+
+Verb : *do*	*hacerle*
+Claro, aquí tienes una oración:
+"Pareces viejos amigos cuando le vas a hacerle un favor."
+"You seem like old friends when you are going to do him a favor."
+
+
+Determiner : *that*	*aquel*
+Aquel embargo no me quita las ganas de viajar.
+That embargo does not take away my desire to travel.
+
+
+Verb : *I met*	*conocí*
+Conocí a un amigo en Londres y no he podido olvidarlo.
+I met a friend in London and I haven't been able to forget him.
+
+
+Verb : *prove*	*probar*
+¿Puedes ayudarme a probar la comida en la cocina?  
+Can you help me taste the food in the kitchen?
+
+
+Noun : *the prince*	*príncipe*
+Si el príncipe estuviera aquí, no habría diferencia.
+If the prince were here, there would be no difference.
+
+
+Verb : *gonna*	*irá*
+El príncipe irá al castillo cambiado.
+The prince will go to the changed castle.
+
+
+Noun : *slowly*	*despacio*
+Llevas el vaso y bebes despacio.  
+You carry the glass and drink slowly.
+
+
+Noun : *shot*	*tiro*
+El tiro de la pelota hizo tocar la ventana de los viejos vecinos.
+The throw of the ball made it touch the window of the old neighbors.
+
+
+Noun : *shot*	*tiro*
+El tiro hizo la diferencia en el partido.
+The shot made the difference in the match.
+
+

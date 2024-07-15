@@ -1,0 +1,500 @@
+cet	demonstrative adjective : *this, that (before vowel and mute h)*
+Cet vieux mec est gentil.
+This old guy is kind.
+
+
+main	noun : *hand*
+Salut, je veux apprendre à écrire avec ma main gauche.
+Hello, I want to learn to write with my left hand.
+
+
+cela	demonstrative pronoun : *this, that (used in formal contexts and expressions)*
+Cela fait partie de la porte.
+That is part of the door.
+
+
+vite	adverb : *quickly, fast, soon*
+Je dois payer vite avant de dormir.
+I have to pay quickly before sleeping.
+
+
+oublier	verb : *to forget, miss*
+Je dois ouvrir la porte avant d'entrer, mais j'ai peur d'oublier.
+I need to open the door before entering, but I'm afraid of forgetting.
+
+
+air	noun : *air; look, appearance, manner*
+Il est tant de s'asseoir et de respirer l'air frais.
+It is time to sit down and breathe the fresh air.
+
+
+salut	noun, onomatopoeia : *greeting; Hi!, Hello!, Bye!*
+Salut! Une minute pour manger.
+Hi! A minute to eat.
+
+
+fils	noun : *son*
+Le fils doit garder son travail.  
+The son must keep his job.
+
+
+travailler	verb : *to work, work on, practise*
+Je vais commencer à travailler pendant les vacances.
+I will start working during the holidays.
+
+
+moins	adverb : *less*
+Il est moins vieux en ce moment.
+He is less old at the moment.
+
+
+tête	noun : *head, face*
+Aujourd'hui, je prie pour ma tête.
+Today, I pray for my head.
+
+
+coup	noun : *blow, shot, kick, punch*
+Elles ont vu un type donner un coup.
+They saw a guy give a hit.
+
+
+écouter	verb : *to listen to*
+Je m'occupe de prier et d'écouter de la musique.
+I am busy praying and listening to music.
+
+
+raison	noun : *reason*
+Il porte un manteau sous la pluie pour une bonne raison.
+He wears a coat in the rain for a good reason.
+
+
+manger	verb : *to eat*
+Je mange une pomme près de la porte en regardant avec un oeil.
+I eat an apple near the door while looking with one eye.
+
+
+amour	noun : *love, love affair, cupid*
+Excusez le vieux monsieur, il parle de son amour perdu.
+Excuse the old man, he speaks of his lost love.
+
+
+entrer	verb : *to go in, enter, come in*
+Madame entre dans l'affaire.
+The lady enters the business.
+
+
+dont	relative pronoun, interrogative pronoun : *whose, of which*
+La personne dont je parle s'est excusée pendant la réunion.
+The person I'm talking about apologized during the meeting.
+
+
+nouveau	noun, adjective : *new, fresh*
+Tous sont heureux de retrouver le nouveau livre.
+Everyone is happy to find the new book.
+
+
+devenir	verb : *to become*
+Je veux devenir médecin pour m'occuper des patients et dormir bien la nuit.
+I want to become a doctor to take care of patients and sleep well at night.
+
+
+hein	onomatopoeia : *what?, eh?, Huh? (familiar)*
+French: Où est-ce que tu as foutu mes clés, hein ? Je ne peux pas les retrouver.
+English: Where did you put my keys, huh? I can't find them.
+
+
+commencer	verb : *to start, begin*
+Je commence le travail, combien de temps cela prendra-t-il ?
+I start the work, how long will it take?
+
+
+merde	onomatopoeia, noun : *shit (vulgar), bull, crap, damn*
+Assez! Un coup de pied et merde!
+Enough! A kick and crap!
+
+
+moment	noun : *moment, while, point*
+Je dois ouvrir mon portefeuille pour payer à ce moment.
+I need to open my wallet to pay at this moment.
+
+
+voiture	noun : *car, coach, carriage*
+Cette année, j'ai tant aimé ma nouvelle voiture.
+This year, I loved my new car so much.
+
+
+vieux	adjective, noun : *old; old man, old woman*
+Le vieux a attiré l'attention avec un coup de canne.
+The old man attracted attention with a tap of his cane.
+
+
+demain	adverb : *tomorrow*
+Demain, je vais porter combien de livres?
+Tomorrow, how many books will I carry?
+
+
+revoir	noun, verb : *to see again, review; goodbye*
+Je dois revoir mon vieux projet avant de travailler dessus.
+I need to review my old project before working on it.
+
+
+elles	personal pronoun : *they (refers to a group of feminine nouns or females)*
+Elles doivent payer pour occuper la maison.
+They have to pay to occupy the house.
+
+
+payer	verb : *to pay*
+Salut, je dois payer la facture dont tu parles.  
+Hi, I have to pay the bill you are talking about.
+
+
+fou	adjective, noun : *mad, crazy; madman, fool*
+Le fou veut manger avant de devenir plus fou.
+The madman wants to eat before becoming crazier.
+
+
+tirer	verb : *to pull, draw*
+Il a tiré et le sang a commencé à tomber.  
+He shot and the blood started to fall.
+
+
+ouvrir	verb : *to open*
+Je vais ouvrir la porte entre les cours pendant la pause.
+I will open the door between classes during the break.
+
+
+oeil	noun : *eye, view (= œil) (plural is yeux)*
+Le médecin a envoyé une goutte sous l'œil.
+The doctor sent a drop under the eye.
+
+
+fait	noun : *event, fact*
+Le fait nouveau a surpris toute la famille.
+The new fact surprised the whole family.
+
+
+changer	verb : *to change, exchange*
+Je veux changer de ville et de voiture.
+I want to change city and car.
+
+
+question	noun : *question, matter*
+Je vais envoyer une question à tous.
+I am going to send a question to everyone.
+
+
+tomber	verb : *to fall*
+Il ne faut ni tomber ni foutre le bazar.  
+You must neither fall nor mess things up.
+
+
+assez	adverb : *enough, quite, fairly*
+Tous les enfants ont assez d'amour.
+All the children have enough love.
+
+
+foutre	verb : *(slang) to do, give, put on; (vulgar) to have sex, to masturbate*
+Je vais foutre un mot contre le mur pour écrire un message.
+I am going to throw a word against the wall to write a message.
+
+
+excuser	verb : *to forgive, pardon, excuse*
+Je m'excuse pendant que je bois de l'eau.  
+I apologize while I drink water.
+
+
+affaire	noun : *affiar, business*
+Il est important de manger et boire avant de s'occuper de cette affaire.
+It is important to eat and drink before dealing with this matter.
+
+
+dormir	verb : *to sleep; to lie idle*
+Je ne peux ni dormir ni trouver un truc intéressant.
+I can neither sleep nor find something interesting.
+
+
+combien	adverb : *how much, how many*
+Combien coûte cet type de livre?
+How much does this type of book cost?
+
+
+frère	noun : *brother*
+Combien de temps avant de revoir mon frère ?
+How long before I see my brother again?
+
+
+travail	noun : *wor, labor, employment*
+Quel type de travail fais-tu et combien d'heures travailles-tu par semaine?
+What type of work do you do and how many hours do you work per week?
+
+
+idée	noun : *idea, opinion*
+Elles ont une idée pour la famille.
+They have an idea for the family.
+
+
+eh	onomatopoeia : *hey!*
+Tant de bruit, eh, je ne peux pas m'occuper!
+So much noise, eh, I can't focus!
+
+
+puis	conjunction, adverb : *next, then, besides, plus (in addition)*
+Mon frère chante, puis il prend l'air.
+My brother sings, then he gets some fresh air.
+
+
+famille	noun : *family*
+Je prie ma famille de ne pas rentrer tard.  
+I ask my family not to come home late.
+
+
+truc	noun : *trick, knack, thing*
+Le truc est de devenir meilleur sans question.
+The thing is to become better without question.
+
+
+trois	numerical adjective : *three*
+Il y a trois histoires d'amour qui tirent les larmes.
+There are three love stories that bring tears.
+
+
+tant	adverb : *much, so much*
+La famille est tant heureuse, eh.
+The family is so happy, eh.
+
+
+souvenir	verb, noun : *memory, souvenir; to remember*
+French: Je me souviens de cette minute avant de dormir.
+English: I remember that minute before sleeping.
+
+
+ni	conjunction : *nor, or (negative)*
+Je ne vois ni voiture ni oeil.
+I see neither car nor eye.
+
+
+tous	indefinite pronoun : *everything, all (plural)*
+Tous doivent manger moins.
+Everyone must eat less.
+
+
+occuper	verb : *to occupy, live in, take up*
+Je vais m'occuper de servir le dîner pendant que tu te reposes.
+I will take care of serving dinner while you rest.
+
+
+entre	preposition : *between, among*
+Le fils court vite entre les arbres.
+The son runs quickly between the trees.
+
+
+ok	adjective, adverb : *OK; okay (satisfactory)*
+La voiture est ok, je n'ai rien oublié.
+The car is ok, I didn't forget anything.
+
+
+marcher	verb : *to walk, march, go*
+Je marche en écoutant une chanson d'amour.
+I walk while listening to a love song.
+
+
+chance	noun : *luck, fortune, chance*
+Cela me donne une chance de réussir.  
+This gives me a chance to succeed.
+
+
+aujourd'hui	adverb : *today, nowadays*
+Aujourd'hui, j'ai vu trois voitures.
+Today, I saw three cars.
+
+
+envoyer	verb : *to send, throw, dispatch, refer*
+Elles vont envoyer une lettre à la main.
+They are going to send a letter by hand.
+
+
+histoire	noun : *history, story*
+Je vais garder ce livre d'histoire pour demain.
+I will keep this history book for tomorrow.
+
+
+jeune	adjective, noun : *young, youthful; young person*
+Le jeune espère réussir aujourd'hui.
+The young person hopes to succeed today.
+
+
+tard	adverb : *late*
+Le mec arrive tard à la porte.
+The guy arrives late at the door.
+
+
+apprendre	verb : *to learn, to hear (about)*
+Je prends une minute pour apprendre ce souvenir.  
+I take a minute to learn this memory.
+
+
+minute	noun : *minute*
+Je vais commencer à répondre à ta question dans une minute.
+I will start answering your question in a minute.
+
+
+boire	verb : *to drink (consume alcohol), to soak up*
+Je dois boire vite avant de partir au travail.
+I have to drink quickly before going to work.
+
+
+garder	verb : *to keep, to look after, to guard*
+Je garde la part pendant une heure.
+I keep the part for an hour.
+
+
+quelques	indefinite adjective : *some (quantity), small number, a few*
+Ils ont quelques livres et ils les lisent vite.
+They have some books and they read them quickly.
+
+
+type	noun : *type, kind; guy (colloquial)*
+C'est un type d'affaire que nous devons résoudre en ce moment.
+This is a type of matter that we need to resolve at the moment.
+
+
+porte	noun : *gate, door*
+La nouvelle porte attire l'œil.
+The new door catches the eye.
+
+
+montrer	verb : *to show, point out*
+Je vais te montrer où t'asseoir quand tu seras prêt.
+I will show you where to sit when you are ready.
+
+
+mec	noun : *guy, bloke*
+Combien de points a ce mec contre l'autre équipe ?
+How many points does this guy have against the other team?
+
+
+asseoir	verb : *to sit down, sit up*
+Je m'assieds entre ce truc et la chaise.
+I sit between this thing and the chair.
+
+
+porter	verb : *to carry, wear*
+Ils portent leurs sacs à la place pour eux.
+They carry their bags to the square for them.
+
+
+attention	onomatopoeia, noun : *attention*
+Pendant quelques minutes, l'attention des élèves était totale.
+For a few minutes, the students' attention was complete.
+
+
+année	noun : *year*
+Cette année, je veux changer mes vieux habits.
+This year, I want to change my old clothes.
+
+
+sous	preposition : *under*
+Le livre est sous la table entre les chaises pour une bonne raison.
+The book is under the table between the chairs for a good reason.
+
+
+prêt	adjective : *ready*
+Il est prêt à recevoir un coup sur la tête.
+He is ready to take a hit on the head.
+
+
+contre	preposition : *against*
+Je ne suis ni pour ni contre ce moment.
+I am neither for nor against this moment.
+
+
+prier	verb : *to pray*
+Je prie pour ne pas oublier de travailler.
+I pray not to forget to work.
+
+
+pendant	preposition : *for, during*
+Je suis assez prêt pendant l'examen.  
+I am quite ready during the exam.
+
+
+mois	noun : *month*
+Le nouveau mois va commencer demain.
+The new month will start tomorrow.
+
+
+meilleur	adjective, noun : *better; the best one*
+Le meilleur travail est entre tes mains.
+The best work is in your hands.
+
+
+servir	verb : *to serve*
+Je vais servir le dîner ce mois pour une bonne raison.
+I will serve dinner this month for a good reason.
+
+
+madame	noun : *madam, Mrs*
+Madame entre pour manger.
+The lady enters to eat.
+
+
+putain	noun : *whore, hooker*
+Il y a un type dont la mère est une putain.
+There is a guy whose mother is a prostitute.
+
+
+écrire	verb : *to write*
+Je vais écrire une note pour ne pas oublier, puis je partirai.  
+I am going to write a note so I don't forget, then I will leave.
+
+
+part	noun : *part, share*
+Je ne veux pas oublier de manger ma part de gâteau.
+I don't want to forget to eat my part of the cake.
+
+
+eau	noun : *water*
+L'affaire dont je parle concerne l'eau.
+The matter I'm talking about concerns water.
+
+
+sang	noun : *blood*
+Putain, il y a du sang sur le papier où je voulais écrire.
+Damn, there is blood on the paper where I wanted to write.
+
+
+place	noun : *room, square, seat*
+Cette année, nous avons visité une nouvelle place main dans la main.
+This year, we visited a new square hand in hand.
+
+
+espérer	verb : *to hope for*
+J'espère payer et garder mon emploi.
+I hope to pay and keep my job.
+
+
+plein	adjective, preposition : *full, solid*
+La ville est pleine de vie sous le soleil.
+The city is full of life under the sun.
+
+
+désoler	verb : *to distress, upset*
+Je suis désolé, je n'ai pas vu ton idée avec mon oeil fatigué.
+I am sorry, I did not see your idea with my tired eye.
+
+
+eux	personal pronoun : *them, they*
+Ils ont l'air content, eux, avec la tête haute.
+They look happy, them, with their heads held high.
+
+
+retrouver	verb : *to find; to meet*
+Je vais retrouver ce mec par chance.  
+I am going to meet up with that guy by chance.
+
+
+ville	noun : *town, city*
+Je vais envoyer une lettre et boire un café en ville.
+I am going to send a letter and drink a coffee in the city.
+
+

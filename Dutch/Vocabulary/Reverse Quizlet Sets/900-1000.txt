@@ -1,0 +1,500 @@
+noun : *thoughts*	*gedachten*
+Ik voel me schuldig omdat mijn gedachten steeds afdwalen van de lijn.
+I feel guilty because my thoughts keep drifting away from the line.
+
+
+adjective : *third*	*derde*
+We moesten rennen naar de derde halte.
+We had to run to the third stop.
+
+
+verb : *run*	*rennen*
+Ik ren naar de lijn, da's snel.
+I run to the line, that's fast.
+
+
+noun : *names*	*namen*
+De namen die we hebben gestuurd, maakten iedereen aan het lachen.
+The names we sent made everyone laugh.
+
+
+noun : *sign*	*teken*
+Ik ben vooral moe, maar dit is een goed teken.
+I am especially tired, but this is a good sign.
+
+
+verb : *plays*	*speelt*
+De jongen speelt met de sla totdat het kapot is.
+The boy plays with the lettuce until it is broken.
+
+
+noun : *voice*	*stem*
+De stem van de gids maakte de reis interessant ondanks de regen.
+The voice of the guide made the trip interesting despite the rain.
+
+
+noun : *company*	*bedrijf*
+Het bedrijf heeft blijkbaar een nieuwe stoel voor mijn kont gekocht.
+The company has apparently bought a new chair for my butt.
+
+
+adjective : *tired*	*moe*
+De domme man is moe na de missie.
+The foolish man is tired after the mission.
+
+
+conjunction : *unless*	*tenzij*
+Het is onmogelijk om naar de kerk te gaan, tenzij het weer beter wordt.
+It is impossible to go to the church unless the weather gets better.
+
+
+adjective : *stupid*	*dom*
+De domme man vergat zijn paspoort tijdens de reis, ondanks de wet.
+The foolish man forgot his passport during the trip, despite the law.
+
+
+noun : *flight*	*vlucht*
+James en zijn groep wachten op hun vlucht.  
+James and his group are waiting for their flight.
+
+
+adjective : *hit*	*raak*
+De lijst met respect is raak.
+The list with respect is accurate.
+
+
+noun : *relation*	*relatie*
+Hij belde haar toen hij dronken was om over hun relatie te praten.
+He called her when he was drunk to talk about their relationship.
+
+
+verb : *laugh*	*lachen*
+Gisteravond speelt hij een grappige film en wij lachen veel.
+Last night he played a funny movie and we laughed a lot.
+
+
+adjective : *nice*	*leuke*
+De derde kost is een leuke verrassing.  
+The third course is a nice surprise.
+
+
+adjective : *guilty*	*schuldig*
+De schuldig man zweert dat hij geen slechte dromen heeft.  
+The guilty man swears that he has no bad dreams.
+
+
+noun : *nine*	*negen*
+De negen belde blijkbaar niet.
+The nine apparently did not call.
+
+
+noun : *table*	*tafel*
+De derde taart staat op de tafel voor het huwelijk.
+The third cake is on the table for the wedding.
+
+
+adjective : *faster*	*sneller*
+De planeet draait sneller vanwege de wind.  
+The planet rotates faster because of the wind.
+
+
+James : *James*	*James*
+James zoekt een witte kat.
+James is looking for a white cat.
+
+
+adjective : *young*	*jong*
+De jonge hond stierf, komaan.  
+The young dog died, come on.
+
+
+preposition : *because of*	*vanwege*
+Vanwege de missie mocht hij niet dronken zijn.
+Because of the mission, he was not allowed to be drunk.
+
+
+adjective : *both*	*beide*
+Blijkbaar zijn beide kinderen allen thuis.
+Apparently, both children are home alone.
+
+
+verb : *fell*	*viel*
+Het leek een gelukkig huwelijk, maar het viel uit elkaar.  
+It seemed like a happy marriage, but it fell apart.
+
+
+noun : *eye*	*oog*
+Het bedrijf opent om negen uur en ik heb een oog op de klok.  
+The company opens at nine o'clock and I have an eye on the clock.
+
+
+noun : *seemed*	*leek*
+De leek belde naar de tafel.
+The layman called to the table.
+
+
+verb : *sent*	*gestuurd*
+Ik heb het bevel naar zijn kont gestuurd.
+I have sent the order to his butt.
+
+
+noun : *line*	*lijn*
+Waarvoor is deze lijn, vraag ik me af.
+What is this line for, I wonder.
+
+
+noun : *just kidding*	*grapje*
+Onderweg vertelde hij een grapje, maar toen brak hij zijn fiets omdat het wiel gebroken was.
+On the way, he told a joke, but then he broke his bike because the wheel was broken.
+
+
+interjection : *come on*	*komaan*
+Komaan, we gaan naar de Amerikaanse winkel vanwege de aanbiedingen.
+Come on, we are going to the American store because of the sales.
+
+
+verb : *had to*	*moesten*
+We moesten links afslaan, maar ik raakte verdwaald.
+We had to turn left, but I got lost.
+
+
+adverb : *before that*	*daarvoor*
+Ik had een gesprek met een Amerikaanse toerist en daarvoor heb ik Engels geoefend.
+I had a conversation with an American tourist and for that, I practiced English.
+
+
+adverb : *en route*	*onderweg*
+We namen foto's onderweg naar de show.
+We took pictures on the way to the show.
+
+
+noun : *list*	*lijst*
+Ik heb een lijst met negen taken op mijn computer.  
+I have a list with nine tasks on my computer.
+
+
+preposition : *from*	*vanuit*
+De sla valt vanuit de wagen.  
+The lettuce falls from the wagon.
+
+
+noun : *band*	*band*
+De stem van de zanger in de band is zwaar.
+The voice of the singer in the band is deep.
+
+
+verb : *believes*	*gelooft*
+De man gelooft de agenten niet.
+The man does not believe the officers.
+
+
+verb : *missed*	*gemist*
+Ik heb mijn relatie daarvoor gemist.
+I missed my relationship before that.
+
+
+noun : *key*	*sleutel*
+De sleutel vertelt hoe je de deur moet regelen.
+The key tells you how to operate the door.
+
+
+verb : *lay*	*lag*
+Ik sla de bal en hij lag raak.
+I hit the ball and it landed accurately.
+
+
+noun : *ass*	*kont*
+Dutch: Het was een zwaar grapje, maar hij viel op zijn kont.
+English: It was a heavy joke, but he fell on his butt.
+
+
+noun : *trip*	*reis*
+De band vertrok vanuit de stad voor een lange reis.
+The band departed from the city for a long journey.
+
+
+noun : *arm*	*arm*
+De lijst viel op mijn arm en het deed hel veel pijn.
+The list fell on my arm and it hurt like hell.
+
+
+show : *show*	*show*
+Ik moest de show zien die ze me hadden gestuurd.
+I had to see the show they had sent me.
+
+
+verb : *tells*	*vertelt*
+De man vertelt dat zijn hond stierf en hij is kapot van verdriet.
+The man tells that his dog died and he is broken with grief.
+
+
+noun : *group*	*groep*
+De groep studenten bestudeert de wet in de hel.
+The group of students studies the law in hell.
+
+
+verb : *called*	*belde*
+Hij belde beide vrienden om te vragen of ze een steek wilden delen.
+He called both friends to ask if they wanted to share a skewer.
+
+
+noun : *swear*	*zweer*
+Het is onmogelijk om te lopen omdat mijn voet kapot is door een zweer.
+It is impossible to walk because my foot is damaged by a sore.
+
+
+noun : *agents*	*agenten*
+De agenten dromen van een grote show.
+The agents dream of a big show.
+
+
+noun : *honor*	*eer*
+Hij kreeg eer waarvoor hij hard werkte vanwege zijn doorzettingsvermogen.
+He received honor for which he worked hard because of his perseverance.
+
+
+adjective : *impossible*	*onmogelijk*
+Het is onmogelijk om onderweg een maat te vinden.
+It is impossible to find a friend while on the way.
+
+
+noun : *lurch*	*steek*
+Komaan, dat is een leuke steek.
+Come on, that is a nice stitch.
+
+
+noun : *hell*	*hel*
+De hel is geen plek waarvoor je kunt lachen.
+The hell is not a place you can laugh about.
+
+
+adjective : *heavy*	*zwaar*
+De tas was zwaar, waarvoor hij lag te rusten.
+The bag was heavy, for which he was lying down to rest.
+
+
+of course : *sure*	*tuurlijk*
+Tuurlijk viel hij naar links.  
+Of course he fell to the left.
+
+
+noun : *command*	*bevel*
+De bevel kwam vanuit de ring.  
+The command came from the ring.
+
+
+adjective : *young*	*jonge*
+De jonge kat is blijkbaar gestuurd naar het nieuwe huis.
+The young cat has apparently been sent to the new house.
+
+
+noun : *church*	*kerk*
+Wij moesten onze gedachten in de kerk ordenen.
+We had to organize our thoughts in the church.
+
+
+noun : *wedding*	*huwelijk*
+Het leuke huwelijk duurde negen jaar.
+The nice marriage lasted nine years.
+
+
+verb : *to share*	*delen*
+De groep wil de witte taart delen.
+The group wants to share the white cake.
+
+
+noun : *salad*	*sla*
+De relatie tussen sla en gezondheid raakt iedereen.
+The relationship between lettuce and health affects everyone.
+
+
+noun : *American*	*Amerikaanse*
+De Amerikaanse stond in de lijn en voelde zich moe.
+The American stood in line and felt tired.
+
+
+noun : *contest*	*wedstrijd*
+Gisteravond was er een leuke wedstrijd.
+Last night there was a fun match.
+
+
+noun : *mate*	*maat*
+James is dom in zijn maat.  
+James is stupid in his size.
+
+
+all : *all*	*allen*
+Allen hebben het bericht op hun kont gelezen.
+All have read the message on their butt.
+
+
+adjective : *broken*	*gebroken*
+De luitenant heeft blijkbaar een gebroken arm.
+The lieutenant apparently has a broken arm.
+
+
+verb : *to dream*	*dromen*
+Ik droomde dat ik in een wagen op een vlucht zat.
+I dreamed that I was in a car on a flight.
+
+
+adverb : *straight away*	*direct*
+Ik stuurde direct een bericht naar hun namen.  
+I sent a message directly to their names.
+
+
+noun : *lieutenant*	*luitenant*
+De luitenant zei dat de kost kapot was.
+The lieutenant said that the food was spoiled.
+
+
+noun : *planet*	*planeet*
+De aarde is een planeet, da's bekend sinds het verleden.
+The Earth is a planet, that's known since the past.
+
+
+adverb : *mainly*	*vooral*
+Hij zoekt vooral naar gebroken speelgoed.
+He is mainly looking for broken toys.
+
+
+noun : *mission*	*missie*
+De wagen had een teken van de missie.  
+The car had a sign of the mission.
+
+
+noun : *middle*	*midden*
+De snelste route kan je sneller naar het midden van de stad leiden.
+The fastest route can lead you faster to the middle of the city.
+
+
+noun : *family*	*gezin*
+Het gezin vierde de derde verjaardag met een grote taart en een steek van vreugde.
+The family celebrated the third birthday with a big cake and a burst of joy.
+
+
+adverb : *yesterday evening*	*gisteravond*
+Gisteravond leek de lijst compleet.
+Last night, the list seemed complete.
+
+
+verb : *to lead*	*leiden*
+De leraar lag blijkbaar ziek thuis en kon de klas niet leiden.
+The teacher was apparently sick at home and could not lead the class.
+
+
+noun : *Lady*	*dame*
+De dame belde omdat we moesten vertrekken.
+The lady called because we had to leave.
+
+
+noun : *message*	*bericht*
+De agenten stuurden een bericht naar het bedrijf.
+The agents sent a message to the company.
+
+
+noun : *fear*	*angst*
+Ik heb angst dat de natte zweer niet zal genezen.
+I have fear that the wet sore will not heal.
+
+
+verb : *died*	*stierf*
+Hij stierf direct na de reis.
+He died immediately after the trip.
+
+
+noun : *cart*	*wagen*
+De hel is heet en de wagen is rood.
+The hell is hot and the car is red.
+
+
+adverb : *evidently*	*blijkbaar*
+Blijkbaar speelt hij graag in de hel.
+Apparently, he likes to play in hell.
+
+
+adjective : *Broken*	*kapot*
+De jongen toonde respect door de kapotte fiets te repareren.
+The boy showed respect by fixing the broken bike.
+
+
+verb : *searches*	*zoekt*
+De man zoekt beide tekens.
+The man is looking for both signs.
+
+
+noun : *soul*	*ziel*
+Gisteravond voelde ik een diepe rust in mijn ziel midden in de stilte.
+Last night I felt a deep peace in my soul in the middle of the silence.
+
+
+noun : *position*	*positie*
+Ik raak de zere plek, maar ik verander mijn positie niet.
+I touch the sore spot, but I do not change my position.
+
+
+adverb : *for what*	*waarvoor*
+Waarvoor belde je met een ziel?
+Why did you call with a soul?
+
+
+noun : *respect*	*respect*
+Respect staat bovenaan de lijst, tuurlijk.
+Respect is at the top of the list, of course.
+
+
+noun : *law*	*wet*
+De wet regelt wat ik heb gemist.
+The law regulates what I have missed.
+
+
+noun : *conversation*	*gesprek*
+De luitenant zal het gesprek leiden.
+The lieutenant will lead the conversation.
+
+
+adjective : *past*	*verleden*
+Het gezin vertelt over hun verleden huis.
+The family talks about their former house.
+
+
+noun : *costs*	*kost*
+De kost van de missie viel hoger uit dan verwacht.
+The cost of the mission turned out higher than expected.
+
+
+adjective : *left*	*links*
+De kost met sla staat links op de tafel.
+The food with lettuce is on the left side of the table.
+
+
+adjective : *white*	*witte*
+Komaan, de witte bal is klaar voor de wedstrijd.
+Come on, the white ball is ready for the match.
+
+
+noun : *ring*	*ring*
+De missie kostte hem zijn ring.
+The mission cost him his ring.
+
+
+noun : *that's*	*da's*
+Da's schuldig, raak je niet aan.  
+That's guilty, don't touch it.
+
+
+verb : *to arrange*	*regelen*
+De jongeman moet alles regelen.
+The young man has to arrange everything.
+
+
+noun : *computer*	*computer*
+Ik ben moe en mijn computer is kapot.
+I am tired and my computer is broken.
+
+
+adjective : *drunk*	*dronken*
+De dronken man liep links en begon te lachen.  
+The drunk man walked to the left and started to laugh.
+
+

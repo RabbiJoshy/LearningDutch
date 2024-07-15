@@ -1,301 +1,250 @@
-,Unnamed: 0,Number,Spanish,lemma forms,Sentence
-0,100,101.0,mejor,mejor,"
-
-""Yo como la mejor comida del mundo."" - I eat the best food in the world."
-1,101,102.0,están,estar,"
-
-""Ellos están contentos"" - They are happy."
-2,102,103.0,va,ir,"
-
-""Va a llover esta tarde."" - It is going to rain this afternoon."
-3,103,104.0,hombre,hombre,"
-
-""El hombre es muy grande."" - The man is very big."
-4,104,105.0,usted,usted,"
-
-Usted es muy amable. - You are very kind."
-5,105,106.0,mucho,mucho,"
-
-""Tengo mucho trabajo que hacer."" - I have a lot of work to do."
-6,106,107.0,hace,hacer,"
-
-""Hace dos horas salí de la casa."" - I left the house two hours ago."
-7,107,108.0,entonces,entonces,"
-
-Entonces, nos vemos mañana. Then, we'll see each other tomorrow."
-8,108,109.0,siento,sentir sentar,"
-
-Siento que estoy perdiendo el control. - I feel like I'm losing control."
-9,109,110.0,tenemos,tener,"
-
-Tenemos una cita a las seis. - We have an appointment at six."
-10,110,111.0,puedes,poder,"
-
-Puedes venir conmigo. - You can come with me."
-11,111,112.0,ahí,ahí,"
-
-Ahí está mi casa. Here is my house."
-12,112,113.0,ti,ti,"
-
-""Ti amo"" - I love you."
-13,113,114.0,vida,vida,"
-
-""La vida es un regalo precioso."" - Life is a precious gift."
-14,114,115.0,ver,ver,"
-
-""He visto una película interesante."" - I have seen an interesting movie."
-15,115,116.0,alguien,alguien,"
-
-Alguien me ayudará. - Someone will help me."
-16,116,117.0,sr,señor,"
-
-""Sr. Presidente, ¿tiene alguna pregunta?"" - Mr. President, do you have any questions?"
-17,117,118.0,hasta,hasta,"
-
-""Hasta mañana, nos vemos entonces"" - Until tomorrow, we'll see each other then."
-18,118,119.0,sin,sin,"
-
-""No puedo vivir sin ti"" - I can't live without you."
-19,119,120.0,mí,mí,"
-
-""Mí casa es tu casa."" = ""My house is your house."""
-20,120,121.0,solo,solo,"
-
-Solo quiero estar contigo. - I just want to be with you."
-21,121,122.0,años,año,"
-
-""Tengo treinta y cinco años."" - I am 35 years old."
-22,122,123.0,sobre,sobre,"
-
-""Él habla sobre la ciencia."" - He talks about science."
-23,123,124.0,decir,decir,"
-
-""Dijo que decía que no."" - He said he said no."
-24,124,125.0,uno,uno,"
-
-""Uno es el primer número."" - One is the first number."
-25,125,126.0,siempre,siempre,"
-
-""Siempre trabajo duro."" - I always work hard."
-26,126,127.0,oh,oh,"
-
-Oh, ¡qué lindo! - Oh, how lovely!"
-27,127,128.0,ir,ir,"
-
-Él fue a la tienda. - He went to the store."
-28,128,129.0,cosas,cosa coser,"
-
-""Él tiene muchas cosas diferentes."" - He has many different things."
-29,129,130.0,también,también,"
-
-""También yo quiero ir al cine."" - ""I also want to go to the movies."""
-30,130,131.0,antes,antes,"
-
-Antes de salir, tomamos una foto. Before leaving, we took a picture."
-31,131,132.0,has,haber,"
-
-Él ha comido mucho. - He has eaten a lot."
-32,132,133.0,ni,ni,"
-
-No tengo ni un centavo. - I don't have even one cent."
-33,133,134.0,mis,mi,"
-
-Mis amigos son muy divertidos. - My friends are very fun."
-34,134,135.0,día,día,"
-
-""Hoy es un día hermoso."" - Today is a beautiful day."
-35,135,136.0,estar,estar,"
-
-Estoy cansada. - I am tired."
-36,136,137.0,estamos,estar,"
-
-Estamos trabajando duro. - We are working hard."
-37,137,138.0,noche,noche,"
-
-""Anoche fue una noche muy divertida."" = ""Last night was a very fun night."""
-38,138,139.0,nadie,nadie,"
-
-Nadie sabe la verdad. - Nobody knows the truth."
-39,139,140.0,otra,otro,"
-
-""Otra vez, me gustaría hacerlo."" - ""Once again, I would like to do it."""
-40,140,141.0,quiere,querer,"
-
-""Él quiere una pizza."" - He wants a pizza."
-41,141,142.0,parece,parecer,"
-
-Parece que está lloviendo, it seems that it is raining."
-42,142,143.0,nosotros,nosotros,"
-
-Nosotros vamos a la playa.  We are going to the beach."
-43,143,144.0,poco,poco,"
-
-""Tengo poco tiempo para preparar la cena."" - I have little time to prepare dinner."
-44,144,145.0,padre,padre,"
-
-Mi padre es un gran hombre. = My father is a great man."
-45,145,146.0,trabajo,trabajo trabajar,"
-
-""El trabajo es muy importante para mi."" - Work is very important to me."
-46,146,147.0,gente,gente,"
-
-La gente está disfrutando del día soleado. - People are enjoying the sunny day."
-47,147,148.0,mira,mirar,"
-
-Mira hacia arriba. - Look up."
-48,148,149.0,vas,ir,"
-
-""Vas a la escuela?"" - Are you going to school?"
-49,149,150.0,sea,ser,"
-
-La mar es muy profunda. - The sea is very deep."
-50,150,151.0,les,les,"
-
-""Les dije que no podía venir."" - I told them I couldn't come."
-51,151,152.0,donde,donde,"
-
-""¿Dónde está el baño?"" - Where is the bathroom?"
-52,152,153.0,mismo,mismo,"
-
-""Él mismo lo hizo."" - He did it himself."
-53,153,154.0,hecho,hacer hecho,"
-
-""Él ha hecho muchas cosas buenas para la comunidad."" - He has done many good things for the community."
-54,154,155.0,ellos,ellos,"
-
-Ellos salieron a pasear. - They went out for a walk."
-55,155,156.0,dijo,decir,"
-
-""Dijo que no podía venir"" - He said he couldn't come."
-56,156,157.0,pasa,pasar,"
-
-""¿Qué pasa?"" - What's up?"
-57,157,158.0,dinero,dinero,"
-
-""Tengo que ahorrar dinero para mis vacaciones."" = ""I need to save money for my vacation."""
-58,158,159.0,hijo,hijo,"
-
-Mi hijo es muy inteligente. - My son is very intelligent."
-59,159,160.0,tal,tal,"
-
-""Tal vez mañana tengamos buen tiempo."" - ""Maybe tomorrow we will have good weather."""
-60,160,161.0,otro,otro,"
-
-""Otro día vamos al parque."" - ""We're going to the park another day."""
-61,161,162.0,hablar,hablar,"
-
-Ella habla inglés. - She speaks English."
-62,162,163.0,seguro,seguro,"
-
-""Seguro que sí."" - ""Surely yes."""
-63,163,164.0,claro,claro,"
-
-""Claro que sí"" - Of course, yes."
-64,164,165.0,estas,este,"
-
-""¿Cómo estas?"" - How are you?"
-65,165,166.0,lugar,lugar,"
-
-""El lugar es muy bonito."" - The place is very pretty."
-66,166,167.0,mundo,mundo,"
-
-""El mundo es un lugar maravilloso."" - The world is a wonderful place."
-67,167,168.0,amigo,amigo,"
-
-""Tú eres mi mejor amigo."" - You are my best friend."
-68,168,169.0,espera,esperar espera,"
-
-Espero que llegues pronto. - I hope you arrive soon."
-69,169,170.0,mierda,mierda,"
-
-""¡Eso es una mierda!"" - That's crap!"
-70,170,171.0,han,haber,"
-
-Han salido del cine. = They have left the cinema."
-71,171,172.0,tus,tu,"
-
-""Tus ojos son hermosos."" - Your eyes are beautiful."
-72,172,173.0,sabe,saber,"
-
-""No sabe lo que está pasando"" - He/She doesn't know what is happening."
-73,173,174.0,después,después,"
-
-Después de la fiesta, fuimos a casa. After the party, we went home."
-74,174,175.0,momento,momento,"
-
-""En este momento estoy muy ocupado."" - At this moment I am very busy."
-75,175,176.0,desde,desde,"
-
-Desde el principio, he estado allí para apoyarte. - Since the beginning, I have been there to support you."
-76,176,177.0,fuera,fuera ir ser,"
-
-""Fuera de aquí!"" - Get out of here!"
-77,177,178.0,cosa,cosa coser,"
-
-""¿Qué cosa es eso?"" - What is that thing?"
-78,178,179.0,tipo,tipo,"
-
-""Es un tipo muy simpático"" - He is a very nice guy."
-79,179,180.0,mañana,mañana,"
-
-Mañana iremos al parque. - We will go to the park tomorrow."
-80,180,181.0,podemos,poder,"
-
-Podemos comer pizza esta noche. We can eat pizza tonight."
-81,181,182.0,dije,decir,"
-
-Dije que iba a hacerlo mañana. - I said I was going to do it tomorrow."
-82,182,183.0,gran,grande,"
-
-""Ella es una gran cantante."" - She is a great singer."
-83,183,184.0,necesito,necesitar,"
-
-Necesito un lápiz. - I need a pencil."
-84,184,185.0,estado,estar estado,"
-
-El estado de mi salud es bueno. - The state of my health is good."
-85,185,186.0,podría,poder,"
-
-Podría ir al cine esta noche. = I could go to the movies tonight."
-86,186,187.0,acuerdo,acordar acuerdo,"
-
-""Estoy de acuerdo contigo."" - I agree with you."
-87,187,188.0,papá,papá,"
-
-""Mi papá es mi mejor amigo."" - My dad is my best friend."
-88,188,189.0,tener,tener,"
-
-Tengo que ir al supermercado. - I have to go to the supermarket."
-89,189,190.0,dice,decir,"
-
-""Dice que va a llover mañana."" - He/She says it's going to rain tomorrow."
-90,190,191.0,mío,mío,"
-
-""Este libro es mío."" - This book is mine."
-91,191,192.0,crees,creer,"
-
-""¿Crees que es una buena idea?"" - Do you think it's a good idea?"
-92,192,193.0,buena,bueno buena,"
-
-""Ella tiene una buena actitud"" - She has a good attitude."
-93,193,194.0,gusta,gustar,"
-
-Me gusta leer libros. - I like to read books."
-94,194,195.0,nuestro,nuestro,"
-
-Nuestro hogar es nuestro refugio. - Our home is our refuge."
-95,195,196.0,nuevo,nuevo,"
-
-Mi hermano compró un coche nuevo. - My brother bought a new car."
-96,196,197.0,será,ser,"
-
-""Será una gran experiencia"" - It will be a great experience."
-97,197,198.0,haciendo,hacer,"
-
-Estoy haciendo mi tarea, I am doing my homework."
-98,198,199.0,días,día,"
-
-""Los días pasan rápidamente."" - The days pass quickly."
-99,199,200.0,nombre,nombre,"
-
-""¿Cuál es tu nombre?"" - What is your name?"
+,Unnamed: 0,Spanish,show,lemma,ChatGPT_Sentence
+0,100,tiempo,tiempo,tiempo,"Nadie tiene otro tiempo para esperar.  
+Nobody has any more time to wait."
+1,101,verdad,verdad,verdad,"Claro, aquí tienes una oración:
+
+""Podría estar diciendo la verdad.""
+
+""He could be telling the truth."""
+2,102,estaba,*estaba* (estar),estar,"Estaba en mi trabajo, pero no estaba seguro de qué hacer.
+
+I was at my job, but I wasn't sure what to do."
+3,103,mejor,mejor,mejor,"Claro, aquí tienes una oración:
+
+""Te dije que este es el mejor estado.""
+
+""I told you that this is the best state."""
+4,104,están,*están* (estar),estar,"Los niños están jugando hasta que puedes verlos.
+
+The children are playing until you can see them."
+5,105,va,*va* (ir),ir,"Mañana tal vez va a llover.
+Tomorrow it might rain."
+6,106,hombre,hombre,hombre,"Claro, el hombre está sin sombrero.
+Of course, the man is without a hat."
+7,107,usted,usted,usted,"¿Usted siempre está feliz?
+Are you always happy?"
+8,108,mucho,mucho,mucho,"El hombre me ayuda mucho a mí.
+The man helps me a lot."
+9,109,hace,*hace* (hacer),hacer,"Tú has hecho muchas cosas hoy.
+You have done many things today."
+10,110,entonces,entonces,entonces,"Estaba fuera, entonces decidí regresar.
+
+I was outside, so I decided to return."
+11,111,siento,*siento* (sentir),sentir,"Siento mucho hasta que llegues.
+
+I feel a lot until you arrive."
+12,112,siento,*siento* (sentar),sentar,"Claro, él quiere que me siento aquí.  
+Of course, he wants me to sit here."
+13,113,tenemos,*tenemos* (tener),tener,"Nosotros tenemos claro el plan.
+We have the plan clear."
+14,114,puedes,*puedes* (poder),poder,"¿Puedes viajar a otro estado?
+Can you travel to another state?"
+15,115,ahí,ahí,ahí,"Ahí es donde veo el parque desde mi ventana.
+There is where I see the park from my window."
+16,116,ti,ti,ti,"Solo quiero hablar contigo.  
+I just want to talk to you."
+17,117,vida,vida,vida,"La vida es más segura por la noche.
+Life is safer at night."
+18,118,ver,ver,ver,"Siempre me gusta ver las estrellas fuera.
+I always like to see the stars outside."
+19,119,alguien,alguien,alguien,"Alguien ha cambiado mi vida.
+
+Someone has changed my life."
+20,120,sr,*sr* (señor),señor,"Señor, ¿puedo hablar con usted ahí?
+Mr., can I talk to you there?"
+21,121,hasta,hasta,hasta,"Hasta luego, Sr. García, espera aquí.
+Until later, Mr. García, wait here."
+22,122,sin,sin,sin,"Hablamos sobre el trabajo sin descanso.
+We talk about work without rest."
+23,123,mí,mí,mí,"Lo siento, señor, pero esto es para mí.
+I'm sorry, sir, but this is for me."
+24,124,solo,solo,solo,"Solo quiero otro libro entonces.  
+I only want another book then."
+25,125,años,*años* (año),año,"El tiempo pasa muy rápido y en pocos años todo cambia.
+The time passes very quickly and in a few years everything changes."
+26,126,sobre,sobre,sobre,"Les hablé sobre uno de mis libros favoritos.
+I talked to them about one of my favorite books."
+27,127,decir,decir,decir,"Claro, aquí tienes una oración:
+
+""Ahí puedes ver y decir lo que piensas.""
+
+""There you can see and say what you think."""
+28,128,uno,uno,uno,"Nosotros hablamos con uno de los amigos.
+We talk with one of the friends."
+29,129,siempre,siempre,siempre,"Siempre siento que no tengo tiempo.
+I always feel that I don't have time."
+30,130,oh,oh,oh,"Oh, ¿dónde está el otro libro?
+Oh, where is the other book?"
+31,131,ir,ir,ir,"Voy a ir al tipo de tienda, ¿verdad?
+
+I am going to go to that type of store, right?"
+32,132,cosas,*cosas* (cosa),cosa,"Tú has comprado muchas cosas y están en la mesa.
+You have bought many things and they are on the table."
+33,133,cosas,*cosas* (coser),coser,"Claro, aquí tienes una oración:
+
+""Mi abuela quiere coser cosas para ti.""
+
+""My grandmother wants to sew things for you."""
+34,134,también,también,también,"A mí también me gusta estar fuera.
+
+I also like to be outside."
+35,135,antes,antes,antes,"Necesito encontrar un lugar antes de que oscurezca.
+I need to find a place before it gets dark."
+36,136,has,*has* (haber),haber,"En ese momento, él ya había estado allí.
+
+At that moment, he had already been there."
+37,137,ni,ni,ni,"María no quiere ni pizza ni pasta para su cumpleaños de diez años.
+María doesn't want either pizza or pasta for her ten-year-old birthday."
+38,138,mis,*mis* (mi),mi,"Mis amigos siempre les ayudan.  
+My friends always help them."
+39,139,día,día,día,"Hoy hace calor y me siento feliz en este día.
+Today it is hot and I feel happy on this day."
+40,140,estar,estar,estar,"Estamos contentos porque tenemos muchas cosas.
+We are happy because we have many things."
+41,141,estamos,*estamos* (estar),estar,"Estamos felices después de que estaba triste.  
+We are happy after I was sad."
+42,142,noche,noche,noche,"Anoche estaba oscuro y han salido las estrellas.
+Last night it was dark and the stars have come out."
+43,143,nadie,nadie,nadie,"Nadie de nosotros vio a nuestro padre ayer.
+No one from us saw our father yesterday."
+44,144,otra,*otra* (otro),otro,"Claro, aquí tienes una oración:
+
+""Espere un momento, por favor, necesito otra opinión de usted.""
+
+""Wait a moment, please, I need another opinion from you."""
+45,145,quiere,*quiere* (querer),querer,"Ella también quiere una vida feliz.
+She also wants a happy life."
+46,146,parece,*parece* (parecer),parecer,"Entonces, parece que el gato quiere salir fuera.
+
+So, it seems that the cat wants to go outside."
+47,147,nosotros,nosotros,nosotros,"Nosotros vamos a la tienda hasta que encontremos el tipo de pan que nos gusta.
+We go to the store until we find the type of bread we like."
+48,148,poco,poco,poco,"Siempre digo poco.  
+I always say little."
+49,149,padre,padre,padre,"Mi padre quiere saber quién ha hecho esto.
+My father wants to know who has done this."
+50,150,trabajo,trabajo,trabajo,"Mi hijo tiene uno trabajo.
+My son has one job."
+51,151,trabajo,*trabajo* (trabajar),trabajar,"Puedes saber más sobre el trabajo.
+
+You can learn more about the job."
+52,152,gente,gente,gente,"Después del hecho, la gente se fue a sus casas.
+After the event, the people went to their homes."
+53,153,mira,*mira* (mirar),mirar,"Mira, siento mucho, entonces vamos a hablar.
+
+Look, I'm very sorry, so let's talk."
+54,154,vas,*vas* (ir),ir,"¿Vas al parque donde siempre podemos jugar?
+Are you going to the park where we can always play?"
+55,155,sea,*sea* (ser),ser,"Después de la reunión, les dije que sea puntual.
+
+After the meeting, I told them to be punctual."
+56,156,les,les,les,"Después de la clase, ella les quiere dar un regalo.
+
+After the class, she wants to give them a gift."
+57,157,donde,donde,donde,"¿Dónde están tus libros, nosotros no los encontramos?
+Where are your books, we can't find them?"
+58,158,mismo,mismo,mismo,"Mañana voy a la misma tienda que mí.
+
+Tomorrow I am going to the same store as me."
+59,159,hecho,*hecho* (hacer),hacer,"En ese momento, todo lo que había hecho se quedó fuera.
+
+At that moment, everything I had done was left out."
+60,160,hecho,hecho,hecho,"Necesito que les muestres el hecho.
+
+I need you to show them the fact."
+61,161,ellos,ellos,ellos,"Ellos pasan por aquí, ¿usted los vio?
+They pass by here, did you see them?"
+62,162,dijo,*dijo* (decir),decir,"Él dijo que estar aquí mucho tiempo.
+
+He said to be here for a long time."
+63,163,pasa,*pasa* (pasar),pasar,"Mis amigos están en la casa y no pasa nada.
+
+My friends are at the house and nothing is happening."
+64,164,dinero,dinero,dinero,"Él va a ver si tiene dinero.  
+He is going to see if he has money."
+65,165,hijo,hijo,hijo,"El hijo ha hecho amigos con la gente del barrio.
+The son has made friends with the people in the neighborhood."
+66,166,tal,tal,tal,"Si tal fuera el caso, podemos hablar.
+
+If such were the case, we can talk."
+67,167,otro,otro,otro,"El hombre llegó a un acuerdo con otro.
+The man reached an agreement with another."
+68,168,hablar,hablar,hablar,"Mañana quiero hablar con otra persona.
+
+Tomorrow I want to talk with another person."
+69,169,seguro,seguro,seguro,"Mi padre está seguro de que las cosas mejorarán.
+My father is sure that things will get better."
+70,170,claro,claro,claro,"Claro, hijo, te daré dinero.  
+Of course, son, I will give you money."
+71,171,estas,*estas* (este),este,"Lo siento, ¿podrías decirme dónde estás?
+I'm sorry, could you tell me where you are?"
+72,172,lugar,lugar,lugar,"Este lugar es el mejor para ver el mundo.
+This place is the best to see the world."
+73,173,mundo,mundo,mundo,"En este mundo, la vida no es ni fácil ni difícil.
+In this world, life is neither easy nor difficult."
+74,174,amigo,amigo,amigo,"Mi amigo es un buen tipo en la vida.
+My friend is a good guy in life."
+75,175,espera,*espera* (esperar),esperar,"Claro, aquí tienes una oración:
+
+""Espera un momento mientras busco la cosa para mí.""
+
+""Wait a moment while I look for the thing for me."""
+76,176,espera,espera,espera,"Siento que la espera es segura.
+
+I feel that the wait is safe."
+77,177,mierda,mierda,mierda,"El niño dijo que no quiere esa mierda.
+The boy said he doesn't want that crap."
+78,178,han,*han* (haber),haber,"Han llegado ni antes ni después.
+They have arrived neither before nor after."
+79,179,tus,*tus* (tu),tu,"Tus amigos saben que has hecho un buen trabajo.
+Your friends know that you have done a good job."
+80,180,sabe,*sabe* (saber),saber,"¿Vas a decirme quién sabe lo que has hecho?
+Are you going to tell me who knows what you have done?"
+81,181,después,después,después,"Después de la cena, jugamos otro juego, claro.  
+After dinner, we play another game, of course."
+82,182,momento,momento,momento,"En ese momento, estaba feliz de estar con mi familia.
+In that moment, I was happy to be with my family."
+83,183,desde,desde,desde,"Desde el mismo día, no he vuelto después.  
+Since the same day, I haven't returned afterwards."
+84,184,fuera,fuera,fuera,"Fuera de la casa, había mierda en el jardín.
+Outside the house, there was poop in the garden."
+85,185,fuera,*fuera* (ir),ir,"Fuera con tus amigos y les compré helado.
+
+I went out with your friends and bought them ice cream."
+86,186,fuera,*fuera* (ser),ser,"Fuera de la casa, he hecho mi tarea mañana.
+
+Outside the house, I have done my homework for tomorrow."
+87,187,cosa,cosa,cosa,"La verdad es que esa cosa brilla en la noche.
+The truth is that thing shines at night."
+88,188,cosa,*cosa* (coser),coser,"Veo una cosa y también quiero coser.  
+I see a thing and also want to sew."
+89,189,tipo,tipo,tipo,"Hay un tipo de trabajo ahí.
+
+There is a type of job there."
+90,190,mañana,mañana,mañana,"Mañana será un día bonito, ¡oh sí!
+Tomorrow will be a beautiful day, oh yes!"
+91,191,podemos,*podemos* (poder),poder,"Podemos ver muchas cosas en la noche.
+We can see many things at night."
+92,192,dije,*dije* (decir),decir,"Claro, aquí tienes una oración:
+
+""Dije que estas flores también son bonitas.""
+
+""I said that these flowers are also beautiful."""
+93,193,gran,*gran* (grande),grande,"La cosa sabe a gran aventura.
+The thing tastes like a great adventure."
+94,194,necesito,*necesito* (necesitar),necesitar,"Necesito estar feliz en mi vida.
+I need to be happy in my life."
+95,195,estado,*estado* (estar),estar,"El Sr. García siempre ha estado feliz.
+
+Mr. García has always been happy."
+96,196,estado,estado,estado,"Mira, he estado esperando para ver la película.
+
+Look, I have been waiting to see the movie."
+97,197,podría,*podría* (poder),poder,"¿Podría tu hijo traer tus libros?
+Could your son bring your books?"
+98,198,acuerdo,*acuerdo* (acordar),acordar,"Ellos han llegado a un acuerdo sobre la cosa.
+
+They have reached an agreement about the thing."
+99,199,acuerdo,acuerdo,acuerdo,"Oh, usted está de acuerdo conmigo.
+
+Oh, you agree with me."

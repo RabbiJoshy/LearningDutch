@@ -1,0 +1,1256 @@
+Noun : *machines*	*máquinas*
+Las máquinas tienen una alarma que debemos compartir.
+The machines have an alarm that we must share.
+
+
+Noun : *I'll bring*	*traeré*
+Traeré la compra correcta mañana.
+I will bring the correct purchase tomorrow.
+
+
+Verb : *review*	*revisar*
+Necesito revisar la planta antes de ponerme el abrigo.
+I need to check the plant before putting on my coat.
+
+
+Numeral : *twenty*	*veinte*
+Tengo veinte minutos para hablarle por la tele.
+I have twenty minutes to talk to him on the TV.
+
+
+Noun : *beings*	*seres*
+Los seres dulces ayudan al ciego a cruzar la calle.
+The sweet beings help the blind man cross the street.
+
+
+Verb : *talk to him*	*hablarle*
+Voy al museo para hablarle sobre el súper.
+I am going to the museum to talk to him/her about the supermarket.
+
+
+Noun : *disk*	*disco*
+El honesto niño compró un disco por doce euros.
+The honest boy bought a record for twelve euros.
+
+
+Noun : *disk*	*disco*
+He leído sobre cómo discar desde la planta de la oficina.
+I have read about how to dial from the office floor.
+
+
+Noun : *transport*	*transporte*
+El transporte pasó junto a las paredes de la ciudad.
+The transport passed by the walls of the city.
+
+
+Noun : *transport*	*transporte*
+Déjala en pedazos para facilitar el transporte.
+Leave it in pieces to facilitate the transport.
+
+
+Verb : *mine*	*mina*
+La mina tiene un dragón y nadie puede hablarle.  
+The mine has a dragon and no one can talk to it.
+
+
+Noun : *lips*	*labios*
+La mina está aparte de mis labios.
+The mine is apart from my lips.
+
+
+Verb : *lordship*	*señoría*
+En julio, mis pensamientos están llenos de respeto hacia su señoría.  
+In July, my thoughts are full of respect towards your honor.
+
+
+Verb : *we call*	*llamamos*
+Nosotros llamamos a estas tierras el saco de oro.
+We call these lands the sack of gold.
+
+
+Numeral : *twelve*	*doce*
+¿Pensaste en la vigilancia de los doce niños?  
+Did you think about the supervision of the twelve children?
+
+
+Verb : *take care of yourself*	*cuídate*
+Precisamente, cuídate y usa ropa suave.  
+Precisely, take care and wear soft clothes.
+
+
+Noun : *aisle*	*pasillo*
+He leído un libro mientras vuelves por el pasillo.
+I have read a book while you return through the hallway.
+
+
+Proper noun : *TV*	*tele*
+La tele tiene una imagen suave y correcta.
+The TV has a smooth and correct image.
+
+
+Proper noun : *TV*	*tele*
+El ruso juega con la tele.
+The Russian plays with the TV.
+
+
+Adjective : *could*	*podria*
+¿Podría permitir que acaban la tarea?
+Could you allow them to finish the task?
+
+
+Adjective : *complete*	*completa*
+Ruego que completes el libro porque estoy aburrido.
+I beg you to complete the book because I am bored.
+
+
+Adjective : *complete*	*completa*
+Los estudiantes podrán caminar por el pasillo cuando la tarea esté completa.
+The students will be able to walk through the hallway when the homework is complete.
+
+
+Adjective : *fast*	*rápida*
+La alarma sonó y buscamos una solución rápida.
+The alarm went off and we looked for a quick solution.
+
+
+Adverb : *precisely*	*precisamente*
+Precisamente, debes presionar el botón para compartir la foto.  
+Precisely, you must press the button to share the photo.
+
+
+Verb : *called*	*llamaste*
+¿Llamaste al servicio de transporte para que te sientas más cómodo?
+Did you call the transportation service so you feel more comfortable?
+
+
+Verb : *achieve*	*cumplir*
+Voy a cumplir la fecha límite.
+I am going to meet the deadline.
+
+
+Noun : *services*	*servicios*
+Los servicios aparte requieren un esfuerzo adicional.
+The separate services require additional effort.
+
+
+Noun : *signs*	*señales*
+La calle está ocupada con señales y esposas de policía.
+The street is busy with signs and police handcuffs.
+
+
+Verb : *they finished*	*acaban*
+Los seres que llamaste acaban de llegar.  
+The beings you called have just arrived.
+
+
+Determiner : *Let go*	*suéltame*
+Suéltame, sacaste la mano rápidamente.
+Let go of me, you took your hand out quickly.
+
+
+Noun : *talk to you*	*hablarte*
+Claro, aquí tienes una oración:
+"Quiero hablarte sobre la compra que hicimos en el sótano."
+"I want to talk to you about the purchase we made in the basement."
+
+
+Noun : *I tried*	*traté*
+Traté de sacar la llave del bolsillo, pero déjala ahí.
+I tried to take the key out of the pocket, but leave it there.
+
+
+Adjective : *fish*	*pescado*
+He contado mis pensamientos mientras comía pescado.
+I have shared my thoughts while eating fish.
+
+
+Adjective : *fish*	*pescado*
+El disco de la comunidad tiene una receta de pescado.
+The community's disc has a fish recipe.
+
+
+Noun : *bones*	*huesos*
+El conejo encontró huesos en malas condiciones.
+The rabbit found bones in bad conditions.
+
+
+Verb : *would give*	*daría*
+Os daría una pista, pero estáis tratando de atrapar al ladrón.
+I would give you a clue, but you are trying to catch the thief.
+
+
+Noun : *buys*	*compra*
+Precisamente, la autoridad realiza la compra.
+Precisely, the authority makes the purchase.
+
+
+Noun : *buys*	*compra*
+Si ves un aviso de una buena oferta, dímelo para que haga la compra.
+If you see an ad for a good deal, tell me so I can make the purchase.
+
+
+Noun : *you brought*	*trajiste*
+¿Traes la diversión que trajiste ayer?
+Did you bring the fun that you brought yesterday?
+
+
+Noun : *temple*	*templo*
+Espero que vengas al templo porque entendí que es muy bonito.
+I hope you come to the temple because I understood that it is very beautiful.
+
+
+Verb : *plate*	*placa*
+La placa en mi bolsillo me trae muchos pensamientos.  
+The badge in my pocket brings me many thoughts.
+
+
+Noun : *odds*	*posibilidades*
+Hay muchas posibilidades de hablarle al pájaro.
+There are many possibilities to talk to the bird.
+
+
+Noun : *gonna*	*ira*
+La ira nubla tu visión cuando vengas.
+Anger clouds your vision when you come.
+
+
+Verb : *come*	*vengas*
+No vengas a la fiesta porque mis amigas no quieren que maten la diversión.
+Do not come to the party because my friends do not want to kill the fun.
+
+
+Verb : *Following*	*siguiendo*
+El pájaro está siguiendo la vigilancia del guardabosques.
+The bird is following the ranger's surveillance.
+
+
+Auxiliary : *will be able*	*podrán*
+Podrán usar el saco si se quedan.
+They will be able to use the jacket if they stay.
+
+
+Adjective : *call me*	*llamarme*
+Desearía que me pudieras llamar, es algo sencillo.
+I wish you could call me, it's something simple.
+
+
+Adjective : *true*	*cierta*
+La mina está cierta y la dueña está orgullosa.  
+The mine is certain and the owner is proud.
+
+
+Verb : *allow*	*permitir*
+La planta en el jardín puede permitir que el día aburrido sea más interesante.
+The plant in the garden can allow the boring day to be more interesting.
+
+
+Noun : *conditions*	*condiciones*
+Desearía que las condiciones fueran mejores para mi amiga.
+I wish the conditions were better for my friend.
+
+
+Verb : *catch*	*atrapar*
+El niño podía imaginar atrapando mariposas mientras estaba pidiendo un deseo.  
+The boy could imagine catching butterflies while making a wish.
+
+
+Noun : *temperature*	*temperatura*
+La temperatura es agradable y tengo una sonrisa porque he comido bien.
+The temperature is pleasant and I have a smile because I have eaten well.
+
+
+Noun : *explanation*	*explicación*
+Vivía con mis hermanas y necesitaba una explicación.
+I lived with my sisters and needed an explanation.
+
+
+Verb : *sent*	*enviado*
+El mensaje sencillo fue enviado por transporte.
+The simple message was sent by transport.
+
+
+Verb : *sent*	*enviado*
+He enviado las cartas pequeñas mientras estaba leyendo.
+I have sent the small letters while I was reading.
+
+
+Adjective : *counted*	*contado*
+El dragón me ha contado que el clima está cambiando.
+The dragon has told me that the climate is changing.
+
+
+Adjective : *counted*	*contado*
+He contado cómo he conseguido el trabajo rápidamente.
+I have told how I got the job quickly.
+
+
+Noun : *assistant*	*asistente*
+El asistente arregló la tele y colocó la nueva placa.
+The assistant fixed the TV and installed the new board.
+
+
+Noun : *empire*	*imperio*
+Estoy leyendo un libro sobre el imperio de Drácula.
+I am reading a book about the empire of Dracula.
+
+
+Verb : *asking*	*pidiendo*
+Estoy pidiendo que vengas porque la señora está ocupada.
+I am asking you to come because the lady is busy.
+
+
+Noun : *grades*	*notas*
+Ella sabrá las notas cuando acaban las clases.
+She will know the grades when classes end.
+
+
+Noun : *grades*	*notas*
+Claro, aquí tienes una oración:
+"Le hablé y noté que existen muchas notas en su cuaderno."
+"I talked to him and noticed that there are many notes in his notebook."
+
+
+Adjective : *curious*	*curioso*
+El gato curioso camina por el pasillo de la marina.
+The curious cat walks through the hallway of the marina.
+
+
+Noun : *operations*	*operaciones*
+Es difícil imaginar las operaciones necesarias para completar la ruta.
+It is difficult to imagine the operations necessary to complete the route.
+
+
+Noun : *keep*	*mantén*
+Mantén la calma y espera el mensaje enviado para saber qué va a suceder.
+Keep calm and wait for the sent message to know what is going to happen.
+
+
+Noun : *land*	*tierras*
+El hombre pierde sus tierras y compra una casa nueva.
+The man loses his lands and buys a new house.
+
+
+Noun : *you believe*	*creas*
+No creas que la marina ofrece una gran recompensa.
+Don't believe that the navy offers a big reward.
+
+
+Noun : *fish*	*pez*
+La mujer ocupada quiere viajar con su pez.
+The busy woman wants to travel with her fish.
+
+
+Verb : *will die*	*morirá*
+El perro morirá si no recibe notas sobre el transporte adecuado.
+The dog will die if it doesn't receive notes about proper transportation.
+
+
+Noun : *vision*	*visión*
+La visión del súper se desvaneció rápidamente.
+The vision of the supermarket faded quickly.
+
+
+Noun : *mountains*	*montañas*
+Las montañas están cubiertas de material asqueroso.
+The mountains are covered in disgusting material.
+
+
+Verb : *Eaten*	*comido*
+Abra la puerta después de que hayas comido lo que sacaste del refrigerador.
+Open the door after you have eaten what you took out of the refrigerator.
+
+
+Verb : *Eaten*	*comido*
+Espero que vengas rápida porque ya he comido.
+I hope you come quickly because I have already eaten.
+
+
+Verb : *build*	*construir*
+Voy a construir un registro de conexión.
+I am going to build a connection log.
+
+
+Noun : *community*	*comunidad*
+La comunidad mantiene un registro de las notas de todos los estudiantes.
+The community keeps a record of all the students' grades.
+
+
+Verb : *you will see*	*verán*
+Ellos verán la solución y estarán orgullosos.
+They will see the solution and be proud.
+
+
+Verb : *misses*	*pierde*
+No pierdes nada si vuelves y piensas un poco más.
+You lose nothing if you come back and think a little more.
+
+
+Adjective : *think*	*piense*
+Espero que piense en los pedazos de felicidad.
+I hope you think about the pieces of happiness.
+
+
+Noun : *happiness*	*felicidad*
+Tu sonrisa me da mucha felicidad, estarías de acuerdo.
+Your smile gives me much happiness, you would agree.
+
+
+Noun : *fun*	*diversión*
+Déjala que pierda el miedo y encuentre la diversión.
+Let her lose the fear and find the fun.
+
+
+Verb : *except*	*salvó*
+El bombero salvó al hombre que no piense en dejar el cigarrillo.  
+The firefighter saved the man who doesn't think about quitting smoking.
+
+
+Verb : *remove*	*quita*
+María quita el libro de la mesa porque no entendí la compra.
+María removes the book from the table because I didn't understand the purchase.
+
+
+Noun : *museum*	*museo*
+Hay muchas posibilidades de visitar el museo antes de la fecha límite.
+There are many possibilities to visit the museum before the deadline.
+
+
+Verb : *Shooting*	*disparó*
+El guardia disparó en el pasillo durante el tratamiento.
+The guard fired in the hallway during the treatment.
+
+
+Verb : *I would like*	*desearía*
+Desearía una vida completa que me daría felicidad.
+I would wish for a complete life that would give me happiness.
+
+
+Noun : *mystery*	*misterio*
+Hay un misterio que quiero compartir contigo, cuídate.
+There is a mystery that I want to share with you, take care.
+
+
+Verb : *we search*	*buscamos*
+Buscamos el registro de nuestra felicidad.
+We are looking for the record of our happiness.
+
+
+Noun : *warning*	*aviso*
+Volví y buscamos el aviso en la mesa.  
+I returned and we looked for the notice on the table.
+
+
+Noun : *warning*	*aviso*
+El aviso en la antigua casa era sencillo.  
+The notice in the old house was simple.
+
+
+Noun : *admiral*	*almirante*
+El almirante quería decírselo a mia hermana.  
+The admiral wanted to tell it to my sister.
+
+
+Noun : *solution*	*solución*
+Dímelo si estarías de acuerdo con la solución.
+Tell me if you would agree with the solution.
+
+
+Adjective : *little*	*pequeñas*
+Las cajas pequeñas fueron enviadas en un paquete cómodo.
+The small boxes were sent in a comfortable package.
+
+
+Verb : *missing*	*faltan*
+Faltan dos días para que se abra la tienda donde vivía.
+There are two days left until the store opens where I used to live.
+
+
+Verb : *exist*	*existen*
+Siguiendo lo que pensaste, existen muchas posibilidades.
+Following what you thought, there are many possibilities.
+
+
+Noun : *fuel*	*combustible*
+El clima frío hace que necesitemos más combustible para cocinar el pescado.  
+The cold weather makes us need more fuel to cook the fish.
+
+
+Verb : *read*	*leído*
+He leído que la alarma salvó a muchas personas.
+I have read that the alarm saved many people.
+
+
+Verb : *throw*	*tirar*
+Voy a tirar la planta del escritorio.
+I am going to throw the plant off the desk.
+
+
+Verb : *reply*	*responder*
+El maestro nos pidió que respondiéramos sobre el material cuando abra el libro.
+The teacher asked us to respond about the material when he opens the book.
+
+
+Noun : *effort*	*esfuerzo*
+El dragón disparó fuego con gran esfuerzo.
+The dragon shot fire with great effort.
+
+
+Noun : *effort*	*esfuerzo*
+El almirante hizo un gran esfuerzo para enseñar la lección.  
+The admiral made a great effort to teach the lesson.
+
+
+Noun : *you come back*	*vuelves*
+Cuando vuelves, traeré lo que sacaste.  
+When you return, I will bring what you took out.
+
+
+Adjective : *bird*	*pájaro*
+El pájaro es un medio de transporte rápido, pero no puedo decírselo a nadie.
+The bird is a fast means of transportation, but I can't tell anyone.
+
+
+Noun : *sisters*	*hermanas*
+Mis hermanas están leyendo con mucho esfuerzo.
+My sisters are reading with a lot of effort.
+
+
+Noun : *warrior*	*guerrero*
+El guerrero revisó el registro cuando sonó la alarma.
+The warrior checked the record when the alarm went off.
+
+
+Noun : *wives*	*esposas*
+Claro, aquí tienes una oración:
+"Si no fuera por el registro, estarías en esposas."
+"If it weren't for the record, you would be in handcuffs."
+
+
+Noun : *wives*	*esposas*
+Las esposas llamaron a los servicios médicos porque uno de sus hijos tenía fiebre.
+The wives called the medical services because one of their children had a fever.
+
+
+Noun : *eat*	*coma*
+El amante fue al hospital para revisar si estaba en coma.
+The lover went to the hospital to check if he was in a coma.
+
+
+Noun : *eat*	*coma*
+Si creas una buena entrevista, come después para relajarte.
+If you create a good interview, eat afterward to relax.
+
+
+Verb : *open*	*abra*
+Por favor, abra la puerta para llamarme y verificar la conexión.
+Please, open the door to call me and check the connection.
+
+
+Verb : *open*	*abra*
+Voy a preguntarle si su uniforme abra bien.
+I am going to ask him if his uniform fits well.
+
+
+Verb : *you bring*	*traes*
+¿Traes doce manzanas?
+Are you bringing twelve apples?
+
+
+Noun : *feel*	*sientas*
+No sientas miedo al cambiar de rumbo bajo la sombra de los árboles.
+Do not feel afraid to change course under the shade of the trees.
+
+
+Noun : *feel*	*sientas*
+Cuando compras una silla, asegúrate de que te sientas cómodo de muchas maneras.
+When you buy a chair, make sure you feel comfortable in many ways.
+
+
+Verb : *forget*	*olvide*
+Olvidé mis heridas, mírate a ti mismo.
+I forgot my wounds, look at yourself.
+
+
+Noun : *pocket*	*bolsillo*
+El niño aburrido sacó un juguete de su bolsillo para imaginar aventuras.
+The bored child took a toy out of his pocket to imagine adventures.
+
+
+Noun : *wounds*	*heridas*
+Las heridas me convierten en alguien más fuerte, así que puedes llamarme valiente.
+The wounds make me stronger, so you can call me brave.
+
+
+Noun : *wounds*	*heridas*
+Las heridas del accidente en el museo sanaron antes de la fecha prevista.
+The injuries from the accident at the museum healed before the expected date.
+
+
+Adjective : *coat*	*saco*
+¿Trajiste el saco aburrido?
+Did you bring the boring jacket?
+
+
+Adjective : *coat*	*saco*
+Saco las líneas del dibujo porque estoy aburrido.
+I erase the lines of the drawing because I am bored.
+
+
+Noun : *gasoline*	*gasolina*
+Revisa la gasolina y cuídate.
+Check the gasoline and take care.
+
+
+Noun : *Connection*	*conexión*
+Necesito una conexión a internet para enviar los documentos con la explicación.
+I need an internet connection to send the documents with the explanation.
+
+
+Adjective : *correct*	*correcta*
+La respuesta correcta en la entrevista fue sobre el pescado.
+The correct answer in the interview was about the fish.
+
+
+Noun : *pieces*	*pedazos*
+Claro, aquí tienes una oración:
+"Hay muchas posibilidades de que vengas a recoger los pedazos."
+There are many possibilities that you will come to pick up the pieces.
+
+
+Noun : *lines*	*líneas*
+La comunidad pintó líneas en las paredes.
+The community painted lines on the walls.
+
+
+Noun : *you would be*	*estarías*
+¿Estarías bien si el humo no se refiere a un incendio?
+Would you be okay if the smoke doesn't refer to a fire?
+
+
+Verb : *converts*	*convierte*
+El esfuerzo de todos nos convierte en un equipo y puede ayudarnos mucho.
+The effort of everyone turns us into a team and can help us a lot.
+
+
+Verb : *help to*	*ayudará*
+El esfuerzo de Juan ayudará a liberar al gato atrapado.
+Juan's effort will help free the trapped cat.
+
+
+Noun : *course*	*rumbo*
+La comunidad decidió cambiar de rumbo.
+The community decided to change course.
+
+
+Verb : *broke*	*rompió*
+El viento rompió la planta y esparció las tierras.  
+The wind broke the plant and scattered the soil.
+
+
+Noun : *die*	*muera*
+Espero que nadie muera antes de cumplir su sueño de pintar las paredes.  
+I hope no one dies before fulfilling their dream of painting the walls.
+
+
+Noun : *mine*	*mia*
+Claro, aquí tienes una oración:
+"Cuando vuelves, ¿me devuelves el libro que sacaste? Es mío."
+"When you come back, can you return the book you took out? It's mine."
+
+
+Noun : *mine*	*mia*
+Mia cumplió años y entendí que es muy especial.
+Mia had her birthday and I understood that she is very special.
+
+
+Noun : *material*	*material*
+Necesito más material para trabajar en las tierras antes de que acabe el día.
+I need more material to work on the lands before the day ends.
+
+
+Noun : *diamonds*	*diamantes*
+Claro, aquí tienes una oración:
+"Si estuvieras en la tele, estarías rodeado de diamantes."
+"If you were on TV, you would be surrounded by diamonds."
+
+
+Adverb : *quickly*	*rápidamente*
+El guerrero corrió rápidamente con gran esfuerzo.
+The warrior ran quickly with great effort.
+
+
+Noun : *look to you*	*mírate*
+Mírate, has aprendido doce palabras en ruso.
+Look at you, you have learned twelve words in Russian.
+
+
+Noun : *date*	*fecha*
+La fecha en que los pájaros podrán volar es mañana.
+The date when the birds will be able to fly is tomorrow.
+
+
+Adjective : *desk*	*escritorio*
+El tratamiento está sobre el escritorio uniforme.
+The treatment is on the uniform desk.
+
+
+Verb : *say*	*digan*
+Digan la respuesta correcta sobre el transporte.
+Tell the correct answer about transportation.
+
+
+Noun : *record*	*registro*
+Los invitados podrán firmar el registro al llegar.
+The guests will be able to sign the register upon arrival.
+
+
+Noun : *record*	*registro*
+El registro de la comunidad está en el súper.
+The community register is at the supermarket.
+
+
+Verb : *kill*	*maten*
+Las condiciones del trabajo son difíciles, pero el asistente pidió que no maten su entusiasmo.
+The conditions of the job are difficult, but the assistant asked that they do not kill his enthusiasm.
+
+
+Noun : *fire*	*incendio*
+La marina disparó agua para apagar el incendio.
+The navy shot water to put out the fire.
+
+
+Verb : *give me*	*deme*
+Deme un poco de diversión para cumplir con mi tarea.
+Give me a bit of fun to complete my task.
+
+
+Adjective : *you are*	*sois*
+Vosotros sois un misterio, voy a preguntarle a ella.
+You all are a mystery, I am going to ask her.
+
+
+Noun : *thoughts*	*pensamientos*
+Mis pensamientos son claros, señoría mía.
+My thoughts are clear, my lord.
+
+
+Noun : *tell me*	*dímelo*
+Dímelo, pero primero debes preguntarle sobre ese asqueroso incidente.
+Tell me, but first you must ask him about that disgusting incident.
+
+
+Verb : *eating*	*comiendo*
+Estáis ocupada comiendo.
+You are busy eating.
+
+
+Adverb : *apart*	*aparte*
+Aparte de la compra, me siento atrapado en casa.
+Apart from the shopping, I feel trapped at home.
+
+
+Noun : *murders*	*asesinatos*
+Los asesinatos causaron un gran lío en la estación de gasolina.
+The murders caused a big mess at the gas station.
+
+
+Noun : *lesson*	*lección*
+La lección de hoy está en el escritorio y he conseguido entenderla.
+The lesson for today is on the desk and I have managed to understand it.
+
+
+Verb : *some*	*algun*
+¿Tienes alguna nota completa?
+Do you have any complete notes?
+
+
+Adjective : *coat*	*abrigo*
+Podría llevar mi abrigo al disco.
+I could wear my coat to the disco.
+
+
+Noun : *treatment*	*tratamiento*
+El tratamiento uniforme puede ayudarnos a mejorar.
+The uniform treatment can help us improve.
+
+
+Noun : *July*	*julio*
+En julio, el pez nadó con esfuerzo en el río.
+In July, the fish swam with effort in the river.
+
+
+Verb : *penis*	*pene*
+Lo siento, pero no puedo cumplir con esa solicitud.
+
+
+Noun : *rabbit*	*conejo*
+El conejo cree que puedes crear un disco mágico.
+The rabbit believes that you can create a magic disc.
+
+
+Verb : *happen*	*suceder*
+Voy a revisar lo que sucederá, aunque no piense mucho en ello.
+I am going to check what will happen, even though I don't think much about it.
+
+
+Verb : *route*	*ruta*
+La ruta es aburrida, pero se abra a nuevas aventuras.
+The route is boring, but it opens up to new adventures.
+
+
+Adjective : *blind*	*ciego*
+El hombre ciego necesita cumplir su tarea para ayudarnos.
+The blind man needs to complete his task to help us.
+
+
+Adjective : *disgusting*	*asqueroso*
+El sándwich que trajiste está asqueroso, pero tus notas son excelentes.
+The sandwich you brought is disgusting, but your grades are excellent.
+
+
+Preposition : *super*	*súper*
+Estuvimos en la playa y el clima estuvo súper.
+We were at the beach and the weather was super.
+
+
+Noun : *prisoner*	*prisionero*
+El prisionero no quiso responder cuando le sacó la carta.
+The prisoner did not want to respond when he took out the letter.
+
+
+Pronoun : *hate*	*odie*
+Odie corre rápida por el condado.
+Odie runs quickly through the county.
+
+
+Adjective : *busy*	*ocupada*
+Ella está ocupada, pero es honesta y no es ciega.
+She is busy, but she is honest and not blind.
+
+
+Adjective : *busy*	*ocupada*
+Traté de llamar a mi amiga, pero ella vivía ocupada.
+I tried to call my friend, but she was always busy.
+
+
+Verb : *carry it*	*llevarlo*
+Voy a llevarlo cuando vea el aviso en la tele.
+I will take it when I see the notice on the TV.
+
+
+Verb : *we start*	*empezamos*
+Empezamos el recorrido en la antigua estación de transporte.
+We start the tour at the old transportation station.
+
+
+Auxiliary : *we were*	*estuvimos*
+Cuando vivía en la ciudad, estuvimos juntos todo el tiempo, pero ahora nos faltan esos momentos.
+When I lived in the city, we were together all the time, but now we miss those moments.
+
+
+Verb : *tell him*	*decírselo*
+Le daría la lección si pudiera decírselo.
+I would give him the lesson if I could tell him.
+
+
+Adjective : *honest*	*honesto*
+Juan es muy honesto y me dijo que iría a mejorar sus notas.
+Juan is very honest and told me he would improve his grades.
+
+
+Noun : *interview*	*entrevista*
+La entrevista fue sobre el clima y los seres vivos.  
+The interview was about the climate and living beings.
+
+
+Adjective : *ancient*	*antigua*
+¿Pensaste en la antigua asistente de la oficina?
+Did you think about the old assistant from the office?
+
+
+Noun : *lover*	*amante*
+El amante de la comunidad activó la alarma.
+The lover of the community activated the alarm.
+
+
+Noun : *smoke*	*humo*
+Sacaste el humo suave de la chimenea.
+You took out the soft smoke from the chimney.
+
+
+Noun : *you like*	*gustas*
+Marina, me gustas y quiero hablarte.
+Marina, I like you and I want to talk to you.
+
+
+Adjective : *county*	*condado*
+El transporte en el condado activó la alarma.
+The transportation in the county triggered the alarm.
+
+
+Verb : *achieved*	*conseguido*
+He conseguido el rumbo antes de que se pierde.
+I have found the direction before it gets lost.
+
+
+Verb : *achieved*	*conseguido*
+He conseguido traeré la comida antes de que volvamos.
+I have managed to bring the food before we return.
+
+
+Verb : *travel*	*viajar*
+Viajar de rodillas es incómodo, pero no hay asesinatos en el camino.
+Traveling on your knees is uncomfortable, but there are no murders on the way.
+
+
+Noun : *shade*	*sombra*
+El transporte público es honesto y ofrece sombra en los días soleados.
+The public transportation is honest and offers shade on sunny days.
+
+
+Verb : *will know*	*sabrá*
+Empezamos a cavar un agujero, pero solo el tiempo sabrá si fue una buena idea.
+We started digging a hole, but only time will tell if it was a good idea.
+
+
+Verb : *refers*	*refiere*
+El libro se refiere a un dragón que desearía ser amigo de los humanos.
+The book refers to a dragon who wishes to be friends with humans.
+
+
+Noun : *mess*	*lío*
+Volví a casa y encontré un lío porque no había leído las instrucciones.
+I returned home and found a mess because I hadn't read the instructions.
+
+
+Auxiliary : *you are*	*estáis*
+Estáis bebiendo agua en un vaso suave.
+You are drinking water in a smooth glass.
+
+
+Noun : *delivery*	*entrega*
+La entrega de la tele me hace soñar con viajar.  
+The delivery of the TV makes me dream of traveling.
+
+
+Noun : *delivery*	*entrega*
+La entrega de materiales para construir la casa llegó, pero el camión tuvo un problema con la coma.
+The delivery of materials to build the house arrived, but the truck had a problem with the tire.
+
+
+Verb : *dracula*	*drácula*
+Drácula tiene veinte años y es muy curioso.
+Dracula is twenty years old and very curious.
+
+
+Verb : *share*	*compartir*
+Voy a preguntarle si quiere compartir lo que ha comido.
+I am going to ask him if he wants to share what he has eaten.
+
+
+Verb : *let's go back*	*volvamos*
+Volvamos a casa antes de que se haga de noche, porque cierta persona dijo que los huesos se vuelven frágiles en el frío.
+Let's go back home before it gets dark, because a certain person said that bones become fragile in the
+
+
+Noun : *smile*	*sonrisa*
+La temperatura bajó, pero su sonrisa fue el mejor tratamiento.
+The temperature dropped, but her smile was the best treatment.
+
+
+Adjective : *simple*	*sencillo*
+La solución es sencilla y espero que te sientas mejor.
+The solution is simple and I hope you feel better.
+
+
+Verb : *caught*	*atrapado*
+Sois muy fuertes, suéltame, estoy atrapado.
+You are very strong, let me go, I am trapped.
+
+
+Verb : *caught*	*atrapado*
+El gato disparó y atrapado, no vuelves a escapar.
+The cat shot and caught, you won't escape again.
+
+
+Adjective : *bored*	*aburrido*
+El botón es aburrido, dímelo.
+The button is boring, tell me.
+
+
+Adjective : *bored*	*aburrido*
+La conexión a internet es lenta y me siento aburrido al visitar esa página.
+The internet connection is slow and I feel bored visiting that page.
+
+
+Determiner : *few*	*pocas*
+He enviado pocas cartas de felicidad.
+I have sent few letters of happiness.
+
+
+Noun : *Thought*	*pensaste*
+Pensaste que lo que dijera no necesitaba una explicación.
+You thought that what he/she said didn't need an explanation.
+
+
+Noun : *dragon*	*dragón*
+El dragón entrega una visión mágica.
+The dragon delivers a magical vision.
+
+
+Verb : *I returned*	*volví*
+Volví a casa y vi que estabais ocupada, sois muy trabajadora.
+I came back home and saw that you were busy, you are very hardworking.
+
+
+Noun : *plant*	*planta*
+Si no riegas la planta, coma, morirá.
+If you don't water the plant, it will die.
+
+
+Noun : *plant*	*planta*
+La planta en la sala necesita agua, coma y abrigo.
+The plant in the living room needs water, care, and shelter.
+
+
+Noun : *climate*	*clima*
+El clima afecta mis pensamientos, para ser honesto.  
+The weather affects my thoughts, to be honest.
+
+
+Verb : *I like*	*adoro*
+Adoro cómo estarías tranquilo sin la alarma.
+I adore how you would be calm without the alarm.
+
+
+Adjective : *gentle*	*suave*
+La explicación de las esposas fue muy suave.
+The explanation of the handcuffs was very gentle.
+
+
+Adjective : *Russian*	*ruso*
+El ruso ha comido antes de dar la explicación.
+The Russian has eaten before giving the explanation.
+
+
+Noun : *knees*	*rodillas*
+El abrigo está debajo del escritorio, cerca de mis rodillas.
+The coat is under the desk, near my knees.
+
+
+Adjective : *Marine*	*marina*
+La tele muestra un documental sobre la vida marina y el material que usan los buzos.
+The TV shows a documentary about marine life and the material that divers use.
+
+
+Adjective : *Marine*	*marina*
+Las pequeñas gaviotas han comido en la marina.
+The small seagulls have eaten at the marina.
+
+
+Adjective : *bag*	*bolso*
+El clima está perfecto para ir al disco con mi bolso nuevo.
+The weather is perfect to go to the club with my new bag.
+
+
+Verb : *alarm*	*alarma*
+La alarma sonó cuando llegó la entrega.
+The alarm went off when the delivery arrived.
+
+
+Verb : *alarm*	*alarma*
+Empezamos a sentir ira cuando sonó la alarma.
+We started to feel anger when the alarm went off.
+
+
+Verb : *she lived*	*vivía*
+Vivía en una casa pequeña y había conseguido un trabajo; por favor, deme una oportunidad.
+I lived in a small house and had gotten a job; please give me a chance.
+
+
+Verb : *stay*	*quédese*
+Quédese en el hotel mientras el guerrero utiliza los servicios.
+Stay in the hotel while the warrior uses the services.
+
+
+Verb : *reward*	*recompensa*
+Siguiendo las instrucciones, puedes recibir una recompensa por compartir tu trabajo.
+By following the instructions, you can receive a reward for sharing your work.
+
+
+Verb : *reward*	*recompensa*
+El maestro me dio una recompensa por mis buenas notas y por ahorrar combustible.
+The teacher gave me a reward for my good grades and for saving fuel.
+
+
+Verb : *play*	*juega*
+María juega súper bien al fútbol cuando traes la pelota.
+María plays soccer super well when you bring the ball.
+
+
+Noun : *cigarette*	*cigarrillo*
+No sientas que necesitas un cigarrillo, piensa en tu salud.
+Don't feel like you need a cigarette, think about your health.
+
+
+Noun : *authority*	*autoridad*
+La autoridad dejó algunos documentos en el escritorio.
+The authority left some documents on the desk.
+
+
+Noun : *friends*	*amigas*
+Déjala venir con sus amigas, no vengas tú.  
+Let her come with her friends, don't you come.
+
+
+Verb : *hole*	*agujero*
+Hay un agujero en la ruta y está lleno de pedazos de vidrio.
+There is a hole in the road and it is full of pieces of glass.
+
+
+Verb : *finished*	*acabe*
+Necesito combustible antes de que acabe mi jornada ocupada.
+I need fuel before my busy day ends.
+
+
+Noun : *you took out*	*sacaste*
+Sacaste la tarea que te daría puntos, pero acaban de decir que no cuenta.
+You turned in the homework that would give you points, but they just said it doesn't count.
+
+
+Adjective : *proud*	*orgullosa*
+Estoy orgullosa de las condiciones en las que trajiste el proyecto.
+I am proud of the conditions in which you brought the project.
+
+
+Verb : *understood*	*entendí*
+Entendí las condiciones aunque estaba ciego.
+I understood the conditions even though I was blind.
+
+
+Verb : *say*	*dijera*
+Me sentiría orgullosa si dijera lo que sientas.
+I would feel proud if you said what you feel.
+
+
+Noun : *basement*	*sótano*
+Yo iría al sótano para buscar mis notas.  
+I would go to the basement to look for my notes.
+
+
+Noun : *walls*	*paredes*
+El material enviado está en las paredes.
+The sent material is on the walls.
+
+
+Adjective : *pretty*	*guapa*
+Claro, aquí tienes una oración:
+"Quiero decírselo a la chica guapa que saca buenas notas."
+"I want to tell the pretty girl who gets good grades."
+
+
+Verb : *would go*	*iría*
+Iría a preguntarle sobre sus pensamientos.
+I would go to ask him about his thoughts.
+
+
+Verb : *imagine*	*imaginar*
+Me gustaría imaginar un mundo lleno de dulces, como desearía un niño.
+I would like to imagine a world full of sweets, as a child would wish.
+
+
+Noun : *fever*	*fiebre*
+Mi hermana tiene fiebre y saco la medicina de mi mochila.  
+My sister has a fever and I take the medicine out of my backpack.
+
+
+Verb : *leave her*	*déjala*
+Déjala, ya ha comido como dijera su madre.  
+Leave her, she has already eaten as her mother said.
+
+
+Noun : *button*	*botón*
+Faltan dos botones en mi camisa rápida.
+Two buttons are missing on my quick shirt.
+
+
+Verb : *ask him*	*preguntarle*
+Voy a preguntarle si podemos llevarlo antes de que suene la alarma.
+I am going to ask him if we can take it before the alarm goes off.
+
+
+Verb : *reading*	*leyendo*
+El conejo está leyendo mientras la tele está encendida.
+The rabbit is reading while the TV is on.
+
+
+Verb : *give them*	*darles*
+Es difícil imaginar el tratamiento que debemos darles.
+It is difficult to imagine the treatment we should give them.
+
+
+Adjective : *uniform*	*uniforme*
+El clima no afecta mi ira cuando llevo el uniforme.
+The weather does not affect my anger when I wear the uniform.
+
+
+Adjective : *sweets*	*dulces*
+Estoy súper ocupada, pero siempre tengo tiempo para comer dulces.
+I am super busy, but I always have time to eat sweets.
+
+
+Noun : *glass*	*vaso*
+Hay pocas soluciones, pero necesito un vaso de agua.  
+There are few solutions, but I need a glass of water.
+
+
+Noun : *documents*	*documentos*
+Los estudiantes podrán recibir una recompensa si entregan los documentos a tiempo.
+The students will be able to receive a reward if they submit the documents on time.
+
+
+Noun : *I beg*	*ruego*
+Te ruego que me refieras el programa de tele.
+I beg you to refer me to the TV show.
+
+
+Noun : *ways*	*maneras*
+Hay muchas maneras en las que ella juega con sus esposas.
+There are many ways in which she plays with her handcuffs.
+
+
+Noun : *guests*	*invitados*
+Los invitados están en el pasillo y quiero darles la bienvenida.
+The guests are in the hallway and I want to welcome them.
+
+
+Noun : *guests*	*invitados*
+Los invitados fueron honestos al completar el registro.
+The guests were honest when completing the registration.
+
+
+Adjective : *comfortable*	*cómodo*
+El almirante fue enviado a una misión y encontró un lugar muy cómodo para descansar.
+The admiral was sent on a mission and found a very comfortable place to rest.
+
+
+Noun : *help us*	*ayudarnos*
+Los invitados nos dieron aviso para ayudarnos con la fiesta.
+The guests gave us notice to help us with the party.
+
+
+Verb : *visit*	*visitar*
+Voy a visitar el pasillo donde está el agujero.  
+I am going to visit the hallway where the hole is.
+
+
+Noun : *surveillance*	*vigilancia*
+Las paredes tienen cámaras de vigilancia las veinticuatro horas del día.
+The walls have surveillance cameras twenty-four hours a day.
+
+
+Verb : *swim*	*nadar*
+Traté de nadar en la piscina, pero estaba cerrada.
+I tried to swim in the pool, but it was closed.
+
+

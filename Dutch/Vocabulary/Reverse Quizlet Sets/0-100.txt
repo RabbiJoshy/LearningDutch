@@ -1,0 +1,499 @@
+pronoun : *I*	*ik*
+Ik zal zien hoe het gaat.
+I will see how it goes.
+
+
+pronoun : *you*	*je*
+Ben je hier zo vaak?
+Are you here so often?
+
+
+article : *It*	*het*
+Dat is het haar van mijn zus.
+That is the hair of my sister.
+
+
+article : *the*	*de*
+De kat loopt ook over de straat.
+The cat also walks across the street.
+
+
+conjunction : *that*	*dat*
+Ik hoop dat hij door zou komen.  
+I hope that he would come through.
+
+
+verb : *is*	*is*
+Je hebt een boek dat interessant is.  
+You have a book that is interesting.
+
+
+article : *An*	*een*
+Die kat is dus een huisdier.
+That cat is therefore a pet.
+
+
+adverb : *not*	*niet*
+Ik ben niet over mijn boek.
+I am not over my book.
+
+
+conjunction : *and*	*en*
+Alles is goed en er is geen probleem.
+Everything is good and there is no problem.
+
+
+conjunction : *what*	*wat*
+Ik liep door het park en zag wat er gebeurde.
+I walked through the park and saw what was happening.
+
+
+preposition : *by*	*van*
+De fiets van zijn broer is nog nieuw.
+The bike of his brother is still new.
+
+
+pronoun : *we*	*we*
+We hebben geen tijd voor de film.  
+We have no time for the movie.
+
+
+preposition : *in*	*in*
+Ik zou in de ochtend moeten werken.
+I should work in the morning.
+
+
+pronoun : *she*	*ze*
+Ze heb ik uitgenodigd.
+I have invited her.
+
+
+pronoun : *he*	*hij*
+Hij komt terug of niet.
+He comes back or not.
+
+
+adverb : *on*	*op*
+Dat is al op.  
+That is already finished.
+
+
+particle : *at*	*te*
+Het is tijd om van jullie te leren.
+It is time to learn from you.
+
+
+pronoun : *are*	*zijn*
+Zij weet alles.
+She knows everything.
+
+
+adverb : *there*	*er*
+Er had niemand niet.  
+There was no one.
+
+
+conjunction : *but*	*maar*
+Ik ken hem, maar hij is niet goed.  
+I know him, but he is not good.
+
+
+pronoun : *That*	*die*
+Hier is het boek die ik lees.
+Here is the book that I am reading.
+
+
+verb : *have*	*heb*
+Ik heb een hond als huisdier en een kat.
+I have a dog as a pet and a cat.
+
+
+pronoun : *me*	*me*
+Jij hebt iets voor me.
+You have something for me.
+
+
+preposition : *of*	*met*
+Ik ga daar nog met mijn vriend naartoe.
+I am still going there with my friend.
+
+
+preposition : *for*	*voor*
+Ik heb iets voor je teruggebracht.
+I brought something back for you.
+
+
+adverb : *as*	*als*
+Als hij terug gaat, neem ik de trein.
+When he goes back, I take the train.
+
+
+noun : *am*	*ben*
+In Dutch, the word 'ben' is typically a verb and not used as a noun. However, I can create a sentence using 'ben' as a verb along with the words 'meer' and 'ons'. Here is a simple sentence:
+
+
+noun : *used to be*	*was*
+De was gaat naar haar.
+The laundry goes to her.
+
+
+pronoun : *this*	*dit*
+Dit doe ik niet, geen zorgen.  
+I won't do this, don't worry.
+
+
+pronoun : *mine*	*mijn*
+Mijn hond is nu nooit thuis.
+My dog is never home now.
+
+
+preposition : *to*	*om*
+Ik wil weten waarom ik om tien uur naar bed moet gaan.
+I want to know why I have to go to bed at ten o'clock.
+
+
+preposition : *On*	*aan*
+De auto staat aan de weg, toch?
+The car is by the road, right?
+
+
+pronoun : *you*	*jij*
+Jij weet wat wij hebben.  
+You know what we have.
+
+
+preposition : *Unpleasant*	*naar*
+Ik ga er naar de winkel.
+I am going there to the store.
+
+
+conjunction : *than*	*dan*
+Ik heb een appel, dan heb ik geen honger.
+I have an apple, then I am not hungry.
+
+
+adverb : *here*	*hier*
+Hier geef ik dit aan jullie.
+Here I give this to you all.
+
+
+verb : *know*	*weet*
+Hij weet van het probleem.  
+He knows about the problem.
+
+
+noun : *can*	*kan*
+De kan is groter dan die van glas.
+The jug is bigger than that one made of glass.
+
+
+adjective : *no*	*geen*
+Er is geen kat waar een hond is.
+There is no cat where a dog is.
+
+
+adverb : *yet*	*nog*
+Deze taart is nog niet alles.  
+This cake is not everything yet.
+
+
+noun : *must*	*moet*
+De moet is al terug.
+The courage is already back.
+
+
+noun : *want to*	*wil*
+De wil van het kind is sterk.
+The will of the child is strong.
+
+
+adjective : *well*	*wel*
+In Dutch, 'wel' is typically used as an adverb rather than an adjective. However, I can create a sentence using 'wel' as an adverb along with the words 'dan' and 'hier'. 
+Dutch: Het is hier
+
+
+particle : *Yes*	*ja*
+Ja, haar idee is goed.
+Yes, her idea is good.
+
+
+adverb : *Like this*	*zo*
+Ze is zo blij met de nieuwe fiets.  
+She is so happy with the new bike.
+
+
+verb : *has*	*heeft*
+Die man heeft een hond.  
+That man has a dog.
+
+
+auxiliary verb : *to have*	*hebben*
+Jij bent eens naar de winkel geweest en hebt melk gekocht.
+You once went to the store and bought milk.
+
+
+pronoun : *it*	*hem*
+Jullie bent hem vergeten.  
+You have forgotten him.
+
+
+adjective : *Good*	*goed*
+Jullie kunnen goed zingen.
+You can sing well.
+
+
+particle : *no*	*nee*
+Nee, de hond weet niet hoe.  
+No, the dog doesn't know how.
+
+
+adverb : *Where*	*waar*
+Waar is m'n boek nog?
+Where is my book still?
+
+
+adverb : *now*	*nu*
+Nu kom ik dan.  
+Now I come then.
+
+
+adverb : *how*	*hoe*
+Hoe kunnen we je helpen?
+How can we help you?
+
+
+verb : *go*	*ga*
+We moeten gaan.  
+We must go.
+
+
+pronoun : *her*	*haar*
+Zij is bij mijn huis en ik zie haar.
+She is at my house and I see her.
+
+
+preposition : *out*	*uit*
+Jullie kunnen uit het raam kijken.
+You can look out the window.
+
+
+verb : *doing*	*doen*
+Je moet je huiswerk bij de tafel doen.  
+You must do your homework at the table.
+
+
+adverb : *also*	*ook*
+Ik zie me ook daar.
+I see myself there too.
+
+
+preposition : *about*	*over*
+De kat heeft een boek over dieren.
+The cat has a book about animals.
+
+
+verb : *are*	*bent*
+Jij bent blij en ik ben blij.
+You are happy and I am happy.
+
+
+pronoun : *me*	*mij*
+Laat mij terug gaan.  
+Let me go back.
+
+
+verb : *to go*	*gaan*
+Ik ga het alleen doen.
+I am going to do it alone.
+
+
+conjunction : *or*	*of*
+Ze gaan door de deur of ze blijven buiten.
+They go through the door or they stay outside.
+
+
+noun : *come*	*kom*
+De kom is in de keuken en op de tafel.
+The bowl is in the kitchen and on the table.
+
+
+verb : *would*	*zou*
+Zou je me laten zien hoe dit werkt?
+Would you show me how this works?
+
+
+adjective : *already*	*al*
+Jij bent al groot.
+You are already tall.
+
+
+preposition : *bee*	*bij*
+Ik moet nog bij de winkel langsgaan.
+I still have to stop by the store.
+
+
+adverb : *over there*	*daar*
+Daar is ook iets.  
+There is also something.
+
+
+pronoun : *us*	*ons*
+Ons huis is over de brug.
+Our house is over the bridge.
+
+
+pronoun : *you*	*jullie*
+Jullie kunnen doen wat jullie willen.
+You can do what you want.
+
+
+verb : *have*	*hebt*
+Jij hebt alleen wat je zou willen.
+You only have what you would want.
+
+
+noun : *go*	*gaat*
+De gaat daar, maar het is klein.
+The hole is there, but it is small.
+
+
+pronoun : *something*	*iets*
+Ja, ik wil iets met je bespreken.  
+Yes, I want to discuss something with you.
+
+
+auxiliary verb : *shall*	*zal*
+Ik zal in de tuin door de bloemen lopen.
+I will walk through the flowers in the garden.
+
+
+adverb : *more*	*meer*
+Ik denk meer na over waarom.  
+I think more about why.
+
+
+adverb : *Why*	*waarom*
+Waarom heb je echt nooit tijd?
+Why do you really never have time?
+
+
+verb : *had*	*had*
+Hij had een boek met een kaart waar hij van hield.
+He had a book with a map that he loved.
+
+
+pronoun : *this*	*deze*
+Deze wil ik met jou delen.
+I want to share this with you.
+
+
+adjective : *leave*	*laat*
+Ik wil geen laat diner hebben.  
+I don't want to have a late dinner.
+
+
+verb : *must*	*moeten*
+Ik moet voor de hond zorgen en hem zien.
+I have to take care of the dog and see him.
+
+
+pronoun : *my*	*m'n*
+Hoe ben je met m'n boek?
+How are you with my book?
+
+
+pronoun : *you*	*jou*
+Ik geef m'n boek aan jou.
+I give my book to you.
+
+
+verb : *do*	*doe*
+Ik heb geen idee wat ik moet doe.
+I have no idea what I should do.
+
+
+conjunction : *Who*	*wie*
+Jij weet niet wie om de hoek woont.
+You don't know who lives around the corner.
+
+
+verb : *be able to*	*kunnen*
+Hoe kunnen we wat eten?  
+How can we eat something?
+
+
+pronoun : *everything*	*alles*
+Nee, jij bent niet alles.  
+No, you are not everything.
+
+
+verb : *think*	*denk*
+Ik denk dat die eens komt.  
+I think that one will come.
+
+
+preposition : *Through*	*door*
+Ik ben nog nooit door die straat gelopen.
+I have never walked through that street yet.
+
+
+adverb : *Real*	*echt*
+Het is echt leuk om van muziek te genieten.
+It is really fun to enjoy music.
+
+
+adverb : *only*	*alleen*
+Ik kom alleen op vrijdag terug.
+I come back only on Friday.
+
+
+Okay : *Okay*	*oké*
+Oké, ik kom om vijf uur.
+Okay, I will come at five o'clock.
+
+
+adverb : *at sometime*	*eens*
+Hij zal eens komen.  
+He will come someday.
+
+
+adverb : *So*	*dus*
+We moeten meer oefenen, dus laten we beginnen.
+We need to practice more, so let's start.
+
+
+adjective : *away*	*weg*
+De weg is wel nog lang.
+The road is still quite long.
+
+
+verb : *to see*	*zien*
+We zien je morgen.
+We see you tomorrow.
+
+
+adverb : *However*	*toch*
+Wie is ze toch?  
+Who is she anyway?
+
+
+noun : *man*	*man*
+De man heeft een hond en ik heb hem gezien.
+The man has a dog and I have seen him.
+
+
+adverb : *never*	*nooit*
+Hoe weet je echt nooit wat er zal gebeuren?
+How do you really never know what will happen?
+
+
+adverb : *back*	*terug*
+Ik weet dat we terug moeten.
+I know that we have to go back.
+
+
+verb : *to leave*	*laten*
+We laten een kat binnen.  
+We let a cat inside.
+
+

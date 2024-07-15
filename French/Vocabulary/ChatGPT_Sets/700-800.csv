@@ -1,0 +1,217 @@
+,Unnamed: 0,French,POS,Translation,ChatGPT_Sentence
+0,700,parole,noun,"speech, word","Il a l'habitude de régler ses problèmes avec des paroles douces.
+He has a habit of solving his problems with gentle words."
+1,701,triste,adjective,sad,"La fille est triste grâce à sa peau sensible.  
+The girl is sad because of her sensitive skin."
+2,702,honte,noun,shame,"Il a pointé du doigt le bordel avec honte.
+He pointed at the mess with shame."
+3,703,rouge,adjective,red,"L'intérieur de la maison est rouge et je ne peux pas le supporter.
+The interior of the house is red and I can't stand it."
+4,704,dégager,verb,to free; to clear; to radiate,"Le brouillard doit se dégager pour que la vue ne soit pas un enfer.
+The fog must clear so that the view is not a nightmare."
+5,705,soirée,noun,"evening, party","Le professeur veut se reposer après la soirée.
+The teacher wants to rest after the evening."
+6,706,dangereux,adjective,dangerous,"Le chanteur mérite une récompense pour sa chanson dangereuse.
+The singer deserves an award for his dangerous song."
+7,707,armée,noun,army,"L'armée doit charger les provisions pour combattre le diable.
+The army must load the supplies to fight the devil."
+8,708,filer,verb,"to spin; to take off; to go off, to leave","Je dois filer avant de recommencer à travailler, mais la vue est magnifique.
+
+I have to leave before starting work again, but the view is magnificent."
+9,709,risquer,verb,to risk,"Je ne veux pas risquer de manquer cet appel.
+I don't want to risk missing this call."
+10,710,dos,noun,"back, spine","Chacun porte un sac à dos autour de la ville.
+Each one carries a backpack around the city."
+11,711,appel,noun,"call, appeal","Je dois surveiller l'appel.  
+I have to monitor the call."
+12,712,visite,noun,visit,"Le professeur a annulé la visite à cause du temps chaud.
+The professor canceled the visit because of the hot weather."
+13,713,mener,verb,"to take; to lead, guide, manage","Il ose mener la chanson.
+He dares to lead the song."
+14,714,fleur,noun,"flower, blossom","Je t'ai vu surveiller la fleur.
+
+I saw you watching the flower."
+15,715,attaquer,verb,to attack,"Le conseil a décidé d'attaquer pour dégager la route.
+The council decided to attack to clear the road."
+16,716,coin,noun,"corner, spot","Le professeur surveille les élèves et répète les instructions dans le coin de la classe.
+The teacher watches the students and repeats the instructions in the corner of the classroom."
+17,717,prince,noun,prince,"Le prince écrit une ligne comme exemple.  
+The prince writes a line as an example."
+18,718,pire,adjective,worse,"Le prince doit surveiller la pire situation.  
+The prince must monitor the worst situation."
+19,719,bordel,noun,brothel; bloody/gooddamn mess,"Le bordel dans la cuisine est l'œuvre de mon ennemi après avoir bu du vin.
+The mess in the kitchen is the work of my enemy after drinking wine."
+20,720,professeur,noun,"teacher, professor","Le professeur ose poser une question.  
+The teacher dares to ask a question."
+21,721,fumer,verb,to smoke,"Il est simplement un salaud parce qu'il aime fumer.
+He is simply a bastard because he likes to smoke."
+22,722,répéter,verb,"to repeat; to go over, rehearse","Il est important de répéter ce conseil pour la santé.
+It is important to repeat this advice for health."
+23,723,habitude,noun,"habit, practice","Il a l'habitude de plaisanter avec ses amis.
+He has the habit of joking with his friends."
+24,724,signer,verb,to sign,"Je dois signer ce bordel avant de filer.  
+I have to sign this mess before leaving."
+25,725,ficher,verb,"to file, put on file","Je peux avancer grâce à toi, mais je dois ficher ces documents d'abord.
+I can move forward thanks to you, but I need to file these documents first."
+26,726,mériter,verb,"to deserve, be worth","Il mérite une récompense pour avoir osé organiser cette visite.
+He deserves a reward for daring to organize this visit."
+27,727,réponse,noun,"response, answer, reply","La fleur repose sur la table en attendant une réponse.
+The flower rests on the table waiting for a response."
+28,728,rejoindre,verb,"to meet up; to join, rejoin; to go back to","Je veux te rejoindre, pourtant je me suis coupé le doigt.
+I want to join you, yet I cut my finger."
+29,729,discuter,verb,"to question, dispute","Ils discutent debout dans le coin.
+
+They are discussing standing in the corner."
+30,730,village,noun,village,"Le village forme un groupe où les enfants aiment accompagner leurs parents.
+
+The village forms a group where the children like to accompany their parents."
+31,731,pourtant,adverb,yet,"Je souhaite réussir, pourtant le diable est dans les détails.  
+I wish to succeed, yet the devil is in the details."
+32,732,avancer,verb,"to move forward, advance","Le magnifique bateau commence à avancer.
+
+The magnificent boat begins to move forward."
+33,733,connerie,noun,stupidity,"Il a dit une connerie pendant la mission, et maintenant j'ai mal au dos.
+
+He said something stupid during the mission, and now my back hurts."
+34,734,reposer,verb,"to rest, to have a rest","Je vais me reposer après avoir réglé cette habitude.
+I am going to rest after having dealt with this habit."
+35,735,échapper,verb,"to escape, get away, slip, run away","Le soldat a réussi à échapper à l'armée malgré le temps chaud.
+The soldier managed to escape the army despite the hot weather."
+36,736,forme,noun,"form, shape","La réponse mérite une forme claire.  
+The answer deserves a clear form."
+37,737,bruit,noun,"noise, sound; rumour","Le bruit dans le trou m'empêche de signer.  
+The noise in the hole prevents me from signing."
+38,738,chacun,indefinite pronoun,"each, everyone","Chacun de mes potes a reçu un appel.
+
+Each of my friends received a call."
+39,739,diable,noun,devil,"Le diable a renversé le vin sur le vaisseau.
+The devil spilled the wine on the ship."
+40,740,exemple,noun,example,"Il est interdit de fumer à l'intérieur, par exemple.  
+It is forbidden to smoke inside, for example."
+41,741,charger,verb,"to charge, load","Mon pote doit charger le diaporama pour le professeur.
+My friend has to load the slideshow for the teacher."
+42,742,chat,noun,cat,"Le chat dort dans le coin sur ma robe.
+The cat is sleeping in the corner on my dress."
+43,743,ennemi,noun,enemy,"Il veut prouver que son ennemi est terrible.
+He wants to prove that his enemy is terrible."
+44,744,gamin,noun,"kid, child","Le gamin avance vers l'ennemi.  
+The kid moves towards the enemy."
+45,745,rendez-vous,noun,appointment,"J'ai un rendez-vous et je porte ma robe par habitude.
+I have an appointment and I wear my dress out of habit."
+46,746,debout,adverb,"standing, standing up","Il est debout, le dos contre la boîte.
+He is standing, his back against the box."
+47,747,obliger,verb,to oblige,"Je suis obligé de ficher les documents autour de moi.
+I am obliged to file the documents around me."
+48,748,trou,noun,"hole, gap, deficit","Le village a un trou pour prouver son histoire.
+The village has a hole to prove its history."
+49,749,accompagner,verb,"to go with, accompany","Je vais accompagner mon ami pour supporter son combat contre son ennemi.
+I will accompany my friend to support his fight against his enemy."
+50,750,fenêtre,noun,window; languagedaily dot com,"Il y a un trou dans la fenêtre, et je suis debout à côté.
+
+There is a hole in the window, and I am standing next to it."
+51,751,oser,verb,to dare,"Je n'ose pas dire que ma santé est un moyen de bonheur.
+I don't dare say that my health is a means of happiness."
+52,752,impression,noun,impression,"Le gamin a une mauvaise impression quand il voit quelqu'un fumer.
+The kid has a bad impression when he sees someone smoking."
+53,753,intérieur,noun,"inside (inner surface), interrior","Il y a beaucoup de conneries à l'intérieur de cette boîte.
+There is a lot of nonsense inside this box."
+54,754,bouche,noun,mouth,"Il a dit des paroles de salaud avec sa bouche.
+He said scoundrel words with his mouth."
+55,755,ligne,noun,"line, course, service","Je suis obligé de suivre la ligne pendant la visite.
+I am obliged to follow the line during the visit."
+56,756,absolument,adverb,absolutely,"Il est absolument nécessaire de pardonner son ennemi grâce à la compassion.
+It is absolutely necessary to forgive one's enemy thanks to compassion."
+57,757,doux,adjective,"soft, mild, gentle","Le prince a une voix douce.
+
+The prince has a gentle voice."
+58,758,regretter,verb,,"Je regrette de ne pas mener une vie plus sympa.
+I regret not leading a nicer life."
+59,759,mur,noun,,"Je souhaite toucher le mur avec mon doigt.
+I wish to touch the wall with my finger."
+60,760,enfer,noun,,"La fleur est debout dans l'enfer.  
+The flower is standing in hell."
+61,761,prouver,verb,,"Il veut prouver sa parole en forme de promesse.  
+He wants to prove his word in the form of a promise."
+62,762,boîte,noun,,"La boîte contient des documents à l'intérieur pour prouver son innocence.
+The box contains documents inside to prove his innocence."
+63,763,santé,noun,,"Il faut virer les mauvaises habitudes pour une santé magnifique.
+You have to get rid of bad habits for magnificent health."
+64,764,t,personal pronoun,,"Je te file un coup de main pendant que tu surveilles les enfants.
+I give you a hand while you watch the children."
+65,765,couvrir,verb,,"Il faut absolument couvrir cette boîte, sinon le diable pourrait sortir.
+We absolutely need to cover this box, otherwise the devil might come out."
+66,766,magnifique,adjective,,"Le bruit de la mer est magnifique, je vais rejoindre la plage.
+
+The sound of the sea is magnificent, I am going to join the beach."
+67,767,obtenir,verb,,"Je dois absolument me reposer pour obtenir de bons résultats.
+
+I absolutely need to rest to obtain good results."
+68,768,cuisine,noun,,"Voici un exemple de cuisine pour chacun.  
+Here is an example of cuisine for everyone."
+69,769,vue,noun,,"J'ai l'habitude de regarder la vue avec la bouche ouverte.
+
+I have the habit of looking at the view with my mouth open."
+70,770,terrible,adjective,,"Le vin doux est terrible.
+The sweet wine is terrible."
+71,771,éviter,verb,,"Je ne peux pas supporter ce bruit, alors j'essaie de l'éviter.
+
+I can't stand this noise, so I try to avoid it."
+72,772,peau,noun,,"La vue de sa peau est spéciale.
+The sight of her skin is special."
+73,773,salaud,noun,,"Cet homme est un salaud, par exemple, sa réponse était très méchante.
+This man is a bastard, for example, his response was very mean."
+74,774,conseil,noun,,"Je te donne un conseil pour mener et régler ce problème.
+I give you advice to lead and solve this problem."
+75,775,plaisanter,verb,,"Il aime plaisanter avec sa réponse au billet.
+He likes to joke with his response to the ticket."
+76,776,autour,adverb,,"Les enfants se reposent autour du feu sans regretter la journée.  
+The children rest around the fire without regretting the day."
+77,777,vin,noun,,"Le vin est magnifique, mais il est triste de le boire seul.
+The wine is magnificent, but it is sad to drink it alone."
+78,778,exact,adjective,,"La réponse exacte est écrite sur le dos du papier.
+The exact answer is written on the back of the paper."
+79,779,virer,verb,,"Il a viré ce salaud parce qu'il était obligé.
+He fired that bastard because he was obliged."
+80,780,supporter,verb,,"Je ne peux pas supporter de rester debout près de ce trou.
+I can't stand staying standing near that hole."
+81,781,régler,verb,,"Je dois régler un problème pour dégager du temps avec mon pote.
+I need to solve a problem to free up some time with my friend."
+82,782,doigt,noun,,"Le doigt a une mission étrange.
+The finger has a strange mission."
+83,783,étrange,adjective,,"La ligne a une forme étrange, il faut la dégager.
+The line has a strange shape, it needs to be cleared."
+84,784,grâce,preposition,,"Grâce au rendez-vous, la situation n'est pas pire.
+
+Thanks to the appointment, the situation is not worse."
+85,785,souhaiter,verb,,"Je souhaite éviter la honte.  
+I wish to avoid shame."
+86,786,mission,noun,,"La mission exacte du diable est inconnue.
+The exact mission of the devil is unknown."
+87,787,créer,verb,,"Je veux créer un plan pour échapper et améliorer ma santé.
+I want to create a plan to escape and improve my health."
+88,788,chanson,noun,,"La chanson sort de ma bouche et remplit le trou de silence.
+
+The song comes out of my mouth and fills the hole of silence."
+89,789,pote,noun,,"Mon pote m'a offert une fleur douce.
+My friend gave me a soft flower."
+90,790,surveiller,verb,,"Je dois surveiller ma peau pour cette mission.
+I have to monitor my skin for this mission."
+91,791,simplement,adverb,,"Chacun peut simplement suivre cet exemple.
+Each one can simply follow this example."
+92,792,recommencer,verb,,"Elle veut recommencer à prendre soin de sa santé et porter sa robe préférée.
+She wants to start taking care of her health again and wear her favorite dress."
+93,793,robe,noun,,"La parole de l'ennemi critique ma robe.
+The enemy's speech criticizes my dress."
+94,794,chaud,adjective,,"Il fait chaud, donc il est obligé de fumer dehors.
+It is hot, so he is obliged to smoke outside."
+95,795,billet,noun,,"Le gamin a une impression de joie en recevant son billet.  
+The kid has a feeling of joy when receiving his ticket."
+96,796,spécial,adjective,,"Mon supporter préféré a un coin spécial dans le stade.
+My favorite supporter has a special corner in the stadium."
+97,797,moyen,noun,,"Le moyen de préparer une cuisine douce est important.
+The way to prepare a gentle cuisine is important."
+98,798,sympa,adjective,,"Le garçon a une bouche souriante et un doigt sympa.
+
+The boy has a smiling mouth and a nice finger."
+99,799,vaisseau,noun,,"Mon pote a dessiné un vaisseau spatial sur le mur.
+My friend drew a spaceship on the wall."

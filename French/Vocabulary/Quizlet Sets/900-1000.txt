@@ -1,0 +1,302 @@
+blague	nan
+
+
+avenir	nan
+
+
+beauté	nan
+
+
+laisse	nan
+
+
+course	nan
+
+
+manière	nan
+
+
+traverser	nan
+
+
+expérience	nan
+
+
+soin	nan
+
+
+hors	nan
+
+
+cour	nan
+
+
+gauche	nan
+
+
+stupide	nan
+
+
+retenir	nan
+
+
+liste	nan
+
+
+remonter	nan
+
+
+réaliser	nan
+
+
+i	nan
+
+
+moquer	nan
+
+
+étudier	nan
+
+
+installer	nan
+
+
+courage	nan
+
+
+bleu	nan
+
+
+secours	nan
+
+
+milieu	nan
+
+
+proposer	nan
+
+
+m	nan
+
+
+contact	nan
+
+
+inspecteur	nan
+
+
+mignon	nan
+
+
+projet	nan
+
+
+probablement	nan
+
+
+rôle	nan
+
+
+risque	nan
+
+
+action	nan
+
+
+ange	nan
+
+
+avance	nan
+
+
+intéressant	nan
+
+
+parmi	nan
+
+
+langue	nan
+
+
+emporter	nan
+
+
+thé	nan
+
+
+colère	nan
+
+
+départ	nan
+
+
+époque	nan
+
+
+engager	nan
+
+
+voleur	nan
+
+
+cesser	nan
+
+
+tort	nan
+
+
+vacance	nan
+
+
+là-haut	nan
+
+
+machine	nan
+
+
+signifier	nan
+
+
+réparer	nan
+
+
+construire	nan
+
+
+pain	nan
+
+
+bar	nan
+
+
+chier	nan
+
+
+club	nan
+
+
+été	nan
+
+
+horrible	nan
+
+
+profiter	nan
+
+
+pierre	nan
+
+
+pleuvoir	nan
+
+
+plusieurs	nan
+
+
+salope	nan
+
+
+tel	nan
+
+
+glace	nan
+
+
+décision	nan
+
+
+juge	nan
+
+
+contrôle	nan
+
+
+séparer	nan
+
+
+sept	nan
+
+
+maladie	nan
+
+
+quartier	nan
+
+
+désirer	nan
+
+
+travers	nan
+
+
+dommage	nan
+
+
+cigarette	nan
+
+
+traîner	nan
+
+
+respecter	nan
+
+
+époux	nan
+
+
+tas	nan
+
+
+enfuir	nan
+
+
+diriger	nan
+
+
+crever	nan
+
+
+fil	nan
+
+
+combat	nan
+
+
+poursuivre	nan
+
+
+morceau	nan
+
+
+église	nan
+
+
+directeur	nan
+
+
+demande	nan
+
+
+forcer	nan
+
+
+bombe	nan
+
+
+j	nan
+
+
+espoir	nan
+
+
+tueur	nan
+
+
+grandir	nan
+
+
+dimanche	noun : *Sunday*
+Dimanche, je laisse les secours venir.
+Sunday, I let the emergency services come.
+
+

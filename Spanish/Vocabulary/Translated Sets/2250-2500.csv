@@ -1,0 +1,251 @@
+,Unnamed: 0,Spanish,show,lemma,Translation,SpaCy_POS,SpaCy_Tag,POS
+0,2250,borracho,borracho,borracho,drunk,ADJ,ADJ,Adjective
+1,2251,regresen,*regresen* (regresar),regresar,come back,VERB,VERB,Verb
+2,2252,váyanse,*váyanse* (ir),ir,go away,ADJ,ADJ,Adjective
+3,2253,sentía,*sentía* (sentir),sentir,felt,VERB,VERB,Verb
+4,2254,resultado,resultado,resultado,result,NOUN,NOUN,Noun
+5,2255,resultado,*resultado* (resultar),resultar,result,NOUN,NOUN,Noun
+6,2256,parado,parado,parado,stopped,ADJ,ADJ,Adjective
+7,2257,parado,*parado* (parar),parar,stopped,ADJ,ADJ,Adjective
+8,2258,olvides,*olvides* (olvidar),olvidar,forget,NOUN,NOUN,Noun
+9,2259,mirada,mirada,mirada,look,NOUN,NOUN,Noun
+10,2260,mirada,*mirada* (mirar),mirar,look,NOUN,NOUN,Noun
+11,2261,inútil,inútil,inútil,useless,ADJ,ADJ,Adjective
+12,2262,acabas,*acabas* (acabar),acabar,you finish,NOUN,NOUN,Noun
+13,2263,ciencia,ciencia,ciencia,science,NOUN,NOUN,Noun
+14,2264,perdiste,*perdiste* (perder),perder,you lost,VERB,VERB,Verb
+15,2265,sociedad,sociedad,sociedad,society,NOUN,NOUN,Noun
+16,2266,regrese,*regrese* (regresar),regresar,I am back,VERB,VERB,Verb
+17,2267,camioneta,camioneta,camioneta,van,NOUN,NOUN,Noun
+18,2268,coño,coño,coño,Pussy,INTJ,INTJ,Interjection
+19,2269,revista,revista,revista,magazine,NOUN,NOUN,Noun
+20,2270,pareció,*pareció* (parecer),parecer,it seemed,VERB,VERB,Verb
+21,2271,montaña,montaña,montaña,mountain,NOUN,NOUN,Noun
+22,2272,maravillosa,*maravillosa* (maravilloso),maravilloso,wonderful,ADJ,ADJ,Adjective
+23,2273,dejarlo,*dejarlo* (dejar),dejar,leave it,VERB,VERB,Verb
+24,2274,máximo,máximo,máximo,maximum,ADJ,ADJ,Adjective
+25,2275,echar,echar,echar,throw,VERB,VERB,Verb
+26,2276,corriente,corriente,corriente,current,NOUN,NOUN,Noun
+27,2277,escuchando,*escuchando* (escuchar),escuchar,listening,VERB,VERB,Verb
+28,2278,disculpas,*disculpas* (disculpa),disculpa,apologies,NOUN,NOUN,Noun
+29,2279,disculpas,*disculpas* (disculpar),disculpar,apologies,NOUN,NOUN,Noun
+30,2280,cadáver,cadáver,cadáver,corpse,VERB,VERB,Verb
+31,2281,seguimos,*seguimos* (seguir),seguir,we continue,VERB,VERB,Verb
+32,2282,ron,ron,ron,Ron,VERB,VERB,Verb
+33,2283,ron,*ron* (Ron),Ron,Ron,VERB,VERB,Verb
+34,2284,espectáculo,espectáculo,espectáculo,show,NOUN,NOUN,Noun
+35,2285,mundial,mundial,mundial,world,ADJ,ADJ,Adjective
+36,2286,francia,*francia* (Francia),Francia,France,PROPN,PROPN,Proper noun
+37,2287,decirles,*decirles* (decir),decir,tell them,VERB,VERB,Verb
+38,2288,aspecto,aspecto,aspecto,aspect,NOUN,NOUN,Noun
+39,2289,presencia,presencia,presencia,presence,NOUN,NOUN,Noun
+40,2290,famoso,famoso,famoso,famous,ADJ,ADJ,Adjective
+41,2291,corto,corto,corto,short,ADJ,ADJ,Adjective
+42,2292,corto,*corto* (cortar),cortar,short,ADJ,ADJ,Adjective
+43,2293,relájate,*relájate* (relajar),relajar,just relax,VERB,VERB,Verb
+44,2294,poderoso,poderoso,poderoso,powerful,ADJ,ADJ,Adjective
+45,2295,recuerdos,*recuerdos* (recuerdo),recuerdo,memories,NOUN,NOUN,Noun
+46,2296,llego,*llego* (llegar),llegar,arrive,ADJ,ADJ,Adjective
+47,2297,carretera,carretera,carretera,road,VERB,VERB,Verb
+48,2298,pasé,*pasé* (pasar),pasar,happens,VERB,VERB,Verb
+49,2299,oigo,*oigo* (oír),oír,I hear,VERB,VERB,Verb
+50,2300,esperamos,*esperamos* (esperar),esperar,we wait,VERB,VERB,Verb
+51,2301,escuchado,*escuchado* (escuchar),escuchar,listened,ADJ,ADJ,Adjective
+52,2302,cable,cable,cable,wire,NOUN,NOUN,Noun
+53,2303,rosa,rosa,rosa,pink,PROPN,PROPN,Proper noun
+54,2304,bola,bola,bola,ball,NOUN,NOUN,Noun
+55,2305,oferta,oferta,oferta,offer,NOUN,NOUN,Noun
+56,2306,intentarlo,*intentarlo* (intentar),intentar,try it,VERB,VERB,Verb
+57,2307,habido,*habido* (haber),haber,been,AUX,AUX,Auxiliary
+58,2308,continuar,continuar,continuar,continue,VERB,VERB,Verb
+59,2309,ladrón,ladrón,ladrón,thief,NOUN,NOUN,Noun
+60,2310,humanidad,humanidad,humanidad,humanity,NOUN,NOUN,Noun
+61,2311,estómago,estómago,estómago,stomach,ADJ,ADJ,Adjective
+62,2312,entera,*entera* (entero),entero,whole,ADJ,ADJ,Adjective
+63,2313,contó,*contó* (contar),contar,counted,VERB,VERB,Verb
+64,2314,poniendo,*poniendo* (poner),poner,putting up,VERB,VERB,Verb
+65,2315,mercado,mercado,mercado,market,NOUN,NOUN,Noun
+66,2316,granja,granja,granja,farm,NOUN,NOUN,Noun
+67,2317,idiotas,*idiotas* (idiota),idiota,idiots,NOUN,NOUN,Noun
+68,2318,hablemos,*hablemos* (hablar),hablar,let's talk,VERB,VERB,Verb
+69,2319,estudiante,estudiante,estudiante,student,NOUN,NOUN,Noun
+70,2320,siglo,siglo,siglo,century,NOUN,NOUN,Noun
+71,2321,relaciones,*relaciones* (relación),relación,relations,NOUN,NOUN,Noun
+72,2322,hablan,*hablan* (hablar),hablar,they talk,VERB,VERB,Verb
+73,2323,nosotras,nosotras,nosotras,we,NOUN,NOUN,Noun
+74,2324,miembro,miembro,miembro,member,NOUN,NOUN,Noun
+75,2325,fortuna,fortuna,fortuna,fortune,VERB,VERB,Verb
+76,2326,libres,*libres* (libre),libre,free,ADJ,ADJ,Adjective
+77,2327,acciones,*acciones* (acción),acción,Actions,NOUN,NOUN,Noun
+78,2328,esperas,*esperas* (espera),espera,you wait,NOUN,NOUN,Noun
+79,2329,esperas,*esperas* (esperar),esperar,you wait,NOUN,NOUN,Noun
+80,2330,suficientemente,suficientemente,suficientemente,enough,ADV,ADV,Adverb
+81,2331,llevaron,*llevaron* (llevar),llevar,they carried,VERB,VERB,Verb
+82,2332,ocurrido,*ocurrido* (ocurrir),ocurrir,occurred,ADJ,ADJ,Adjective
+83,2333,andar,andar,andar,walk,VERB,VERB,Verb
+84,2334,perfectamente,perfectamente,perfectamente,perfectly,ADV,ADV,Adverb
+85,2335,pasan,*pasan* (pasar),pasar,pass,VERB,VERB,Verb
+86,2336,jardín,jardín,jardín,garden,NOUN,NOUN,Noun
+87,2337,cola,cola,cola,line,NOUN,NOUN,Noun
+88,2338,cola,*cola* (colar),colar,line,NOUN,NOUN,Noun
+89,2339,resultados,*resultados* (resultado),resultado,results,NOUN,NOUN,Noun
+90,2340,francés,francés,francés,French,ADJ,ADJ,Adjective
+91,2341,troya,*troya* (Troya),Troya,troy,NOUN,NOUN,Noun
+92,2342,tercera,*tercera* (tercero),tercero,third,ADJ,ADJ,Adjective
+93,2343,entrenamiento,entrenamiento,entrenamiento,training,NOUN,NOUN,Noun
+94,2344,azúcar,azúcar,azúcar,sugar,NOUN,NOUN,Noun
+95,2345,metido,*metido* (meter),meter,put,ADJ,ADJ,Adjective
+96,2346,ayudarlo,*ayudarlo* (ayudar),ayudar,help you,VERB,VERB,Verb
+97,2347,diles,*diles* (decir),decir,tell them,ADJ,ADJ,Adjective
+98,2348,coger,coger,coger,take,VERB,VERB,Verb
+99,2349,lunes,lunes,lunes,Monday,NOUN,NOUN,Noun
+100,2350,ey,ey,ey,Hey,PRON,PRON,Pronoun
+101,2351,intención,intención,intención,intention,NOUN,NOUN,Noun
+102,2352,volviendo,*volviendo* (volver),volver,getting back,VERB,VERB,Verb
+103,2353,efectivo,efectivo,efectivo,cash,ADJ,ADJ,Adjective
+104,2354,salgamos,*salgamos* (salir),salir,let's go out,VERB,VERB,Verb
+105,2355,preguntaba,*preguntaba* (preguntar),preguntar,I asked,VERB,VERB,Verb
+106,2356,olvida,*olvida* (olvidar),olvidar,forget,VERB,VERB,Verb
+107,2357,helicóptero,helicóptero,helicóptero,helicopter,NOUN,NOUN,Noun
+108,2358,fuertes,*fuertes* (fuerte),fuerte,powerful,ADJ,ADJ,Adjective
+109,2359,encantador,encantador,encantador,charming,ADJ,ADJ,Adjective
+110,2360,original,original,original,original,ADJ,ADJ,Adjective
+111,2361,cadena,cadena,cadena,chain,ADJ,ADJ,Adjective
+112,2362,tarea,tarea,tarea,task,NOUN,NOUN,Noun
+113,2363,dispara,*dispara* (disparar),disparar,shoot,VERB,VERB,Verb
+114,2364,corta,*corta* (corto),corto,short,ADJ,ADJ,Adjective
+115,2365,corta,*corta* (cortar),cortar,short,ADJ,ADJ,Adjective
+116,2366,compañeros,*compañeros* (compañero),compañero,companions,NOUN,NOUN,Noun
+117,2367,cirugía,cirugía,cirugía,surgery,NOUN,NOUN,Noun
+118,2368,quítate,*quítate* (quitar),quitar,take off,NOUN,NOUN,Noun
+119,2369,querían,*querían* (querer),querer,they wanted,VERB,VERB,Verb
+120,2370,precioso,precioso,precioso,precious,ADJ,ADJ,Adjective
+121,2371,lord,lord,lord,lord,NUM,NUM,Numeral
+122,2372,comenzó,*comenzó* (comenzar),comenzar,began,VERB,VERB,Verb
+123,2373,truco,truco,truco,trick,NOUN,NOUN,Noun
+124,2374,inspector,inspector,inspector,inspector,NOUN,NOUN,Noun
+125,2375,enojado,enojado,enojado,angry,ADJ,ADJ,Adjective
+126,2376,enojado,*enojado* (enojar),enojar,angry,ADJ,ADJ,Adjective
+127,2377,felicidades,*felicidades* (felicidad),felicidad,congratulations,NOUN,NOUN,Noun
+128,2378,desaparecido,desaparecido,desaparecido,missing,ADJ,ADJ,Adjective
+129,2379,desaparecido,*desaparecido* (desaparecer),desaparecer,missing,ADJ,ADJ,Adjective
+130,2380,acto,acto,acto,act,NOUN,NOUN,Noun
+131,2381,pollo,pollo,pollo,chicken,NOUN,NOUN,Noun
+132,2382,chocolate,chocolate,chocolate,chocolate,NOUN,NOUN,Noun
+133,2383,adonde,adonde,adonde,where to,SCONJ,SCONJ,Conjunction
+134,2384,resulta,*resulta* (resultar),resultar,result,VERB,VERB,Verb
+135,2385,merece,*merece* (merecer),merecer,deserve,VERB,VERB,Verb
+136,2386,gas,gas,gas,gas,NOUN,NOUN,Noun
+137,2387,examen,examen,examen,exam,VERB,VERB,Verb
+138,2388,vean,*vean* (ver),ver,see,VERB,VERB,Verb
+139,2389,tonta,*tonta* (tonto),tonto,silly,ADJ,ADJ,Adjective
+140,2390,importantes,*importantes* (importante),importante,important,ADJ,ADJ,Adjective
+141,2391,apuesta,apuesta,apuesta,bet,VERB,VERB,Verb
+142,2392,apuesta,*apuesta* (apostar),apostar,bet,VERB,VERB,Verb
+143,2393,directamente,directamente,directamente,directly,ADV,ADV,Adverb
+144,2394,recuperar,recuperar,recuperar,recover,VERB,VERB,Verb
+145,2395,pongo,*pongo* (poner),poner,put,VERB,VERB,Verb
+146,2396,llegaron,*llegaron* (llegar),llegar,they arrived,VERB,VERB,Verb
+147,2397,cobarde,cobarde,cobarde,coward,NOUN,NOUN,Noun
+148,2398,cantidad,cantidad,cantidad,amount,NOUN,NOUN,Noun
+149,2399,sucio,sucio,sucio,dirty,NOUN,NOUN,Noun
+150,2400,habia,*habia* (haber),haber,there was,PROPN,PROPN,Proper noun
+151,2401,emperador,emperador,emperador,emperor,NOUN,NOUN,Noun
+152,2402,mono,mono,mono,bun,NOUN,NOUN,Noun
+153,2403,encontraremos,*encontraremos* (encontrar),encontrar,we will find,VERB,VERB,Verb
+154,2404,disparen,*disparen* (disparar),disparar,shoot,VERB,VERB,Verb
+155,2405,gloria,gloria,gloria,glory,NOUN,NOUN,Noun
+156,2406,contrario,contrario,contrario,contrary,ADJ,ADJ,Adjective
+157,2407,socorro,socorro,socorro,Help,NOUN,NOUN,Noun
+158,2408,socorro,*socorro* (socorrer),socorrer,Help,NOUN,NOUN,Noun
+159,2409,sir,sir,sir,sir,PRON,PRON,Pronoun
+160,2410,escaleras,*escaleras* (escalera),escalera,stairs,NOUN,NOUN,Noun
+161,2411,pasos,*pasos* (paso),paso,Steps,NOUN,NOUN,Noun
+162,2412,nuevamente,nuevamente,nuevamente,again,ADV,ADV,Adverb
+163,2413,derechos,*derechos* (derecho),derecho,rights,NOUN,NOUN,Noun
+164,2414,obtener,obtener,obtener,obtain,VERB,VERB,Verb
+165,2415,guste,*guste* (gustar),gustar,like,VERB,VERB,Verb
+166,2416,búsqueda,búsqueda,búsqueda,search,NOUN,NOUN,Noun
+167,2417,helado,helado,helado,frozen,NOUN,NOUN,Noun
+168,2418,helado,*helado* (helar),helar,frozen,NOUN,NOUN,Noun
+169,2419,fútbol,fútbol,fútbol,soccer,NOUN,NOUN,Noun
+170,2420,sexual,sexual,sexual,sexual,ADJ,ADJ,Adjective
+171,2421,polvo,polvo,polvo,dust,NOUN,NOUN,Noun
+172,2422,aseguro,*aseguro* (asegurar),asegurar,I assure,VERB,VERB,Verb
+173,2423,rostro,rostro,rostro,face,NOUN,NOUN,Noun
+174,2424,robado,*robado* (robar),robar,stolen,ADJ,ADJ,Adjective
+175,2425,robado,robado,robado,stolen,ADJ,ADJ,Adjective
+176,2426,policia,*policia* (policía),policía,police,NOUN,NOUN,Noun
+177,2427,empresa,empresa,empresa,company,NOUN,NOUN,Noun
+178,2428,escuchas,*escuchas* (escuchar),escuchar,you listen,NOUN,NOUN,Noun
+179,2429,pones,*pones* (poner),poner,you put,NOUN,NOUN,Noun
+180,2430,lárgate,*lárgate* (largar),largar,get out,NOUN,NOUN,Noun
+181,2431,interés,interés,interés,interest,NOUN,NOUN,Noun
+182,2432,discúlpeme,*discúlpeme* (disculpar),disculpar,excuse me,VERB,VERB,Verb
+183,2433,dejaron,*dejaron* (dejar),dejar,They left,VERB,VERB,Verb
+184,2434,tengamos,*tengamos* (tener),tener,let's have,VERB,VERB,Verb
+185,2435,firma,firma,firma,signature,NOUN,NOUN,Noun
+186,2436,firma,*firma* (firmar),firmar,signature,NOUN,NOUN,Noun
+187,2437,llevaba,*llevaba* (llevar),llevar,wore,VERB,VERB,Verb
+188,2438,llegas,*llegas* (llegar),llegar,you arrive,NOUN,NOUN,Noun
+189,2439,cristo,*cristo* (Cristo),Cristo,Christ,ADJ,ADJ,Adjective
+190,2440,tercer,*tercer* (tercero),tercero,third,ADJ,ADJ,Adjective
+191,2441,senador,senador,senador,senator,NOUN,NOUN,Noun
+192,2442,continúa,*continúa* (continuar),continuar,keep going,VERB,VERB,Verb
+193,2443,gracia,gracia,gracia,funny,NOUN,NOUN,Noun
+194,2444,cien,cien,cien,hundred,NUM,NUM,Numeral
+195,2445,des,*des* (dar),dar,des,NOUN,NOUN,Noun
+196,2446,tratado,tratado,tratado,treaty,VERB,VERB,Verb
+197,2447,tratado,*tratado* (tratar),tratar,treaty,VERB,VERB,Verb
+198,2448,razones,*razones* (razón),razón,reasons,NOUN,NOUN,Noun
+199,2449,caminando,*caminando* (caminar),caminar,walking,VERB,VERB,Verb
+200,2450,urgencias,*urgencias* (urgencia),urgencia,emergencies,NOUN,NOUN,Noun
+201,2451,u,*u* (o),o,or,CCONJ,CCONJ,Conjunction
+202,2452,esperan,*esperan* (esperar),esperar,are waiting,VERB,VERB,Verb
+203,2453,muñeca,muñeca,muñeca,doll,NOUN,NOUN,Noun
+204,2454,firme,firme,firme,firm,ADJ,ADJ,Adjective
+205,2455,firme,*firme* (firmar),firmar,firm,ADJ,ADJ,Adjective
+206,2456,duerme,*duerme* (dormir),dormir,sleep,VERB,VERB,Verb
+207,2457,ambulancia,ambulancia,ambulancia,ambulance,VERB,VERB,Verb
+208,2458,limpia,*limpia* (limpio),limpio,clean,ADJ,ADJ,Adjective
+209,2459,limpia,*limpia* (limpiar),limpiar,clean,ADJ,ADJ,Adjective
+210,2460,habéis,*habéis* (haber),haber,you have,NUM,NUM,Numeral
+211,2461,flota,flota,flota,fleet,NOUN,NOUN,Noun
+212,2462,flota,*flota* (flotar),flotar,fleet,NOUN,NOUN,Noun
+213,2463,leyenda,leyenda,leyenda,legend,NOUN,NOUN,Noun
+214,2464,encuentre,*encuentre* (encontrar),encontrar,find,NOUN,NOUN,Noun
+215,2465,fué,*fué* (ir),ir,was,VERB,VERB,Verb
+216,2466,fué,*fué* (ser),ser,was,VERB,VERB,Verb
+217,2467,romper,romper,romper,break,VERB,VERB,Verb
+218,2468,muriendo,*muriendo* (morir),morir,dying,VERB,VERB,Verb
+219,2469,encontrarlo,*encontrarlo* (encontrar),encontrar,find him,VERB,VERB,Verb
+220,2470,rescate,rescate,rescate,rescue,NOUN,NOUN,Noun
+221,2471,rescate,*rescate* (rescatar),rescatar,rescue,NOUN,NOUN,Noun
+222,2472,quedado,*quedado* (quedar),quedar,left,VERB,VERB,Verb
+223,2473,enfrente,enfrente,enfrente,in front,ADV,ADV,Adverb
+224,2474,comienzo,comienzo,comienzo,beginning,NOUN,NOUN,Noun
+225,2475,comienzo,*comienzo* (comenzar),comenzar,beginning,NOUN,NOUN,Noun
+226,2476,árboles,*árboles* (árbol),árbol,trees,NOUN,NOUN,Noun
+227,2477,queso,queso,queso,cheese,NOUN,NOUN,Noun
+228,2478,favorito,favorito,favorito,favorite,ADJ,ADJ,Adjective
+229,2479,haberme,*haberme* (haber),haber,have,AUX,AUX,Auxiliary
+230,2480,frontera,frontera,frontera,border,NOUN,NOUN,Noun
+231,2481,creemos,*creemos* (creer),creer,We believe,VERB,VERB,Verb
+232,2482,colega,colega,colega,colleague,NOUN,NOUN,Noun
+233,2483,jueves,jueves,jueves,Thursday,NOUN,NOUN,Noun
+234,2484,alemanes,*alemanes* (alemán),alemán,germans,NOUN,NOUN,Noun
+235,2485,sábado,sábado,sábado,Saturday,NOUN,NOUN,Noun
+236,2486,limpiar,limpiar,limpiar,clean,VERB,VERB,Verb
+237,2487,puto,puto,puto,fucking,ADJ,ADJ,Adjective
+238,2488,poquito,*poquito* (poco),poco,a little,ADV,ADV,Adverb
+239,2489,cientos,*cientos* (ciento),ciento,hundreds,NUM,NUM,Numeral
+240,2490,muero,*muero* (morir),morir,I die,ADJ,ADJ,Adjective
+241,2491,irak,*irak* (Irak),Irak,Iraq,PROPN,PROPN,Proper noun
+242,2492,inteligencia,inteligencia,inteligencia,intelligence,NOUN,NOUN,Noun
+243,2493,funcionar,funcionar,funcionar,function,VERB,VERB,Verb
+244,2494,felicitaciones,*felicitaciones* (felicitación),felicitación,congratulations,NOUN,NOUN,Noun
+245,2495,escapó,*escapó* (escapar),escapar,escaped,VERB,VERB,Verb
+246,2496,criatura,criatura,criatura,creature,VERB,VERB,Verb
+247,2497,milagro,milagro,milagro,miracle,NOUN,NOUN,Noun
+248,2498,deprisa,deprisa,deprisa,quickly,ADV,ADV,Adverb
+249,2499,especiales,*especiales* (especial),especial,specials,ADJ,ADJ,Adjective

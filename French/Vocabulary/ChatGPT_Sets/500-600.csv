@@ -1,0 +1,227 @@
+,Unnamed: 0,French,POS,Translation,ChatGPT_Sentence
+0,500,fête,noun,"party, celebration","Il y a une fête partout, et l'esprit de joie est présent.
+
+There is a party everywhere, and the spirit of joy is present."
+1,501,couper,verb,"to cut, cut off","Je ne veux pas autant déranger, mais je dois couper le pain.  
+I don't want to bother as much, but I have to cut the bread."
+2,502,esprit,noun,"mind, brain, wit, spirit, esprit","L'esprit d'équipe est simple.  
+The team spirit is simple."
+3,503,taire,verb,"to be silent, stop talking","Il est simple de se taire partout.
+It is simple to stay silent everywhere."
+4,504,seigneur,noun,lord (e Seigneur = the Lord),"Le seigneur a quatre soldats pour détruire le château.
+The lord has four soldiers to destroy the castle."
+5,505,flic,noun,"cop, policeman","Le flic a dit que ce n'était pas grave et qu'on pouvait s'amuser.
+
+The cop said it wasn't serious and that we could have fun."
+6,506,parfois,adverb,sometimes,"Parfois, le patron, lequel est très strict, nous donne des jours de congé.
+
+Sometimes, the boss, who is very strict, gives us days off."
+7,507,capitaine,noun,captain,"Le capitaine nous montre le chemin qui nous intéresse.
+The captain shows us the path that interests us."
+8,508,âge,noun,age,"Mon âge est vingt ans, ensuite j'allume la lumière.
+
+My age is twenty years, then I turn on the light."
+9,509,autant,adverb,"so much, so many","Il y a autant de chevaux dans la prison.
+
+There are as many horses in the prison."
+10,510,force,noun,"force, strength","La force de la nature intéresse souvent les scientifiques.
+The force of nature often interests scientists."
+11,511,pièce,noun,room; play; coin; piece,"La pièce est ensuite utilisée pour le rapport.  
+The room is then used for the report."
+12,512,quatre,numerical adjective,four,"Il y a quatre cartes parfois.
+There are four cards sometimes."
+13,513,cul,noun,"bum, ass","Je jure que la carte est dans mon cul.
+I swear that the card is in my butt."
+14,514,difficile,adjective,"difficult, strenuous, hard","Il est sûrement difficile de couper ce pain.
+
+It is surely difficult to cut this bread."
+15,515,bras,noun,arm,"Il est difficile de détruire un lien fort, mais il faut parfois pardonner pour ouvrir ses bras à nouveau.
+It is difficult to destroy a strong bond, but sometimes one must forgive to open their arms again."
+16,516,tromper,verb,to deceive; to make a mistake,"Il ne faut pas se tromper de force en regardant ailleurs.  
+One must not mistake the strength by looking elsewhere."
+17,517,surtout,adverb,above all,"Il est surtout exactement ce que je voulais, rien de grave.
+
+He is exactly what I wanted, nothing serious."
+18,518,ressembler,verb,"to look like, to resemble","La prison ressemble à un hôpital.
+
+The prison looks like a hospital."
+19,519,jurer,verb,to swear,"Je jure surtout de respecter ceci.  
+I swear especially to respect this."
+20,520,plan,noun,"map, plan, layout","Nous avons un plan de la ville sur la carte.
+We have a map of the city on the card."
+21,521,prison,noun,"prison, jail","Il est sûrement au bout de sa peine de prison.
+He is surely at the end of his prison sentence."
+22,522,sale,adjective,dirty,"Le sol est sale tôt le matin, mais le marché est vivant.  
+The ground is dirty early in the morning, but the market is lively."
+23,523,courir,verb,"to run, rush","Il court pour ne pas tromper son visage.
+He runs to not deceive his face."
+24,524,haut,"noun, adjective","high, elevated; top","Le haut simple est sale.  
+The simple top is dirty."
+25,525,état,noun,state,"Le simple fait de remettre l'état en ordre est important.
+The simple act of restoring the state to order is important."
+26,526,remettre,verb,to put back; hand over; postpone; put back on,"Je vais remettre le fil que j'ai coupé pour qu'il puisse exister à nouveau.
+I will put back the thread that I cut so it can exist again."
+27,527,carte,noun,"map, card","La carte ressemble à une feuille libre.
+The map looks like a free sheet."
+28,528,paix,noun,"peace, calmness; quiet, calm","Nous habitons dans un village où la paix n'a pas de prix.
+We live in a village where peace is priceless."
+29,529,exactement,adverb,"exactly, accurately, precisely","Il est difficile d'entendre exactement sa voix.  
+It is difficult to hear his voice exactly."
+30,530,drôle,adjective,"funny, peculiar","Le film était bizarre mais drôle et génial.
+
+The movie was weird but funny and great."
+31,531,refuser,verb,"to refuse, turn down","Je refuse de vivre une vie simple.
+
+I refuse to live a simple life."
+32,532,dès,preposition,from,"Dès que mon oncle arrive, il nettoie la maison sale.
+As soon as my uncle arrives, he cleans the dirty house."
+33,533,président,noun,"president, chairman","Le président est sûrement l'un des leaders importants.
+The president is surely one of the important leaders."
+34,534,cours,noun,"class, course","Le cours est drôle et je veux réussir.
+The class is funny and I want to succeed."
+35,535,grave,adjective,"serious, grave, solemn","Il est grave de ne pas terminer autant de travail.
+
+It is serious not to finish as much work."
+36,536,terminer,verb,"to end, finish","Je vais terminer ce travail en haut de la liste, c'est normal.
+
+I will finish this work at the top of the list, it's normal."
+37,537,ciel,noun,sky,"Le ciel est rempli de lumière, c'est un beau plan.
+
+The sky is filled with light, it's a beautiful sight."
+38,538,partout,adverb,everywhere,"Il est souvent un honneur de voyager partout.  
+It is often an honor to travel everywhere."
+39,539,âme,noun,soul,"Il ne faut pas tromper son âme dans le cours de la vie.
+One must not deceive their soul in the course of life."
+40,540,patron,noun,"boss, manager, owner","Le patron a décidé de reprendre et remettre l'entreprise sur pied.
+The boss decided to take over and get the company back on track."
+41,541,amuser,verb,"to amuse, entertain","Le capitaine raconte des histoires pour amuser l'esprit de l'équipage.
+The captain tells stories to amuse the crew's spirit."
+42,542,celle,demonstrative pronoun,"the one, that one (feminine singular)","Celle qui travaille à l'hôpital a une gueule sympathique.
+The one who works at the hospital has a friendly face."
+43,543,visage,noun,face,"Elle veut embrasser son visage différent.
+She wants to kiss his different face."
+44,544,intéresser,verb,to interest,"Le sujet de l'âme commence à m'intéresser car il existe depuis toujours.
+The subject of the soul is starting to interest me because it has always existed."
+45,545,reconnaître,verb,"to recognize, acknowledge","Je peux reconnaître que ceci est différent.
+I can recognize that this is different."
+46,546,rire,verb,"to laugh, have fun, joke","Ils vont sûrement rire.
+They will surely laugh."
+47,547,médecin,noun,"doctor, physician, medical practitioner, MD","Le médecin est allé ailleurs pour voir le seigneur.
+The doctor went elsewhere to see the lord."
+48,548,rapport,noun,"report, connection, link, relationship","L'un des rapports contient des informations importantes.
+
+One of the reports contains important information."
+49,549,pardonner,verb,"to forgive, pardon, excuse","Je pardonne pour trouver la paix malgré le froid.
+I forgive to find peace despite the cold."
+50,550,avis,noun,opinion; notice,"À mon avis, ce film est bizarre par rapport à ceux d'ailleurs.
+In my opinion, this movie is strange compared to those from elsewhere."
+51,551,embrasser,verb,"to kiss; to embrace, encompass","Le seigneur va embrasser et pardonner ses enfants.
+The lord will embrace and forgive his children."
+52,552,retour,noun,return,"Le retour de sa voix est sûrement attendu.  
+The return of her voice is surely awaited."
+53,553,laquelle,"relative pronoun, interrogative pronoun",which one = (le + quelle) (feminine singular),"La plante, laquelle pousse dans cet état, est magnifique.
+The plant, which grows in this state, is beautiful."
+54,554,simple,adjective,simple,"C'est une âme simple à prévenir.
+It is a simple soul to warn."
+55,555,danser,verb,to dance,"Il danse face à la prison.
+He dances in front of the prison."
+56,556,exister,verb,to exist,"L'équipe doit exister pour taire les rumeurs.
+The team must exist to silence the rumors."
+57,557,différent,adjective,"different, various, other","Le médecin donne un cours différent.
+The doctor gives a different class."
+58,558,souvent,adverb,often,"Je rentre souvent à la maison à quatre heures après le retour de l'école.
+I often come home at four o'clock after returning from school."
+59,559,lumière,noun,light,"Le flic a vu la lumière derrière le cul de la voiture.
+The cop saw the light behind the back of the car."
+60,560,génial,adjective,"great, brilliant","Mon oncle est un capitaine génial.
+My uncle is a great captain."
+61,561,libre,adjective,"free, vacant","Le chemin vers le dollar est libre.
+The path to the dollar is clear."
+62,562,dollar,noun,dollar,"Ceci coûte un dollar, c'est tout ce que j'ai dans mon cul.
+This costs a dollar, that's all I have in my butt."
+63,563,sûrement,adverb,"surely, certainly, most probably","Sûrement, il aime surtout les choses pareilles.
+
+Surely, he especially likes similar things."
+64,564,pareil,adjective,the same,"La pièce est pareille, alors tais-toi.
+
+The room is the same, so be quiet."
+65,565,hôpital,noun,hospital,"Ceci est un cours sur l'hôpital.
+This is a lesson about the hospital."
+66,566,ceci,demonstrative pronoun,this (formal contexts; refers to nouns that have no specific gender),"Ceci est un rapport normal.
+This is a normal report."
+67,567,réussir,verb,"to be successful, succeed","Il a réussi exactement à embrasser le succès.
+He succeeded exactly in embracing success."
+68,568,bizarre,adjective,"odd, starnge, bizarre","Le bout de bois a une forme bizarre pour son âge.
+The piece of wood has a strange shape for its age."
+69,569,voix,noun,voice,"Elle se lève tôt pour chanter avec une voix libre.
+She gets up early to sing with a free voice."
+70,570,protéger,verb,to protect,"Le président a un plan pour protéger l'environnement.
+The president has a plan to protect the environment."
+71,571,honneur,noun,"honor (US), honour","Il est un honneur de voir cette gueule bizarre.
+
+It is an honor to see this strange face."
+72,572,tôt,adverb,early,"Le flic arrive tôt.
+The cop arrives early."
+73,573,équipe,noun,"team, crew, party","L'équipe est drôle dès le matin.
+The team is funny from the morning."
+74,574,prévenir,verb,"to tell, inform, prevent","Je vais prévenir mon collègue dans la pièce à propos du rapport.  
+I will inform my colleague in the room about the report."
+75,575,cheval,noun,horse,"Mon oncle a un cheval qui existe dans le pré.
+My uncle has a horse that exists in the meadow."
+76,576,ailleurs,adverb,"elsewhere, somewhere else","Les enfants s'amusent partout, mais ils veulent aller ailleurs.  
+The children have fun everywhere, but they want to go elsewhere."
+77,577,lequel,"relative pronoun, interrogative pronoun",which one = (le + quel) (masculine singular),"Lequel de ces chanteurs a une voix que tu ne peux pas pardonner ?
+Which of these singers has a voice that you cannot forgive?"
+78,578,maître,noun,"master, ruler, mistress, school teacher","Le maître a montré le chemin, ensuite nous avons suivi.
+
+The teacher showed the way, then we followed."
+79,579,avion,noun,plane,"L'avion coupe le ciel pendant que les enfants courent dans le parc.
+The airplane cuts through the sky while the children run in the park."
+80,580,bout,noun,"bit, tip, end","Je peux reconnaître celle qui est au bout de la rue.  
+I can recognize the one at the end of the street."
+81,581,habiter,verb,to live in,"Je n'aime pas habiter dans une pièce sale.
+I don't like living in a dirty room."
+82,582,faim,noun,hunger,"J'ai faim et je vais reprendre l'un des biscuits.  
+I am hungry and I am going to take one of the cookies."
+83,583,ensuite,adverb,"then, next, afterwards","Il a réussi à l'hôpital, ensuite il est rentré chez lui.
+He succeeded at the hospital, then he went home."
+84,584,l'un,indefinite pronoun,"a, an, one (replaces 'un' when 'un' is a pronoun or at the beginning of a sentence)","Dès l'un des jours, une âme se sentira libre.
+
+From one of the days, a soul will feel free."
+85,585,froid,adjective,cold,"Le seigneur regarde la carte froide.
+
+The lord looks at the cold map."
+86,586,normal,adjective,"normal, usual","Il est normal de ressembler à ses parents à cet âge.
+It is normal to resemble your parents at this age."
+87,587,déranger,verb,"to disturb, upset","Je ne veux pas te déranger pendant que tu cours, mais je te jure que c'est important.
+
+I don't want to disturb you while you are running, but I swear to you that it's important."
+88,588,reprendre,verb,"to recapture, take back","Je vais reprendre le travail après avoir terminé de couper le pain.
+I will resume work after finishing cutting the bread."
+89,589,oncle,noun,uncle,"Mon oncle veut détruire le froid.
+My uncle wants to destroy the cold."
+90,590,prix,noun,price; prize,"Le général a gagné un prix pour son courage face au danger.  
+The general won a prize for his courage in the face of danger."
+91,591,retard,noun,"delay, lateness","L'avion a eu un retard à cause de la neige, ce qui a coupé notre voyage.
+
+The plane had a delay because of the snow, which cut our trip."
+92,592,détruire,verb,"to destroy, ruin","Le sale monstre veut détruire tout ce qui m'intéresse.
+The dirty monster wants to destroy everything that interests me."
+93,593,cadeau,noun,"present, gift","Le cadeau a touché son âme et l'a aidée à réussir.
+
+The gift touched her soul and helped her succeed."
+94,594,pousser,verb,"to push, press","Ceci va pousser ensuite.
+
+This will grow next."
+95,595,face,noun,face; heads,"Elle a décidé de pardonner lors de la fête en face de tout le monde.
+She decided to forgive during the party in front of everyone."
+96,596,gueule,noun,mouth,"Il a crié avec force, sa gueule avait un ton grave.
+He shouted with force, his mouth had a deep tone."
+97,597,chemin,noun,"path, way","Je refuse de protéger ce chemin.  
+I refuse to protect this path."
+98,598,vivant,adjective,"vibrant, living, alive","Le chat est vivant, libre et aime rire.
+
+The cat is alive, free, and loves to laugh."
+99,599,général,noun,general (military),"Le général a trouvé le ciel bizarre.
+
+The general found the sky strange."

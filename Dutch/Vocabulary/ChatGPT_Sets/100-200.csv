@@ -1,0 +1,223 @@
+,Unnamed: 0,Dutch,POS,ChatGPT_Sentence
+0,100,nou,adverb,"Wij zullen nou beginnen.
+We will start now."
+1,101,mee,noun,"Zij komen mee.
+
+They come along."
+2,102,misschien,adverb,"Misschien kan ik je even helpen.
+Maybe I can help you for a moment."
+3,103,even,adverb,"Je kunt even wachten, ik zal je helpen.  
+You can wait a moment, I will help you."
+4,104,iemand,pronoun,"Iemand komt en wil iets.
+
+Someone comes and wants something."
+5,105,komt,verb,"Hij komt net na het eten.
+He comes just after the meal."
+6,106,niets,noun,"Niemand heeft twee keer niets gekregen.
+No one received nothing twice."
+7,107,zei,verb,"Zij zei dat ze meer tijd wilde.  
+She said that she wanted more time."
+8,108,hou,verb,"Ik hou van z'n hond en geef hem een koekje.
+I love his dog and give him a cookie."
+9,109,komen,verb,"Zij zeggen dat ze morgen komen.
+They say that they are coming tomorrow."
+10,110,mensen,noun,"De mensen doet me spijt.
+The people make me feel sorry."
+11,111,onze,pronoun,"Onze hond vind ik leuk, oh!
+
+I like our dog, oh!"
+12,112,nodig,adjective,"Ik heb niks anders nodig.  
+I need nothing else."
+13,113,tot,preposition,"Ik wacht tot jouw drie vrienden komen.
+I wait until your three friends come."
+14,114,worden,verb,"Het spijt me dat het zo laat wordt.
+I'm sorry that it is getting so late."
+15,115,veel,adverb,"Ik ben bijna klaar en heb veel werk af.  
+I am almost done and have finished a lot of work."
+16,116,weten,verb,"Ik weet dat je de hele film hebt gezien.
+I know that you have seen the whole movie."
+17,117,leven,noun,"God gaf ons een uur van leven.
+God gave us an hour of life."
+18,118,wij,pronoun,"Wij hebben allemaal een leuke dag.  
+We all have a nice day."
+19,119,weer,noun,"Het weer is niets erg vandaag.
+The weather is nothing bad today."
+20,120,gewoon,adverb,"Niemand heeft genoeg, het is gewoon zo.
+
+Nobody has enough, it is just like that."
+21,121,kijk,noun,"De kijk tot succes wordt duidelijk.
+
+The view to success becomes clear."
+22,122,zeggen,verb,"Ik zeg zoals ik dacht.  
+I say as I thought."
+23,123,tijd,noun,"Het leven en werk nemen veel tijd.  
+Life and work take a lot of time."
+24,124,zeg,interjection,"Zeg, zei je dag tegen hem?
+
+Hey, did you say goodbye to him?"
+25,125,twee,noun,"Twee mensen zijn dood, misschien.
+
+Two people are dead, maybe."
+26,126,toen,conjunction,"Ik wachtte, omdat het regende toen ik naar buiten ging.
+I waited because it was raining when I went outside."
+27,127,tegen,preposition,"Toen liep ik misschien tegen de muur.  
+When I walked, I maybe bumped into the wall."
+28,128,zit,noun,"De zit van de stoel komt erg comfortabel over.
+The seat of the chair comes across as very comfortable."
+29,129,net,adverb,"Ik heb net een goede dag gehad, zeker weten.
+I just had a good day, for sure."
+30,130,dood,noun,"Hij was dood na z'n val.
+He was dead after his fall."
+31,131,uw,pronoun,"Uw huis is anders dan z'n huis.
+Your house is different from his house."
+32,132,wordt,verb,"Ik geef z'n boek terug voordat het wordt laat.
+I give his book back before it gets late."
+33,133,hé,interjection,"Hé, maak het beter!
+
+Hey, make it better!"
+34,134,maken,verb,"Ik maak een taart en hij komt mee.  
+I am making a cake and he is coming along."
+35,135,mag,noun,"De hele mag is af.
+
+The entire magazine is finished."
+36,136,één,noun,"Één van de mensen is anders.
+
+One of the people is different."
+37,137,z'n,his,"Hij zei dat z'n droom werkelijkheid zou worden.
+He said that his dream would become reality."
+38,138,omdat,conjunction,"Ik ben niet bang omdat er niets erg is.
+I am not afraid because there is nothing bad."
+39,139,gedaan,adjective,"Ik heb altijd spijt van mijn gedaan werk.  
+I always regret my done work."
+40,140,heel,adjective,"Onze kat is heel lief en doet niks verkeerd.
+Our cat is very sweet and does nothing wrong."
+41,141,af,adverb,"Hij zei dat het geld op was en hij moest af.  
+He said that the money was gone and he had to get off."
+42,142,altijd,adverb,"Hij is altijd bang voor de dood elke keer.
+
+He is always afraid of death every time."
+43,143,jouw,pronoun,"Hé, zijn dit jouw twee boeken?
+Hey, are these your two books?"
+44,144,zeker,adjective,"Oh, geef me een zeker antwoord.  
+Oh, give me a certain answer."
+45,145,geef,verb,"Ik geef toen veel boeken aan mijn vriend.
+I gave a lot of books to my friend back then."
+46,146,zie,interjection,"Zie, ik kon niet komen.  
+See, I couldn't come."
+47,147,wacht,noun,"Neem plaats in de wacht en vind rust.
+Take a seat in the waiting area and find peace."
+48,148,allemaal,pronoun,"Ze praten allemaal en ik kijk.
+They all talk and I watch."
+49,149,jaar,noun,"Het is tijd om te vieren wat we dit jaar hebben gedaan.
+It is time to celebrate what we have done this year."
+50,150,doet,verb,"Mijn broer doet uw twee taken.
+My brother does your two tasks."
+51,151,dag,noun,"Bedankt voor het praten vandaag, het was een leuke dag.
+Thank you for talking today, it was a nice day."
+52,152,zij,pronoun,"Zij heeft twee appels tot haar beschikking.
+She has two apples at her disposal."
+53,153,hun,pronoun,"Hun hebben niks om spijt van te hebben.
+They have nothing to regret."
+54,154,huis,noun,"Toen kunt je het huis zien.  
+Then you can see the house."
+55,155,vader,noun,"Mijn vader vindt het allemaal leuk.
+My father likes it all."
+56,156,dank,noun,"Ik kan je niet genoeg dank geven.
+I cannot give you enough thanks."
+57,157,dacht,verb,"Ik dacht misschien net aan jou.
+I was just maybe thinking about you."
+58,158,kunt,verb,"Jij zult vinden wat je zoekt als je goed zoekt.
+
+You will find what you are looking for if you search well."
+59,159,zoals,adverb,"Niemand vindt het zoals ik.
+
+Nobody finds it like I do."
+60,160,vrouw,noun,"De vrouw heeft genoeg tijd om alles te doen wat nodig is.
+The woman has enough time to do everything that is needed."
+61,161,keer,noun,"Dit keer worden we misschien vrienden.
+This time we might become friends."
+62,162,anders,adverb,"Ik wil een huis zoals anders.  
+I want a house like otherwise."
+63,163,andere,adjective,"Ik zie de andere kant en heb spijt.  
+I see the other side and regret it."
+64,164,willen,verb,"Ik wil twee beter boeken.
+I want two better books."
+65,165,erg,adverb,"Het is erg moeilijk om te zeggen wat ik moet maken.
+It is very difficult to say what I should make."
+66,166,spijt,noun,"Bedankt, ik maak mijn spijt duidelijk.
+
+Thank you, I make my regret clear."
+67,167,bedankt,interjection,"Bedankt, ik heb je gezien en neem het mee.
+
+Thank you, I saw you and will take it with me."
+68,168,niemand,noun,"Niemand doet misschien iets.
+
+Maybe nobody does anything."
+69,169,wilt,verb,"Wij dachten dat je wilt komen.  
+We thought that you want to come."
+70,170,geld,noun,"Toen had ik geen geld in mijn leven.
+When I had no money in my life."
+71,171,zitten,verb,"Iedereen kon op de bank zitten.  
+Everyone could sit on the couch."
+72,172,niks,pronoun,"Ik heb heel de dag niks zien komen.
+I haven't seen anything come all day."
+73,173,iedereen,pronoun,"Iedereen bedankt, ik hou van jullie.
+Everyone thanks, I love you all."
+74,174,binnen,adverb,"Hij voelde zich beter toen hij binnen was.
+
+He felt better when he was inside."
+75,175,staat,noun,"Allemaal mensen in de staat genieten van de dag.
+All the people in the state are enjoying the day."
+76,176,wilde,noun,"De wilde dieren komen zich verstoppen in het bos.
+The wild animals come to hide in the forest."
+77,177,zich,pronoun,"Zij zei altijd dat men zich moet respecteren.
+She always said that one must respect oneself."
+78,178,beter,adverb,"Ik hou niks beter dan dit.
+I like nothing better than this."
+79,179,werk,noun,"Ik zit anders zonder werk.
+I am otherwise without work."
+80,180,praten,verb,"Wij praten genoeg over de dood.
+We talk enough about death."
+81,181,gezien,adjective,"De vader was even gezien in de winkel.  
+The father was seen for a moment in the store."
+82,182,zullen,verb,"Wij zullen niks anders doen.  
+We will do nothing else."
+83,183,waren,noun,"De waren zijn allemaal beter geworden.
+The goods have all improved."
+84,184,god,noun,"God heeft nou geen geld.  
+God has no money now."
+85,185,maak,noun,"Ik dacht dat ik een maak gezien heb.
+
+I thought that I saw a creation."
+86,186,neem,verb,"Ik neem niks mee om te worden.  
+I take nothing with me to become."
+87,187,vinden,verb,"Oh, ik heb het gedaan en ik vind het leuk.  
+Oh, I did it and I like it."
+88,188,vind,verb,"Ik vind dat hij altijd op dezelfde plek zit.
+I find that he always sits in the same place."
+89,189,moeder,noun,"Nou, ik kan mijn moeder niet vinden.  
+Well, I can't find my mother."
+90,190,kon,verb,"Ik kon jouw dag niet beter maken.
+I couldn't make your day better."
+91,191,uur,noun,"Het wordt beter na een uur.
+It gets better after an hour."
+92,192,klaar,adjective,"Wij zullen klaar zijn als het werk gedaan is.
+We will be ready when the work is done."
+93,193,genoeg,adjective,"Ik heb genoeg appels, zoals drie.
+
+I have enough apples, like three."
+94,194,helpen,verb,"Oh, mag ik je helpen?  
+Oh, may I help you?"
+95,195,oh,interjection,"Oh god, dit keer is het echt.
+
+Oh god, this time it is real."
+96,196,hele,adjective,"De hele klas maakt het werk dat de leraar doet.
+
+The whole class does the work that the teacher does."
+97,197,drie,,"De wilde kat had drie hele vissen.  
+The wild cat had three whole fish."
+98,198,vast,adjective,"Jouw fiets staat nou vast.
+
+Your bike is now stuck."
+99,199,na,preposition,"Ik zie z'n huis na school.
+I see his house after school."

@@ -1,0 +1,500 @@
+verb : *to sleep*	*slapen*
+Ik hoorde dat we nu mogen slapen.
+I heard that we are allowed to sleep now.
+
+
+adjective : *far*	*ver*
+De berg voelt ver voor anderen.
+The mountain feels far for others.
+
+
+noun : *rode*	*reden*
+Pa heeft een goede reden om hard te werken.
+Pa has a good reason to work hard.
+
+
+noun : *wrong*	*fout*
+Deel van het recht is om een fout te erkennen.
+Part of justice is to acknowledge a mistake.
+
+
+verb : *traps*	*vallen*
+Het wapen viel en veroorzaakte zeer.  
+The weapon fell and caused pain.
+
+
+noun : *months*	*maanden*
+Ik houd de kalender bij en zet de maanden op volgorde.
+I keep track of the calendar and arrange the months in order.
+
+
+verb : *to be allowed to*	*mogen*
+Wij mogen de schuld betalen.  
+We are allowed to pay the debt.
+
+
+adjective : *old*	*oud*
+De oude vent heeft een vriendin.
+The old man has a girlfriend.
+
+
+verb : *forgets*	*vergeet*
+Vergeet niet waar je vandaan komt, ook al ben je kwaad.
+Do not forget where you come from, even if you are angry.
+
+
+verb : *feels*	*voelt*
+Hij voelt vertrouwen rond zijn vrienden.
+He feels trust around his friends.
+
+
+noun : *guy*	*vent*
+De vent heeft mij geluk gegeven.
+The guy has given me happiness.
+
+
+sir : *sir*	*sir*
+Inderdaad, de sir zat rustig terwijl hij las.
+Indeed, the sir sat quietly while he read.
+
+
+verb : *heard*	*hoorde*
+De president hoorde inderdaad het nieuws.  
+The president indeed heard the news.
+
+
+verb : *belongs*	*hoort*
+Hij hoort inderdaad het juiste antwoord.  
+He indeed hears the correct answer.
+
+
+verb : *sounds*	*klinkt*
+Ik houd het wapen vast en het klinkt gevaarlijk.
+I hold the weapon and it sounds dangerous.
+
+
+conjunction : *while*	*terwijl*
+Ik heb vertrouwen in hem terwijl hij vanaf hier vertrekt.
+I trust him while he leaves from here.
+
+
+noun : *female friend*	*vriendin*
+Mijn vriendin is welkom om deel te nemen aan het feest.
+My girlfriend is welcome to take part in the party.
+
+
+adjective : *welcome*	*welkom*
+Dutch: Ik hoorde dat je inderdaad welkom bent hier.
+English: I heard that you are indeed welcome here.
+
+
+noun : *team*	*team*
+Het team is aardig tegen mezelf.
+The team is nice to myself.
+
+
+adverb : *round*	*rond*
+De kinderen drinken rond de tafel en vallen bijna om.  
+The children drink around the table and almost fall over.
+
+
+noun : *president*	*president*
+De president is een lieverd, maar hij heeft schuld.  
+The president is a sweetheart, but he has guilt.
+
+
+noun : *war*	*oorlog*
+De oorlog heeft overal mensen ontmoet.  
+The war has met people everywhere.
+
+
+adjective : *clearly*	*duidelijk*
+De duidelijke wegwijzer helpt ons ver te zetten.  
+The clear signpost helps us move far.
+
+
+noun : *years*	*jaren*
+Ik slaap al jaren niet goed, dus ik probeer mezelf te helpen.
+I haven't slept well for years, so I'm trying to help myself.
+
+
+noun : *rest*	*rest*
+Ik hoorde het schip in de rest van de haven.  
+I heard the ship in the rest of the harbor.
+
+
+noun : *debt*	*schuld*
+Het is niet fijn om te weten dat het mijn schuld is dat we verloren hebben.
+It is not nice to know that it is my fault that we lost.
+
+
+noun : *evening*	*avond*
+Ik ben eerlijk vaak moe in de avond.  
+I am honestly often tired in the evening.
+
+
+adjective : *honestly*	*eerlijk*
+De eerlijk man verdient ons vertrouwen en brengt rust.
+The honest man earns our trust and brings peace.
+
+
+adjective : *fine*	*fijn*
+Ik heb na maanden eindelijk een fijne telefoon.  
+After months, I finally have a nice phone.
+
+
+noun : *mouth*	*mond*
+Ik ga straks naar de tandarts, ok, want mijn mond doet pijn.
+I am going to the dentist soon, ok, because my mouth hurts.
+
+
+noun : *neighbourhood*	*buurt*
+Ik wandel vaak met mezelf en mijn lieverd in de buurt.
+I often walk with myself and my sweetheart in the neighborhood.
+
+
+verb : *drinks*	*drinken*
+Ik drink water terwijl ik hard werk.
+I drink water while I work hard.
+
+
+noun : *telephone*	*telefoon*
+Mijn tweede telefoon gaat vaak kapot.
+My second phone often breaks.
+
+
+preposition : *per*	*per*
+Je moet per maand betalen voor de verloren spullen.
+You have to pay per month for the lost items.
+
+
+noun : *weapon*	*wapen*
+De soldaat legde zijn wapen neer voordat hij ging slapen met een glimlach op zijn mond.
+The soldier put down his weapon before he went to sleep with a smile on his face.
+
+
+verb : *left*	*liet*
+Hij liet zijn vriendin vallen.  
+He let his girlfriend fall.
+
+
+adjective : *important*	*belangrijk*
+Het is belangrijk om te veranderen, overal.
+It is important to change, everywhere.
+
+
+verb : *got*	*kreeg*
+Ik kreeg een boek en voelde veel geluk.
+I received a book and felt a lot of happiness.
+
+
+noun : *parents*	*ouders*
+Mijn ouders zijn vaak belangrijk voor mij.
+My parents are often important to me.
+
+
+noun : *piece*	*stuk*
+Ik lees een stuk van het boek terwijl ik wacht.  
+I read a piece of the book while I wait.
+
+
+noun : *peace*	*rust*
+Na maanden van hard werken, had hij eindelijk wat rust en kon hij het stuk lezen.
+After months of hard work, he finally had some rest and could read the piece.
+
+
+preposition : *from*	*vandaan*
+De koning klinkt alsof hij van ver vandaan komt.
+The king sounds as if he comes from far away.
+
+
+verb : *know*	*kennen*
+Ik ken de ouders van het kind dat het licht aanstak.
+I know the parents of the child who turned on the light.
+
+
+noun : *Jesus*	*Jezus*
+Het team vergeet Jezus niet.  
+The team does not forget Jesus.
+
+
+noun : *part*	*deel*
+Zij voelen dezelfde haat voor dat deel van de stad.
+They feel the same hatred for that part of the city.
+
+
+noun : *track*	*baan*
+Hij loopt naar zijn nieuwe baan terwijl hij zich afvraagt waar hij vandaan komt.
+He walks to his new job while wondering where he comes from.
+
+
+noun : *captain*	*kapitein*
+De kapitein spreekt vaak met de president.  
+The captain often speaks with the president.
+
+
+adverb : *on top*	*erop*
+Hij bleef stil en keek erop met open mond.  
+He remained silent and looked at it with an open mouth.
+
+
+noun : *luck*	*geluk*
+Mijn schatje heeft altijd een glimlach op haar mond vanwege haar geluk.
+My sweetheart always has a smile on her face because of her happiness.
+
+
+pronoun : *the same*	*dezelfde*
+Tijdens het feest drinken we dezelfde.
+During the party, we drink the same.
+
+
+adverb : *everywhere*	*overal*
+Mam hoort overal muziek.  
+Mom hears music everywhere.
+
+
+noun : *ship*	*schip*
+Mijn vriendin wacht al maanden op het schip.
+My friend has been waiting for months for the ship.
+
+
+noun : *Gentlemen*	*heren*
+De heren in het team willen de strategie veranderen.
+The gentlemen in the team want to change the strategy.
+
+
+adjective : *datum*	*gegeven*
+De gegeven mond wordt vaak gebruikt.
+The given mouth is often used.
+
+
+others : *others*	*anderen*
+Er zijn anderen die erop wachten, dus ga er snel mee om.
+There are others who are waiting for it, so handle it quickly.
+
+
+adjective : *very*	*zeer*
+Mijn mam is zeer oud.
+My mom is very old.
+
+
+adverb : *by*	*langs*
+De hond loopt langs en het klinkt leuk.  
+The dog walks by and it sounds nice.
+
+
+noun : *Mom*	*mam*
+Mam gebruikt de telefoon straks.
+Mom will use the phone later.
+
+
+adjective : *straight*	*recht*
+Vergeet niet het rechte stuk te nemen.
+Do not forget to take the straight piece.
+
+
+noun : *body*	*lichaam*
+Het lichaam werkt hard zonder schuld.
+The body works hard without guilt.
+
+
+adjective : *nice*	*aardig*
+De aardige man was niet kwaad, maar zijn lichaam was moe.
+The kind man was not angry, but his body was tired.
+
+
+noun : *to trust*	*vertrouwen*
+Hij voelt vertrouwen in anderen.
+He feels trust in others.
+
+
+with it : *with it*	*ermee*
+Ik heb een schatje ontmoet en ik ben erg blij ermee.
+I met a sweetheart and I am very happy with it.
+
+
+verb : *takes*	*neemt*
+Hij neemt liever de bus omdat hij niet van autorijden houdt.
+He prefers to take the bus because he doesn't like driving.
+
+
+preposition : *from*	*vanaf*
+De kerel liet zijn hond vanaf het park rennen.
+The guy let his dog run from the park.
+
+
+adverb : *often*	*vaak*
+De kapitein stond vaak op het dek.
+The captain often stood on the deck.
+
+
+noun : *book*	*boek*
+Het boek ligt overal, sir.
+The book is everywhere, sir.
+
+
+pronoun : *myself*	*mezelf*
+Ik zie mezelf in de spiegel met mam.
+I see myself in the mirror with mom.
+
+
+verb : *to make*	*zetten*
+Ik zet de stoel liever niet te ver.  
+I prefer not to put the chair too far.
+
+
+adjective : *quiet*	*stil*
+Jezus is een stil en eerlijk persoon.
+Jesus is a quiet and honest person.
+
+
+noun : *OK*	*ok*
+De tweede neemt een ok.  
+The second takes an okay.
+
+
+noun : *guy*	*kerel*
+De tweede kerel won een miljoen.
+The second guy won a million.
+
+
+verb : *pay*	*betalen*
+Ik moet al jaren betalen voor het licht.
+I have had to pay for the light for years.
+
+
+noun : *case*	*geval*
+In dit geval is er veel haat rond het onderwerp.
+In this case, there is a lot of hate around the topic.
+
+
+nan	*miljoen*
+Schatje, vergeet niet dat we een miljoen redenen hebben om gelukkig te zijn.
+Sweetheart, don't forget that we have a million reasons to be happy.
+
+
+adjective : *second*	*tweede*
+De tweede wapen is gevaarlijk.
+The second weapon is dangerous.
+
+
+noun : *hate*	*haat*
+De haat is niet welkom hier.
+Hate is not welcome here.
+
+
+adjective : *hard*	*hard*
+De president werkt hard, maar hij vindt nergens rust.  
+The president works hard, but he finds rest nowhere.
+
+
+adverb : *indeed*	*inderdaad*
+Ik ga liever in de avond wandelen, inderdaad.
+I prefer to walk in the evening, indeed.
+
+
+noun : *word*	*woord*
+Ik vergeet het eerlijke woord.  
+I forget the honest word.
+
+
+noun : *was standing*	*stond*
+Vanaf de jaren zestig stond de oude molen er nog steeds.
+From the sixties, the old mill still stood there.
+
+
+noun : *dog*	*hond*
+Ik vertrouw mijn hond als we langs het park lopen.
+I trust my dog as we walk past the park.
+
+
+adverb : *soon*	*straks*
+Het schip voelt straks beter aan.  
+The ship will feel better soon.
+
+
+verb : *to soften*	*weken*
+We weken de kleren al maanden en het voelt fijn.
+We have been soaking the clothes for months and it feels nice.
+
+
+noun : *movie*	*film*
+De film hoort overal goed.
+The film is heard well everywhere.
+
+
+noun : *answer*	*antwoord*
+De man liet zijn antwoord horen in de buurt.
+The man let his answer be heard in the neighborhood.
+
+
+verb : *change*	*veranderen*
+De president wil alles veranderen, schatje.
+The president wants to change everything, darling.
+
+
+adjective : *light*	*licht*
+De aardige man is erg blij ermee omdat het licht is.  
+The nice man is very happy with it because it is light.
+
+
+verb : *loves*	*houd*
+Ik houd van de weken die je me liet zien.
+I love the weeks that you showed me.
+
+
+noun : *dad*	*pa*
+Pa moet betalen om die reden.
+Dad has to pay for that reason.
+
+
+during the day : *during the day*	*tijdens*
+Tijdens de wandeling stond ik verloren in gedachten.
+During the walk, I stood lost in thought.
+
+
+noun : *Darling*	*lieverd*
+Jij bent zo aardig, lieverd, met je glimlachende mond.  
+You are so kind, darling, with your smiling mouth.
+
+
+adverb : *rather*	*liever*
+Ik ga liever nergens dan overal.  
+I prefer to go nowhere than everywhere.
+
+
+adjective : *angry*	*kwaad*
+Ik houd niet van haat omdat het een kwaad gevoel is.
+I don't like hate because it is an evil feeling.
+
+
+verb : *meet*	*ontmoet*
+Ik liet hem recht voor de deur ontmoeten.
+I let him meet right in front of the door.
+
+
+adverb : *nowhere*	*nergens*
+Welkom, maar er is nergens een deel voor jou.  
+Welcome, but there is no part for you anywhere.
+
+
+adjective : *used*	*gebruikt*
+De verloren hond gebruikte een oude deken.
+The lost dog used an old blanket.
+
+
+noun : *baby*	*schatje*
+Schatje, waar kom je vandaan na de oorlog?
+Sweetheart, where do you come from after the war?
+
+
+adjective : *lost*	*verloren*
+Ik heb hard gewerkt om de verloren tijd in te halen, maar ik ken nog steeds niet alles.
+I worked hard to make up for the lost time, but I still don't know everything.
+
+
+noun : *king*	*koning*
+De koning stond op het balkon.
+The king stood on the balcony.
+
+

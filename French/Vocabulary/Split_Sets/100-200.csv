@@ -1,4 +1,4 @@
-,French,POS,English
+,French,POS,Translation
 100,regarder,verb,"to look at, watch"
 101,encore,adverb,"again, over again, even, still"
 102,appeler,verb,"to call, ring"
@@ -6,16 +6,16 @@
 104,peu,"noun, adverb","not much, not very, few; bit"
 105,homme,noun,man
 106,partir,verb,"to go, leave, go away"
-107,ma,possessive adjective,"my (used before a feminine singular noun) (see #27, 50)"
+107,ma,possessive adjective,my (used before a feminine singular noun)
 108,toujours,adverb,"always, still"
 109,jour,noun,"day, daytime"
 110,femme,noun,"woman, wife"
 111,temps,noun,weather; time; times
 112,maintenant,adverb,"now, nowadays"
-113,notre,possessive adjective,our (singular) (see #192)
+113,notre,possessive adjective,our (singular)
 114,vie,noun,"life, lifetime, existence"
 115,deux,numerical adjective,two
-116,mettre,verb,"to put, put on, wear; languagedaily dot com"
+116,mettre,verb,"to put, put on, wear"
 117,rester,verb,"to stay, remain"
 118,sans,preposition,without
 119,seul,"adjective, noun",alone
@@ -27,7 +27,7 @@
 125,tuer,verb,to kill
 126,mourir,verb,"to die, pass away"
 127,demander,verb,"to ask, ask for, be looking for"
-128,juste,"adjective, adverb","just, fair; just, right, accurate; french.languagedaily.com"
+128,juste,"adjective, adverb","just, fair; just, right, accurate"
 129,peut-être,adverb,"perhaps, maybe"
 130,dieu,noun,god
 131,fois,noun,time
@@ -66,7 +66,7 @@
 164,essayer,verb,"to try, try out, test"
 165,quel,interrogative adjective,"what, which (interrogative)"
 166,vos,possessive adjective,"your (plural, from ''votre'')"
-167,depuis,"preposition, adverb","since, from, for;  french.languagedaily.com"
+167,depuis,"preposition, adverb","since, from, for"
 168,quelqu'un,indefinite pronoun,"someone, somebody"
 169,beaucoup,adverb,"much, many, a lot"
 170,revenir,verb,"to come back, return"
@@ -78,7 +78,7 @@
 176,ah,onomatopoeia,ah!
 177,soir,noun,"evening, night"
 178,nom,noun,name; noun
-179,bonjour,noun,hello (see #207)
+179,bonjour,noun,hello
 180,jouer,verb,to play
 181,leur,"personal pronoun, possessive pronoun","their, to them (mas or fem), theirs (masc, fem, plural)"
 182,finir,verb,"to finish, end"
@@ -90,7 +90,7 @@
 188,sentir,verb,"to smell, sniff, feel"
 189,ouais,adverb,"yeah, yep"
 190,rentrer,verb,"to bring in, take in; to get in, go in, come home"
-191,nos,possessive adjective,our (plural) (see #114); languagedaily dot com
+191,nos,possessive adjective,our (plural) ; languagedaily dot com
 192,premier,"adjective, noun","first, basic; first floor"
 193,problème,noun,problem
 194,argent,noun,"silver, money"

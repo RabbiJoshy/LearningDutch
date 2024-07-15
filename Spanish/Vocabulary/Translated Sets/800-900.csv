@@ -1,441 +1,101 @@
-,Spanish,Quizlet,English,lemma forms,Alternatives,P-O-S,Quizlet P-O-S,MoreInfo,Quizlet Alternatives
-
-
-0,*abre* (abrir),"*opens*
-verb: open, open up, start",*opens*,abrir,"[['open', 'open up', 'start', 'break', 'cut open', 'unfold', 'undo', 'expose', 'put up', 'unbar', 'uncurl', 'zip open', 'discover']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=abre,"verb: open, open up, start"
-
-
-1,*sean* (ser),"*be*
-verb: be, come, come of",*be*,ser,"[['be', 'come', 'come of', 'play']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=sean,"verb: be, come, come of"
-
-
-2,*pagar*,"*pay*
-verb: pay, pay for, repay",*pay*,pagar,"[['pay', 'pay for', 'repay', 'pay back', 'pay out', 'meet', 'pay up', 'settle', 'foot', 'defray', 'pay over', 'make good', 'requite', 'pay away', 'put down', 'clear off', 'lash out', 'cheque out']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=pagar,"verb: pay, pay for, repay"
-
-
-3,*fotos* (foto),"*photos*
-noun: photo, shot, snapshot",*photos*,foto,"[['photo', 'shot', 'snapshot', 'snap', 'shooting']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=fotos,"noun: photo, shot, snapshot"
-
-
-4,*centro* (centro centrar),"*center*
-noun: center, focus, middle",*center*,centro centrar,"[['center', 'focus', 'middle', 'heart', 'core', 'headquarters', 'goal', 'navel', 'polls', 'omphalos', 'kernel', 'seat', 'forum', 'centre']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=centro,"noun: center, focus, middle"
-
-
-5,*supone* (suponer),"*supposed*
-verb: suppose, involve, guess",*supposed*,suponer,"[['suppose', 'involve', 'guess', 'presume', 'expect', 'entail', 'pretend', 'presuppose', 'say', 'trust']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=supone,"verb: suppose, involve, guess"
-
-
-6,*basura*,"*trash*
-noun: garbage, trash, waste",*trash*,basura,"[['garbage', 'trash', 'waste', 'junk', 'rubbish', 'litter', 'refuse', 'dirt', 'dustbin', 'dregs', 'draff', 'mullock']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=basura,"noun: garbage, trash, waste"
-
-
-7,*situación*,"*situation*
-noun: situation, location, position",*situation*,situación,"[['situation', 'location', 'position', 'plight', 'state of affairs', 'picture', 'posture', 'setup', 'site', 'station']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=situación,"noun: situation, location, position"
-
-
-8,*mejores* (mejor),"*top*
-adjective: best, better, lead",*top*,mejor,"[['best', 'better', 'lead']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=mejores,"adjective: best, better, lead"
-
-
-9,*vienen* (venir),"*they come*
-verb: come, come round, come through",*they come*,venir,"[['come', 'come round', 'come through', 'come across', 'come of']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=vienen,"verb: come, come round, come through"
-
-
-10,*encanta* (encantar),"*loves*
-verb: love, enchant, delight",*loves*,encantar,"[['love', 'enchant', 'delight', 'charm', 'captivate', 'bewitch']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=encanta,"verb: love, enchant, delight"
-
-
-11,*marido*,"*husband*
-noun: husband",*husband*,marido,[['husband']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=marido,noun: husband
-
-
-12,*personal*,"*staff*
-noun: staff, personnel, crew
-adjective: personal, individual, private",*staff*,personal,"[['staff', 'personnel', 'crew', 'workforce'], ['personal', 'individual', 'private', 'intimate', 'particular']]",noun adjective,noun adjective,https://www.linguee.com/english-dutch/search?source=auto&query=personal,"noun: staff, personnel, crew
-adjective: personal, individual, private"
-
-
-13,*maestro*,"*teacher*
-adjective: master, masterful, expert
-noun: master, teacher, maestro",*teacher*,maestro,"[['master', 'masterful', 'expert', 'main', 'masterly'], ['master', 'teacher', 'maestro', 'schoolmaster', 'schoolteacher', 'lecturer', 'dean', 'crack', 'do-all']]",adjective noun,adjective noun,https://www.linguee.com/english-dutch/search?source=auto&query=maestro,"adjective: master, masterful, expert
-noun: master, teacher, maestro"
-
-
-14,*hambre*,"*hunger*
-noun: hunger, famine, starvation",*hunger*,hambre,"[['hunger', 'famine', 'starvation']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=hambre,"noun: hunger, famine, starvation"
-
-
-15,*ataque* (ataque atacar),"*stroke*
-noun: attack, strike, assault",*stroke*,ataque atacar,"[['attack', 'strike', 'assault', 'raid', 'seizure', 'bout', 'onset', 'charge', 'aggression', 'thrust', 'rush', 'paroxysm', 'turn', 'drive', 'onfall', 'access', 'point']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=ataque,"noun: attack, strike, assault"
-
-
-16,*culo*,"*ass*
-noun: ass, bum, bottom",*ass*,culo,"[['ass', 'bum', 'bottom', 'behind', 'fanny', 'duff', 'arse']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=culo,"noun: ass, bum, bottom"
-
-
-17,*dale* (dar),"*Go ahead*
-",*Go ahead*,dar,,,no P-O-S info,https://www.linguee.com/english-dutch/search?source=auto&query=dale,
-
-
-18,*pie*,"*foot*
-noun: foot, bottom, footing
-abbreviation: f., ft.",*foot*,pie,"[['foot', 'bottom', 'footing'], ['f.', 'ft.']]",noun abbreviation,noun abbreviation,https://www.linguee.com/english-dutch/search?source=auto&query=pie,"noun: foot, bottom, footing
-abbreviation: f., ft."
-
-
-19,*conseguir*,"*get*
-verb: get, achieve, obtain",*get*,conseguir,"[['get', 'achieve', 'obtain', 'gain', 'attain', 'accomplish', 'win', 'acquire', 'come by', 'score', 'procure', 'land', 'enlist', 'get hold of', 'purchase', 'pull off', 'bring off']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=conseguir,"verb: get, achieve, obtain"
-
-
-20,*trabajando* (trabajar),"*working*
-verb: work, job, labor",*working*,trabajar,"[['work', 'job', 'labor', 'labour']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=trabajando,"verb: work, job, labor"
-
-
-21,*gracioso*,"*funny*
-adjective: funny, graceful, gracious
-noun: joker",*funny*,gracioso,"[['funny', 'graceful', 'gracious', 'amusing', 'droll'], ['joker']]",adjective noun,adjective noun,https://www.linguee.com/english-dutch/search?source=auto&query=gracioso,"adjective: funny, graceful, gracious
-noun: joker"
-
-
-22,*dejó* (dejar),"*let*
-noun: tinge, trace, taste",*let*,dejar,"[['tinge', 'trace', 'taste', 'aftertaste', 'relish']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=dejó,"noun: tinge, trace, taste"
-
-
-23,*pudo* (poder),"*could*
-verb: be able to, can, may",*could*,poder,"[['be able to', 'can', 'may']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=pudo,"verb: be able to, can, may"
-
-
-24,*derecha*,"*right*
-noun: right, right hand, right side
-abbreviation: r.h.",*right*,derecha,"[['right', 'right hand', 'right side'], ['r.h.']]",noun abbreviation,noun abbreviation,https://www.linguee.com/english-dutch/search?source=auto&query=derecha,"noun: right, right hand, right side
-abbreviation: r.h."
-
-
-25,*izquierda*,"*left*
-noun: left
-abbreviation: l.h.",*left*,izquierda,"[['left'], ['l.h.']]",noun abbreviation,noun abbreviation,https://www.linguee.com/english-dutch/search?source=auto&query=izquierda,"noun: left
-abbreviation: l.h."
-
-
-26,*próxima* (próximo),"*next*
-adjective: next, near, close",*next*,próximo,"[['next', 'near', 'close', 'coming', 'forthcoming', 'nearby', 'proximate', 'impending', 'handy']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=próxima,"adjective: next, near, close"
-
-
-27,*pobre*,"*poor*
-adjective: poor, meager, pauper
-noun: pauper, beggar",*poor*,pobre,"[['poor', 'meager', 'pauper', 'needy', 'destitute', 'indigent', 'hungry', 'impecunious', 'scrappy', 'penurious', 'miserly', 'meagre'], ['pauper', 'beggar']]",adjective noun,adjective noun,https://www.linguee.com/english-dutch/search?source=auto&query=pobre,"adjective: poor, meager, pauper
-noun: pauper, beggar"
-
-
-28,*respuesta*,"*answer*
-noun: response, answer, reply",*answer*,respuesta,"[['response', 'answer', 'reply', 'respond', 'return', 'replication']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=respuesta,"noun: response, answer, reply"
-
-
-29,*tipos* (tipo),"*guys*
-noun: type",*guys*,tipo,[['type']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=tipos,noun: type
-
-
-30,*sentir*,"*feel*
-verb: feel, sense, regret",*feel*,sentir,"[['feel', 'sense', 'regret', 'be sorry', 'be sorry to']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=sentir,"verb: feel, sense, regret"
-
-
-31,*tenías* (tener),"*you had*
-verb: have, keep, own",*you had*,tener,"[['have', 'keep', 'own', 'bear', 'hold', 'possess', 'experience', 'wear']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=tenías,"verb: have, keep, own"
-
-
-32,*pude* (poder),"*could*
-verb: be able to, can, may",*could*,poder,"[['be able to', 'can', 'may']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=pude,"verb: be able to, can, may"
-
-
-33,*darle* (dar),"*give him*
-",*give him*,dar,,,no P-O-S info,https://www.linguee.com/english-dutch/search?source=auto&query=darle,
-
-
-34,*voz*,"*voice*
-noun: voice, word, vocals",*voice*,voz,"[['voice', 'word', 'vocals']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=voz,"noun: voice, word, vocals"
-
-
-35,*amiga*,"*friend*
-noun: female friend, lady",*friend*,amiga,"[['female friend', 'lady']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=amiga,"noun: female friend, lady"
-
-
-36,*gustan* (gustar),"*like*
-verb: like, taste, love",*like*,gustar,"[['like', 'taste', 'love', 'please', 'appeal', 'appeal to', 'interest', 'suit']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=gustan,"verb: like, taste, love"
-
-
-37,*vista* (vista ver),"*view*
-noun: view, sight, vision",*view*,vista ver,"[['view', 'sight', 'vision', 'vista', 'perspective', 'eyesight', 'seeing', 'show']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=vista,"noun: view, sight, vision"
-
-
-38,*salvo* (salvo salvar),"*except*
-preposition: except, save, but
-conjunction: except for",*except*,salvo salvar,"[['except', 'save', 'but', 'excluding', 'excepting', 'saving', 'bar'], ['except for']]",preposition conjunction,preposition conjunction,https://www.linguee.com/english-dutch/search?source=auto&query=salvo,"preposition: except, save, but
-conjunction: except for"
-
-
-39,*loca* (loco),"*crazy*
-adjective: crazy, mad, out of one's mind
-noun: madman, zany, half-wit",*crazy*,loco,"[['crazy', 'mad', ""out of one's mind"", 'distraught', 'deranged', 'crazed', 'demented', 'crack-brained', 'loony', 'haywire', 'round the bend', 'up the pole', 'nutty', 'whacky', 'zany', 'daft', 'bugs', 'bonkers', 'cracky', 'barmy', 'hectic', 'wild', 'amok', 'amuck', 'loose', 'wet'], ['madman', 'zany', 'half-wit', 'loony']]",adjective noun,adjective noun,https://www.linguee.com/english-dutch/search?source=auto&query=loca,"adjective: crazy, mad, out of one's mind
-noun: madman, zany, half-wit"
-
-
-40,*hotel*,"*hotel*
-noun: hotel, guesthouse, palace",*hotel*,hotel,"[['hotel', 'guesthouse', 'palace']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=hotel,"noun: hotel, guesthouse, palace"
-
-
-41,*hicieron* (hacer),"*they made*
-verb: do, make, ask",*they made*,hacer,"[['do', 'make', 'ask', 'be', 'cause', 'render', 'give', 'work', 'bring', 'perform', 'carry out', 'build', 'make up', 'create', 'act', 'pay', 'pull', 'drive', 'work out', 'take on', 'throw', 'poke', 'put forward', 'bring in', 'compose', 'punch', 'turn out', 'put out', 'lean', 'drop', 'emit', 'advance', 'set off', 'perpetrate', 'bind', 'wet', 'level', 'lumber', 'fabricate', 'generate', 'commit', 'force', 'form', 'effect']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=hicieron,"verb: do, make, ask"
-
-
-42,*ten* (tener),"*have*
-verb: have, keep, own",*have*,tener,"[['have', 'keep', 'own', 'bear', 'hold', 'possess', 'experience', 'wear']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=ten,"verb: have, keep, own"
-
-
-43,*temo* (temer),"*I fear*
-verb: fear, dread, apprehend",*I fear*,temer,"[['fear', 'dread', 'apprehend']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=temo,"verb: fear, dread, apprehend"
-
-
-44,*señal*,"*sign*
-noun: signal, mark, bookmark",*sign*,señal,"[['signal', 'mark', 'bookmark', 'marker', 'deposit', 'trace', 'motion', 'note', 'punch mark', 'print']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=señal,"noun: signal, mark, bookmark"
-
-
-45,*pelo* (pelo pelar),"*hair*
-noun: hair, pile, coat",*hair*,pelo pelar,"[['hair', 'pile', 'coat', 'locks', 'head of hair']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=pelo,"noun: hair, pile, coat"
-
-
-46,*llevo* (llevar),"*he took*
-verb: carry, take, bring",*he took*,llevar,"[['carry', 'take', 'bring', 'lead', 'wear', 'bear', 'deliver', 'run', 'convey', 'transport', 'carry on', 'take along', 'lug', 'carry off', 'tote', 'have on', 'bring round', 'bring around', 'enter up', 'live through', 'cart']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=llevo,"verb: carry, take, bring"
-
-
-47,*ayer*,"*yesterday*
-adverb: yesterday
-noun: yesterday",*yesterday*,ayer,"[['yesterday'], ['yesterday']]",adverb noun,adverb noun,https://www.linguee.com/english-dutch/search?source=auto&query=ayer,"adverb: yesterday
-noun: yesterday"
-
-
-48,*das* (dar),"*you give*
-verb: give, yield, lend",*you give*,dar,"[['give', 'yield', 'lend', 'show', 'teach', 'hand', 'gift', 'put on', 'give off', 'take to', 'surrender', 'lecture', 'turn on', 'produce', 'feed on']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=das,"verb: give, yield, lend"
-
-
-49,*nena*,"*chick*
-noun: baby, babe, tot",*chick*,nena,"[['baby', 'babe', 'tot', 'mite']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=nena,"noun: baby, babe, tot"
-
-
-50,*servicio*,"*service*
-noun: service, duty, serving",*service*,servicio,"[['service', 'duty', 'serving', 'servants', 'service charge', 'attention', 'ministration']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=servicio,"noun: service, duty, serving"
-
-
-51,*tren*,"*train*
-noun: train",*train*,tren,[['train']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=tren,noun: train
-
-
-52,*bonito*,"*pretty*
-adjective: nice, beautiful, pretty",*pretty*,bonito,"[['nice', 'beautiful', 'pretty', 'beauteous', 'lustrous']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=bonito,"adjective: nice, beautiful, pretty"
-
-
-53,*mes*,"*month*
-noun: month
-abbreviation: MO, mth",*month*,mes,"[['month'], ['MO', 'mth']]",noun abbreviation,noun abbreviation,https://www.linguee.com/english-dutch/search?source=auto&query=mes,"noun: month
-abbreviation: MO, mth"
-
-
-54,*tendrá* (tener),"*will have*
-verb: have, keep, own",*will have*,tener,"[['have', 'keep', 'own', 'bear', 'hold', 'possess', 'experience', 'wear']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=tendrá,"verb: have, keep, own"
-
-
-55,*tendrás* (tener),"*you will have*
-verb: have, keep, own",*you will have*,tener,"[['have', 'keep', 'own', 'bear', 'hold', 'possess', 'experience', 'wear']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=tendrás,"verb: have, keep, own"
-
-
-56,*edad*,"*age*
-noun: age, years, time",*age*,edad,"[['age', 'years', 'time']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=edad,"noun: age, years, time"
-
-
-57,*ellas*,"*they*
-pronoun: they",*they*,ellas,[['they']],pronoun,pronoun,https://www.linguee.com/english-dutch/search?source=auto&query=ellas,pronoun: they
-
-
-58,*hermosa* (hermoso),"*beautiful*
-adjective: beautiful, handsome, lovely",*beautiful*,hermoso,"[['beautiful', 'handsome', 'lovely', 'fine', 'fair', 'goodly', 'beauteous', 'bonny', 'chic', 'good-looking']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=hermosa,"adjective: beautiful, handsome, lovely"
-
-
-59,*honor*,"*honor*
-noun: honor, credit, privilege",*honor*,honor,"[['honor', 'credit', 'privilege', 'honour']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=honor,"noun: honor, credit, privilege"
-
-
-60,*simplemente*,"*simply*
-adverb: simply, merely, plainly",*simply*,simplemente,"[['simply', 'merely', 'plainly']]",adverb,adverb,https://www.linguee.com/english-dutch/search?source=auto&query=simplemente,"adverb: simply, merely, plainly"
-
-
-61,*llamas* (llamar llama),"*calls*
-noun: lights",*calls*,llamar llama,[['lights']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=llamas,noun: lights
-
-
-62,*tengas* (tener),"*have*
-verb: have, keep, own",*have*,tener,"[['have', 'keep', 'own', 'bear', 'hold', 'possess', 'experience', 'wear']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=tengas,"verb: have, keep, own"
-
-
-63,*corre* (correr),"*runs*
-verb: run, flow, hurry",*runs*,correr,"[['run', 'flow', 'hurry', 'draw', 'chase', 'slide', 'scurry', 'stream', 'run along', 'pour', 'blow', 'scuttle', 'lap', 'go around', 'go round', 'scud', 'hie', 'go about', 'nip', 'hare', 'go it']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=corre,"verb: run, flow, hurry"
-
-
-64,*baja* (bajo baja),"*low*
-noun: drop",*low*,bajo baja,[['drop']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=baja,noun: drop
-
-
-65,*sol*,"*sun*
-noun: sun, sunshine, sol",*sun*,sol,"[['sun', 'sunshine', 'sol', 'G', 'soh']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=sol,"noun: sun, sunshine, sol"
-
-
-66,*siéntate* (sentar),"*Sit down*
-",*Sit down*,sentar,,,no P-O-S info,https://www.linguee.com/english-dutch/search?source=auto&query=siéntate,
-
-
-67,*dan* (dar),"*give*
-verb: give, yield, lend",*give*,dar,"[['give', 'yield', 'lend', 'show', 'teach', 'hand', 'gift', 'put on', 'give off', 'take to', 'surrender', 'lecture', 'turn on', 'produce', 'feed on']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=dan,"verb: give, yield, lend"
-
-
-68,*humano*,"*human*
-adjective: human, humane
-noun: human",*human*,humano,"[['human', 'humane'], ['human']]",adjective noun,adjective noun,https://www.linguee.com/english-dutch/search?source=auto&query=humano,"adjective: human, humane
-noun: human"
-
-
-69,*divertido* (divertido divertir),"*fun*
-adjective: funny, amusing, amused",*fun*,divertido divertir,"[['funny', 'amusing', 'amused', 'enjoyable', 'diverting', 'merry', 'jolly', 'droll', 'comical', 'comic']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=divertido,"adjective: funny, amusing, amused"
-
-
-70,*sexo*,"*sex*
-noun: sex, gender",*sex*,sexo,"[['sex', 'gender']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=sexo,"noun: sex, gender"
-
-
-71,*vuelto* (vuelto volver),"*turned*
-adjective: turned
-noun: change",*turned*,vuelto volver,"[['turned'], ['change']]",adjective noun,adjective noun,https://www.linguee.com/english-dutch/search?source=auto&query=vuelto,"adjective: turned
-noun: change"
-
-
-72,*peligro* (peligro peligrar),"*danger*
-noun: danger, hazard, peril",*danger*,peligro peligrar,"[['danger', 'hazard', 'peril', 'jeopardy', 'distress', 'riskiness', 'nastiness']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=peligro,"noun: danger, hazard, peril"
-
-
-73,*mesa*,"*table*
-noun: table, board, bureau",*table*,mesa,"[['table', 'board', 'bureau', 'drawing table']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=mesa,"noun: table, board, bureau"
-
-
-74,*siguiente*,"*following*
-adjective: following, after, incoming",*following*,siguiente,"[['following', 'after', 'incoming']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=siguiente,"adjective: following, after, incoming"
-
-
-75,*hablo* (hablar),"*speak*
-verb: talk, speak, chat",*speak*,hablar,"[['talk', 'speak', 'chat', 'communicate', 'gab']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=hablo,"verb: talk, speak, chat"
-
-
-76,*disculpa* (disculpa disculpar),"*sorry*
-noun: apology, excuse, exculpation",*sorry*,disculpa disculpar,"[['apology', 'excuse', 'exculpation']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=disculpa,"noun: apology, excuse, exculpation"
-
-
-77,*decirme* (decir),"*tell me*
-",*tell me*,decir,,,no P-O-S info,https://www.linguee.com/english-dutch/search?source=auto&query=decirme,
-
-
-78,*caja*,"*box*
-noun: box, case, cash",*box*,caja,"[['box', 'case', 'cash', 'casing', 'crate', 'checkout', 'cash register', 'shaft', 'drawer', 'cash desk', 'checkbox', 'cashbox', 'barrel', 'slush fund', 'pay office', 'paydesk', 'well']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=caja,"noun: box, case, cash"
-
-
-79,*negocios* (negocio negociar),"*business*
-noun: business, affairs",*business*,negocio negociar,"[['business', 'affairs']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=negocios,"noun: business, affairs"
-
-
-80,*misión*,"*mission*
-noun: mission, task, assignment",*mission*,misión,"[['mission', 'task', 'assignment', 'job', 'undertaking']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=misión,"noun: mission, task, assignment"
-
-
-81,*silencio*,"*silence*
-noun: silence, quiet, hush",*silence*,silencio,"[['silence', 'quiet', 'hush', 'still', 'quietness', 'pause', 'rest', 'mum']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=silencio,"noun: silence, quiet, hush"
-
-
-82,*sale* (salir),"*comes out*
-verb: leave, get out, go out",*comes out*,salir,"[['leave', 'get out', 'go out', 'go', 'come out', 'depart', 'emerge', 'walk out', 'step out', 'get away', 'break out', 'rise', 'come off', 'come up', 'pull out', 'set out', 'go off', 'pop out', 'go on', 'take off', 'take out', 'sail', 'put out', 'march out', 'stand out', 'get over', 'set forth', 'sail out', 'turn up', 'start off', 'pan out', 'stick out', 'take away', 'push through', 'line out', 'shoot up', 'wash off', 'pierce', 'trot along', 'set forward', 'troop', 'trot over', 'trot round', 'radiate', 'branch']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=sale,"verb: leave, get out, go out"
-
-
-83,*llegado* (llegar),"*arrived*
-adjective: landed, immigrant, joined
-noun: immigrant, invader",*arrived*,llegar,"[['landed', 'immigrant', 'joined'], ['immigrant', 'invader']]",adjective noun,adjective noun,https://www.linguee.com/english-dutch/search?source=auto&query=llegado,"adjective: landed, immigrant, joined
-noun: immigrant, invader"
-
-
-84,*estaría* (estar),"*It would*
-verb: be, stay, stand",*It would*,estar,"[['be', 'stay', 'stand', 'remain', 'lie', 'be present', 'be found', 'hold', 'stand around', 'stand about', 'come of', 'hold down']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=estaría,"verb: be, stay, stand"
-
-
-85,*regreso* (regreso regresar),"*return*
-noun: return, comeback, regress",*return*,regreso regresar,"[['return', 'comeback', 'regress']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=regreso,"noun: return, comeback, regress"
-
-
-86,*media* (media medio),"*half*
-noun: average, mean, medium",*half*,media medio,"[['average', 'mean', 'medium', 'stocking', 'sock']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=media,"noun: average, mean, medium"
-
-
-87,*estan* (estar),"*are*
-verb: be, stay, stand",*are*,estar,"[['be', 'stay', 'stand', 'remain', 'lie', 'be present', 'be found', 'hold', 'stand around', 'stand about', 'come of', 'hold down']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=estan,"verb: be, stay, stand"
-
-
-88,*propio*,"*own*
-adjective: own, proper, individual
-noun: proper
-preposition: like",*own*,propio,"[['own', 'proper', 'individual', 'peculiar', 'befitting'], ['proper'], ['like']]",adjective noun preposition,adjective noun preposition,https://www.linguee.com/english-dutch/search?source=auto&query=propio,"adjective: own, proper, individual
-noun: proper
-preposition: like"
-
-
-89,*oro* (oro orar),"*gold*
-adjective: gold
-noun: gold",*gold*,oro orar,"[['gold'], ['gold']]",adjective noun,adjective noun,https://www.linguee.com/english-dutch/search?source=auto&query=oro,"adjective: gold
-noun: gold"
-
-
-90,*enseguida*,"*right away*
-adverb: immediately, promptly",*right away*,enseguida,"[['immediately', 'promptly']]",adverb,adverb,https://www.linguee.com/english-dutch/search?source=auto&query=enseguida,"adverb: immediately, promptly"
-
-
-91,*linda* (lindo),"*beautiful*
-adjective: cute, nice, beautiful",*beautiful*,lindo,"[['cute', 'nice', 'beautiful', 'pretty', 'comely', 'bonny', 'nice-looking']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=linda,"adjective: cute, nice, beautiful"
-
-
-92,*prometo* (prometer),"*I promise*
-verb: promise, pledge, vow",*I promise*,prometer,"[['promise', 'pledge', 'vow', 'undertake', ""give one's word""]]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=prometo,"verb: promise, pledge, vow"
-
-
-93,*esposo* (esposo esposar),"*husband*
-noun: husband, spouse",*husband*,esposo esposar,"[['husband', 'spouse']]",noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=esposo,"noun: husband, spouse"
-
-
-94,*norte*,"*north*
-noun: north
-adjective: northerly
-abbreviation: N",*north*,norte,"[['north'], ['northerly'], ['N']]",noun adjective abbreviation,noun adjective abbreviation,https://www.linguee.com/english-dutch/search?source=auto&query=norte,"noun: north
-adjective: northerly
-abbreviation: N"
-
-
-95,*hubo* (haber),"*was*
-verb: have",*was*,haber,[['have']],verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=hubo,verb: have
-
-
-96,*juro* (jurar),"*i swear*
-verb: swear, pledge, vow",*i swear*,jurar,"[['swear', 'pledge', 'vow']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=juro,"verb: swear, pledge, vow"
-
-
-97,*muerta* (muerto morir),"*dead*
-noun: dead woman",*dead*,muerto morir,[['dead woman']],noun,noun,https://www.linguee.com/english-dutch/search?source=auto&query=muerta,noun: dead woman
-
-
-98,*interesante*,"*interesting*
-adjective: interesting, intriguing, cool",*interesting*,interesante,"[['interesting', 'intriguing', 'cool', 'absorbing', 'refreshing']]",adjective,adjective,https://www.linguee.com/english-dutch/search?source=auto&query=interesante,"adjective: interesting, intriguing, cool"
-
-
-99,*pensaba* (pensar),"*thought*
-verb: think, reflect, ponder",*thought*,pensar,"[['think', 'reflect', 'ponder', 'contemplate', 'think out', 'guess', 'think over', 'cogitate', 'see about']]",verb,verb,https://www.linguee.com/english-dutch/search?source=auto&query=pensaba,"verb: think, reflect, ponder"
-
-
+,Unnamed: 0,Spanish,show,lemma,Translation,SpaCy_POS,SpaCy_Tag,POS
+0,800,ejército,ejército,ejército,army,NOUN,NOUN,Noun
+1,801,futuro,futuro,futuro,future,NOUN,NOUN,Noun
+2,802,llevar,llevar,llevar,carry,VERB,VERB,Verb
+3,803,compañía,compañía,compañía,company,NOUN,NOUN,Noun
+4,804,venido,*venido* (venir),venir,I come,VERB,VERB,Verb
+5,805,listos,*listos* (listo),listo,ready,ADJ,ADJ,Adjective
+6,806,haremos,*haremos* (hacer),hacer,will,NOUN,NOUN,Noun
+7,807,sitio,sitio,sitio,place,NOUN,NOUN,Noun
+8,808,verlo,*verlo* (ver),ver,see him,VERB,VERB,Verb
+9,809,puesto,puesto,puesto,position,VERB,VERB,Verb
+10,810,puesto,*puesto* (poner),poner,position,VERB,VERB,Verb
+11,811,atención,atención,atención,attention,NOUN,NOUN,Noun
+12,812,sino,sino,sino,but,CCONJ,CCONJ,Conjunction
+13,813,cambiar,cambiar,cambiar,change,VERB,VERB,Verb
+14,814,error,error,error,mistake,NOUN,NOUN,Noun
+15,815,blanco,blanco,blanco,white,ADJ,ADJ,Adjective
+16,816,raro,raro,raro,queer,ADJ,ADJ,Adjective
+17,817,palabras,*palabras* (palabra),palabra,words,NOUN,NOUN,Noun
+18,818,llegó,*llegó* (llegar),llegar,arrive,VERB,VERB,Verb
+19,819,sal,sal,sal,salt,ADJ,ADJ,Adjective
+20,820,sal,*sal* (salir),salir,salt,ADJ,ADJ,Adjective
+21,821,pase,*pase* (pasar),pasar,happens,VERB,VERB,Verb
+22,822,mente,mente,mente,mind,NOUN,NOUN,Noun
+23,823,sistema,sistema,sistema,system,NOUN,NOUN,Noun
+24,824,película,película,película,movie,NOUN,NOUN,Noun
+25,825,anda,*anda* (andar),andar,go,VERB,VERB,Verb
+26,826,ello,ello,ello,it,PRON,PRON,Pronoun
+27,827,negocio,negocio,negocio,business,NOUN,NOUN,Noun
+28,828,negocio,*negocio* (negociar),negociar,business,NOUN,NOUN,Noun
+29,829,novia,novia,novia,bride,NOUN,NOUN,Noun
+30,830,permiso,permiso,permiso,permission,NOUN,NOUN,Noun
+31,831,creí,*creí* (creer),creer,I believed,VERB,VERB,Verb
+32,832,suena,*suena* (sonar),sonar,sounds,VERB,VERB,Verb
+33,833,ocurre,*ocurre* (ocurrir),ocurrir,occurs,VERB,VERB,Verb
+34,834,oficial,oficial,oficial,official,ADJ,ADJ,Adjective
+35,835,espere,*espere* (esperar),esperar,wait,VERB,VERB,Verb
+36,836,aire,aire,aire,air,NOUN,NOUN,Noun
+37,837,mató,*mató* (matar),matar,killed,VERB,VERB,Verb
+38,838,regresar,regresar,regresar,go back,VERB,VERB,Verb
+39,839,vio,*vio* (ver),ver,saw,VERB,VERB,Verb
+40,840,hazlo,*hazlo* (hacer),hacer,do it,VERB,VERB,Verb
+41,841,trasero,trasero,trasero,rear,ADJ,ADJ,Adjective
+42,842,grupo,grupo,grupo,cluster,NOUN,NOUN,Noun
+43,843,entendido,*entendido* (entender),entender,understood,ADJ,ADJ,Adjective
+44,844,señorita,señorita,señorita,Miss,VERB,VERB,Verb
+45,845,música,música,música,music,NOUN,NOUN,Noun
+46,846,perra,perra,perra,bitch,VERB,VERB,Verb
+47,847,conoce,*conoce* (conocer),conocer,known,VERB,VERB,Verb
+48,848,empezar,empezar,empezar,begin,VERB,VERB,Verb
+49,849,siente,*siente* (sentir),sentir,feel,VERB,VERB,Verb
+50,850,siente,*siente* (sentar),sentar,feel,VERB,VERB,Verb
+51,851,acabo,*acabo* (acabar),acabar,just,VERB,VERB,Verb
+52,852,estúpido,estúpido,estúpido,idiot,ADJ,ADJ,Adjective
+53,853,diferente,diferente,diferente,different,ADJ,ADJ,Adjective
+54,854,traje,*traje* (traer),traer,suit,NOUN,NOUN,Noun
+55,855,traje,traje,traje,suit,NOUN,NOUN,Noun
+56,856,modo,modo,modo,mode,NOUN,NOUN,Noun
+57,857,encontré,*encontré* (encontrar),encontrar,I found,VERB,VERB,Verb
+58,858,mensaje,mensaje,mensaje,message,NOUN,NOUN,Noun
+59,859,llamada,llamada,llamada,call,ADJ,ADJ,Adjective
+60,860,llamada,*llamada* (llamar),llamar,call,ADJ,ADJ,Adjective
+61,861,navidad,navidad,navidad,Christmas,ADJ,ADJ,Adjective
+62,862,eras,*eras* (ser),ser,ages,NOUN,NOUN,Noun
+63,863,pena,pena,pena,grief,NOUN,NOUN,Noun
+64,864,pena,*pena* (penar),penar,grief,NOUN,NOUN,Noun
+65,865,largo,largo,largo,long,ADJ,ADJ,Adjective
+66,866,largo,*largo* (largar),largar,long,ADJ,ADJ,Adjective
+67,867,entra,*entra* (entrar),entrar,enters,VERB,VERB,Verb
+68,868,piso,piso,piso,floor,NOUN,NOUN,Noun
+69,869,piso,*piso* (pisar),pisar,floor,NOUN,NOUN,Noun
+70,870,foto,foto,foto,photo,NOUN,NOUN,Noun
+71,871,dijeron,*dijeron* (decir),decir,they said,VERB,VERB,Verb
+72,872,médico,médico,médico,doctor,ADJ,ADJ,Adjective
+73,873,accidente,accidente,accidente,accident,NOUN,NOUN,Noun
+74,874,fuiste,*fuiste* (ir),ir,you were,VERB,VERB,Verb
+75,875,fuiste,*fuiste* (ser),ser,you were,VERB,VERB,Verb
+76,876,imposible,imposible,imposible,impossible,ADJ,ADJ,Adjective
+77,877,podríamos,*podríamos* (poder),poder,we could,AUX,AUX,Auxiliary
+78,878,línea,línea,línea,line,NOUN,NOUN,Noun
+79,879,propia,*propia* (propio),propio,own,DET,DET,Determiner
+80,880,barco,barco,barco,ship,NOUN,NOUN,Noun
+81,881,ganar,ganar,ganar,gain,VERB,VERB,Verb
+82,882,normal,normal,normal,normal,ADJ,ADJ,Adjective
+83,883,segundos,*segundos* (segundo),segundo,seconds,NOUN,NOUN,Noun
+84,884,vive,*vive* (vivir),vivir,lives,VERB,VERB,Verb
+85,885,mitad,mitad,mitad,half,NOUN,NOUN,Noun
+86,886,quiera,*quiera* (querer),querer,want,VERB,VERB,Verb
+87,887,tras,tras,tras,after,ADP,ADP,Preposition
+88,888,decirle,*decirle* (decir),decir,tell,VERB,VERB,Verb
+89,889,lindo,lindo,lindo,nice,ADJ,ADJ,Adjective
+90,890,funciona,*funciona* (funcionar),funcionar,works,VERB,VERB,Verb
+91,891,programa,programa,programa,program,NOUN,NOUN,Noun
+92,892,vine,*vine* (venir),venir,came,VERB,VERB,Verb
+93,893,abre,*abre* (abrir),abrir,opens,VERB,VERB,Verb
+94,894,sean,*sean* (ser),ser,be,AUX,AUX,Auxiliary
+95,895,pagar,pagar,pagar,pay,VERB,VERB,Verb
+96,896,fotos,*fotos* (foto),foto,photos,NOUN,NOUN,Noun
+97,897,centro,centro,centro,center,NOUN,NOUN,Noun
+98,898,centro,*centro* (centrar),centrar,center,NOUN,NOUN,Noun
+99,899,supone,*supone* (suponer),suponer,supposes,VERB,VERB,Verb

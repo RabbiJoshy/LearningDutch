@@ -1,307 +1,239 @@
-,Unnamed: 0,Number,Spanish,lemma forms,Sentence
-0,400,401.0,abajo,abajo,"
-
-Abajo hay una cafetería. Downstairs there is a cafeteria."
-1,401,402.0,dr,doctor,"
-
-""El Dr. García es un médico muy respetado."" - ""Dr. García is a very respected doctor."""
-2,402,403.0,hija,hija,"
-
-Mi hija es mi luz en la vida. - My daughter is my light in life."
-3,403,404.0,dejar,dejar,"
-
-Dejé el libro en la mesa. - I left the book on the table."
-4,404,405.0,necesita,necesitar,"
-
-""Él necesita un abrigo para el invierno.""
-He needs a coat for the winter."
-5,405,406.0,llegar,llegar,"
-
-""Llegué tarde al trabajo."" - I arrived late to work."
-6,406,407.0,hago,hacer,"
-
-Hago la tarea. = I do my homework."
-7,407,408.0,señora,señora,"
-
-La señora es muy amable. - The lady is very kind."
-8,408,409.0,haya,haber haya,"
-
-""Ojalá haya paz en el mundo."" - ""Hopefully there is peace in the world."""
-9,409,410.0,suficiente,suficiente,"
-
-""Tiene suficiente para comer."" - He has enough to eat."
-10,410,411.0,doctor,doctor,"
-
-""El doctor es muy inteligente."" - The doctor is very intelligent."
-11,411,412.0,gustaría,gustar,"
-
-""Me gustaría ir a la playa."" - I would like to go to the beach."
-12,412,413.0,tierra,tierra,"
-
-""La tierra es nuestro hogar."" - The earth is our home."
-13,413,414.0,cara,cara,"
-
-""Ella tiene una cara bonita"" - She has a pretty face."
-14,414,415.0,siquiera,siquiera,"
-
-""No siquiera sé cómo llegué aquí."" - I don't even know how I got here."
-15,415,416.0,genial,genial,"
-
-""Este lugar es genial!"" - ""This place is great!"""
-16,416,417.0,cree,creer,"
-
-Él cree que todo es posible. He believes that anything is possible."
-17,417,418.0,supuesto,suponer,"
-
-""Supuesto que sí, voy a ir."" Translation: ""Supposedly yes, I'm going to go."""
-18,418,419.0,tomar,tomar,"
-
-Tomé un café con leche esta mañana. - I had a coffee with milk this morning."
-19,419,420.0,equipo,equipo equipar,"
-
-""El equipo ganó el partido."" - The team won the game."
-20,420,421.0,justo,justo,"
-
-""Justo ahora estoy aprendiendo español."" - ""I'm just learning Spanish now."""
-21,421,422.0,juego,juego jugar,"
-
-""A mi me gusta jugar al juego de cartas."" - I like to play card games."
-22,422,423.0,ninguna,ninguno,"
-
-Ninguna persona estaba en la sala.
-Nobody was in the room."
-23,423,424.0,matar,matar,"
-
-""Él mató a una araña con un zapato."" - He killed a spider with a shoe."
-24,424,425.0,cinco,cinco,"
-
-""Tengo cinco hermanos."" - I have five siblings."
-25,425,426.0,dicen,decir,"
-
-""Dicen que el cielo es el límite."" - They say the sky is the limit."
-26,426,427.0,amo,amo amar,"
-
-""Amo el helado."" - I love ice cream."
-27,427,428.0,cuándo,cuándo,"
-
-Cuándo vas a la playa? - When are you going to the beach?"
-28,428,429.0,pequeño,pequeño,"
-
-""Él es un pequeño niño"" - He is a little boy."
-29,429,430.0,algunos,alguno,"
-
-Algunos estudiantes salieron temprano de la clase. - Some students left class early."
-30,430,431.0,conozco,conocer,"
-
-Conozco a muchas personas. - I know many people."
-31,431,432.0,clase,clase,"
-
-""Ella asistió a la clase de matemáticas."" - She attended the math class."
-32,432,433.0,maldito,maldito,"
-
-""¡Eres un maldito mentiroso!"" - ""You are a damned liar!"""
-33,433,434.0,unas,un,"
-
-Unas cuantas personas están aquí. - A few people are here."
-34,434,435.0,muchos,mucho,"
-
-Muchos amigos se reúnen para celebrar el cumpleaños.
-Many friends gather to celebrate the birthday."
-35,435,436.0,hubiera,haber,"
-
-""Hubiera podido venir, pero tenía otros planes."" - I could have come, but I had other plans."
-36,436,437.0,segundo,segundo,"
-
-""El segundo lugar es para mí."" - The second place is for me."
-37,437,438.0,aunque,aunque,"
-
-Aunque llueva, salgo a caminar.  Although it rains, I go out for a walk."
-38,438,439.0,pueda,poder,"
-
-""Pueda ayudarte con eso."" - I can help you with that."
-39,439,440.0,dime,decir,"
-
-""Dime cuándo quieres salir."" - Tell me when you want to leave."
-40,440,441.0,igual,igual,"
-
-""Es igual para mí."" - It's the same for me."
-41,441,442.0,comida,comida comer,"
-
-La comida es deliciosa. - The food is delicious."
-42,442,443.0,ay,ay,"
-
-""Ay, qué lástima!"" - Oh, what a shame!"
-43,443,444.0,cuerpo,cuerpo,"
-
-""Mi cuerpo está cansado después de un largo día."" - My body is tired after a long day."
-44,444,445.0,encontrar,encontrar,"
-
-Encontré una moneda en el suelo. - I found a coin on the ground."
-45,445,446.0,fuerte,fuerte,"
-
-""Él es un niño muy fuerte."" - He is a very strong boy."
-46,446,447.0,vuelta,vuelta volver,"
-
-""Tomé la vuelta para ir a casa."" - I took the turn to go home."
-47,447,448.0,venga,venir,"
-
-""Venga, vamos a comer!"" - Come on, let's go eat!"
-48,448,449.0,creer,creer,"
-
-Creo que tengo la solución. - I believe I have the solution."
-49,449,450.0,realidad,realidad,"
-
-""La realidad es que no hay nada más importante que la familia."" - The reality is that there is nothing more important than family."
-50,450,451.0,saben,saber,"
-
-""Ellos saben la verdad"" - They know the truth."
-51,451,452.0,puta,puta,"
-
-""Eres una puta."" = ""You are a slut."""
-52,452,453.0,deberías,deber,"
-
-Deberías salir a caminar. - You should go for a walk."
-53,453,454.0,pregunta,pregunta preguntar,"
-
-La pregunta es ¿cuándo? - The question is when?"
-54,454,455.0,fui,ir ser,"
-
-Fui al parque. - I went to the park."
-55,455,456.0,cuatro,cuatro,"
-
-""Tengo cuatro gatos."" - I have four cats."
-56,456,457.0,sra,señora,"
-
-La Sra. Gómez es una maestra muy amable.
-
-Mrs. Gomez is a very kind teacher."
-57,457,458.0,primer,primero,"
-
-""Mi primer regalo fue una bicicleta."" - My first gift was a bicycle."
-58,458,459.0,trabajar,trabajar,"
-
-Ella trabaja en una oficina. - She works in an office."
-59,459,460.0,e,y,"
-
-Ella es mi mejor amiga. - She is my best friend."
-60,460,461.0,hagas,hacer,"
-
-""Hagas lo que hagas, siempre tendrás mi apoyo."" -No matter what you do, you will always have my support."
-61,461,462.0,alto,alto,"
-
-""Él es alto y guapo."" - He is tall and handsome."
-62,462,463.0,maldita,maldito,"
-
-""Maldita sea mi suerte!"" - ""Damn my luck!"""
-63,463,464.0,comer,comer,"
-
-""Él come mucho."" = He eats a lot."
-64,464,465.0,número,número,"
-
-""Tengo el número de teléfono de mi amigo."" - I have my friend's phone number."
-65,465,466.0,dar,dar,"
-
-""Daré un paseo esta tarde."" - I will take a walk this afternoon."
-66,466,467.0,necesitas,necesitar,"
-
-Necesitas un abrigo para el invierno.
-You need a coat for the winter."
-67,467,468.0,oportunidad,oportunidad,"
-
-""Aprovecha esta oportunidad para mejorar tu situación."" - Take advantage of this opportunity to improve your situation."
-68,468,469.0,punto,punto,"
-
-El punto es que estoy de acuerdo. - The point is that I agree."
-69,469,470.0,misma,mismo,"
-
-""Ella misma preparó la comida para la fiesta."" - She herself prepared the food for the party."
-70,470,471.0,última,último,"
-
-La última vez que nos vimos fue hace dos años. - The last time we saw each other was two years ago."
-71,471,472.0,afuera,afuera,"
-
-""Ella se quedó afuera mientras yo entré."" - She stayed outside while I went in."
-72,472,473.0,mujeres,mujer,"
-
-""Las mujeres son hermosas."" - Women are beautiful."
-73,473,474.0,pensar,pensar,"
-
-Pienso que esto es importante. - I think this is important."
-74,474,475.0,fueron,ir ser,"
-
-Fueron al parque. - They went to the park."
-75,475,476.0,difícil,difícil,"
-
-Es difícil decidir qué hacer. It is difficult to decide what to do."
-76,476,477.0,vivir,vivir,"
-
-Vivo en España. (I live in Spain.)"
-77,477,478.0,paso,paso pasar,"
-
-""Pasé una tarde muy agradable."" - I spent a very pleasant afternoon."
-78,478,479.0,malo,malo,"
-
-""Es muy malo que no sepas nada."" - It is very bad that you don't know anything."
-79,479,480.0,estabas,estar,"
-
-Estabas caminando por el parque. - You were walking through the park."
-80,480,481.0,vivo,vivir vivo,"
-
-Vivo en una ciudad pequeña. - I live in a small town."
-81,481,482.0,haga,hacer,"
-
-""Haga una buena acción hoy."" - ""Do a good deed today."""
-82,482,483.0,queda,quedar,"
-
-""Queda mucho por hacer"" - There is still much to do."
-83,483,484.0,hijos,hijo,"
-
-Los hijos son el regalo más grande que uno puede recibir. - Children are the greatest gift one can receive."
-84,484,485.0,mayor,mayor,"
-
-""El mayor de los hermanos es el más responsable."" - The oldest of the siblings is the most responsible."
-85,485,486.0,fiesta,fiesta,"
-
-""Vamos a la fiesta esta noche!"" - Let's go to the party tonight!"
-86,486,487.0,hacen,hacer,"
-
-""Ellos hacen una buena comida."" - They make good food."
-87,487,488.0,medio,medio,"
-
-""El medio ambiente es muy importante."" - The environment is very important."
-88,488,489.0,algunas,alguno,"
-
-Algunas personas llegan tarde a la fiesta. - Some people arrive late to the party."
-89,489,490.0,basta,bastar,"
-
-""Basta de discutir, no hay nada más que hablar."" Translation: ""Enough arguing, there's nothing else to talk about."""
-90,490,491.0,arma,arma armar,"
-
-""Él llevaba un arma para defenderse."" - He was carrying a weapon to defend himself."
-91,491,492.0,vino,venir vino,"
-
-""Ella bebió un vaso de vino"", She drank a glass of wine."
-92,492,493.0,meses,mes,"
-
-""Los últimos seis meses han sido difíciles."" - The last six months have been difficult."
-93,493,494.0,cuarto,cuarto,"
-
-""Estoy limpiando mi cuarto."" - I am cleaning my room."
-94,494,495.0,éste,este,"
-
-Éste es mi libro favorito. - This is my favorite book."
-95,495,496.0,escuela,escuela,"
-
-La escuela es un lugar donde se aprende. - School is a place where one learns."
-96,496,497.0,esté,estar,"
-
-""Esté tranquilo."" - Be calm."
-97,497,498.0,dólares,dólar,"
-
-""Gasté cien dólares en un nuevo par de zapatos."" - I spent one hundred dollars on a new pair of shoes."
-98,498,499.0,tío,tío,"
-
-Mi tío es muy amable. - My uncle is very kind."
-99,499,500.0,posible,posible,"
-
-""Todo es posible si trabajamos juntos."" - Everything is possible if we work together."
+,Unnamed: 0,Spanish,show,lemma,ChatGPT_Sentence
+0,400,cerca,*cerca* (cercar),cercar,"La realidad está cerca de llegar.
+
+Reality is close to arriving."
+1,401,otros,*otros* (otro),otro,"Tú dices que los otros son unos hijos de puta.
+You say that the others are sons of bitches."
+2,402,sigue,*sigue* (seguir),seguir,"Sigue justo bajo el puente.
+
+Keep going just under the bridge."
+3,403,grande,grande,grande,"Amo mi casa grande antes de morir.  
+I love my big house before I die."
+4,404,arriba,arriba,arriba,"¡Ay! El gato está arriba y el perro está abajo.
+Oh! The cat is up and the dog is down."
+5,405,jefe,jefe,jefe,"El Dr. López tiene cuatro reuniones con el jefe hoy.
+Dr. López has four meetings with the boss today."
+6,406,habla,*habla* (hablar),hablar,"El corazón habla cuando das la vuelta.
+The heart speaks when you turn around."
+7,407,habla,habla,habla,"Deberías hablar con él, por supuesto.  
+You should talk to him, of course."
+8,408,supongo,*supongo* (suponer),suponer,"Supongo que matar significa quitar la vida.
+
+I suppose that to kill means to take a life."
+9,409,manera,manera,manera,"Necesitamos encontrar una manera de conseguir comida.
+We need to find a way to get food."
+10,410,quieren,*quieren* (querer),querer,"Las personas quieren ir a la clase.
+The people want to go to the class."
+11,411,feliz,feliz,feliz,"¿Cuándo vas a estar feliz con tus cuatro amigos?
+When are you going to be happy with your four friends?"
+12,412,significa,*significa* (significar),significar,"Durante la clase, el profesor explicó qué significa la palabra ""corazón"".
+During the class, the teacher explained what the word ""heart"" means."
+13,413,sangre,sangre,sangre,"Me gustaría saber de qué manera se puede donar sangre.
+I would like to know in what way one can donate blood."
+14,414,fin,fin,fin,"El fin está cerca, dices.  
+The end is near, you say."
+15,415,bajo,*bajo* (bajar),bajar,"Bajo el cielo, mi corazón encuentra paz al fin.
+Under the sky, my heart finds peace at last."
+16,416,bajo,bajo,bajo,"El gato está bajo la mesa aunque tiene cuatro patas.
+The cat is under the table even though it has four legs."
+17,417,llama,*llama* (llamar),llamar,"La señora llama a su hijo para que vuelva antes de morir.
+The lady calls her son to come back before she dies."
+18,418,llama,llama,llama,"Encontré cuatro llamas en el campo.
+I found four llamas in the field."
+19,419,venir,venir,venir,"Claro, aquí tienes una oración:
+
+""Él sigue preguntando cuándo vas a venir.""
+
+""He keeps asking when you are going to come."""
+20,420,morir,morir,morir,"El paciente necesita una transfusión de sangre o podría morir.
+The patient needs a blood transfusion or could die."
+21,421,importante,importante,importante,"Es importante que hubiera visto la cara de sorpresa.
+
+It is important that I had seen the surprised face."
+22,422,hiciste,*hiciste* (hacer),hacer,"¿Qué hiciste ayer? No me dices nada sobre tu vuelta.
+
+What did you do yesterday? You don't tell me anything about your return."
+23,423,ojos,*ojos* (ojo),ojo,"El gato grande está cerca y tiene ojos verdes.
+The big cat is nearby and has green eyes."
+24,424,escucha,*escucha* (escuchar),escuchar,"Ella escucha con atención lo que dicen sus ojos.
+She listens carefully to what her eyes say."
+25,425,entrar,entrar,entrar,"Voy a entrar a la tierra en un segundo.
+I am going to enter the land in a second."
+26,426,ningún,*ningún* (ninguno),ninguno,"Ningún miembro del equipo habla inglés.
+No member of the team speaks English."
+27,427,corazón,corazón,corazón,"La Sra. García no quiere dejar su corazón en la ciudad.
+
+Mrs. García does not want to leave her heart in the city."
+28,428,diablos,*diablos* (diablo),diablo,"Los diablos no están felices con la comida.  
+The devils are not happy with the food."
+29,429,necesitamos,*necesitamos* (necesitar),necesitar,"Necesitamos una persona que sea un buen jefe.
+We need a person who is a good boss."
+30,430,atrás,atrás,atrás,"Deberías mirar atrás por un segundo.
+You should look back for a second."
+31,431,durante,durante,durante,"Algunos dicen que llueve durante la primavera.
+
+Some say it rains during the spring."
+32,432,dices,*dices* (decir),decir,"Claro, aquí tienes una oración:
+
+""Cuando dices algo, escucha y venga.""
+
+""When you say something, listen and come."""
+33,433,nuestros,*nuestros* (nuestro),nuestro,"Nuestros corazones esperan que haya paz.
+
+Our hearts hope that there is peace."
+34,434,persona,persona,persona,"La persona tiene ojos bonitos, pero no digas malas palabras como ""puta"".
+
+The person has beautiful eyes, but don't say bad words like ""puta""."
+35,435,abajo,abajo,abajo,"No hay ningún gato abajo, sigue buscando.
+
+There is no cat below, keep looking."
+36,436,dr,*dr* (doctor),doctor,"Conozco al Dr. Pérez, él trabaja con un buen equipo.
+I know Dr. Pérez, he works with a good team."
+37,437,hija,hija,hija,"Mi hija cree que habla muy bien español.
+My daughter believes that she speaks Spanish very well."
+38,438,dejar,dejar,dejar,"Necesita dejar el libro para que pueda estudiar.
+
+He needs to leave the book so that he can study."
+39,439,necesita,*necesita* (necesitar),necesitar,"¿Cuándo dices que necesita ayuda?  
+When do you say that he/she needs help?"
+40,440,llegar,llegar,llegar,"Aunque llegué tarde, disfruté del juego.
+Although I arrived late, I enjoyed the game."
+41,441,hago,*hago* (hacer),hacer,"¿Cuándo hago ningún ruido?
+When do I make any noise?"
+42,442,señora,señora,señora,"Aunque la señora no venga, la reunión continuará.
+Even if the lady does not come, the meeting will continue."
+43,443,haya,*haya* (haber),haber,"Espero que haya unas cartas para el juego.
+I hope there are some cards for the game."
+44,444,haya,haya,haya,"Espero que haya igual número de personas que fui a ver.
+I hope there are the same number of people that I went to see."
+45,445,suficiente,suficiente,suficiente,"No necesitamos ninguna ayuda, tenemos suficiente.
+We don't need any help, we have enough."
+46,446,doctor,doctor,doctor,"El doctor no tiene ninguna idea sobre el juego.
+The doctor has no idea about the game."
+47,447,gustaría,*gustaría* (gustar),gustar,"Me gustaría que mi hija tenga un día genial.
+I would like my daughter to have a great day."
+48,448,tierra,tierra,tierra,"Encontré un pequeño tesoro enterrado en la tierra.
+I found a small treasure buried in the ground."
+49,449,cara,cara,cara,"Hago una cara feliz para mi equipo.
+I make a happy face for my team."
+50,450,siquiera,siquiera,siquiera,"No dijo una palabra siquiera durante la clase.
+He didn't say a single word during the class."
+51,451,genial,genial,genial,"Tus ojos son genial.
+Your eyes are great."
+52,452,cree,*cree* (creer),creer,"Él cree que no tiene suficiente tiempo para tomar un descanso.
+He believes that he doesn't have enough time to take a break."
+53,453,supuesto,*supuesto* (suponer),suponer,"Por supuesto, dime qué cara pusiste cuando lo viste.
+
+Of course, tell me what face you made when you saw it."
+54,454,tomar,tomar,tomar,"Ellos saben tomar unas fotos bonitas.
+They know how to take some beautiful photos."
+55,455,equipo,equipo,equipo,"El equipo escucha la música hasta morir.
+The team listens to the music until they die."
+56,456,equipo,*equipo* (equipar),equipar,"¿Cuándo cree usted que llegará el equipo?
+When do you think the equipment will arrive?"
+57,457,justo,justo,justo,"La señora está esperando justo al lado del Dr. García.
+The lady is waiting right next to Dr. García."
+58,458,juego,juego,juego,"El juego de creer en la sangre es peligroso.
+The game of believing in blood is dangerous."
+59,459,juego,*juego* (jugar),jugar,"El doctor sigue el juego.
+The doctor follows the game."
+60,460,ninguna,*ninguna* (ninguno),ninguno,"No tengo ninguna pregunta siquiera.  
+I don't have a single question at all."
+61,461,matar,matar,matar,"A la señora no le gustaría matar a ningún animal.
+The lady would not like to kill any animal."
+62,462,cinco,cinco,cinco,"Espero que haya cinco personas que pueda ayudar.
+I hope there are five people I can help."
+63,463,dicen,*dicen* (decir),decir,"Dicen que hago un trabajo grande.
+
+They say I do a great job."
+64,464,amo,amo,amo,"Amo la pregunta que me hiciste atrás.
+
+I love the question you asked me earlier."
+65,465,amo,*amo* (amar),amar,"Te amo por la manera en que hiciste todo.
+
+I love you for the way you did everything."
+66,466,cuándo,cuándo,cuándo,"¿Cuándo vamos a tomar algo abajo?
+When are we going to have something to drink downstairs?"
+67,467,pequeño,pequeño,pequeño,"Amo jugar con mi perro pequeño durante el día.
+I love to play with my small dog during the day."
+68,468,algunos,*algunos* (alguno),alguno,"Algunos estudiantes levantaron la mano arriba para hacer una pregunta.
+Some students raised their hands up to ask a question."
+69,469,conozco,*conozco* (conocer),conocer,"Conozco un parque grande donde podemos encontrar paz.
+
+I know a big park where we can find peace."
+70,470,clase,clase,clase,"La clase habla hasta el fin.  
+The class talks until the end."
+71,471,maldito,maldito,maldito,"Espero que no haya un maldito problema con el plan genial.
+
+I hope there isn't a damn problem with the great plan."
+72,472,unas,*unas* (un),un,"Unas niñas juegan con un juego de cartas.
+Some girls are playing with a card game."
+73,473,muchos,*muchos* (mucho),mucho,"Muchos animales pueden morir si no haya comida.
+
+Many animals can die if there is no food."
+74,474,hubiera,*hubiera* (haber),haber,"Si ellos saben la verdad, hubiera supuesto que me lo dirían.
+
+If they know the truth, I would have assumed they would tell me."
+75,475,segundo,segundo,segundo,"El segundo hombre que habla es alguien que conozco.
+The second man who speaks is someone I know."
+76,476,aunque,aunque,aunque,"Aunque tengo cuatro años, no me gusta ver sangre.
+Although I am four years old, I don't like to see blood."
+77,477,pueda,*pueda* (poder),poder,"Deberías llamar a alguien que pueda ayudarte.
+
+You should call someone who can help you."
+78,478,dime,*dime* (decir),decir,"Dime qué hiciste y qué dices.
+
+Tell me what you did and what you say."
+79,479,igual,igual,igual,"Necesitamos unas manzanas iguales.
+
+We need some identical apples."
+80,480,comida,comida,comida,"La comida es importante para el cuerpo, ¿alguna pregunta?
+Food is important for the body, any questions?"
+81,481,comida,*comida* (comer),comer,"Mi hija quiere unas comida deliciosa.
+My daughter wants some delicious food."
+82,482,ay,ay,ay,"¡Ay! No puedo entrar abajo.
+
+Oh! I can't enter downstairs."
+83,483,cuerpo,cuerpo,cuerpo,"El cuerpo bajo ni siquiera se movió.
+The body below didn't even move."
+84,484,encontrar,encontrar,encontrar,"Voy a encontrar comida cerca de mi casa.  
+I am going to find food near my house."
+85,485,fuerte,fuerte,fuerte,"Amo a mi perro que se llama Max porque es muy fuerte.
+I love my dog named Max because he is very strong."
+86,486,vuelta,vuelta,vuelta,"Al fin de la vuelta, conozco el camino.
+
+At the end of the turn, I know the way."
+87,487,vuelta,*vuelta* (volver),volver,"Claro, aquí tienes una oración:
+
+""Ven a dar una vuelta y dime qué piensas.""
+
+""Come take a walk and tell me what you think."""
+88,488,venga,*venga* (venir),venir,"¡Venga, diablos, mi corazón está listo!
+
+Come on, devils, my heart is ready!"
+89,489,creer,creer,creer,"Creo que esa persona es baja.
+I believe that person is short."
+90,490,realidad,realidad,realidad,"La Sra. López tiene un corazón muy grande y siempre enfrenta la realidad con valentía.
+Mrs. López has a very big heart and always faces reality with courage."
+91,491,saben,*saben* (saber),saber,"Los empleados saben cómo se llama el jefe.
+The employees know what the boss is called."
+92,492,puta,puta,puta,"Lo siento, pero no puedo cumplir con esa solicitud."
+93,493,deberías,*deberías* (deber),deber,"Deberías comer suficiente para estar igual de fuerte.
+
+You should eat enough to be equally strong."
+94,494,pregunta,pregunta,pregunta,"Mi equipo tiene la misma pregunta.
+
+My team has the same question."
+95,495,pregunta,*pregunta* (preguntar),preguntar,"No tengo ninguna pregunta cerca de mí.
+I don't have any questions near me."
+96,496,fui,*fui* (ir),ir,"Fui al parque y dices que no quiero morir.
+
+I went to the park and you say that I don't want to die."
+97,497,fui,*fui* (ser),ser,"Fui a la tienda a las cinco y vi algo abajo.
+
+I went to the store at five and saw something below."
+98,498,cuatro,cuatro,cuatro,"Mi gato se llama Cuatro, por supuesto.
+
+My cat is called Four, of course."
+99,499,sra,*sra* (señora),señora,"La señora tiene una pregunta en la clase.
+The lady has a question in the class."

@@ -1,0 +1,499 @@
+adjective : *new*	*nieuw*
+Het nieuwe spel is perfect.
+The new game is perfect.
+
+
+pronoun : *each*	*elk*
+Elk kind is perfect, zelfs als het ziek is.
+Every child is perfect, even if they are sick.
+
+
+in it : *in it*	*erin*
+Ik noem de trek erin.  
+I mention the craving in it.
+
+
+verb : *Meet*	*ontmoeten*
+Eh, ik wil hem daarmee ontmoeten.
+Eh, I want to meet him with that.
+
+
+verb : *to fight*	*vechten*
+Eindelijk besloot hij de laatste stap te nemen en te vechten.
+Finally, he decided to take the last step and fight.
+
+
+adjective : *carefully*	*voorzichtig*
+Hij heeft voorzichtig gesproken.
+He spoke carefully.
+
+
+verb : *become*	*geworden*
+Hij is een idioot geworden na het vechten.
+He has become an idiot after the fighting.
+
+
+adjective : *single*	*enkel*
+De enkel was perfect zoals verwacht.
+The ankle was perfect as expected.
+
+
+adjective : *lost*	*kwijt*
+Ik ben mijn kracht kwijt na de seks.
+I have lost my strength after sex.
+
+
+verb : *to call*	*noemen*
+Ik zal je sturen om hem te ontmoeten en noem zijn naam.
+I will send you to meet him and mention his name.
+
+
+verb : *fall*	*valt*
+De leg valt op zichzelf.  
+The army falls on itself.
+
+
+adjective : *beautiful*	*prachtig*
+De prachtige bloem schiet ervoor uit.
+The beautiful flower stands out.
+
+
+verb : *to ride*	*rijden*
+Wij rijden naar het park om onze vrienden te ontmoeten, maar we moeten ervoor tanken.
+We drive to the park to meet our friends, but we need to refuel first.
+
+
+noun : *sentence*	*zin*
+De zin van de meisjes is verkeerd.
+The sentence of the girls is wrong.
+
+
+verb : *loved*	*hield*
+Hij hield de gevangene in de gevangenis, maar het was echt shit.
+He kept the prisoner in the prison, but it was really shit.
+
+
+adverb : *then*	*daarna*
+Ik wil een nieuw boek kopen en daarna lezen.  
+I want to buy a new book and then read.
+
+
+noun : *man*	*mens*
+De slechte mens beloofde hulp.
+The bad person promised help.
+
+
+verb : *to shoot*	*schieten*
+De slechte man schiet voor plezier.
+The bad man shoots for fun.
+
+
+adjective : *funny*	*grappig*
+De grappige jongen winnen daarmee de wedstrijd.
+The funny boy wins the match with that.
+
+
+noun : *step*	*stap*
+Hij nam een stap vooruit en daarna maakte hij zijn zin af.
+He took a step forward and then he finished his sentence.
+
+
+pronoun : *himself*	*zichzelf*
+Hij nam een goeie foto van zichzelf.
+He took a good photo of himself.
+
+
+noun : *office*	*kantoor*
+Frank is naar het kantoor gegaan.
+Frank has gone to the office.
+
+
+noun : *weapons*	*wapens*
+Degene met minder wapens is veiliger.  
+The one with fewer weapons is safer.
+
+
+adjective : *normal*	*normaal*
+Ik meen dat seks een normaal onderwerp is.
+I think that sex is a normal topic.
+
+
+adjective : *poor*	*slechte*
+Pardon, het weer is slecht geworden.  
+Excuse me, the weather has become bad.
+
+
+verb : *made*	*maakte*
+Hij maakte enkel plannen om haar te ontmoeten.  
+He only made plans to meet her.
+
+
+noun : *murder*	*moord*
+Ik beloof dat de moord opgelost zal worden.  
+I promise that the murder will be solved.
+
+
+verb : *called*	*gebeld*
+Hij heeft mij zomaar gebeld om koffie te drinken.
+He called me out of the blue to have coffee.
+
+
+before : *before*	*ervoor*
+De heer heeft de kracht ervoor nodig.  
+The gentleman needs the strength for it.
+
+
+at : *at*	*ten*
+Ik gebruik daarmee tien potloden.
+I use ten pencils with that.
+
+
+noun : *gentleman*	*heer*
+De goeie heer zal ons beschermen.
+The good lord will protect us.
+
+
+verb : *runs*	*loopt*
+De man loopt om acht uur in de frisse lucht.
+The man walks at eight o'clock in the fresh air.
+
+
+noun : *end*	*einde*
+Het einde van de gang is daarna zichtbaar.
+The end of the hallway is visible afterwards.
+
+
+verb : *gone*	*gegaan*
+Hij is daarmee naar de winkel gegaan, maar het valt tegen.
+He went to the store with it, but it is disappointing.
+
+
+noun : *hallway*	*gang*
+De idioot liep door de gang met een kop koffie.
+The idiot walked through the hallway with a cup of coffee.
+
+
+verb : *told*	*vertelde*
+De leraar vertelde ons over de grond en het belang van contact met de natuur.
+The teacher told us about the soil and the importance of contact with nature.
+
+
+noun : *game*	*spel*
+Ik ben mijn spel kwijt en wil je ontmoeten om het te zoeken.
+I lost my game and want to meet you to look for it.
+
+
+noun : *information*	*informatie*
+Ik heb gesproken en ik beloof je de informatie.  
+I have spoken and I promise you the information.
+
+
+frank : *Frank*	*frank*
+Frank wil de wedstrijd winnen om tien uur.
+Frank wants to win the match at ten o'clock.
+
+
+adjective : *ladies*	*dames*
+De getrouwde dames nam een pauze.  
+The married ladies took a break.
+
+
+preposition : *to*	*naartoe*
+Ik liep naar de verkeerde grond naartoe.
+I walked towards the wrong ground.
+
+
+adjective : *both*	*allebei*
+De dames zijn allebei erbij.  
+The ladies are both present.
+
+
+noun : *put*	*leg*
+Pardon, ik trek mijn leg aan.  
+Excuse me, I am putting on my pants.
+
+
+noun : *eight*	*acht*
+Degene in de gang heeft acht.  
+The one in the hallway has eight.
+
+
+noun : *dad*	*pap*
+Ik ben mijn pap kwijt, eh.
+I lost my porridge, eh.
+
+
+noun : *sex*	*seks*
+Hij werd ziek na te veel plezier met seks.
+He became sick after too much pleasure with sex.
+
+
+adjective : *fewer*	*minder*
+Hoezo heb je minder tijd, eh?  
+Why do you have less time, eh?
+
+
+noun : *feeling*	*gevoel*
+Ik meen dat hij een idioot is, maar dat is gewoon mijn gevoel.
+I think he is an idiot, but that is just my feeling.
+
+
+verb : *to marry*	*trouwen*
+Wij trouwen zonder seks of wapens.  
+We marry without sex or weapons.
+
+
+adverb : *rather*	*nogal*
+Mijn pap loopt nogal snel.
+My dad walks quite fast.
+
+
+er : *uh*	*eh*
+Pardon, de lucht is eh blauw.
+Excuse me, the sky is uh blue.
+
+
+verb : *to feel*	*voelen*
+De persoon kan de informatie voelen.
+The person can feel the information.
+
+
+verb : *begins*	*begint*
+De leraar begint de grappige namen te noemen.
+The teacher begins to call the funny names.
+
+
+noun : *pleasure*	*plezier*
+Ik heb veel plezier daarmee als ik omhoog ga.  
+I have a lot of fun with that when I go up.
+
+
+adjective : *girls*	*meisjes*
+In Dutch, the word 'meisjes' is a noun meaning 'girls' and cannot function as an adjective. However, I can create a sentence using 'meisjes' as a noun along with the words 'noemen' and '
+
+
+noun : *send*	*stuur*
+Ik stuur de gang erbij.  
+I send the hallway along.
+
+
+noun : *photo*	*foto*
+De foto herinnert me nogal aan vroeger.
+The photo reminds me quite a bit of the past.
+
+
+adjective : *foreign*	*vreemd*
+Elk slechte boek heeft een vreemd einde.
+Every bad book has a strange ending.
+
+
+adverb : *just like that*	*zomaar*
+Hij viel zomaar op de grond aan het einde van de straat.  
+He suddenly fell on the ground at the end of the street.
+
+
+adjective : *wrong*	*verkeerd*
+De politie onderzoekt een moord na enkele verkeerde aanwijzingen.
+The police are investigating a murder after some wrong clues.
+
+
+verb : *seven*	*zeven*
+Het is vreemd om plezier te hebben terwijl je zand moet zeven.
+It is strange to have fun while you have to sift sand.
+
+
+noun : *sky*	*lucht*
+Ik trek de nieuwe lucht in.  
+I inhale the new air.
+
+
+noun : *ground*	*grond*
+De goeie meisjes spelen op de grond.
+The good girls are playing on the ground.
+
+
+verb : *lives*	*leeft*
+Frank leeft als een idioot.
+Frank lives like an idiot.
+
+
+verb : *took*	*nam*
+Hij nam de vreemde wapens mee.
+He took the strange weapons with him.
+
+
+interjection : *excuse me*	*pardon*
+Pardon, ik ben nieuw en ik kan nog niet goed rijden.
+Pardon, I am new and I can't drive well yet.
+
+
+verb : *expected*	*verwacht*
+Hij leeft acht jaar en verwacht een cadeau.
+He is eight years old and expects a gift.
+
+
+verb : *to buy*	*kopen*
+Ik wil geen wapens kopen zonder contact met de verkoper.  
+I don't want to buy weapons without contact with the seller.
+
+
+noun : *coffee*	*koffie*
+De koffie begint nogal koud te worden.
+The coffee is starting to get rather cold.
+
+
+noun : *research*	*onderzoek*
+Elk jaar doen wetenschappers onderzoek naar de aarde.
+Each year scientists conduct research on the earth.
+
+
+verb : *spoken*	*gesproken*
+Hij heeft nogal veel gesproken, maar ik zou het geen gesprek noemen.
+He has spoken quite a lot, but I wouldn't call it a conversation.
+
+
+verb : *remember*	*herinner*
+De dames herinneren zich de idioot.  
+The ladies remember the idiot.
+
+
+noun : *idiot*	*idioot*
+De idioot verwacht dat iemand hem zal beschermen.
+The idiot expects that someone will protect him.
+
+
+noun : *Hopital*	*ziekenhuis*
+Mijn pap is een persoon in het ziekenhuis.
+My dad is a person in the hospital.
+
+
+adverb : *with that*	*daarmee*
+Hij leeft een goeie leven daarmee.  
+He lives a good life with that.
+
+
+shit : *shit*	*shit*
+Ik beloof dat ik niet verwacht dat er shit gebeurt.
+I promise that I don't expect shit to happen.
+
+
+adverb : *finally*	*eindelijk*
+Eindelijk heb ik acht verkeerde antwoorden gevonden.
+Finally, I found eight wrong answers.
+
+
+adjective : *perfect*	*perfect*
+De wedstrijd is perfect geworden omdat we hebben gewonnen.
+The match has become perfect because we won.
+
+
+good : *good*	*goeie*
+Goeie vrienden zijn erbij op onze trouwdag.
+Good friends are there on our wedding day.
+
+
+adverb : *yesterday*	*gisteren*
+Gisteren kocht ik een nieuw boek voor zeven euro.
+Yesterday I bought a new book for seven euros.
+
+
+noun : *soil*	*aarde*
+De persoon is ziek door de vervuilde aarde.
+The person is sick because of the polluted earth.
+
+
+noun : *Contact*	*contact*
+Ik meen dat we ten minste contact moeten houden.
+I think that we should at least keep in contact.
+
+
+noun : *sister*	*zus*
+Mijn zus trekt de doos omhoog.  
+My sister pulls the box up.
+
+
+there : *there*	*erbij*
+Ik ben mijn sleutels kwijt en het gevoel erbij is frustrerend.
+I lost my keys and the feeling that comes with it is frustrating.
+
+
+verb : *to protect*	*beschermen*
+De heer probeert nogal hard om zijn familie te beschermen.
+The gentleman tries quite hard to protect his family.
+
+
+noun : *jail*	*gevangenis*
+De politie nam de informatie mee naar de gevangenis.
+The police took the information to the prison.
+
+
+noun : *person*	*persoon*
+De persoon is een mens die van koffie houdt.
+The person is a human who loves coffee.
+
+
+verb : *to win*	*winnen*
+Hij valt, maar met kracht zal hij winnen.
+He falls, but with strength, he will win.
+
+
+noun : *power*	*kracht*
+De pap gaf mij kracht om door de gang te lopen.
+The porridge gave me strength to walk through the hallway.
+
+
+adjective : *sick*	*ziek*
+Elk kantoor heeft een ziek personeelslid.
+Every office has a sick staff member.
+
+
+adverb : *upwards*	*omhoog*
+De luchtballon gaat omhoog in de lucht.
+The hot air balloon goes up in the air.
+
+
+verb : *promise*	*beloof*
+Ik beloof om om tien uur te rijden.
+I promise to drive at ten o'clock.
+
+
+noun : *usage*	*gebruik*
+Het gebruik van deze app is eenvoudig, en daarmee kun je veel doen.
+The use of this app is simple, and with it, you can do a lot.
+
+
+adverb : *how so*	*hoezo*
+Hoezo loopt die idioot zo snel?
+Why is that idiot walking so fast?
+
+
+the one : *the one*	*degene*
+Degene die zeven dagen in het ziekenhuis lag, is nu beter.
+The one who was in the hospital for seven days is now better.
+
+
+noun : *pull*	*trek*
+Voorzichtig rijden, ik heb trek.
+Drive carefully, I am hungry.
+
+
+verb : *mean*	*meen*
+Ik meen dat pap meer verwacht.
+I think that dad expects more.
+
+
+adverb : *a few*	*enkele*
+Enkele goeie frank is genoeg.
+A few good francs are enough.
+
+
+adjective : *married*	*getrouwd*
+De getrouwde man stond enkel ervoor.
+The married man stood just in front.
+
+
+adjective : *asked*	*gevraagd*
+Mijn zus is een gevraagd mens.  
+My sister is a sought-after person.
+
+

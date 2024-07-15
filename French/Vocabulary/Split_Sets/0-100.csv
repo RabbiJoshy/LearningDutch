@@ -1,35 +1,35 @@
-,French,POS,English
+,French,POS,Translation
 0,être,"verb, auxiliary verb, noun",to be; being
 1,avoir,"verb, auxiliary verb",to have
 2,je,personal pronoun,I
-3,de,preposition,"of, from, by, than, in, with (see #28)"
+3,de,preposition,"of, from, by, than, in, with"
 4,ne,adverb,not
 5,pas,"adverb, noun","not; step, pace"
-6,le,"definite article, personal pronoun","the; him, it (refering to a masculine singular noun) (see #8, 15, 18)"
-7,la,"definite article, personal pronoun","the; her, it (refering to a feminine singular noun) (see #7, 15, 18)"
+6,le,"definite article, personal pronoun","the; him, it (refering to a masculine singular noun)"
+7,la,"definite article, personal pronoun","the; her, it (refering to a feminine singular noun)"
 8,tu,personal pronoun,you
 9,vous,personal pronoun,"you, yourself"
 10,il,personal pronoun,"he, it"
 11,et,conjunction,and
 12,à,preposition,"in, to, with"
-13,un,indefinite article,"a, an; one (used before a masculine singular noun) (see #26, 31)"
-14,l',"definite article, personal pronoun","the (used instead of ''le'' or ''la'' before nouns that begin with a vowel) (see #7, 8, 18)"
+13,un,indefinite article,"a, an; one (used before a masculine singular noun)"
+14,l',"definite article, personal pronoun",the (used instead of ''le'' or ''la'' before nouns that begin with a vowel)
 15,qui,"relative pronoun, interrogative pronoun","who, whom; that, which"
 16,aller,verb,to go
-17,les,"definite article, personal pronoun","the; them (referring to a plural noun) (see #7, 8, 15)"
+17,les,"definite article, personal pronoun",the; them (referring to a plural noun)
 18,en,"preposition, personal pronoun, adverb","in, into, to, as"
-19,ça,demonstrative pronoun,"this, that (see #203)"
+19,ça,demonstrative pronoun,"this, that"
 20,faire,verb,"to do, make"
 21,tout,"adjective, indefinite adjective, indefinite pronoun, adverb, noun","all, everything, any; very, quite"
 22,on,personal pronoun,"we, you"
 23,que,"relative pronoun, interrogative pronoun",that; what; which
-24,ce,"demonstrative pronoun, demonstrative adjective","this, that (see #73, 99, 201)"
-25,une,indefinite article,"a, an; one (used before a feminine singular noun); french.languagedaily.com (see #14, 31)"
-26,mes,possessive adjective,"my (used before plural nouns) (see #50, 108)"
-27,d',preposition,"of, from, by, than, in, with (used before a vowel or mute h) (see #4)"
+24,ce,"demonstrative pronoun, demonstrative adjective","this, that"
+25,une,indefinite article,"a, an; one (used before a feminine singular noun)"
+26,mes,possessive adjective,my (used before plural nouns)
+27,d',preposition,"of, from, by, than, in, with (used before a vowel or mute h)"
 28,pour,preposition,for
-29,se,personal pronoun,"himself, herself, themselves (see #60)"
-30,des,indefinite article,"some (used before a plural noun) (see #14, 26)"
+29,se,personal pronoun,"himself, herself, themselves"
+30,des,indefinite article,some (used before a plural noun)
 31,dire,"verb, noun","to say, tell"
 32,pouvoir,"verb, noun","can, to be able to"
 33,vouloir,verb,to want
@@ -38,7 +38,7 @@
 36,nous,personal pronoun,"we, us"
 37,dans,preposition,"in, into"
 38,elle,personal pronoun,"she, it (refers to a feminine singular noun)"
-39,savoir,verb,to know; languagedaily dot com
+39,savoir,verb,to know
 40,du,definite article,"(de + le/les) = of the, from the"
 41,où,"relative pronoun, interrogative pronoun","where, that"
 42,y,personal pronoun,"it, there"
@@ -48,7 +48,7 @@
 46,plus,adverb,more
 47,non,adverb,no
 48,te,personal pronoun,"you, yourself"
-49,mon,possessive adjective,"my (used before a masculine singular noun) (see #27, 108)"
+49,mon,possessive adjective,my (used before a masculine singular noun)
 50,au,definite article,"at the, to the, in the (contraction of à + le; used with a singular masculine noun)"
 51,avec,preposition,with
 52,moi,personal pronoun,"I, me"
@@ -65,7 +65,7 @@
 63,ici,adverb,here
 64,rien,indefinite pronoun,nothing
 65,lui,personal pronoun,"he, him, it, her"
-66,bon,"adjective, onomatopoeia, noun, adverb","good, right, kind; good!; voucher; then; french.languagedaily.com"
+66,bon,"adjective, onomatopoeia, noun, adverb","good, right, kind; good!; voucher; then"
 67,là,adverb,"there, here, then"
 68,suivre,verb,to follow
 69,pourquoi,"adverb, conjunction",why
@@ -90,7 +90,7 @@
 88,attendre,verb,"to wait for, expect"
 89,trouver,verb,to find
 90,laisser,verb,to leave
-91,petit,"adjective, noun","small, little, young (adjective); languagedaily dot com; kid, child (masculine noun)"
+91,petit,"adjective, noun","small, little, young (adjective), kid, child (masculine noun)"
 92,merci,"onomatopoeia, noun","thanks, thank you"
 93,même,"adverb, adjective","same; even, so much as, as"
 94,sa,possessive adjective,"his, her, its (feminine)"

@@ -1,0 +1,500 @@
+Proper noun : *tale*	*cuento*
+El cuento describe el ruido de una bala.  
+The story describes the noise of a bullet.
+
+
+Proper noun : *tale*	*cuento*
+El cuento que quiero decirlo es sobre un árbol.
+The story I want to tell is about a tree.
+
+
+Noun : *news*	*noticia*
+Los pequeños niños leyeron la noticia en la red.
+The small children read the news on the internet.
+
+
+Verb : *tell me*	*dígame*
+Dígame el cuento del hombre desgraciado.
+Tell me the story of the unfortunate man.
+
+
+Verb : *say it*	*decirlo*
+Ella quiere decirlo porque es bella y siempre come con nosotros.
+She wants to say it because she is beautiful and always eats with us.
+
+
+Noun : *foolishness*	*tonterías*
+¡Joder, deja de decir tonterías y peina tu cabello!
+Damn, stop talking nonsense and comb your hair!
+
+
+Noun : *feelings*	*sentimientos*
+Mis sentimientos de confianza y justicia son muy fuertes.
+My feelings of trust and justice are very strong.
+
+
+Noun : *aim*	*objetivo*
+El objetivo de alguno es ayudar a la dama.  
+The objective of someone is to help the lady.
+
+
+Adjective : *pass*	*pasada*
+La pasada noche debió haber mucho ruido.
+The past night there must have been a lot of noise.
+
+
+Adjective : *pass*	*pasada*
+La semana pasada, los ángeles nos protegieron de las malas noticias.
+Last week, the angels protected us from the bad news.
+
+
+Adjective : *pass*	*pasada*
+Vosotros comisteis pizza la semana pasada.
+You all ate pizza last week.
+
+
+Verb : *arrange*	*arreglar*
+Él está casado y absolutamente necesita arreglar el coche.
+He is married and absolutely needs to fix the car.
+
+
+Adjective : *married*	*casado*
+El hombre inocente está casado y tiene ganado.
+The innocent man is married and has livestock.
+
+
+Adjective : *married*	*casado*
+Ellos se casarán y harán una fiesta con una bala de cañón.
+They will get married and have a party with a cannonball.
+
+
+Noun : *boat*	*bote*
+El bote dé una sensación humana de tranquilidad.
+The boat gives a human feeling of tranquility.
+
+
+Noun : *boat*	*bote*
+Voy a arreglar el bote debido a una fuga.
+I am going to fix the boat due to a leak.
+
+
+Adjective : *red*	*roja*
+La humana encontró un pedazo de tela roja.
+The human found a piece of red cloth.
+
+
+Noun : *laws*	*leyes*
+En la costa pasada, las leyes eran diferentes.
+On the past coast, the laws were different.
+
+
+Noun : *million*	*millón*
+Verá que hay un millón de malas decisiones.
+You will see that there are a million bad decisions.
+
+
+Noun : *tree*	*árbol*
+El gobierno dé leyes para proteger el árbol.  
+The government enacts laws to protect the tree.
+
+
+Verb : *I talked*	*hable*
+Hable con el camarero sobre mi pedido después de la cena.
+I spoke with the waiter about my order after dinner.
+
+
+Noun : *project*	*proyecto*
+Dígame si hubieras terminado el proyecto.
+Tell me if you had finished the project.
+
+
+Adjective : *highly strung*	*nervioso*
+Él se pone nervioso cuando come tonterías.
+He gets nervous when he eats junk food.
+
+
+Adjective : *wool*	*lana*
+Es una lástima que la justicia no sea igual para los que tienen mucha lana.
+It's a shame that justice is not the same for those who have a lot of money.
+
+
+Adjective : *stepped out*	*salido*
+El gato ha salido de la casa con las patas limpias, pero las malas noticias llegaron después.
+The cat has left the house with clean paws, but the bad news came afterward.
+
+
+Noun : *piece*	*pedazo*
+El pedazo de cielo muestra su belleza mientras estoy corriendo.
+The piece of sky shows its beauty while I am running.
+
+
+Adjective : *bad*	*malas*
+Las malas decisiones pueden afectar tu objetivo y tus poderes.
+Bad decisions can affect your goal and your powers.
+
+
+Adjective : *bad*	*malas*
+Las ovejas con lana malas no están felices.
+The sheep with bad wool are not happy.
+
+
+Proper noun : *fuck*	*joder*
+¡Joder, no debí haberte llamado tan tarde!
+Damn, I shouldn't have called you so late!
+
+
+Adjective : *human*	*humana*
+El bote en marcha llevaba a una figura humana.  
+The boat in motion carried a human figure.
+
+
+Adverb : *absolutely*	*absolutamente*
+Absolutamente entiendo tus sentimientos después de la conversación.
+I absolutely understand your feelings after the conversation.
+
+
+Verb : *avoid*	*evitar*
+Vos deberían evitar el azúcar.  
+You should avoid sugar.
+
+
+Verb : *in a hurry*	*corriendo*
+Él debió haber visto a alguno corriendo.
+He should have seen someone running.
+
+
+Noun : *bullet*	*bala*
+La bala le rompió los dientes y ahora tiene malas noticias.
+The bullet broke his teeth and now he has bad news.
+
+
+Noun : *you*	*vosotros*
+Vosotros tenéis un objetivo claro, es una lástima que no lo veáis.
+You all have a clear objective, it's a shame that you don't see it.
+
+
+Verb : *after*	*despues*
+Después de preguntar, supe sobre la enfermedad.
+After asking, I found out about the illness.
+
+
+Preposition : *due*	*debido*
+Debido a que estoy casado, planté un árbol en el jardín.
+Due to the fact that I am married, I planted a tree in the garden.
+
+
+Preposition : *due*	*debido*
+Debido a sus sentimientos, ella ama profundamente.
+Due to her feelings, she loves deeply.
+
+
+Noun : *trust*	*confianza*
+Los ángeles me dan confianza cuando estoy nervioso.
+The angels give me confidence when I am nervous.
+
+
+Adverb : *especially*	*especialmente*
+Vos tenés que protegerte, especialmente en invierno.
+You have to protect yourself, especially in winter.
+
+
+Verb : *try*	*intenta*
+Ella intenta ayudar a la humana y verá que es posible.
+She tries to help the human and will see that it is possible.
+
+
+Adjective : *little ones*	*pequeños*
+Los pequeños niños encontraron un bote en el cabello de su muñeca.
+The small children found a boat in their doll's hair.
+
+
+Verb : *pay*	*paga*
+Mi hermano paga la luz para comenzar a leer en el cuarto oscuro.
+My brother pays for the light to start reading in the dark room.
+
+
+Verb : *pay*	*paga*
+Ponte el abrigo porque ya ha salido la paga.
+Put on your coat because the payment has already come out.
+
+
+Adjective : *cattle*	*ganado*
+El equipo intenta y gana el partido, como el ganado en el campo.  
+The team tries and wins the game, like the cattle in the field.
+
+
+Adjective : *cattle*	*ganado*
+El equipo ganó mucha lana la semana pasada.
+The team won a lot of money last week.
+
+
+Verb : *love*	*ama*
+Mi mamá ama cuando he salido y hable con ella.
+My mom loves when I have gone out and talk with her.
+
+
+Verb : *love*	*ama*
+Ella ama la noticia y el cuento.
+She loves the news and the story.
+
+
+Adjective : *clean*	*limpio*
+Maté la araña para evitar que mi cuarto esté limpio.
+I killed the spider to avoid my room being clean.
+
+
+Adjective : *clean*	*limpio*
+Mi hermana embarazada gana un premio por tener el jardín más limpio.
+My pregnant sister wins a prize for having the cleanest garden.
+
+
+Verb : *begin*	*comenzar*
+Lleve una vida humana y quiero comenzar a estudiar más.
+I lead a human life and I want to start studying more.
+
+
+Noun : *angels*	*ángeles*
+Algunos ángeles construyen robots.
+Some angels build robots.
+
+
+Noun : *robots*	*robots*
+Estoy orgulloso de los robots que ayudan a evitar accidentes.
+I am proud of the robots that help to prevent accidents.
+
+
+Verb : *I carried*	*lleve*
+Lleve el bote de lana al puerto.
+Take the wool boat to the port.
+
+
+Noun : *noise*	*ruido*
+Deberían haber tomado medidas para reducir el ruido.
+They should have taken measures to reduce the noise.
+
+
+Noun : *worry*	*preocupe*
+No te preocupes, el ganado está bien y la vaca embarazada está sana.
+Don't worry, the livestock is fine and the pregnant cow is healthy.
+
+
+Noun : *beauty*	*belleza*
+La belleza de haberte conocido me hace sentir menos nervioso.
+The beauty of having met you makes me feel less nervous.
+
+
+Verb : *come out*	*salgan*
+Salgan a entregar el pedido y no olviden el pedazo de papel.
+Go out to deliver the order and don't forget the piece of paper.
+
+
+Verb : *eat*	*come*
+No se preocupe, todo el mundo come y está feliz.
+Don't worry, everyone eats and is happy.
+
+
+Verb : *you will see*	*verá*
+Verá, alguno dijo "¡joder!" cuando se cayó.  
+You will see, someone said "damn!" when they fell.
+
+
+Auxiliary : *they should*	*deberían*
+Deberían comprar un bote que ama navegar.
+They should buy a boat that loves to sail.
+
+
+Noun : *leader*	*líder*
+El líder está nervioso pero ama su trabajo.
+The leader is nervous but loves his job.
+
+
+Verb : *ask*	*preguntar*
+¿Puedo preguntar por qué hay tanto ruido, vos?
+Can I ask why there is so much noise, you?
+
+
+Adjective : *innocent*	*inocente*
+El líder fue liberado debido a que era inocente.
+The leader was released because he was innocent.
+
+
+Noun : *pity*	*lástima*
+Es una lástima decirlo, especialmente ahora.
+It's a shame to say it, especially now.
+
+
+Noun : *grid*	*red*
+Los robots de la semana pasada eran de color rojo.
+The robots from last week were red.
+
+
+Noun : *disease*	*enfermedad*
+La enfermedad y la belleza no se harán amigos.
+The illness and beauty will not become friends.
+
+
+Adjective : *unfortunate*	*desgraciado*
+El desgraciado tenía un objetivo oscuro.
+The unfortunate man had a dark objective.
+
+
+Adjective : *unfortunate*	*desgraciado*
+El desgraciado perdió un millón de cabellos.
+The unfortunate man lost a million hairs.
+
+
+Verb : *they will*	*harán*
+Los pequeños ángeles harán una fiesta.
+The little angels will have a party.
+
+
+Noun : *teeth*	*dientes*
+El proyecto intenta enseñar a los niños cómo cepillarse los dientes.
+The project tries to teach children how to brush their teeth.
+
+
+Verb : *mate*	*maté*
+Maté el tiempo peinando mi cabello mientras esperaba haberte visto.
+I killed time combing my hair while waiting to have seen you.
+
+
+Adjective : *central*	*central*
+Si te hubieras casado, vivirías en la ciudad central.
+If you had gotten married, you would live in the central city.
+
+
+Adjective : *put*	*ponte*
+Ponte el sombrero para proteger tu cabello mientras alcanzas tu objetivo.
+Put on the hat to protect your hair while you reach your goal.
+
+
+Adjective : *happy*	*felices*
+Estamos felices de decirlo, estamos casados.
+We are happy to say it, we are married.
+
+
+Verb : *I knew*	*supe*
+Supe que la paga del bote era buena.
+I found out that the pay for the boat was good.
+
+
+Verb : *have you*	*haberte*
+Me alegra haberte tomado en cuenta, espero que me dé una oportunidad.
+I am glad to have considered you, I hope you give me a chance.
+
+
+Noun : *March*	*marcha*
+Supe que la marcha fue la semana pasada.
+I found out that the march was last week.
+
+
+Noun : *March*	*marcha*
+Él me cuenta que su amigo viene a la marcha.
+He tells me that his friend is coming to the march.
+
+
+Noun : *powers*	*poderes*
+Maté a alguno de los villanos con mis poderes.  
+I killed some of the villains with my powers.
+
+
+Adjective : *would have*	*hubieras*
+Si hubieras sido el líder, habríamos alcanzado el objetivo.
+If you had been the leader, we would have reached the objective.
+
+
+Noun : *justice*	*justicia*
+La marcha por la justicia despertó muchos sentimientos en la gente.
+The march for justice stirred many feelings in the people.
+
+
+Adjective : *pretty*	*bella*
+Estoy orgulloso de la bella justicia en nuestra comunidad.
+I am proud of the beautiful justice in our community.
+
+
+Verb : *of*	*dé*
+Espero que me dé lana para la embarazada.  
+I hope he gives me wool for the pregnant woman.
+
+
+Verb : *protect*	*proteger*
+Ellos te harán un sombrero para proteger tu cabello.  
+They will make you a hat to protect your hair.
+
+
+Noun : *hair*	*cabello*
+El cabello de los ángeles es tan suave como la lana.
+The hair of the angels is as soft as wool.
+
+
+Adjective : *order*	*pedido*
+El desgraciado pidió ayuda para bajar del árbol.
+The unfortunate man asked for help to get down from the tree.
+
+
+Adjective : *order*	*pedido*
+Maté el tiempo mientras llevé el pedido a la tienda.
+I killed time while I took the order to the store.
+
+
+Adjective : *dark*	*oscuro*
+El cabello oscuro de ella resalta su belleza.
+Her dark hair highlights her beauty.
+
+
+Adjective : *pregnant*	*embarazada*
+María está embarazada y come pequeños bocadillos.
+María is pregnant and eats small snacks.
+
+
+Adjective : *pregnant*	*embarazada*
+María está embarazada y su objetivo es que sus hijos salgan bien en la escuela.
+María is pregnant and her goal is for her children to do well in school.
+
+
+Noun : *coast*	*costa*
+Supe que la costa está muy limpia.
+I found out that the coast is very clean.
+
+
+Verb : *lady*	*dama*
+Después de la reunión, la dama fue al parque central.  
+After the meeting, the lady went to the central park.
+
+
+Determiner : *some*	*alguno*
+¿Alguno de ellos ganará cuando lo harán?
+Will any of them win when they do it?
+
+
+Adjective : *proud*	*orgulloso*
+Estoy orgulloso de que salgan a entregar el pedido.
+I am proud that they go out to deliver the order.
+
+
+Adjective : *you*	*vos*
+¿Vos escuchaste la noticia sobre el parque limpio?
+Did you hear the news about the clean park?
+
+
+Adjective : *taken*	*tomado*
+El inocente ha tomado los poderes del mago.
+The innocent one has taken the powers of the magician.
+
+
+Verb : *Let's say*	*digamos*
+Digamos que no quiero escuchar más tonterías sobre ese bote.
+Let's say I don't want to hear any more nonsense about that boat.
+
+
+Auxiliary : *should have*	*debió*
+Él debió dejar de correr porque tenía una enfermedad.
+He had to stop running because he had an illness.
+
+
+Verb : *win*	*gana*
+Ella gana porque su maté es muy bello.
+She wins because her mate is very beautiful.
+
+

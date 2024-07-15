@@ -1,0 +1,500 @@
+Verb : *I promise*	*prometo*
+Prometo seguir la dirección correcta con mi espada.
+I promise to follow the right direction with my sword.
+
+
+Adjective : *husband*	*esposo*
+Mi esposo es un hombre hermoso y maravilloso.
+My husband is a handsome and wonderful man.
+
+
+Adjective : *husband*	*esposo*
+Mi esposo tuvo una pelea con la ley.
+My husband had a fight with the law.
+
+
+Verb : *north*	*norte*
+El norte tiene un paisaje maravilloso que llena mi alma de alegría.
+The north has a wonderful landscape that fills my soul with joy.
+
+
+Auxiliary : *was*	*hubo*
+Hubo una muerta en el pueblo y tuvimos que irnos.
+There was a death in the town and we had to leave.
+
+
+Noun : *I swear*	*juro*
+Juro que la pelea ha terminado.
+I swear that the fight is over.
+
+
+Adjective : *dead*	*muerta*
+La teniente encontró la espada muerta en el campo.
+The lieutenant found the dead sword in the field.
+
+
+Adjective : *dead*	*muerta*
+La noticia terrible es que la planta está muerta.
+The terrible news is that the plant is dead.
+
+
+Adjective : *interesting*	*interesante*
+Deseo aprender algo interesante y necesario.
+I wish to learn something interesting and necessary.
+
+
+Verb : *thought*	*pensaba*
+Pensaba que la cena tuya estaba deliciosa.
+I thought your dinner was delicious.
+
+
+Verb : *seeks*	*busca*
+Jesús busca un lugar para irnos.
+Jesus is looking for a place for us to go.
+
+
+Verb : *seeks*	*busca*
+Ella busca el libro que trae para terminar la tarea.
+She is looking for the book she brings to finish the homework.
+
+
+Verb : *finish*	*terminar*
+Veré el edificio cuando termine de trabajar.
+I will see the building when I finish working.
+
+
+Adjective : *I will have*	*tendré*
+Mañana tendré que explicar lo que ocurrió, aunque no me creen.
+Tomorrow I will have to explain what happened, even though they don't believe me.
+
+
+Adverb : *completely*	*completamente*
+El teniente dijo que oí completamente mal la información.
+The lieutenant said that I completely misheard the information.
+
+
+Noun : *appointment*	*cita*
+El detective tiene una cita para el cumpleaños de su amigo.
+The detective has an appointment for his friend's birthday.
+
+
+Noun : *appointment*	*cita*
+Tengo una cita para hablar sobre mis sueños.
+I have an appointment to talk about my dreams.
+
+
+Numeral : *seven*	*siete*
+Tendremos siete manzanas, te lo juro.
+We will have seven apples, I swear.
+
+
+Noun : *birthday*	*cumpleaños*
+Aun podemos salvar la fiesta de cumpleaños.
+We can still save the birthday party.
+
+
+Adjective : *lawyer*	*abogado*
+El abogado trabaja en un edificio y ayuda a cumplir sueños.
+The lawyer works in a building and helps fulfill dreams.
+
+
+Adverb : *around*	*alrededor*
+Estábamos celebrando el cumpleaños y había globos alrededor.
+We were celebrating the birthday and there were balloons around.
+
+
+Noun : *brain*	*cerebro*
+Esperen, mi cerebro está en un infierno de ideas.
+Wait, my brain is in a hell of ideas.
+
+
+Noun : *because*	*porqué*
+No entiendo el porqué de terminar la cena tan temprano.
+I don't understand the reason for finishing dinner so early.
+
+
+Noun : *key*	*llave*
+La llave está en el suelo cerca de mis pies después de la pelea.
+The key is on the ground near my feet after the fight.
+
+
+Noun : *holy*	*santo*
+El santo abogado me ayudó a cumplir mis sueños.
+The holy lawyer helped me achieve my dreams.
+
+
+Adjective : *beautiful*	*hermoso*
+El hermoso evento sucedió a las siete.
+The beautiful event happened at seven.
+
+
+Adjective : *necessary*	*necesario*
+Es necesario ir al norte para la sorpresa.
+It is necessary to go north for the surprise.
+
+
+Noun : *building*	*edificio*
+El edificio tiene siete plantas y una puerta roja.
+The building has seven floors and a red door.
+
+
+Noun : *let's go*	*irnos*
+Ellos creen que debemos irnos antes de que salga la luna.
+They believe we should leave before the moon rises.
+
+
+Adverb : *still*	*aun*
+Aun esperen y creen en sus sueños.
+Even still, wait and believe in your dreams.
+
+
+Verb : *we will have*	*tendremos*
+Tendremos una fiesta, juro que oí a mamá decirlo.
+We will have a party, I swear I heard mom say it.
+
+
+Noun : *go*	*vayas*
+Espero que la suerte sea tuya dondequiera que vayas bajo estos cielos.
+I hope luck is yours wherever you go under these skies.
+
+
+Verb : *give*	*doy*
+Le doy un regalo al teniente.
+I give a gift to the lieutenant.
+
+
+Verb : *brings*	*trae*
+María trae una carta al club.
+Maria brings a letter to the club.
+
+
+Verb : *he left*	*salió*
+Salió en busca de libertad, pero no hubo suerte.
+He went out in search of freedom, but there was no luck.
+
+
+Noun : *law*	*ley*
+En el infierno, estés donde estés, la ley siempre se cumple.
+In hell, wherever you are, the law is always enforced.
+
+
+Proper noun : *there*	*ahi*
+Ahí está el sargento, pero no sé si pudiera ayudarme.
+There is the sergeant, but I don't know if he could help me.
+
+
+Adjective : *TRUE*	*verdadero*
+El verdadero club decía la verdad.
+The true club was telling the truth.
+
+
+Noun : *fight*	*pelea*
+Jesús vio una pelea en la sala.
+Jesus saw a fight in the room.
+
+
+Noun : *fight*	*pelea*
+Él busca su destino después de la pelea.
+He searches for his destiny after the fight.
+
+
+Noun : *bank*	*banco*
+El banco en la sala me da calma.
+The bench in the living room gives me calm.
+
+
+Adjective : *terrible*	*terrible*
+Le doy el libro que trae una historia terrible.
+I give you the book that brings a terrible story.
+
+
+Noun : *calm*	*calma*
+Después de la pelea, la calma sucedió.
+After the fight, calmness happened.
+
+
+Noun : *calm*	*calma*
+Tendré calma en medio del infierno.
+I will have calm in the middle of the hell.
+
+
+Noun : *dinner*	*cena*
+La cena está ahí en la mesa con calma.
+The dinner is there on the table calmly.
+
+
+Noun : *dinner*	*cena*
+Deseo cenar con mi esposo esta noche.
+I wish to have dinner with my husband tonight.
+
+
+Verb : *I will give*	*daré*
+Daré toda la información necesaria al detective.
+I will give all the necessary information to the detective.
+
+
+Proper noun : *government*	*gobierno*
+El gobierno quiere que vayas a pie.
+The government wants you to go on foot.
+
+
+Verb : *buy*	*comprar*
+El diablo quiere comprar un libro excelente.
+The devil wants to buy an excellent book.
+
+
+Verb : *believe*	*creen*
+Ellos creen que pueden salvar dinero si compran en oferta.
+They believe they can save money if they buy on sale.
+
+
+Verb : *believe*	*creen*
+Los detectives creen que el teniente es honesto.
+The detectives believe that the lieutenant is honest.
+
+
+Noun : *sergeant*	*sargento*
+El detective habló con el sargento.
+The detective spoke with the sergeant.
+
+
+Noun : *destination*	*destino*
+El destino del diablo es algo en lo que muchos creen.
+The destiny of the devil is something many believe in.
+
+
+Verb : *exists*	*existe*
+Existe una pelea que es muy peligrosa.
+There is a fight that is very dangerous.
+
+
+Verb : *toward*	*hacía*
+Hacía frío completamente, porqué era invierno.
+It was completely cold because it was winter.
+
+
+Noun : *boyfriend*	*novio*
+Mi novio decía que estés feliz.  
+My boyfriend was saying that you should be happy.
+
+
+Noun : *hall*	*sala*
+Daré una fiesta en la sala y veré a mis amigos.
+I will throw a party in the living room and I will see my friends.
+
+
+Determiner : *through*	*través*
+Caminamos a través del bosque con los pies descalzos bajo la luz de la luna.
+We walked through the forest with bare feet under the moonlight.
+
+
+Noun : *gift*	*regalo*
+El regalo es hermoso aun en su simplicidad.
+The gift is beautiful even in its simplicity.
+
+
+Noun : *gift*	*regalo*
+Voy a regalar un libro después de la cena para salvar nuestra amistad.  
+I am going to give a book as a gift after dinner to save our friendship.
+
+
+Proper noun : *church*	*iglesia*
+Tu novio y yo vamos a la iglesia.  
+Your boyfriend and I are going to the church.
+
+
+Verb : *He said*	*decía*
+Aun decía que no lo deje.
+He still said not to leave him.
+
+
+Pronoun : *any*	*cualquiera*
+Cualquiera puede salvar a los animales alrededor del parque.
+Anyone can save the animals around the park.
+
+
+Adjective : *excellent*	*excelente*
+El regalo que me diste es excelente según la ley.
+The gift you gave me is excellent according to the law.
+
+
+Verb : *wait*	*esperen*
+Esperen un momento, cualquiera puede encontrar el verdadero camino.
+Wait a moment, anyone can find the true path.
+
+
+Verb : *desire*	*deseo*
+Hubo un deseo que mi esposo pidió.
+There was a wish that my husband made.
+
+
+Verb : *desire*	*deseo*
+Espero que creen el deseo de aprender.  
+I hope they create the desire to learn.
+
+
+Noun : *soul*	*alma*
+El sargento tiene un alma noble y un cerebro brillante.
+The sergeant has a noble soul and a brilliant mind.
+
+
+Verb : *Devil*	*diablo*
+Mi esposo dice que tendremos que enfrentar al diablo.
+My husband says that we will have to face the devil.
+
+
+Verb : *leave*	*deje*
+Juro que no deje de seguir la ley.
+I swear that I did not stop following the law.
+
+
+Noun : *how many*	*cuántos*
+¿Cuántos soldados pudiera comandar el teniente?
+How many soldiers could the lieutenant command?
+
+
+Noun : *sword*	*espada*
+Mi esposo y yo usamos una espada para defender nuestras vidas.
+My husband and I use a sword to defend our lives.
+
+
+Auxiliary : *we were*	*estábamos*
+Estábamos en el parque y prometo que sentíamos una gran libertad.
+We were in the park and I promise that we felt a great sense of freedom.
+
+
+Noun : *meat*	*carne*
+Ocurrió que en mis sueños había mucha carne.
+It happened that in my dreams there was a lot of meat.
+
+
+Adjective : *marvelous*	*maravilloso*
+Oí que tu esposo es maravilloso.  
+I heard that your husband is wonderful.
+
+
+Noun : *lives*	*vidas*
+En el futuro, tendremos las vidas que decíamos querer.
+In the future, we will have the lives we said we wanted.
+
+
+Verb : *happened*	*sucedió*
+El verdadero norte sucedió en el mapa.
+The true north happened on the map.
+
+
+Verb : *I heard*	*oí*
+Oí la voz del diablo a través de la ventana.
+I heard the voice of the devil through the window.
+
+
+Adjective : *dangerous*	*peligroso*
+Mi esposo y yo creen que el lugar es peligroso.
+My husband and I believe that the place is dangerous.
+
+
+Noun : *address*	*dirección*
+La dirección de la cita es en la calle Infierno.  
+The address of the appointment is on Infierno Street.
+
+
+Noun : *freedom*	*libertad*
+Pensaba en la libertad mientras caminaba por el parque.
+I was thinking about freedom while walking in the park.
+
+
+Noun : *Jesus*	*jesús*
+Jesús vive en el edificio y prepara la cena.
+Jesus lives in the building and prepares dinner.
+
+
+Verb : *occurred*	*ocurrió*
+Jesús estaba en la sala cuando ocurrió el accidente.
+Jesus was in the living room when the accident happened.
+
+
+Verb : *I will see*	*veré*
+Mañana veré si te daré el dinero para comprar el libro.
+Tomorrow I will see if I will give you the money to buy the book.
+
+
+Noun : *dreams*	*sueños*
+Esperen con fe, porque los sueños de un santo se cumplen.
+Wait with faith, because the dreams of a saint come true.
+
+
+Auxiliary : *could*	*pudiera*
+Si pudiera volar, como creía de niño, sería increíble.
+If I could fly, as I believed when I was a child, it would be incredible.
+
+
+Verb : *detective*	*detective*
+El detective les pidió que dejen de hablar y esperen afuera.
+The detective asked them to stop talking and wait outside.
+
+
+Noun : *surprise*	*sorpresa*
+Te daré una sorpresa en nuestro destino.
+I will give you a surprise at our destination.
+
+
+Preposition : *yours*	*tuya*
+El esposo de María dijo que la casa pudiera ser tuya.
+María's husband said that the house could be yours.
+
+
+Noun : *feet*	*pies*
+Mis pies están cansados después de terminar el hermoso paseo.  
+My feet are tired after finishing the beautiful walk.
+
+
+Noun : *club*	*club*
+Esperen, estábamos en el club.
+Wait, we were at the club.
+
+
+Adjective : *finished*	*terminado*
+He terminado mi tarea y te daré la planta muerta.  
+I have finished my homework and I will give you the dead plant.
+
+
+Noun : *hell*	*infierno*
+El calor del infierno me hace sentir que mi cerebro está cocinándose como una cena.
+The heat of hell makes me feel like my brain is cooking like a dinner.
+
+
+Verb : *believed*	*creía*
+Creía que el dibujo hermoso estaba terminado.
+I believed that the beautiful drawing was finished.
+
+
+Noun : *moon*	*luna*
+La luna ilumina nuestras vidas completamente.  
+The moon completely illuminates our lives.
+
+
+Verb : *save*	*salvar*
+El héroe salió a salvar al pueblo del diablo.
+The hero went out to save the town from the devil.
+
+
+Noun : *letter*	*carta*
+Mi hermoso esposo escribió una carta.
+My handsome husband wrote a letter.
+
+
+Noun : *you are*	*estés*
+Espero que estés bien y cuántos vidas has cambiado.
+I hope you are well and how many lives you have changed.
+
+
+Noun : *Heavens*	*cielos*
+Oí los cielos y me pregunté porqué eran tan azules.
+I heard the skies and wondered why they were so blue.
+
+
+Adjective : *lieutenant*	*teniente*
+El teniente fue a comprar comida porque hubo una emergencia.
+The lieutenant went to buy food because there was an emergency.
+
+

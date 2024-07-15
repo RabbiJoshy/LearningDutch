@@ -1,0 +1,217 @@
+,Unnamed: 0,Dutch,POS,ChatGPT_Sentence
+0,0,ik,pronoun,"Ik zal zien hoe het gaat.
+I will see how it goes."
+1,1,je,pronoun,"Ben je hier zo vaak?
+
+Are you here so often?"
+2,2,het,article,"Dat is het haar van mijn zus.
+That is the hair of my sister."
+3,3,de,article,"De kat loopt ook over de straat.
+The cat also walks across the street."
+4,4,dat,conjunction,"Ik hoop dat hij door zou komen.  
+I hope that he would come through."
+5,5,is,verb,"Je hebt een boek dat interessant is.  
+You have a book that is interesting."
+6,6,een,article,"Die kat is dus een huisdier.
+That cat is therefore a pet."
+7,7,niet,adverb,"Ik ben niet over mijn boek.
+
+I am not over my book."
+8,8,en,conjunction,"Alles is goed en er is geen probleem.
+Everything is good and there is no problem."
+9,9,wat,conjunction,"Ik liep door het park en zag wat er gebeurde.
+I walked through the park and saw what was happening."
+10,10,van,preposition,"De fiets van zijn broer is nog nieuw.
+The bike of his brother is still new."
+11,11,we,pronoun,"We hebben geen tijd voor de film.  
+We have no time for the movie."
+12,12,in,preposition,"Ik zou in de ochtend moeten werken.
+I should work in the morning."
+13,13,ze,pronoun,"Ze heb ik uitgenodigd.
+I have invited her."
+14,14,hij,pronoun,"Hij komt terug of niet.
+
+He comes back or not."
+15,15,op,adverb,"Dat is al op.  
+That is already finished."
+16,16,te,particle,"Het is tijd om van jullie te leren.
+It is time to learn from you."
+17,17,zijn,pronoun,"Zij weet alles.
+
+She knows everything."
+18,18,er,adverb,"Er had niemand niet.  
+There was no one."
+19,19,maar,conjunction,"Ik ken hem, maar hij is niet goed.  
+I know him, but he is not good."
+20,20,die,pronoun,"Hier is het boek die ik lees.
+Here is the book that I am reading."
+21,21,heb,verb,"Ik heb een hond als huisdier en een kat.
+
+I have a dog as a pet and a cat."
+22,22,me,pronoun,"Jij hebt iets voor me.
+You have something for me."
+23,23,met,preposition,"Ik ga daar nog met mijn vriend naartoe.
+I am still going there with my friend."
+24,24,voor,preposition,"Ik heb iets voor je teruggebracht.
+I brought something back for you."
+25,25,als,adverb,"Als hij terug gaat, neem ik de trein.
+When he goes back, I take the train."
+26,26,ben,noun,"In Dutch, the word 'ben' is typically a verb and not used as a noun. However, I can create a sentence using 'ben' as a verb along with the words 'meer' and 'ons'. Here is a simple sentence:"
+27,27,was,noun,"De was gaat naar haar.
+The laundry goes to her."
+28,28,dit,pronoun,"Dit doe ik niet, geen zorgen.  
+I won't do this, don't worry."
+29,29,mijn,pronoun,"Mijn hond is nu nooit thuis.
+My dog is never home now."
+30,30,om,preposition,"Ik wil weten waarom ik om tien uur naar bed moet gaan.
+I want to know why I have to go to bed at ten o'clock."
+31,31,aan,preposition,"De auto staat aan de weg, toch?
+The car is by the road, right?"
+32,32,jij,pronoun,"Jij weet wat wij hebben.  
+You know what we have."
+33,33,naar,preposition,"Ik ga er naar de winkel.
+I am going there to the store."
+34,34,dan,conjunction,"Ik heb een appel, dan heb ik geen honger.
+I have an apple, then I am not hungry."
+35,35,hier,adverb,"Hier geef ik dit aan jullie.
+Here I give this to you all."
+36,36,weet,verb,"Hij weet van het probleem.  
+He knows about the problem."
+37,37,kan,noun,"De kan is groter dan die van glas.
+
+The jug is bigger than that one made of glass."
+38,38,geen,adjective,"Er is geen kat waar een hond is.
+There is no cat where a dog is."
+39,39,nog,adverb,"Deze taart is nog niet alles.  
+This cake is not everything yet."
+40,40,moet,noun,"De moet is al terug.
+
+The courage is already back."
+41,41,wil,noun,"De wil van het kind is sterk.
+The will of the child is strong."
+42,42,wel,adjective,"In Dutch, 'wel' is typically used as an adverb rather than an adjective. However, I can create a sentence using 'wel' as an adverb along with the words 'dan' and 'hier'. 
+
+Dutch: Het is hier"
+43,43,ja,particle,"Ja, haar idee is goed.
+Yes, her idea is good."
+44,44,zo,adverb,"Ze is zo blij met de nieuwe fiets.  
+She is so happy with the new bike."
+45,45,heeft,verb,"Die man heeft een hond.  
+That man has a dog."
+46,46,hebben,auxiliary verb,"Jij bent eens naar de winkel geweest en hebt melk gekocht.
+You once went to the store and bought milk."
+47,47,hem,pronoun,"Jullie bent hem vergeten.  
+You have forgotten him."
+48,48,goed,adjective,"Jullie kunnen goed zingen.
+You can sing well."
+49,49,nee,particle,"Nee, de hond weet niet hoe.  
+No, the dog doesn't know how."
+50,50,waar,adverb,"Waar is m'n boek nog?
+
+Where is my book still?"
+51,51,nu,adverb,"Nu kom ik dan.  
+Now I come then."
+52,52,hoe,adverb,"Hoe kunnen we je helpen?
+How can we help you?"
+53,53,ga,verb,"We moeten gaan.  
+We must go."
+54,54,haar,pronoun,"Zij is bij mijn huis en ik zie haar.
+
+She is at my house and I see her."
+55,55,uit,preposition,"Jullie kunnen uit het raam kijken.
+You can look out the window."
+56,56,doen,verb,"Je moet je huiswerk bij de tafel doen.  
+You must do your homework at the table."
+57,57,ook,adverb,"Ik zie me ook daar.
+
+I see myself there too."
+58,58,over,preposition,"De kat heeft een boek over dieren.
+The cat has a book about animals."
+59,59,bent,verb,"Jij bent blij en ik ben blij.
+You are happy and I am happy."
+60,60,mij,pronoun,"Laat mij terug gaan.  
+Let me go back."
+61,61,gaan,verb,"Ik ga het alleen doen.
+I am going to do it alone."
+62,62,of,conjunction,"Ze gaan door de deur of ze blijven buiten.
+They go through the door or they stay outside."
+63,63,kom,noun,"De kom is in de keuken en op de tafel.
+
+The bowl is in the kitchen and on the table."
+64,64,zou,verb,"Zou je me laten zien hoe dit werkt?
+Would you show me how this works?"
+65,65,al,adjective,"Jij bent al groot.
+
+You are already tall."
+66,66,bij,preposition,"Ik moet nog bij de winkel langsgaan.
+I still have to stop by the store."
+67,67,daar,adverb,"Daar is ook iets.  
+There is also something."
+68,68,ons,pronoun,"Ons huis is over de brug.
+
+Our house is over the bridge."
+69,69,jullie,pronoun,"Jullie kunnen doen wat jullie willen.
+You can do what you want."
+70,70,hebt,verb,"Jij hebt alleen wat je zou willen.
+
+You only have what you would want."
+71,71,gaat,noun,"De gaat daar, maar het is klein.
+The hole is there, but it is small."
+72,72,iets,pronoun,"Ja, ik wil iets met je bespreken.  
+Yes, I want to discuss something with you."
+73,73,zal,auxiliary verb,"Ik zal in de tuin door de bloemen lopen.
+I will walk through the flowers in the garden."
+74,74,meer,adverb,"Ik denk meer na over waarom.  
+I think more about why."
+75,75,waarom,adverb,"Waarom heb je echt nooit tijd?
+Why do you really never have time?"
+76,76,had,verb,"Hij had een boek met een kaart waar hij van hield.
+He had a book with a map that he loved."
+77,77,deze,pronoun,"Deze wil ik met jou delen.
+I want to share this with you."
+78,78,laat,adjective,"Ik wil geen laat diner hebben.  
+I don't want to have a late dinner."
+79,79,moeten,verb,"Ik moet voor de hond zorgen en hem zien.
+
+I have to take care of the dog and see him."
+80,80,m'n,pronoun,"Hoe ben je met m'n boek?
+
+How are you with my book?"
+81,81,jou,pronoun,"Ik geef m'n boek aan jou.
+I give my book to you."
+82,82,doe,verb,"Ik heb geen idee wat ik moet doe.
+I have no idea what I should do."
+83,83,wie,conjunction,"Jij weet niet wie om de hoek woont.
+You don't know who lives around the corner."
+84,84,kunnen,verb,"Hoe kunnen we wat eten?  
+How can we eat something?"
+85,85,alles,pronoun,"Nee, jij bent niet alles.  
+No, you are not everything."
+86,86,denk,verb,"Ik denk dat die eens komt.  
+I think that one will come."
+87,87,door,preposition,"Ik ben nog nooit door die straat gelopen.
+I have never walked through that street yet."
+88,88,echt,adverb,"Het is echt leuk om van muziek te genieten.
+It is really fun to enjoy music."
+89,89,alleen,adverb,"Ik kom alleen op vrijdag terug.
+I come back only on Friday."
+90,90,oké,Okay,"Oké, ik kom om vijf uur.
+Okay, I will come at five o'clock."
+91,91,eens,adverb,"Hij zal eens komen.  
+He will come someday."
+92,92,dus,adverb,"We moeten meer oefenen, dus laten we beginnen.
+We need to practice more, so let's start."
+93,93,weg,adjective,"De weg is wel nog lang.
+The road is still quite long."
+94,94,zien,verb,"We zien je morgen.
+We see you tomorrow."
+95,95,toch,adverb,"Wie is ze toch?  
+Who is she anyway?"
+96,96,man,noun,"De man heeft een hond en ik heb hem gezien.
+The man has a dog and I have seen him."
+97,97,nooit,adverb,"Hoe weet je echt nooit wat er zal gebeuren?
+How do you really never know what will happen?"
+98,98,terug,adverb,"Ik weet dat we terug moeten.
+I know that we have to go back."
+99,99,laten,verb,"We laten een kat binnen.  
+We let a cat inside."

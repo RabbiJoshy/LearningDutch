@@ -1,0 +1,500 @@
+adverb : *Well*	*nou*
+Wij zullen nou beginnen.
+We will start now.
+
+
+noun : *along*	*mee*
+Zij komen mee.
+They come along.
+
+
+adverb : *maybe*	*misschien*
+Misschien kan ik je even helpen.
+Maybe I can help you for a moment.
+
+
+adverb : *for a bit*	*even*
+Je kunt even wachten, ik zal je helpen.  
+You can wait a moment, I will help you.
+
+
+pronoun : *someone*	*iemand*
+Iemand komt en wil iets.
+Someone comes and wants something.
+
+
+verb : *comes*	*komt*
+Hij komt net na het eten.
+He comes just after the meal.
+
+
+noun : *nothing*	*niets*
+Niemand heeft twee keer niets gekregen.
+No one received nothing twice.
+
+
+verb : *said*	*zei*
+Zij zei dat ze meer tijd wilde.  
+She said that she wanted more time.
+
+
+verb : *love*	*hou*
+Ik hou van z'n hond en geef hem een koekje.
+I love his dog and give him a cookie.
+
+
+verb : *come*	*komen*
+Zij zeggen dat ze morgen komen.
+They say that they are coming tomorrow.
+
+
+noun : *people*	*mensen*
+De mensen doet me spijt.
+The people make me feel sorry.
+
+
+pronoun : *our*	*onze*
+Onze hond vind ik leuk, oh!
+I like our dog, oh!
+
+
+adjective : *necessary*	*nodig*
+Ik heb niks anders nodig.  
+I need nothing else.
+
+
+preposition : *until*	*tot*
+Ik wacht tot jouw drie vrienden komen.
+I wait until your three friends come.
+
+
+verb : *become*	*worden*
+Het spijt me dat het zo laat wordt.
+I'm sorry that it is getting so late.
+
+
+adverb : *a lot of*	*veel*
+Ik ben bijna klaar en heb veel werk af.  
+I am almost done and have finished a lot of work.
+
+
+verb : *know*	*weten*
+Ik weet dat je de hele film hebt gezien.
+I know that you have seen the whole movie.
+
+
+noun : *to live*	*leven*
+God gaf ons een uur van leven.
+God gave us an hour of life.
+
+
+pronoun : *We*	*wij*
+Wij hebben allemaal een leuke dag.  
+We all have a nice day.
+
+
+noun : *weather*	*weer*
+Het weer is niets erg vandaag.
+The weather is nothing bad today.
+
+
+adverb : *Ordinary*	*gewoon*
+Niemand heeft genoeg, het is gewoon zo.
+Nobody has enough, it is just like that.
+
+
+noun : *look*	*kijk*
+De kijk tot succes wordt duidelijk.
+The view to success becomes clear.
+
+
+verb : *say*	*zeggen*
+Ik zeg zoals ik dacht.  
+I say as I thought.
+
+
+noun : *time*	*tijd*
+Het leven en werk nemen veel tijd.  
+Life and work take a lot of time.
+
+
+interjection : *say*	*zeg*
+Zeg, zei je dag tegen hem?
+Hey, did you say goodbye to him?
+
+
+noun : *two*	*twee*
+Twee mensen zijn dood, misschien.
+Two people are dead, maybe.
+
+
+conjunction : *when*	*toen*
+Ik wachtte, omdat het regende toen ik naar buiten ging.
+I waited because it was raining when I went outside.
+
+
+preposition : *in return for*	*tegen*
+Toen liep ik misschien tegen de muur.  
+When I walked, I maybe bumped into the wall.
+
+
+noun : *sit*	*zit*
+De zit van de stoel komt erg comfortabel over.
+The seat of the chair comes across as very comfortable.
+
+
+adverb : *just*	*net*
+Ik heb net een goede dag gehad, zeker weten.
+I just had a good day, for sure.
+
+
+noun : *dead*	*dood*
+Hij was dood na z'n val.
+He was dead after his fall.
+
+
+pronoun : *your*	*uw*
+Uw huis is anders dan z'n huis.
+Your house is different from his house.
+
+
+verb : *is becoming*	*wordt*
+Ik geef z'n boek terug voordat het wordt laat.
+I give his book back before it gets late.
+
+
+interjection : *Hey*	*hé*
+Hé, maak het beter!
+Hey, make it better!
+
+
+verb : *to make*	*maken*
+Ik maak een taart en hij komt mee.  
+I am making a cake and he is coming along.
+
+
+noun : *allowed*	*mag*
+De hele mag is af.
+The entire magazine is finished.
+
+
+noun : *An*	*één*
+Één van de mensen is anders.
+One of the people is different.
+
+
+his : *his*	*z'n*
+Hij zei dat z'n droom werkelijkheid zou worden.
+He said that his dream would become reality.
+
+
+conjunction : *because*	*omdat*
+Ik ben niet bang omdat er niets erg is.
+I am not afraid because there is nothing bad.
+
+
+adjective : *done*	*gedaan*
+Ik heb altijd spijt van mijn gedaan werk.  
+I always regret my done work.
+
+
+adjective : *all*	*heel*
+Onze kat is heel lief en doet niks verkeerd.
+Our cat is very sweet and does nothing wrong.
+
+
+adverb : *off*	*af*
+Hij zei dat het geld op was en hij moest af.  
+He said that the money was gone and he had to get off.
+
+
+adverb : *always*	*altijd*
+Hij is altijd bang voor de dood elke keer.
+He is always afraid of death every time.
+
+
+pronoun : *your*	*jouw*
+Hé, zijn dit jouw twee boeken?
+Hey, are these your two books?
+
+
+adjective : *Certainly*	*zeker*
+Oh, geef me een zeker antwoord.  
+Oh, give me a certain answer.
+
+
+verb : *give*	*geef*
+Ik geef toen veel boeken aan mijn vriend.
+I gave a lot of books to my friend back then.
+
+
+interjection : *see*	*zie*
+Zie, ik kon niet komen.  
+See, I couldn't come.
+
+
+noun : *guard*	*wacht*
+Neem plaats in de wacht en vind rust.
+Take a seat in the waiting area and find peace.
+
+
+pronoun : *all*	*allemaal*
+Ze praten allemaal en ik kijk.
+They all talk and I watch.
+
+
+noun : *year*	*jaar*
+Het is tijd om te vieren wat we dit jaar hebben gedaan.
+It is time to celebrate what we have done this year.
+
+
+verb : *do*	*doet*
+Mijn broer doet uw twee taken.
+My brother does your two tasks.
+
+
+noun : *day*	*dag*
+Bedankt voor het praten vandaag, het was een leuke dag.
+Thank you for talking today, it was a nice day.
+
+
+pronoun : *she*	*zij*
+Zij heeft twee appels tot haar beschikking.
+She has two apples at her disposal.
+
+
+pronoun : *their*	*hun*
+Hun hebben niks om spijt van te hebben.
+They have nothing to regret.
+
+
+noun : *house*	*huis*
+Toen kunt je het huis zien.  
+Then you can see the house.
+
+
+noun : *father*	*vader*
+Mijn vader vindt het allemaal leuk.
+My father likes it all.
+
+
+noun : *thanks*	*dank*
+Ik kan je niet genoeg dank geven.
+I cannot give you enough thanks.
+
+
+verb : *thought*	*dacht*
+Ik dacht misschien net aan jou.
+I was just maybe thinking about you.
+
+
+verb : *can*	*kunt*
+Jij zult vinden wat je zoekt als je goed zoekt.
+You will find what you are looking for if you search well.
+
+
+adverb : *as*	*zoals*
+Niemand vindt het zoals ik.
+Nobody finds it like I do.
+
+
+noun : *woman*	*vrouw*
+De vrouw heeft genoeg tijd om alles te doen wat nodig is.
+The woman has enough time to do everything that is needed.
+
+
+noun : *time*	*keer*
+Dit keer worden we misschien vrienden.
+This time we might become friends.
+
+
+adverb : *otherwise*	*anders*
+Ik wil een huis zoals anders.  
+I want a house like otherwise.
+
+
+adjective : *Others*	*andere*
+Ik zie de andere kant en heb spijt.  
+I see the other side and regret it.
+
+
+verb : *want*	*willen*
+Ik wil twee beter boeken.
+I want two better books.
+
+
+adverb : *terribly*	*erg*
+Het is erg moeilijk om te zeggen wat ik moet maken.
+It is very difficult to say what I should make.
+
+
+noun : *sorry*	*spijt*
+Bedankt, ik maak mijn spijt duidelijk.
+Thank you, I make my regret clear.
+
+
+interjection : *Thank you*	*bedankt*
+Bedankt, ik heb je gezien en neem het mee.
+Thank you, I saw you and will take it with me.
+
+
+noun : *no one*	*niemand*
+Niemand doet misschien iets.
+Maybe nobody does anything.
+
+
+verb : *want*	*wilt*
+Wij dachten dat je wilt komen.  
+We thought that you want to come.
+
+
+noun : *money*	*geld*
+Toen had ik geen geld in mijn leven.
+When I had no money in my life.
+
+
+verb : *to sit*	*zitten*
+Iedereen kon op de bank zitten.  
+Everyone could sit on the couch.
+
+
+pronoun : *nothing*	*niks*
+Ik heb heel de dag niks zien komen.
+I haven't seen anything come all day.
+
+
+pronoun : *everyone*	*iedereen*
+Iedereen bedankt, ik hou van jullie.
+Everyone thanks, I love you all.
+
+
+adverb : *inside*	*binnen*
+Hij voelde zich beter toen hij binnen was.
+He felt better when he was inside.
+
+
+noun : *stands*	*staat*
+Allemaal mensen in de staat genieten van de dag.
+All the people in the state are enjoying the day.
+
+
+noun : *wild*	*wilde*
+De wilde dieren komen zich verstoppen in het bos.
+The wild animals come to hide in the forest.
+
+
+pronoun : *himself*	*zich*
+Zij zei altijd dat men zich moet respecteren.
+She always said that one must respect oneself.
+
+
+adverb : *better*	*beter*
+Ik hou niks beter dan dit.
+I like nothing better than this.
+
+
+noun : *work*	*werk*
+Ik zit anders zonder werk.
+I am otherwise without work.
+
+
+verb : *to talk*	*praten*
+Wij praten genoeg over de dood.
+We talk enough about death.
+
+
+adjective : *seen*	*gezien*
+De vader was even gezien in de winkel.  
+The father was seen for a moment in the store.
+
+
+verb : *shall*	*zullen*
+Wij zullen niks anders doen.  
+We will do nothing else.
+
+
+noun : *goods*	*waren*
+De waren zijn allemaal beter geworden.
+The goods have all improved.
+
+
+noun : *God*	*god*
+God heeft nou geen geld.  
+God has no money now.
+
+
+noun : *make*	*maak*
+Ik dacht dat ik een maak gezien heb.
+I thought that I saw a creation.
+
+
+verb : *take*	*neem*
+Ik neem niks mee om te worden.  
+I take nothing with me to become.
+
+
+verb : *find*	*vinden*
+Oh, ik heb het gedaan en ik vind het leuk.  
+Oh, I did it and I like it.
+
+
+verb : *find*	*vind*
+Ik vind dat hij altijd op dezelfde plek zit.
+I find that he always sits in the same place.
+
+
+noun : *mother*	*moeder*
+Nou, ik kan mijn moeder niet vinden.  
+Well, I can't find my mother.
+
+
+verb : *could*	*kon*
+Ik kon jouw dag niet beter maken.
+I couldn't make your day better.
+
+
+noun : *o'clock*	*uur*
+Het wordt beter na een uur.
+It gets better after an hour.
+
+
+adjective : *finished*	*klaar*
+Wij zullen klaar zijn als het werk gedaan is.
+We will be ready when the work is done.
+
+
+adjective : *enough*	*genoeg*
+Ik heb genoeg appels, zoals drie.
+I have enough apples, like three.
+
+
+verb : *to help*	*helpen*
+Oh, mag ik je helpen?  
+Oh, may I help you?
+
+
+interjection : *Oh*	*oh*
+Oh god, dit keer is het echt.
+Oh god, this time it is real.
+
+
+adjective : *whole*	*hele*
+De hele klas maakt het werk dat de leraar doet.
+The whole class does the work that the teacher does.
+
+
+nan	*drie*
+De wilde kat had drie hele vissen.  
+The wild cat had three whole fish.
+
+
+adjective : *fixed*	*vast*
+Jouw fiets staat nou vast.
+Your bike is now stuck.
+
+
+preposition : *after*	*na*
+Ik zie z'n huis na school.
+I see his house after school.
+
+

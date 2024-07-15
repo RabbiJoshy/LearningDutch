@@ -1,0 +1,101 @@
+Unnamed: 0,rank,lemma,Spanish,lemma (disambiguated),show,spaCy_POS,POS,Common_POS
+0,1.0,que,que,,que,"['SCONJ', 'PRON']","['subordinating conjunction', 'pronoun']","['conjunction', 'pronoun']"
+1,2.0,de,de,,de,['ADP'],['adposition'],['preposition']
+2,3.0,no,no,,no,['ADV'],['adverb'],['adverb']
+3,4.0,a,a,,a,['ADP'],['adposition'],['preposition']
+4,5.0,la,la,,la,"['DET', 'PRON']","['determiner', 'pronoun']","['determiner', 'pronoun']"
+5,6.0,el,el,,el,"['DET', 'NOUN']","['determiner', 'noun']","['determiner', 'noun']"
+6,7.0,ser,es,,*es* (ser),"['AUX', 'ADJ', 'NOUN']","['auxiliary', 'adjective', 'noun']","['auxiliary verb', 'adjective', 'noun']"
+7,8.0,y,y,,y,['CCONJ'],['coordinating conjunction'],['conjunction']
+8,9.0,en,en,,en,"['ADP', 'NOUN']","['adposition', 'noun']","['preposition', 'noun']"
+9,10.0,lo,lo,,lo,['PRON'],['pronoun'],['pronoun']
+10,11.0,un,un,,un,['DET'],['determiner'],['determiner']
+11,12.0,por,por,,por,"['ADP', 'NOUN']","['adposition', 'noun']","['preposition', 'noun']"
+12,13.0,qué,qué,,qué,['PRON'],['pronoun'],['pronoun']
+13,14.0,me,me,,me,['PRON'],['pronoun'],['pronoun']
+14,15.0,un,una,,*una* (un),['DET'],['determiner'],['determiner']
+15,16.0,te,te,,te,"['PRON', 'NOUN']","['pronoun', 'noun']","['pronoun', 'noun']"
+16,17.0,lo,los,,*los* (lo),['PRON'],['pronoun'],['pronoun']
+17,18.0,se,se,,se,['PRON'],['pronoun'],['pronoun']
+18,19.0,con,con,,con,"['ADP', 'NOUN']","['adposition', 'noun']","['preposition', 'noun']"
+19,20.0,para,para,,para,"['ADP', 'ADJ', 'NOUN']","['adposition', 'adjective', 'noun']","['preposition', 'adjective', 'noun']"
+20,21.0,mi,mi,,mi,"['DET', 'ADJ', 'PROPN']","['determiner', 'adjective', 'proper noun']","['determiner', 'adjective', 'proper noun']"
+21,22.0,estar,está,,*está* (estar),"['NOUN', 'AUX', 'VERB']","['noun', 'auxiliary', 'verb']","['noun', 'auxiliary verb', 'verb']"
+22,23.0,si,si,,si,['SCONJ'],['subordinating conjunction'],['conjunction']
+23,24.0,bien,bien,,bien,"['NOUN', 'ADV']","['noun', 'adverb']","['noun', 'adverb']"
+24,25.0,pero,pero,,pero,['CCONJ'],['coordinating conjunction'],['conjunction']
+25,26.0,yo,yo,,yo,['PRON'],['pronoun'],['pronoun']
+26,27.0,eso,eso,,eso,['PRON'],['pronoun'],['pronoun']
+27,28.0,la,las,,*las* (la),"['DET', 'PRON']","['determiner', 'pronoun']","['determiner', 'pronoun']"
+28,29.0,sí,sí,,sí,"['PRON', 'ADV', 'INTJ']","['pronoun', 'adverb', 'interjection']","['pronoun', 'adverb', 'interjection']"
+29,30.0,su,su,,su,['DET'],['determiner'],['determiner']
+30,31.0,tu,tu,,tu,"['PRON', 'NOUN', 'PROPN']","['pronoun', 'noun', 'proper noun']","['pronoun', 'noun', 'proper noun']"
+31,32.0,aquí,aquí,,aquí,['ADV'],['adverb'],['adverb']
+32,33.0,del,del,,del,['ADP'],['adposition'],['preposition']
+33,34.0,al,al,,al,['ADP'],['adposition'],['preposition']
+34,35.0,como,como,como,como,['SCONJ'],['subordinating conjunction'],['conjunction']
+35,35.0,comer,como,comer,*como* (comer),"['NOUN', 'VERB']","['noun', 'verb']","['noun', 'verb']"
+36,36.0,le,le,,le,['PRON'],['pronoun'],['pronoun']
+37,37.0,más,más,,más,['ADV'],['adverb'],['adverb']
+38,38.0,esto,esto,,esto,['PRON'],['pronoun'],['pronoun']
+39,39.0,ya,ya,,ya,['ADV'],['adverb'],['adverb']
+40,40.0,todo,todo,,todo,['PRON'],['pronoun'],['pronoun']
+41,41.0,esta,esta,,esta,"['DET', 'PRON', 'NOUN']","['determiner', 'pronoun', 'noun']","['determiner', 'pronoun', 'noun']"
+42,42.0,ir,vamos,,*vamos* (ir),"['NOUN', 'VERB']","['noun', 'verb']","['noun', 'verb']"
+43,43.0,muy,muy,,muy,['ADV'],['adverb'],['adverb']
+44,44.0,haber,hay,,*hay* (haber),"['AUX', 'NOUN']","['auxiliary', 'noun']","['auxiliary verb', 'noun']"
+45,45.0,ahora,ahora,,ahora,['ADV'],['adverb'],['adverb']
+46,46.0,algo,algo,,algo,['PRON'],['pronoun'],['pronoun']
+47,47.0,estar,estoy,,*estoy* (estar),"['NOUN', 'AUX', 'VERB']","['noun', 'auxiliary', 'verb']","['noun', 'auxiliary verb', 'verb']"
+48,48.0,tener,tengo,,*tengo* (tener),"['NOUN', 'VERB']","['noun', 'verb']","['noun', 'verb']"
+49,49.0,nos,nos,,nos,['PRON'],['pronoun'],['pronoun']
+50,50.0,tú,tú,,tú,['PRON'],['pronoun'],['pronoun']
+51,51.0,nada,nada,,nada,"['PRON', 'NOUN']","['pronoun', 'noun']","['pronoun', 'noun']"
+52,52.0,cuando,cuando,,cuando,"['SCONJ', 'PRON', 'NOUN', 'ADV']","['subordinating conjunction', 'pronoun', 'noun', 'adverb']","['conjunction', 'pronoun', 'noun', 'adverb']"
+53,53.0,haber,ha,,*ha* (haber),"['AUX', 'NOUN']","['auxiliary', 'noun']","['auxiliary verb', 'noun']"
+54,54.0,este,este,,este,"['DET', 'PRON', 'NOUN']","['determiner', 'pronoun', 'noun']","['determiner', 'pronoun', 'noun']"
+55,55.0,saber,sé,,*sé* (saber),"['ADJ', 'NOUN']","['adjective', 'noun']","['adjective', 'noun']"
+56,56.0,estar,estás,,*estás* (estar),"['NOUN', 'AUX', 'VERB']","['noun', 'auxiliary', 'verb']","['noun', 'auxiliary verb', 'verb']"
+57,57.0,así,así,,así,"['NOUN', 'ADV']","['noun', 'adverb']","['noun', 'adverb']"
+58,58.0,poder,puedo,,*puedo* (poder),['NOUN'],['noun'],['noun']
+59,59.0,cómo,cómo,,cómo,['PRON'],['pronoun'],['pronoun']
+60,60.0,querer,quiero,,*quiero* (querer),"['NOUN', 'AUX', 'VERB']","['noun', 'auxiliary', 'verb']","['noun', 'auxiliary verb', 'verb']"
+61,61.0,sólo,sólo,,sólo,['ADV'],['adverb'],['adverb']
+62,62.0,ser,soy,,*soy* (ser),"['AUX', 'ADJ', 'NOUN']","['auxiliary', 'adjective', 'noun']","['auxiliary verb', 'adjective', 'noun']"
+63,63.0,tener,tiene,,*tiene* (tener),"['NOUN', 'VERB']","['noun', 'verb']","['noun', 'verb']"
+64,64.0,gracias,gracias,,gracias,"['ADJ', 'NOUN', 'PROPN']","['adjective', 'noun', 'proper noun']","['adjective', 'noun', 'proper noun']"
+65,65.0,o,o,,o,['CCONJ'],['coordinating conjunction'],['conjunction']
+66,66.0,él,él,,él,['PRON'],['pronoun'],['pronoun']
+67,67.0,bueno,bueno,,bueno,"['ADJ', 'NOUN']","['adjective', 'noun']","['adjective', 'noun']"
+68,68.0,ser,fue,ser,*fue* (ser),"['AUX', 'ADJ', 'NOUN']","['auxiliary', 'adjective', 'noun']","['auxiliary verb', 'adjective', 'noun']"
+69,68.0,ir,fue,ir,*fue* (ir),"['NOUN', 'VERB']","['noun', 'verb']","['noun', 'verb']"
+70,69.0,ser,ser,,ser,"['AUX', 'ADJ', 'NOUN']","['auxiliary', 'adjective', 'noun']","['auxiliary verb', 'adjective', 'noun']"
+71,70.0,hacer,hacer,,hacer,"['NOUN', 'VERB']","['noun', 'verb']","['noun', 'verb']"
+72,71.0,ser,son,,*son* (ser),"['AUX', 'ADJ', 'NOUN']","['auxiliary', 'adjective', 'noun']","['auxiliary verb', 'adjective', 'noun']"
+73,72.0,todo,todos,,*todos* (todo),['PRON'],['pronoun'],['pronoun']
+74,73.0,ser,era,,*era* (ser),"['AUX', 'ADJ', 'NOUN']","['auxiliary', 'adjective', 'noun']","['auxiliary verb', 'adjective', 'noun']"
+75,74.0,ser,eres,,*eres* (ser),"['AUX', 'ADJ', 'NOUN']","['auxiliary', 'adjective', 'noun']","['auxiliary verb', 'adjective', 'noun']"
+76,75.0,vez,vez,,vez,"['ADJ', 'NOUN']","['adjective', 'noun']","['adjective', 'noun']"
+77,76.0,tener,tienes,,*tienes* (tener),"['NOUN', 'VERB']","['noun', 'verb']","['noun', 'verb']"
+78,77.0,creer,creo,,*creo* (creer),"['NOUN', 'VERB']","['noun', 'verb']","['noun', 'verb']"
+79,78.0,ella,ella,,ella,['PRON'],['pronoun'],['pronoun']
+80,79.0,haber,he,,*he* (haber),"['AUX', 'NOUN']","['auxiliary', 'noun']","['auxiliary verb', 'noun']"
+81,80.0,ese,ese,,ese,"['DET', 'ADJ', 'PRON']","['determiner', 'adjective', 'pronoun']","['determiner', 'adjective', 'pronoun']"
+82,81.0,ir,voy,,*voy* (ir),"['NOUN', 'VERB']","['noun', 'verb']","['noun', 'verb']"
+83,82.0,poder,puede,,*puede* (poder),['NOUN'],['noun'],['noun']
+84,83.0,saber,sabes,,*sabes* (saber),"['ADJ', 'NOUN']","['adjective', 'noun']","['adjective', 'noun']"
+85,84.0,hola,hola,,hola,"['ADJ', 'PROPN']","['adjective', 'proper noun']","['adjective', 'proper noun']"
+86,85.0,su,sus,,*sus* (su),['DET'],['determiner'],['determiner']
+87,86.0,porque,porque,,porque,['SCONJ'],['subordinating conjunction'],['conjunction']
+88,87.0,dios,dios,,dios,"['ADJ', 'NOUN', 'PROPN']","['adjective', 'noun', 'proper noun']","['adjective', 'noun', 'proper noun']"
+89,88.0,quién,quién,,quién,['PRON'],['pronoun'],['pronoun']
+90,89.0,nunca,nunca,,nunca,"['NOUN', 'ADV']","['noun', 'adverb']","['noun', 'adverb']"
+91,90.0,dónde,dónde,,dónde,['PRON'],['pronoun'],['pronoun']
+92,91.0,querer,quieres,,*quieres* (querer),"['NOUN', 'AUX', 'VERB']","['noun', 'auxiliary', 'verb']","['noun', 'auxiliary verb', 'verb']"
+93,92.0,casa,casa,casa,casa,"['ADJ', 'NOUN']","['adjective', 'noun']","['adjective', 'noun']"
+94,92.0,casar,casa,casar,*casa* (casar),"['NOUN', 'VERB', 'PROPN']","['noun', 'verb', 'proper noun']","['noun', 'verb', 'proper noun']"
+95,93.0,favor,favor,,favor,"['ADJ', 'NOUN', 'PROPN']","['adjective', 'noun', 'proper noun']","['adjective', 'noun', 'proper noun']"
+96,94.0,ese,esa,,*esa* (ese),"['DET', 'ADJ', 'PRON']","['determiner', 'adjective', 'pronoun']","['determiner', 'adjective', 'pronoun']"
+97,95.0,dos,dos,,dos,['NUM'],['numeral'],['numeral']
+98,96.0,tanto,tan,,*tan* (tanto),"['NOUN', 'ADV']","['noun', 'adverb']","['noun', 'adverb']"
+99,97.0,señor,señor,,señor,"['ADJ', 'NOUN']","['adjective', 'noun']","['adjective', 'noun']"

@@ -1,0 +1,500 @@
+Noun : *river*	*río*
+Acaso la obra está cerca del río.
+Perhaps the construction is near the river.
+
+
+Noun : *river*	*río*
+El río azul es muy amable.
+The blue river is very kind.
+
+
+Noun : *relationship*	*relación*
+Al principio de nuestra relación, escuchamos una canción juntos.
+At the beginning of our relationship, we listened to a song together.
+
+
+Noun : *drugs*	*drogas*
+Es importante que viva siguiendo las reglas y evite las drogas.
+It is important to live by the rules and avoid drugs.
+
+
+Noun : *lights*	*luces*
+La vieja casa tiene muchas luces, detente a mirar.
+The old house has many lights, stop to look.
+
+
+Verb : *joking*	*bromeando*
+Él estaba bromeando sobre irse de su cargo.
+He was joking about leaving his position.
+
+
+Interjection : *I wish*	*ojalá*
+Ojalá pare de llover antes del encuentro.
+I hope it stops raining before the meeting.
+
+
+Verb : *talk later*	*hablamos*
+Hablamos y él siempre pone una cara graciosa cuando estamos bromeando.
+We talk and he always makes a funny face when we are joking.
+
+
+Verb : *works*	*trabaja*
+Mi consejo es que no te detente mientras trabaja.
+My advice is that you don't stop while working.
+
+
+Verb : *leave*	*irse*
+Los soldados decidieron irse después de cenar.
+The soldiers decided to leave after dinner.
+
+
+Noun : *books*	*libros*
+Yo cargo los libros con paciencia.  
+I carry the books patiently.
+
+
+Noun : *radio*	*radio*
+He dejado la radio debajo de la mesa.
+I have left the radio under the table.
+
+
+Noun : *you come*	*vienes*
+¿Vienes mañana y hablamos sobre el dolor en tu brazo?
+Will you come tomorrow and we'll talk about the pain in your arm?
+
+
+Verb : *remain*	*quedan*
+¿Vienes a la tienda o te quedan drogas en casa?  
+Are you coming to the store or do you have drugs left at home?
+
+
+Preposition : *except*	*excepto*
+Todos tienen un cargo en la investigación excepto Juan.  
+Everyone has a role in the investigation except Juan.
+
+
+Noun : *arm*	*brazo*
+El guardia levantó el brazo para saludar al público.
+The guard raised his arm to greet the public.
+
+
+Verb : *take*	*tome*
+Tome el camino conocido para llegar a mi hogar.
+Take the known path to reach my home.
+
+
+Adjective : *red*	*rojo*
+El radio rojo merece respeto.  
+The red radio deserves respect.
+
+
+Adjective : *acquaintance*	*conocido*
+Me alegro de haber conocido a alguien en la radio.
+I am glad to have met someone on the radio.
+
+
+Adjective : *acquaintance*	*conocido*
+Mi amigo es conocido por estar siempre bromeando.
+My friend is known for always joking around.
+
+
+Noun : *university*	*universidad*
+Voy a la universidad para escuchar a los profesores con respeto.
+I go to the university to listen to the professors with respect.
+
+
+Noun : *investigation*	*investigación*
+El científico ha dejado su investigación en el bosque.
+The scientist has left his research in the forest.
+
+
+Noun : *battle*	*batalla*
+Serás fuerte en la batalla por nuestra relación.
+You will be strong in the battle for our relationship.
+
+
+Noun : *rules*	*reglas*
+Las reglas del juego están equivocadas en el río.
+The rules of the game are wrong in the river.
+
+
+Noun : *post*	*cargo*
+El imbécil perdió su cargo y no creo que vuelva.
+The idiot lost his position and I don't think he will return.
+
+
+Noun : *post*	*cargo*
+El médico tiene una buena relación con el paciente y siempre carga con la responsabilidad de su salud.
+The doctor has a good relationship with the patient and always carries the responsibility for their health.
+
+
+Noun : *home*	*hogar*
+En nuestro hogar, siempre hay respeto, así que cálmate.
+In our home, there is always respect, so calm down.
+
+
+Pronoun : *none*	*ninguno*
+No tengo ninguno respeto, pero me alegro de verte.
+I have no respect, but I am glad to see you.
+
+
+Verb : *they gave*	*dieron*
+Los actores dieron una obra muy viva.
+The actors gave a very lively performance.
+
+
+Verb : *come back*	*vuelva*
+Espero que vuelva pronto a su cargo ocupado.
+I hope he/she returns soon to his/her busy position.
+
+
+Noun : *did you know*	*sabías*
+¿Sabías que todos tienen un cargo excepto tú?
+Did you know that everyone has a position except you?
+
+
+Noun : *I respect*	*respeto*
+El guardia muestra respeto en nuestro hogar.
+The guard shows respect in our home.
+
+
+Noun : *I respect*	*respeto*
+¿Sabías que es importante mostrar respeto en público?
+Did you know that it is important to show respect in public?
+
+
+Noun : *season*	*estación*
+Vienes a la estación para evitar las drogas.
+You come to the station to avoid drugs.
+
+
+Noun : *court*	*corte*
+Los soldados patrullan la zona del corte.
+The soldiers patrol the area of the cut.
+
+
+Noun : *court*	*corte*
+El consejo está debajo del corte.
+The advice is below the cut.
+
+
+Adjective : *patient*	*paciente*
+El paciente lleva todo excepto un abrigo rojo.
+The patient wears everything except a red coat.
+
+
+Noun : *meeting*	*encuentro*
+Me encuentro con mis amigos en la universidad bajo las luces.
+I meet with my friends at the university under the lights.
+
+
+Noun : *meeting*	*encuentro*
+Acaso encuentro el corte en la tela.
+Perhaps I find the cut in the fabric.
+
+
+Noun : *energy*	*energía*
+La simple obra requiere mucha energía.
+The simple work requires a lot of energy.
+
+
+Adjective : *left*	*dejado*
+He dejado una bonita canción en la mesa.
+I have left a beautiful song on the table.
+
+
+Adjective : *left*	*dejado*
+Él ha dejado la fiesta temprano porque estaba triste y pensó que podrían necesitarlo en casa.
+He left the party early because he was sad and thought they might need him at home.
+
+
+Noun : *dance*	*baile*
+El corte de la música pone fin al baile.
+The cut of the music puts an end to the dance.
+
+
+Noun : *grandmother*	*abuela*
+Mi abuela está ocupada preparando la cena.
+My grandmother is busy preparing dinner.
+
+
+Adjective : *hot*	*caliente*
+El paciente espera mientras quedan pocas tazas de café caliente.
+The patient waits while there are few cups of hot coffee left.
+
+
+Adjective : *old*	*vieja*
+La vieja trabaja con mucho respeto.
+The old woman works with a lot of respect.
+
+
+Verb : *seeing*	*viendo*
+Estoy viendo si serán paciente.  
+I am seeing if they will be patient.
+
+
+Verb : *we will see*	*veremos*
+Veremos el río cuando estemos allí.
+We will see the river when we are there.
+
+
+Noun : *good heavens*	*rayos*
+Finalmente, los rayos del sol iluminaron San Juan.
+Finally, the rays of the sun illuminated San Juan.
+
+
+Adjective : *simple*	*simple*
+La estación de tren está debajo del puente simple.
+The train station is below the simple bridge.
+
+
+Verb : *dance*	*bailar*
+Me gusta bailar en el baile junto al río.
+I like to dance at the dance by the river.
+
+
+Verb : *dad*	*papa*
+El imbécil no encuentra la papa.
+The idiot can't find the potato.
+
+
+Adjective : *sad*	*triste*
+La radio dijo que serás triste mañana.
+The radio said that you will be sad tomorrow.
+
+
+Noun : *zone*	*zona*
+Estoy viendo una zona donde viva mucha gente.
+I am seeing an area where many people live.
+
+
+Noun : *you will*	*serás*
+Serás el mejor en el cargo que te dieron.
+You will be the best in the position they gave you.
+
+
+Noun : *guard*	*guardia*
+Me alegro de mostrar respeto al guardia.
+I am glad to show respect to the guard.
+
+
+Noun : *song*	*canción*
+María trabaja viendo una canción en su computadora.
+Maria works watching a song on her computer.
+
+
+Noun : *health*	*salud*
+La universidad tiene un programa de salud con un logo azul.
+The university has a health program with a blue logo.
+
+
+Verb : *hear*	*escuchar*
+Escuchar es importante para tener una buena relación con la guardia.
+Listening is important to have a good relationship with the guard.
+
+
+Verb : *stall*	*parar*
+El sol caliente me da energía para no parar.  
+The hot sun gives me energy to not stop.
+
+
+Proper noun : *you will be*	*estarás*
+Estarás en el principio del camino si muestras respeto.
+You will be at the beginning of the path if you show respect.
+
+
+Verb : *have dinner*	*cenar*
+Vamos a cenar mientras vemos los rayos en la bonita noche.
+We are going to have dinner while we watch the lightning in the beautiful night.
+
+
+Noun : *soldiers*	*soldados*
+Los soldados pusieron mucho respeto en su misión.
+The soldiers put a lot of respect into their mission.
+
+
+Noun : *horse*	*caballo*
+El caballo lleva una bolsa para los soldados.
+The horse carries a bag for the soldiers.
+
+
+Auxiliary : *will be*	*serán*
+Las flores que me dieron serán hermosas mientras viva.  
+The flowers they gave me will be beautiful as long as I live.
+
+
+Auxiliary : *we will be*	*estaremos*
+Estaremos juntos y con el brazo levantado, no nos quedan dudas.
+We will be together and with our arm raised, we have no doubts left.
+
+
+Verb : *interested*	*interesa*
+Ninguno de mis amigos conocido se interesa en la música clásica.
+None of my known friends is interested in classical music.
+
+
+Verb : *fly*	*volar*
+Me alegro de que ninguno de los pájaros haya dejado de volar.
+I am glad that none of the birds have stopped flying.
+
+
+Noun : *principle*	*principio*
+Al principio, no había ninguno en la bolsa.
+At the beginning, there was none in the bag.
+
+
+Noun : *level*	*nivel*
+El nivel de dificultad en el bosque es alto, según el consejo del guía.
+The difficulty level in the forest is high, according to the guide's advice.
+
+
+Noun : *take it easy*	*cálmate*
+Cálmate, solo quedan dos semanas para terminar la universidad.
+Calm down, there are only two weeks left to finish university.
+
+
+Verb : *know*	*conocer*
+Me gustaría conocer más sobre la salud, ayúdame.
+I would like to know more about health, help me.
+
+
+Adverb : *finally*	*finalmente*
+Finalmente, después de un día ocupado, tuve un encuentro con mis amigos.
+Finally, after a busy day, I had a meeting with my friends.
+
+
+Verb : *glad*	*alegro*
+Me alegro cuando hablamos porque me das mucha energía.
+I am happy when we talk because you give me a lot of energy.
+
+
+Verb : *glad*	*alegro*
+Me alegro de que te interese mi consejo.
+I am glad that you are interested in my advice.
+
+
+Adverb : *below*	*debajo*
+El taxi no está debajo de ninguno de los árboles.
+The taxi is not under any of the trees.
+
+
+Auxiliary : *could*	*podrían*
+Podrían haber conocido al hombre con la camisa azul.
+They could have met the man with the blue shirt.
+
+
+Proper noun : *forest*	*bosque*
+¿Vienes al bosque para evitar las drogas?
+Are you coming to the forest to avoid drugs?
+
+
+Adjective : *pretty*	*bonita*
+La biblioteca tiene muchos libros y una vista bonita, pero estoy ocupado.
+The library has many books and a beautiful view, but I am busy.
+
+
+Adjective : *bag*	*bolsa*
+San Juan tiene una bolsa de corte elegante.
+San Juan has an elegant cut bag.
+
+
+Verb : *places*	*pone*
+El conocido pone música para bailar.
+The acquaintance plays music to dance.
+
+
+Verb : *cab*	*taxi*
+¡Rayos! ¿Vienes en taxi?
+Darn! Are you coming by taxi?
+
+
+Adjective : *busy*	*ocupado*
+Podrían ayudarme con este brazo porque estoy ocupado.
+Could you help me with this arm because I am busy.
+
+
+Adjective : *busy*	*ocupado*
+Estoy ocupado, imbécil, y necesito cuidar mi salud.
+I am busy, idiot, and I need to take care of my health.
+
+
+Adjective : *gentle*	*amable*
+La profesora amable nos enseñó a bailar en la obra.
+The kind teacher taught us to dance in the play.
+
+
+Adverb : *perhaps*	*acaso*
+¿Acaso has visto un caballo azul?  
+Have you perhaps seen a blue horse?
+
+
+Adjective : *stop*	*detente*
+Detente, los soldados han dejado sus armas.
+Stop, the soldiers have left their weapons.
+
+
+Adjective : *fool*	*imbécil*
+Finalmente, el imbécil aprobó la universidad.  
+Finally, the idiot passed university.
+
+
+Verb : *saint*	*san*
+El paciente se pone nervioso en el hospital San Juan.
+The patient gets nervous in San Juan Hospital.
+
+
+Verb : *saint*	*san*
+Me alegro de que estés en San Francisco, cálmate y disfruta.
+I am glad that you are in San Francisco, calm down and enjoy.
+
+
+Adjective : *mistaken*	*equivocado*
+Me di cuenta de que estaba equivocado en mi investigación, y por respeto, corregí mi error.
+I realized that I was wrong in my research, and out of respect, I corrected my mistake.
+
+
+Adjective : *live*	*viva*
+Tome las luces y viva feliz.  
+Take the lights and live happily.
+
+
+Verb : *put*	*puso*
+Él puso una señal para que te pararás y estarás seguro.
+He put up a sign so you would stop and be safe.
+
+
+Noun : *construction site*	*obra*
+El consejo aprobó la obra y asignó un nuevo cargo para supervisarla.
+The council approved the work and assigned a new position to oversee it.
+
+
+Noun : *construction site*	*obra*
+La obra de teatro fue un éxito y todos mostraron respeto al director a pesar del clima caliente.
+The play was a success and everyone showed respect to the director despite the hot weather.
+
+
+Noun : *advice*	*consejo*
+Mi mamá me dio un consejo sobre la salud y me dijo que me ponga a hacer ejercicio.
+My mom gave me advice about health and told me to start exercising.
+
+
+Adjective : *public*	*público*
+Los soldados bailan frente al público.
+The soldiers dance in front of the audience.
+
+
+Adjective : *Help me*	*ayúdame*
+Ayúdame con la investigación sobre los rayos.
+Help me with the research on lightning.
+
+
+Noun : *animals*	*animales*
+Los niños cantan una canción sobre animales para su investigación.
+The children sing a song about animals for their research.
+
+
+Adjective : *blue*	*azul*
+La casa azul es muy bonita y estarás feliz allí.
+The blue house is very beautiful and you will be happy there.
+
+

@@ -1,0 +1,500 @@
+verb : *found*	*vond*
+Ik vond de zaak en pakte de pakken.
+I found the case and grabbed the packages.
+
+
+noun : *talk*	*praat*
+Ik sta naast mijn baas voor een praat.
+I stand next to my boss for a talk.
+
+
+adjective : *fine*	*prima*
+De dag begint met een prima gezicht.
+The day begins with a fine view.
+
+
+verb : *means*	*betekent*
+Het nieuws betekent dat het vandaag druk zal zijn.
+The news means that it will be busy today.
+
+
+noun : *kind*	*soort*
+Er is een soort vogel die boven de bomen begint te vliegen.
+There is a kind of bird that starts flying above the trees.
+
+
+noun : *case*	*zaak*
+De zaak begint eerder dan verwacht.
+The business starts earlier than expected.
+
+
+verb : *to attempt*	*proberen*
+Hoi, ik probeer niet te vergeten.
+Hi, I try not to forget.
+
+
+jack : *jack*	*jack*
+Jack hoeft alleen het nummer te kiezen.
+Jack only needs to choose the number.
+
+
+verb : *to play*	*spelen*
+De kinderen spelen op een plek in het land.
+The children play at a place in the country.
+
+
+adjective : *Tasty*	*lekker*
+Mijn dochter gebruikt de lekkere appel.
+My daughter uses the tasty apple.
+
+
+verb : *kill*	*doden*
+De grote man gaf de opdracht om de vijand te doden.
+The big man gave the order to kill the enemy.
+
+
+verb : *to use*	*gebruiken*
+Je zult water gebruiken.
+You will use water.
+
+
+adjective : *big*	*groot*
+Later zult u een groot huis zien.
+Later you will see a big house.
+
+
+noun : *knows*	*kent*
+De kent is bezig met iets anders.
+The knowledge is busy with something else.
+
+
+adverb : *above*	*boven*
+De kinderen zijn boven gekomen om te spelen.
+The children have come upstairs to play.
+
+
+noun : *water*	*water*
+Ik drink zes glazen lekker water.
+I drink six glasses of tasty water.
+
+
+noun : *issues*	*problemen*
+Ik snap dat er mogelijk problemen zijn.
+I understand that there may be problems.
+
+
+noun : *country*	*land*
+Nederland is een prima land, dat is de waarheid.
+Netherlands is a great country, that is the truth.
+
+
+interjection : *stand*	*sta*
+Sta! Zorg voor je gezicht.
+Stop! Take care of your face.
+
+
+adverb : *later*	*later*
+Ik zal later een kop ervan nemen.  
+I will take a cup of it later.
+
+
+noun : *Daddy*	*papa*
+Papa vertelt de waarheid met een kop koffie.  
+Dad tells the truth with a cup of coffee.
+
+
+verb : *to take*	*pakken*
+Papa pakt de grote doos.
+Papa grabs the big box.
+
+
+noun : *week*	*week*
+Ik zal zoiets nooit vergeten deze week.
+I will never forget something like this this week.
+
+
+noun : *Darling*	*schat*
+Hij praat over zoiets als een schat.  
+He talks about something like a treasure.
+
+
+preposition : *before*	*voordat*
+Voordat je liefde zult vinden, moet je geduld hebben.
+Before you will find love, you must have patience.
+
+
+adverb : *so much*	*zoveel*
+Mijn dochter is zoveel gelukkig.
+My daughter is so happy.
+
+
+adjective : *free*	*vrij*
+Het nieuws is vrij druk vandaag.
+The news is quite busy today.
+
+
+adjective : *real*	*echte*
+De echte zaak is altijd druk.  
+The real business is always busy.
+
+
+verb : *fuses*	*stoppen*
+Ik vond het moeilijk om met zoiets te stoppen.
+I found it difficult to stop with something like that.
+
+
+noun : *asshole*	*klootzak*
+De klootzak lachte in het gezicht van de vrouwen.
+The jerk laughed in the face of the women.
+
+
+verb : *to start*	*beginnen*
+Ik sta klaar om vooruit te beginnen.
+I am ready to start moving forward.
+
+
+interjection : *Please*	*alstublieft*
+Stel je voor, sta hier alstublieft.
+Imagine, stand here please.
+
+
+conjunction : *so that*	*zodat*
+Sinds mama thuis is, kookt ze elke dag zodat we samen kunnen eten.
+Since mom is home, she cooks every day so that we can eat together.
+
+
+noun : *concern*	*zorg*
+De zorg voor kinderen is belangrijk, en ze spelen graag ervan.
+The care for children is important, and they like to play with it.
+
+
+adjective : *nice*	*mooie*
+De mooie kop viel neer.  
+The beautiful cup fell down.
+
+
+noun : *orphan*	*wees*
+Het wees was bezig met sterven.
+The orphan was busy dying.
+
+
+verb : *murder*	*vermoorden*
+De dief probeerde in de nacht mama te vermoorden.
+The thief tried to murder mom in the night.
+
+
+adjective : *wrong*	*mis*
+Ik hoef niet te proberen, want het is mis.
+I don't need to try, because it is wrong.
+
+
+adverb : *forward*	*vooruit*
+Mijn dochter loopt vooruit naar de baas.
+My daughter walks ahead to the boss.
+
+
+verb : *to call*	*bellen*
+Ik moet mijn moeder bellen om te zeggen dat ik veilig ben en niets mis is.
+I need to call my mother to say that I am safe and nothing is wrong.
+
+
+noun : *daughter*	*dochter*
+Mijn dochter heeft een glimlach op haar gezicht en ze is tien jaar oud.
+My daughter has a smile on her face and she is ten years old.
+
+
+noun : *women*	*vrouwen*
+De vrouwen beginnen vooruit te gaan.
+The women are starting to move forward.
+
+
+noun : *ten*	*tien*
+Tien is gelukkig gekomen.
+Ten has happily arrived.
+
+
+verb : *need*	*hoeft*
+Je hoeft niet te beginnen met vermoorden.
+You don't have to start killing.
+
+
+verb : *to walk*	*lopen*
+Ik loop naar de zaken van de ander.
+I walk to the business of the other.
+
+
+noun : *heart*	*hart*
+Een soort bellen maakt mijn hart blij.
+A kind of ringing makes my heart happy.
+
+
+verb : *get it*	*snap*
+Ik snap dat het moeilijk is voor mijn dochter.  
+I understand that it is difficult for my daughter.
+
+
+adjective : *past*	*voorbij*
+Wees geen klootzak nu de moeilijke tijd voorbij is.
+Be no asshole now that the difficult time is over.
+
+
+adjective : *loose*	*los*
+Voordat de grote hond los is, moeten we de deur sluiten.
+Before the big dog is loose, we need to close the door.
+
+
+verb : *forget*	*vergeten*
+Ik ben mijn hart vergeten in de zaak.
+I forgot my heart in the shop.
+
+
+verb : *to happen*	*gebeuren*
+Het is eerder moeilijk om te begrijpen wat er gaat gebeuren.  
+It is rather difficult to understand what is going to happen.
+
+
+noun : *blood*	*bloed*
+Ik gebruik een pleister omdat er bloed uit mijn vinger komt.
+I use a bandage because blood is coming from my finger.
+
+
+noun : *Busy*	*druk*
+Wees niet boos, mama, het is gewoon druk.
+Don't be mad, mom, it's just busy.
+
+
+noun : *story*	*verhaal*
+Het verhaal over hoe ze de kat redden was lekker spannend.
+The story about how they saved the cat was really exciting.
+
+
+adjective : *difficult*	*moeilijk*
+Het is moeilijk om de waarheid te pakken.
+It is difficult to grasp the truth.
+
+
+Hi : *Hi*	*hoi*
+Hoi, wat een mooie dochter!
+Hi, what a beautiful daughter!
+
+
+noun : *six*	*zes*
+De zes grote mannen redden de kat.
+The six big men save the cat.
+
+
+adverb : *earlier*	*eerder*
+De detective vermoedde dat de moordenaar eerder water had gebruikt om het bewijs te verbergen.
+The detective suspected that the murderer had earlier used water to hide the evidence.
+
+
+adverb : *down*	*neer*
+Voordat ik wakker werd, keek ik naar beneden.
+Before I woke up, I looked down.
+
+
+pronoun : *of it*	*ervan*
+Ik kan me niet ervan redden, het ligt te ver weg.
+I can't save myself from it, it's too far away.
+
+
+noun : *bed*	*bed*
+Ik hou zoveel van mijn bed, ik kan niet genoeg ervan krijgen.
+I love my bed so much, I can't get enough of it.
+
+
+noun : *night*	*nacht*
+Mevrouw, er zijn zoveel sterren in de nacht.
+Madam, there are so many stars in the night.
+
+
+adjective : *busy*	*bezig*
+Ik ben bezig, alstublieft wacht zodat ik kan helpen.  
+I am busy, please wait so that I can help.
+
+
+adjective : *awake*	*wakker*
+De hele week was ik vroeg wakker en droeg mijn jack.  
+The whole week I was awake early and wore my jacket.
+
+
+verb : *to rescue*	*redden*
+Ik redde zijn hart met een defibrillator die ik uit de ambulance stelde.
+I saved his heart with a defibrillator that I took from the ambulance.
+
+
+adjective : *small*	*klein*
+De vrouwen komen later met een klein cadeau.
+The women are coming later with a small gift.
+
+
+verb : *came*	*gekomen*
+Ik ben bezig met een moeilijk project, maar ik ben gekomen om te helpen.
+I am busy with a difficult project, but I have come to help.
+
+
+adverb : *since*	*sinds*
+Ik vond mijn sleutels niet sinds ik ze in mijn tas probeerde te pakken.
+I haven't found my keys since I tried to grab them from my bag.
+
+
+noun : *head*	*kop*
+De schat praat met de kop van de pop.
+The treasure talks with the head of the doll.
+
+
+verb : *will*	*zult*
+Jij zult lopen zodat je fit blijft.
+You will walk so that you stay fit.
+
+
+interjection : *understood*	*begrepen*
+Begrepen, ik ben deze week gekomen.
+Understood, I came this week.
+
+
+noun : *place*	*plek*
+Mijn dochter wees naar een mooie plek in het park.  
+My daughter pointed to a beautiful spot in the park.
+
+
+adjective : *safe*	*veilig*
+De kop is veilig op de plek.
+The cup is safe in the place.
+
+
+noun : *couple*	*stel*
+Het stel betekent veel voor de baas.
+The couple means a lot to the boss.
+
+
+adjective : *full*	*vol*
+De begin van het boek was vol met dingen die ik niet begreep.
+The beginning of the book was full of things I did not understand.
+
+
+noun : *number*	*nummer*
+Het nummer dat ze spelen, kan je echt vermoorden.
+The song they are playing can really kill you.
+
+
+noun : *truth*	*waarheid*
+De waarheid kwam aan het licht in de nacht dankzij de ander.
+The truth came to light in the night thanks to the other.
+
+
+noun : *something like that*	*zoiets*
+Wees voorzichtig, want hij gaf me zoiets.
+Be careful, because he gave me something like that.
+
+
+abbreviation : *Madam*	*mevrouw*
+Mevrouw, ik sta eerder op.
+Madam, I get up earlier.
+
+
+verb : *to learn*	*leren*
+De vrouwen stoppen met werken om te leren.
+The women stop working to learn.
+
+
+pronoun : *the same*	*hetzelfde*
+Ik begrijp het hetzelfde zodat het betekent dat we het eens zijn.
+I understand the same so it means that we agree.
+
+
+verb : *gave*	*gaf*
+De papa gaf de vrouwen bloemen.
+The dad gave the women flowers.
+
+
+noun : *baby*	*baby*
+De moeder stopt de wagen zodat de baby kan slapen.
+The mother stops the stroller so that the baby can sleep.
+
+
+noun : *boss*	*baas*
+De baas regelt de zaken terwijl de baby slaapt.
+The boss handles the business while the baby sleeps.
+
+
+adjective : *happy*	*gelukkig*
+Wees gelukkig met de waarheid.
+Be happy with the truth.
+
+
+adverb : *immediately*	*meteen*
+De baas zei dat we meteen moeten stoppen.
+The boss said that we must stop immediately.
+
+
+adverb : *downstairs*	*beneden*
+Mijn dochter speelt prima beneden.  
+My daughter plays fine downstairs.
+
+
+adverb : *probably*	*waarschijnlijk*
+Hij zal waarschijnlijk niet vermoorden, wat betekent dat hij onschuldig is.
+He will probably not kill, which means that he is innocent.
+
+
+verb : *die*	*sterven*
+De mevrouw was gelukkig voordat ze stierf.
+The lady was happy before she died.
+
+
+noun : *sight*	*gezicht*
+Hij is gekomen en kijkt vooruit met een glimlach op zijn gezicht.
+He has come and looks forward with a smile on his face.
+
+
+noun : *get started*	*begin*
+Het begin van de dag is hetzelfde en vrij rustig.
+The beginning of the day is the same and quite calm.
+
+
+adjective : *possible*	*mogelijk*
+Kunt u alstublieft de mogelijke oplossingen geven die u bent gekomen?
+Could you please provide the possible solutions you have come up with?
+
+
+noun : *mom*	*mama*
+Voordat we gaan eten, is mama vol van vreugde.
+Before we eat, mama is full of joy.
+
+
+adjective : *closed*	*dicht*
+De deur is dicht, maar hij kent de code niet en is vergeten hoe hij binnenkomt.
+The door is closed, but he doesn't know the code and has forgotten how to get in.
+
+
+noun : *Affairs*	*zaken*
+Sinds gisteren zijn de zaken beneden rustig.
+Since yesterday, the business downstairs has been quiet.
+
+
+verb : *lie*	*liggen*
+De boeken liggen op de tafel zodat we hetzelfde kunnen lezen.
+The books are lying on the table so that we can read the same thing.
+
+
+noun : *news*	*nieuws*
+Ik snap het nieuws niet.  
+I don't understand the news.
+
+
+adjective : *other*	*ander*
+De ander sta dicht bij mij.
+The other stands close to me.
+
+
+to it : *to it*	*eraan*
+Ik ben naar de mooie tuin gekomen en ik denk eraan.  
+I have come to the beautiful garden and I am thinking about it.
+
+
+noun : *love*	*liefde*
+Waarschijnlijk ben ik vergeten wat liefde is.
+I have probably forgotten what love is.
+
+

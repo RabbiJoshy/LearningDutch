@@ -1,0 +1,500 @@
+pronoun : *them*	*hen*
+Ik help hen en hoop dat ze blij zijn.
+I help them and hope that they are happy.
+
+
+noun : *Stop*	*stop*
+De politie zette een stop om verder te zoeken.  
+The police set up a stop to search further.
+
+
+adjective : *own*	*eigen*
+Je moet jezelf vertrouwen en je eigen pad volgen, dr. Janssen.  
+You must trust yourself and follow your own path, Dr. Janssen.
+
+
+adjective : *little*	*kleine*
+Ik bel soms met de kleine telefoon.
+I sometimes call with the small phone.
+
+
+noun : *heap*	*hoop*
+Je hebt hoop in jezelf gemaakt.  
+You have created hope in yourself.
+
+
+verb : *wish*	*wou*
+Volgens mijn eigen plan, wou ik naar het park gaan.  
+According to my own plan, I wanted to go to the park.
+
+
+verb : *murdered*	*vermoord*
+De beste detective vermoorde de verdachte in de kamer.
+The best detective murdered the suspect in the room.
+
+
+pronoun : *each*	*elke*
+Elke van mijn vrienden helpt me.
+Each of my friends helps me.
+
+
+noun : *get*	*krijg*
+Ik heb een slecht hoofd en krijg.
+I have a bad head and a cold.
+
+
+verb : *to belong*	*horen*
+De agent kan verder niets horen.
+The officer can hear nothing further.
+
+
+adjective : *directly*	*gelijk*
+De politie is op zoek naar een gelijk antwoord.
+The police are looking for an equal answer.
+
+
+adverb : *almost*	*bijna*
+Ik werk bijna altijd tussen de middag.
+I almost always work around noon.
+
+
+verb : *would*	*zouden*
+Mijn familie en ik zouden naar het strand gaan, maar mijn broer wou niet.  
+My family and I would go to the beach, but my brother didn't want to.
+
+
+adjective : *Open*	*open*
+De school is open in vijf minuten.
+The school is open in five minutes.
+
+
+noun : *order*	*orde*
+De leraar heeft ons verteld dat orde belangrijk is.  
+The teacher told us that order is important.
+
+
+noun : *understand*	*begrijp*
+Het begrip van de les is bijna overal hetzelfde.
+The understanding of the lesson is almost the same everywhere.
+
+
+noun : *head*	*hoofd*
+Het hoofd ligt op het kussen en ik help je.
+The head lies on the pillow and I help you.
+
+
+verb : *happens*	*gebeurt*
+Hij heeft verteld wat er op zijn werk gebeurt.
+He told what happens at his work.
+
+
+noun : *side*	*kant*
+De bal ligt aan de kant, dus ik zal hem brengen.  
+The ball is on the side, so I will bring it.
+
+
+noun : *friends*	*vrienden*
+Ik hoop dat mijn vrienden met mij willen spreken.
+I hope that my friends want to talk with me.
+
+
+verb : *holds*	*houdt*
+De jongen houdt van de plaats waar hij veel aandacht krijgt.
+The boy loves the place where he gets a lot of attention.
+
+
+adverb : *actually*	*eigenlijk*
+Ik zoek eigenlijk vanavond naar mijn sleutels.
+I am actually looking for my keys tonight.
+
+
+conjunction : *as if*	*alsof*
+Ik haal mijn boeken op, alsof ik naar school ga.
+I pick up my books, as if I am going to school.
+
+
+noun : *business suit*	*pak*
+Hè, je hebt gelijk, dat pak staat je goed.
+Hey, you are right, that suit looks good on you.
+
+
+verb : *gives*	*geeft*
+De leraar geeft ons vijf minuten om te horen.  
+The teacher gives us five minutes to listen.
+
+
+noun : *Police*	*politie*
+De politie arriveerde bijna tien minuten te laat.
+The police arrived almost ten minutes late.
+
+
+adverb : *precisely*	*precies*
+Ik begrijp precies wat mijn vrienden zeggen.
+I understand exactly what my friends are saying.
+
+
+verb : *to wait*	*wachten*
+Ik ben eigenlijk blij om te wachten.  
+I am actually happy to wait.
+
+
+noun : *family*	*familie*
+Mijn familie heeft eigenlijk vier leden.
+My family actually has four members.
+
+
+adjective : *further*	*verder*
+Het kind heeft een verdere kans nodig.
+The child needs a further chance.
+
+
+adjective : *fed up*	*zat*
+De bel ging na drie dagen, en ik was zat van het wachten.
+The bell rang after three days, and I was fed up with waiting.
+
+
+adverb : *sometimes*	*soms*
+Vanavond is het soms heet.
+Tonight it is sometimes hot.
+
+
+verb : *to work*	*werken*
+Mijn broer zat te werken.
+My brother was working.
+
+
+noun : *call*	*bel*
+De bel in de volgende kamer is kapot.
+The bell in the next room is broken.
+
+
+verb : *feel*	*voel*
+Ik voel een pijn in mijn hoofd, maar alles is in orde.
+I feel a pain in my head, but everything is in order.
+
+
+noun : *child*	*kind*
+Het kind heeft de deur open gehad.
+The child has had the door open.
+
+
+verb : *try*	*probeer*
+Ik probeer de deur te openen, maar hij geeft niet mee.
+I try to open the door, but it doesn't budge.
+
+
+noun : *thing*	*ding*
+Volgens mij zijn er vijf dingen op de tafel.
+According to me, there are five things on the table.
+
+
+noun : *minutes*	*minuten*
+Ik heb je verteld dat we vijf minuten moeten wachten.
+I told you that we have to wait five minutes.
+
+
+verb : *gets*	*krijgt*
+Hij krijgt precies wat hij nodig heeft om te werken.  
+He gets exactly what he needs to work.
+
+
+noun : *sets*	*zet*
+De hulp van de politie heeft de zet van de crimineel vermoord.
+The help of the police has killed the move of the criminal.
+
+
+noun : *five*	*vijf*
+Hij wou een vijf zetten op het bord.
+He wanted to put a five on the board.
+
+
+verb : *had*	*gehad*
+Ik heb een drukke dag op school gehad en nu breng ik mijn boeken naar huis.
+I had a busy day at school and now I am bringing my books home.
+
+
+noun : *get*	*haal*
+De vier vrienden vindt de haal van de dag geweldig.
+The four friends find the catch of the day amazing.
+
+
+adjective : *made*	*gemaakt*
+Hij deed alsof hij de zelfgemaakte taart zonder hulp had gemaakt.
+He pretended as if he had made the homemade cake without help.
+
+
+interjection : *Hey*	*hè*
+Wat een kleine kind, hè?  
+What a small child, right?
+
+
+noun : *way*	*manier*
+Op deze manier kunnen we de deur open houden en verder gaan.
+In this way, we can keep the door open and move on.
+
+
+verb : *to dawn*	*dagen*
+De klok klopt en dagen gebeurt.
+The clock ticks and days happen.
+
+
+adjective : *search*	*zoek*
+De zoek werkt in mijn hoofd.
+The search works in my head.
+
+
+adjective : *is called*	*heet*
+Mijn broer gelooft dat de soep heet is.
+My brother believes that the soup is hot.
+
+
+adjective : *next one*	*volgende*
+De volgende keer zal ik je vertellen wat ik heb gehad.
+The next time I will tell you what I had.
+
+
+conjunction : *therefore*	*daarom*
+Dr. Janssen is moe, daarom zet hij de koffie aan.
+Dr. Janssen is tired, therefore he makes coffee.
+
+
+verb : *heard*	*gehoord*
+Ik heb hen vier keer gehoord.
+I have heard them four times.
+
+
+adverb : *pass*	*pas*
+Ik wou het pas proberen.  
+I just wanted to try it.
+
+
+verb : *works*	*werkt*
+De man werkt aan de deur met hulp.  
+The man works on the door with help.
+
+
+adverb : *this evening*	*vanavond*
+Vanavond ga ik naar dr. Janssen om mijn handen te laten controleren.
+Tonight I am going to Dr. Janssen to have my hands checked.
+
+
+adverb : *according to*	*volgens*
+Volgens mij zet hij het er goed uit.
+According to me, he is doing it well.
+
+
+adjective : *best*	*best*
+De vijf beste vrienden helpen elkaar altijd.  
+The five best friends always help each other.
+
+
+noun : *pain*	*pijn*
+Vanavond heb ik veel pijn omdat mijn hoofd vermoord is.  
+Tonight I have a lot of pain because my head is killing me.
+
+
+noun : *opportunity*	*kans*
+Hij heeft een kans om de pijn in zijn handen te verminderen.
+He has a chance to reduce the pain in his hands.
+
+
+adverb : *out*	*eruit*
+Ik hoop dat de pijn er snel uit gaat.  
+I hope the pain goes away quickly.
+
+
+interjection : *Help*	*help*
+Help, ik heb een geluid gehoord en de deur staat open.  
+Help, I heard a noise and the door is open.
+
+
+noun : *place*	*plaats*
+De plaats is bijna aan de kant van de straat.
+The place is almost at the side of the street.
+
+
+adverb : *how many*	*hoeveel*
+Hoeveel gebeurt er verder?
+How much is happening further?
+
+
+adjective : *asked*	*vroeg*
+De vroege vogel brengt de worm, hè.
+The early bird brings the worm, right?
+
+
+noun : *old*	*oude*
+Op dit moment spreken we over de oude.
+At this moment, we are talking about the old one.
+
+
+noun : *city*	*stad*
+Er is een manier om tussen de stad en het platteland te reizen.
+There is a way to travel between the city and the countryside.
+
+
+verb : *to search*	*zoeken*
+Daarom klopt hij op de deur om hulp te zoeken.  
+Therefore, he knocks on the door to seek help.
+
+
+noun : *eyes*	*ogen*
+Breng je handen naar je ogen.  
+Bring your hands to your eyes.
+
+
+pronoun : *yourself*	*jezelf*
+Welke politie heeft jezelf gezien?
+Which police have seen yourself?
+
+
+verb : *to believe*	*geloven*
+Ik geloof dat hij achter de deur staat en met iemand spreekt.
+I believe that he is standing behind the door and speaking with someone.
+
+
+noun : *moment*	*moment*
+Op dit moment spreken we met het kind.
+At this moment, we are speaking with the child.
+
+
+noun : *room*	*kamer*
+De kamer wordt verteld.  
+The room is being told.
+
+
+verb : *shoot*	*schiet*
+Welke man schiet met zijn eigen geweer?
+Which man shoots with his own rifle?
+
+
+noun : *four*	*vier*
+De vier vrienden brengen op een leuke manier tijd door.
+The four friends spend time in a fun way.
+
+
+verb : *finds*	*vindt*
+Hij vindt eruit dat iemand vermoord is.
+He finds out that someone is murdered.
+
+
+verb : *become*	*word*
+Vanavond word ik vroeg naar bed gestuurd omdat ik moe ben.  
+Tonight I am being sent to bed early because I am tired.
+
+
+noun : *agent*	*agent*
+De agent heeft een hoop werk gemaakt.
+The police officer has done a lot of work.
+
+
+adjective : *bad*	*slecht*
+Mijn vrienden schieten slecht.  
+My friends shoot poorly.
+
+
+verb : *told*	*verteld*
+Hij zat precies waar hij het me had verteld.
+He sat exactly where he had told me.
+
+
+verb : *to take*	*brengen*
+Ik voel me blij als ik mijn broer naar school breng.
+I feel happy when I bring my brother to school.
+
+
+adjective : *pleased*	*blij*
+Ik wou hulp en nu ben ik blij.
+I wanted help and now I am happy.
+
+
+noun : *staff*	*hulp*
+Ik heb gehoord dat hij hulp nodig had voordat hij werd vermoord.
+I heard that he needed help before he was murdered.
+
+
+adjective : *which*	*welke*
+Welke dokter is precies hier?  
+Which doctor is exactly here?
+
+
+verb : *stays*	*blijft*
+Dr. Jansen blijft spreken.
+Dr. Jansen keeps speaking.
+
+
+verb : *is*	*ligt*
+De bal ligt in mijn handen, gemaakt van leer.
+The ball lies in my hands, made of leather.
+
+
+noun : *brother*	*broer*
+Mijn broer begrijpt en geeft goede adviezen.
+My brother understands and gives good advice.
+
+
+noun : *school*	*school*
+Volgens mijn ogen is de school groot.
+According to my eyes, the school is big.
+
+
+preposition : *between*	*tussen*
+De trein komt tussen vijf en tien minuten, klopt dat?
+The train arrives between five and ten minutes, is that correct?
+
+
+noun : *door*	*deur*
+De deur ging vijf minuten geleden open.
+The door opened five minutes ago.
+
+
+verb : *speak*	*spreken*
+Wij zouden proberen Nederlands te spreken.
+We would try to speak Dutch.
+
+
+noun : *plan*	*plan*
+Het kind houdt van het plan.
+The child likes the plan.
+
+
+noun : *dollars*	*dollar*
+Ik heb een dollar gehad op een manier.
+I had a dollar in a way.
+
+
+adjective : *hands*	*handen*
+Ik zoek mijn handen brengen.
+I am looking to bring my hands.
+
+
+adverb : *somewhere*	*ergens*
+Mijn familie woont eigenlijk ergens ver weg.  
+My family actually lives somewhere far away.
+
+
+dr. : *Dr.*	*dr.*
+Hoeveel broers heeft dr. Janssen?
+How many brothers does Dr. Janssen have?
+
+
+verb : *Correct*	*klopt*
+Het lijkt alsof hij op de deur klopt en ik breng de sleutel.
+It seems as if he is knocking on the door and I bring the key.
+
+
+verb : *bring*	*breng*
+Ik breng pas precies wat je nodig hebt.
+I bring exactly what you need just now.
+
+
+noun : *doctor*	*dokter*
+De dokter zegt dat de wond open moet blijven.  
+The doctor says that the wound must remain open.
+
+
+adjective : *correct*	*juist*
+De juist vertelde informatie klopt.  
+The correctly told information is accurate.
+
+

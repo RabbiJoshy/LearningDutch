@@ -1,0 +1,500 @@
+noun : *Hello*	*hallo*
+Het enige hallo dat ik vandaag hoorde, was van mijn buurman.
+The only hello I heard today was from my neighbor.
+
+
+adjective : *nice*	*leuk*
+Eerst wil ik vragen of je het leuk vindt.
+First, I want to ask if you like it.
+
+
+interjection : *Sorry*	*sorry*
+Sorry, ik ging gek.  
+Sorry, I went crazy.
+
+
+adjective : *all*	*alle*
+Alle kinderen deden het helemaal goed.  
+All the children did it completely well.
+
+
+adverb : *each other*	*elkaar*
+De jongens moesten elkaar helpen.  
+The boys had to help each other.
+
+
+preposition : *to*	*toe*
+De wereld werd mooier toen de zon opkwam.  
+The world became more beautiful when the sun rose.
+
+
+verb : *knew*	*wist*
+Hij wist niet dat de wereld zo mooi was.
+He did not know that the world was so beautiful.
+
+
+verb : *say*	*zegt*
+De man zegt dat er geen probleem is, alleen enige verwarring.  
+The man says that there is no problem, only some confusion.
+
+
+verb : *mean*	*bedoel*
+Bedoel je ooit wat het lijkt?
+Do you ever mean what it seems?
+
+
+verb : *stay*	*blijf*
+Ik blijf denken aan de goede tijden.
+I keep thinking about the good times.
+
+
+interjection : *please*	*alsjeblieft*
+Hier is mijn idee, alsjeblieft, ik bedoel het goed.
+Here is my idea, please, I mean well.
+
+
+adjective : *long*	*lang*
+De naam die hij zegt is lang.  
+The name he says is long.
+
+
+abbreviation : *sir*	*meneer*
+Meneer, wilt u deze mooie foto nemen?
+Sir, would you like to take this beautiful photo?
+
+
+verb : *sees*	*ziet*
+Hij ziet zelfs een hand.
+He even sees a hand.
+
+
+verb : *makes*	*maakt*
+Hij maakt ooit iets dat jaren geleden gebeurde.
+He ever makes something that happened years ago.
+
+
+noun : *listen*	*luister*
+Sorry mannen, maar mijn luister is weg.  
+Sorry men, but my listening is gone.
+
+
+verb : *stuff*	*dingen*
+Sorry, but it seems there is a misunderstanding. In Dutch, "dingen" is not used as a verb; it is a noun meaning "things." However, I can create a simple sentence using "dingen" as a noun along with
+
+
+adjective : *Nice*	*mooi*
+Mijn zoon is heel mooi, sorry.
+My son is very beautiful, sorry.
+
+
+verb : *became*	*werd*
+Ik hoor steeds dat het huis werd verkocht.
+I keep hearing that the house was sold.
+
+
+adjective : *first*	*eerste*
+De eerste kinderen hoor ik spelen.  
+I hear the first children playing.
+
+
+adverb : *Please*	*graag*
+Ik wil graag een paar schoenen kopen.
+I would like to buy a pair of shoes.
+
+
+adverb : *Naturally*	*natuurlijk*
+Natuurlijk lijkt het moeilijk om een cadeau te geven.
+Of course, it seems difficult to give a gift.
+
+
+verb : *to hold*	*houden*
+Ik houd steeds van mijn vriend.
+I always love my friend.
+
+
+preposition : *without*	*zonder*
+Zonder ooit te falen, behaalde hij de eerste plaats.
+Without ever failing, he achieved first place.
+
+
+adverb : *still*	*steeds*
+Het meisje rent steeds snel.  
+The girl runs increasingly fast.
+
+
+verb : *to get*	*krijgen*
+De jongen krijgt een bal achter het huis.
+The boy gets a ball behind the house.
+
+
+adjective : *great*	*grote*
+De grote gebeurtenis is tijdens het eten gebeurd.
+The big event happened during the meal.
+
+
+adverb : *behind*	*achter*
+Hij bleef zo'n tien minuten achter om vragen te beantwoorden.
+He stayed behind for about ten minutes to answer questions.
+
+
+adverb : *absolutely*	*helemaal*
+Ik ben steeds helemaal blij wanneer ik je zie.
+I am always completely happy when I see you.
+
+
+noun : *name*	*naam*
+Ik denk dat ik je naam niet goed kan vertellen.
+I think that I cannot tell your name correctly.
+
+
+adjective : *crazy*	*gek*
+Luister, ik kun niet geloven hoe gek dit is.
+Listen, I can't believe how crazy this is.
+
+
+verb : *to stay*	*blijven*
+Ik blijf hier en neem ie mee.
+I stay here and take you along.
+
+
+adverb : *below*	*onder*
+Hallo, de dingen zijn onder.  
+Hello, the things are below.
+
+
+noun : *friend*	*vriend*
+Mijn vriend is gisteren op bezoek geweest en hij kwam met een cadeau.
+My friend visited yesterday and he came with a gift.
+
+
+been : *been*	*geweest*
+Ik ben zelfs naar het idee geweest.
+I have even been to the idea.
+
+
+verb : *to look*	*kijken*
+Mijn zoon wil naar de film kijken die ik hem heb gegeven.
+My son wants to watch the movie that I gave him.
+
+
+verb : *to give*	*geven*
+Ik geef helemaal geen antwoord op je vraag.
+I give no answer at all to your question.
+
+
+verb : *went*	*ging*
+Meneer ging naar de winkel en zag een mooie jas.
+Mr. went to the store and saw a nice coat.
+
+
+verb : *narrate*	*vertellen*
+Ik wil je het beste verhaal vertellen, zelfs als het lang is.
+I want to tell you the best story, even if it is long.
+
+
+adverb : *ever*	*ooit*
+Ooit zal ik naar die film kijken, hoor.
+Someday I will watch that movie, you know.
+
+
+adverb : *fast*	*snel*
+Ik zal snel je eerste vragen beantwoorden.
+I will quickly answer your first questions.
+
+
+noun : *hand*	*hand*
+De meneer heeft een lange hand.
+The gentleman has a long hand.
+
+
+noun : *idea*	*idee*
+Ik heb een idee om helemaal buiten te gaan wandelen.
+I have an idea to go completely outside for a walk.
+
+
+noun : *good*	*goede*
+Wij werken samen, want het goede is belangrijk.
+We work together because the good is important.
+
+
+adjective : *car*	*auto*
+In Dutch, the word 'auto' is typically used as a noun and not as an adjective. However, if you want to create a sentence using basic vocabulary and the words 'gezegd' and 'eerste', here is an example:
+Dutch
+
+
+verb : *came*	*kwam*
+Hij kwam naar mij toe en we schudden elkaar de hand.
+He came to me and we shook hands.
+
+
+interjection : *damn*	*verdomme*
+Verdomme, waar gaan jullie heen, mannen?
+Damn, where are you going, guys?
+
+
+noun : *bit*	*beetje*
+Hallo, ik wil graag een beetje.
+Hello, I would like a little bit.
+
+
+verb : *had to*	*moest*
+Hij moest de beste zijn, maar hij is het nooit geweest.
+He had to be the best, but he never was.
+
+
+noun : *children*	*kinderen*
+De leraar zegt steeds dat de kinderen stil moeten zijn.
+The teacher keeps saying that the children must be quiet.
+
+
+adverb : *when*	*wanneer*
+Wanneer kom je eerst thuis?  
+When do you come home first?
+
+
+verb : *happened*	*gebeurd*
+De kinderen weten natuurlijk wat er gebeurd is.
+The children naturally know what happened.
+
+
+noun : *boy*	*jongen*
+De jongen zegt zijn naam, alsjeblieft.  
+The boy says his name, please.
+
+
+adjective : *anxious*	*bang*
+De jongen was bang toen hij gezegd had wat ie dacht.  
+The boy was scared when he said what he thought.
+
+
+noun : *ask*	*vraag*
+Ik heb een paar vragen die ik graag wil stellen.
+I have a few questions that I would like to ask.
+
+
+verb : *seems*	*lijkt*
+Ken, vertel me wat lijkt goed.
+Ken, tell me what seems good.
+
+
+adjective : *awesome*	*geweldig*
+De snelle auto is geweldig om te blijven rijden.
+The fast car is great to keep driving.
+
+
+noun : *couple*	*paar*
+Ik heb een paar vrienden die me een beetje helpen met mijn probleem.
+I have a few friends who help me a little with my problem.
+
+
+verb : *hear*	*hoor*
+Ik bedoel wat je zegt, maar het lijkt alsof je niet goed hoort.
+I understand what you mean, but it seems like you don't hear well.
+
+
+noun : *last*	*laatste*
+De laatste hadden we lang niet gezien.
+The last one we hadn't seen for a long time.
+
+
+verb : *did*	*deed*
+Hij deed wat hij geloofde en keek naar de toekomst.
+He did what he believed and looked towards the future.
+
+
+adjective : *new ones*	*nieuwe*
+De bang meneer heeft een nieuwe auto.  
+The scared man has a new car.
+
+
+verb : *to ask*	*vragen*
+Ik ga heen om ie iets te vragen.
+I am going over there to ask you something.
+
+
+can : *can*	*kun*
+Sorry, ik kan niet naar binnen toe.
+Sorry, I can't go inside.
+
+
+verb : *saw*	*zag*
+Alsjeblieft, denk na over wat je zag.  
+Please, think about what you saw.
+
+
+verb : *to assure*	*zorgen*
+Het meisje zorgt voor het eten.
+The girl takes care of the food.
+
+
+verb : *to stand*	*staan*
+De kinderen staan en luister naar de muziek.
+The children stand and listen to the music.
+
+
+noun : *world*	*wereld*
+Mijn zoon ontdekt zelf de wereld.
+My son discovers the world by himself.
+
+
+verb : *to eat*	*eten*
+Alle vertel over wat we gaan eten.
+Everyone tell about what we are going to eat.
+
+
+adjective : *guys*	*jongens*
+In Dutch, the word 'jongens' is typically a noun meaning 'boys' and does not function as an adjective. However, I can create a sentence using the words 'eerst' (first), 'meisje' (girl),
+
+
+adjective : *only one*	*enige*
+Ik hoor graag enige muziek.
+I like to hear some music.
+
+
+pronoun : *yourself*	*zelf*
+Ik denk dat ik het zelf de laatste keer moet doen.
+I think that I have to do it myself the last time.
+
+
+conjunction : *because*	*want*
+Verdomme, ik ben zo'n idioot want ik vergat mijn sleutels.
+Damn, I am such an idiot because I forgot my keys.
+
+
+verb : *to take*	*nemen*
+Nemen is natuurlijk de beste keuze.
+Taking is naturally the best choice.
+
+
+adverb : *to*	*heen*
+Ik houd geweldig van reizen heen.  
+I love traveling greatly.
+
+
+noun : *Sun*	*zo'n*
+Ik moest zo'n houden.
+I had to keep such a one.
+
+
+Best : *Best*	*beste*
+Mijn beste vriend is altijd daar voor me, hoor.
+My best friend is always there for me, you know.
+
+
+verb : *know*	*ken*
+Mijn zoon ken ik thuis.
+I know my son at home.
+
+
+adverb : *Today*	*vandaag*
+Ik ben vandaag steeds thuis geweest.
+I have been home all day today.
+
+
+adverb : *even*	*zelfs*
+Alle kinderen zijn blij, want zelfs de zon schijnt.
+All the children are happy because even the sun is shining.
+
+
+ie : *i.e*	*ie*
+Ik ken hem zelfs niet, ie is een vreemde voor mij.
+I don't even know him, he is a stranger to me.
+
+
+verb : *said*	*gezegd*
+Natuurlijk! Hier is een eenvoudige zin in het Nederlands:
+"Ik heb dat al gezegd, alsjeblieft, een week geleden."
+"I already said that, please, a week ago."
+
+
+verb : *had*	*hadden*
+Ze hadden een paar verhalen te vertellen.
+They had a few stories to tell.
+
+
+verb : *tell*	*vertel*
+Ik vertel je wat ik gevonden heb toen ik naar het park kwam.
+I tell you what I found when I came to the park.
+
+
+adjective : *first*	*eerst*
+De eerste naam die ik kan bedenken is Anna.
+The first name I can think of is Anna.
+
+
+verb : *found it*	*gevonden*
+Ik heb zelfs een munt gevonden en wil die houden.
+I even found a coin and want to keep it.
+
+
+noun : *son*	*zoon*
+Mijn zoon is rustig en mooi.
+My son is calm and beautiful.
+
+
+adverb : *outside*	*buiten*
+Zo'n mooie dag om buiten te staan.
+Such a beautiful day to stand outside.
+
+
+adverb : *together*	*samen*
+Wij ken rustig samen werken.
+We can work together quietly.
+
+
+verb : *think*	*denken*
+Alle denken dat ik sorry moet zeggen.  
+Everyone thinks that I should say sorry.
+
+
+noun : *believe*	*geloof*
+Meneer, ik heb een vraag over uw geloof.
+Mister, I have a question about your faith.
+
+
+adverb : *tomorrow*	*morgen*
+Morgen kun je het boek krijgen.
+Tomorrow you can get the book.
+
+
+adverb : *past*	*geleden*
+Hallo, ik zag je drie dagen geleden.  
+Hello, I saw you three days ago.
+
+
+noun : *girl*	*meisje*
+Het meisje heeft een grote hond.
+The girl has a big dog.
+
+
+adverb : *At home*	*thuis*
+De jongen hadden thuis veel plezier.
+The boy had a lot of fun at home.
+
+
+verb : *thinks*	*denkt*
+Hij denkt snel en moest beslissen.  
+He thinks quickly and had to decide.
+
+
+adjective : *Calm*	*rustig*
+De man kwam zo'n rustig dorp binnen.
+The man entered such a quiet village.
+
+
+adjective : *men*	*mannen*
+In Dutch, the word 'mannen' is typically a noun meaning 'men' and is not used as an adjective. However, I can create a simple sentence using the words you provided:
+Dutch: De mannen moesten thuis blijven.
+English: The men
+
+
+verb : *to fetch*	*halen*
+Ik haal de bal helemaal achter het huis.  
+I fetch the ball all the way behind the house.
+
+
+noun : *problem*	*probleem*
+Het is leuk en rustig hier, maar er is een klein probleem.
+It is nice and quiet here, but there is a small problem.
+
+

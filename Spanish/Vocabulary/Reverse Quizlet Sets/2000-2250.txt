@@ -1,0 +1,1255 @@
+Adjective : *broken*	*roto*
+El menudo juguete está roto después de tantas caídas.
+The tiny toy is broken after so many falls.
+
+
+Noun : *pilot*	*piloto*
+El piloto te llevará a donde mires.
+The pilot will take you wherever you look.
+
+
+Noun : *brand*	*marca*
+La nueva marca comienza con una tienda abierta.
+The new brand starts with an open store.
+
+
+Noun : *brand*	*marca*
+Uso la marca para señalar los números.
+I use the mark to point out the numbers.
+
+
+Noun : *combat*	*combate*
+Los autos puedan resistir el combate.
+The cars can withstand the combat.
+
+
+Noun : *combat*	*combate*
+María es una muchacha valiente que combate el miedo.
+María is a brave girl who combats fear.
+
+
+Noun : *I talked*	*hablé*
+Hablé con el doctor sobre el virus.
+I talked to the doctor about the virus.
+
+
+Verb : *drive*	*manejar*
+Manejo el coche todos los días, pero nunca he disparado un arma.
+I drive the car every day, but I have never fired a gun.
+
+
+Noun : *section*	*sección*
+De repente, encontramos una tumba en la sección del cementerio.
+Suddenly, we found a tomb in the section of the cemetery.
+
+
+Adjective : *deep*	*profundo*
+El americano hizo llamadas desde un lugar profundo.
+The American made calls from a deep place.
+
+
+Noun : *so many*	*tantos*
+Hay tantos americanos en la fiesta.
+There are so many Americans at the party.
+
+
+Verb : *knew*	*conocía*
+Conocía a alguien que vivía a miles de millas bajo un techo rojo.  
+I knew someone who lived thousands of miles away under a red roof.
+
+
+Noun : *series*	*serie*
+La serie trata sobre un detective que investiga un contrato de asesinato, matando a los culpables.
+The series is about a detective who investigates a murder contract, killing the culprits.
+
+
+Noun : *contract*	*contrato*
+El jefe me dio un contrato de empleo y estoy en alerta para empezar.  
+The boss gave me an employment contract and I am on alert to start.
+
+
+Noun : *contract*	*contrato*
+Estoy enamorado y firmé un contrato bajo la lluvia.  
+I am in love and signed a contract in the rain.
+
+
+Adjective : *American*	*americano*
+El turista americano abordó el avión y comenzó una conversación con el pasajero al lado.
+The American tourist boarded the plane and started a conversation with the passenger next to him.
+
+
+Verb : *walk*	*paseo*
+María termina su paseo en el parque.
+María finishes her walk in the park.
+
+
+Verb : *walk*	*paseo*
+Voy de paseo al parque donde se respira aire fresco y surgen nuevas ideas.
+I go for a walk to the park where fresh air is breathed and new ideas arise.
+
+
+Noun : *planes*	*aviones*
+Perdimos dos días esperando los aviones.
+We lost two days waiting for the planes.
+
+
+Verb : *bullets*	*balas*
+Te presento a mi amigo, él está llamando a su perro mientras recoge balas del suelo.
+I introduce you to my friend, he is calling his dog while picking up bullets from the ground.
+
+
+Noun : *suddenly*	*repente*
+De repente, sentí un profundo alivio cuando te fueras.
+Suddenly, I felt a deep relief when you left.
+
+
+Verb : *changes*	*cambia*
+La doctora cambia el tratamiento del sujeto.
+The doctor changes the subject's treatment.
+
+
+Noun : *troops*	*tropas*
+Las tropas tomaron un curso para aprender a cuidar a los heridos.
+The troops took a course to learn how to care for the wounded.
+
+
+Verb : *carry*	*llevará*
+El policía llevará la droga a los cuerpos de seguridad.
+The police officer will take the drug to the security forces.
+
+
+Noun : *use*	*uso*
+Uso el paraguas cuando saldrá y vuelvas a casa.
+I use the umbrella when you go out and come back home.
+
+
+Noun : *use*	*uso*
+Llegué temprano, créeme, siempre uso el reloj.
+I arrived early, believe me, I always use the watch.
+
+
+Noun : *could you*	*pudiste*
+¿Pudiste comenzar a robar el banco?  
+Were you able to start robbing the bank?
+
+
+Verb : *arrest*	*detener*
+Vimos tantas cosas que no pudimos detenernos.
+We saw so many things that we couldn't stop.
+
+
+Adjective : *knew*	*sabia*
+La sabia líder organizó las tropas para que puedan defender el pueblo.
+The wise leader organized the troops so they can defend the village.
+
+
+Verb : *I arrived*	*llegué*
+Llegué a la ciudad y tuve que aceptar que todo cambia.  
+I arrived in the city and had to accept that everything changes.
+
+
+Adjective : *black*	*negra*
+La caja negra contiene juegos malos.
+The black box contains bad games.
+
+
+Adjective : *decided*	*decidido*
+Ellos piensan que él ha decidido no perdone a nadie.
+They think that he has decided not to forgive anyone.
+
+
+Adjective : *decided*	*decidido*
+He decidido ir a la fuente en mi barrio.
+I have decided to go to the fountain in my neighborhood.
+
+
+Verb : *starts*	*comienza*
+El desayuno comienza y no quiero detenerme.
+The breakfast begins and I don't want to stop.
+
+
+Noun : *distance*	*distancia*
+El empleo está a una distancia que me hace sentir asustado.
+The job is at a distance that makes me feel scared.
+
+
+Auxiliary : *we were*	*éramos*
+Éramos niños cuando leíamos el periódico y jugábamos a matando monstruos imaginarios.
+We were children when we read the newspaper and played at killing imaginary monsters.
+
+
+Verb : *died*	*murieron*
+El gato entró en la casa donde murieron las personas que le gustaba.
+The cat entered the house where the people it liked died.
+
+
+Verb : *figure out*	*averiguar*
+Necesito averiguar los detalles del contrato.  
+I need to find out the details of the contract.
+
+
+Verb : *Act*	*actuar*
+Los guardias deben actuar rápido durante el almuerzo.
+The guards must act quickly during lunch.
+
+
+Verb : *I stayed*	*quedo*
+Me quedo en casa para descansar, créeme.
+I stay at home to rest, believe me.
+
+
+Adjective : *pulse*	*pulso*
+Si fueras médico, te gustaría tomar el pulso de los pacientes.
+If you were a doctor, you would like to take the pulse of the patients.
+
+
+Adjective : *pulse*	*pulso*
+María quiere averiguar cómo tomar el pulso.
+María wants to find out how to take the pulse.
+
+
+Verb : *hold*	*aguanta*
+Hablé con ella y le dije que aguanta, que debe aceptar la situación.
+I talked to her and told her to hold on, that she must accept the situation.
+
+
+Adjective : *officers*	*oficiales*
+Los oficiales veían el paisaje natural.
+The officers were looking at the natural landscape.
+
+
+Verb : *called*	*llamaba*
+Me llamaba Juan y necesitaba descansar después de tantas horas de trabajo.  
+My name was Juan and I needed to rest after so many hours of work.
+
+
+Noun : *enemies*	*enemigos*
+Hablé con el piloto sobre nuestros enemigos.
+I talked to the pilot about our enemies.
+
+
+Verb : *will come out*	*saldrá*
+Él saldrá a averiguar varias cosas.
+He will go out to find out several things.
+
+
+Adjective : *concerned*	*preocupado*
+Estoy preocupado porque el sospechoso no quiere averiguar la verdad.
+I am worried because the suspect does not want to find out the truth.
+
+
+Adjective : *concerned*	*preocupado*
+Hablé con mi amigo y ahora no estoy tan preocupado por el examen que se cae mañana.
+I talked to my friend and now I'm not so worried about the exam that is happening tomorrow.
+
+
+Noun : *choice*	*elección*
+Dudo que mis enemigos respeten mi elección.
+I doubt that my enemies respect my choice.
+
+
+Verb : *survive*	*sobrevivir*
+El niño asustado planea su venganza para sobrevivir.
+The scared boy plans his revenge to survive.
+
+
+Adjective : *board*	*bordo*
+Tengo tantos recuerdos a bordo del barco de plata.  
+I have so many memories aboard the silver ship.
+
+
+Adjective : *subject*	*sujeto*
+El sujeto sospechoso perdió su empleo.
+The suspicious subject lost his job.
+
+
+Noun : *patients*	*pacientes*
+La política del hospital ha decidido mejorar el trato a los pacientes.
+The hospital's policy has decided to improve the treatment of the patients.
+
+
+Verb : *excuse me*	*disculpen*
+Disculpen, no puedo manejar todas las historias a la vez.  
+Sorry, I can't handle all the stories at once.
+
+
+Noun : *epoch*	*época*
+En esa época, estaba enamorado y cada conversación era especial.
+In that time, I was in love and every conversation was special.
+
+
+Verb : *I enter*	*entró*
+El hombre entró en la casa donde estaban viviendo los americanos.
+The man entered the house where the Americans were living.
+
+
+Noun : *weigh*	*pesar*
+A pesar de que el jarrón está roto, todavía pertenece a la familia.
+Despite the vase being broken, it still belongs to the family.
+
+
+Verb : *speak*	*habló*
+Habló de lo mucho que le gustó que fueras a la fiesta.
+He talked about how much he liked that you went to the party.
+
+
+Verb : *sell*	*vender*
+El testigo vio al hombre vender su coche para recibir dinero.  
+The witness saw the man sell his car to receive money.
+
+
+Verb : *they think*	*piensan*
+Ellos piensan que los datos que vimos son importantes.
+They think that the data we saw is important.
+
+
+Adjective : *ex*	*ex*
+Mi ex es un profesor americano que enseña números.
+My ex is an American teacher who teaches numbers.
+
+
+Proper noun : *free*	*gratis*
+El contrato incluye un viaje gratis a México.
+The contract includes a free trip to Mexico.
+
+
+Verb : *He disappeared*	*desapareció*
+El campeón desapareció después del almuerzo.
+The champion disappeared after lunch.
+
+
+Noun : *employment*	*empleo*
+Pocos murieron en el accidente, pero muchos perdieron su empleo.
+Few died in the accident, but many lost their job.
+
+
+Noun : *employment*	*empleo*
+La evidencia del caso ayudó a detener al sospechoso y asegurar su empleo en la empresa.
+The evidence of the case helped to detain the suspect and secure his employment in the company.
+
+
+Adjective : *I called*	*llamé*
+Llamé a los agentes para descansar.
+I called the agents to rest.
+
+
+Verb : *they know*	*conocen*
+Ellos conocen la tumba donde se esconden las mentiras.
+They know the tomb where the lies are hidden.
+
+
+Adjective : *pig*	*cerdo*
+Llevamos al cerdo a un lugar privado.
+We take the pig to a private place.
+
+
+Auxiliary : *can*	*puedan*
+Los niños puedan ir andando a la escuela antes de que la lluvia cae.
+The children can go walking to school before the rain falls.
+
+
+Verb : *understand*	*comprendo*
+La clase de matemáticas es dura, pero estoy teniendo paciencia y comprendo mejor cada día.
+The math class is hard, but I am being patient and understand better each day.
+
+
+Noun : *took*	*tomo*
+María toma el libro que sus abuelos le dieron antes de que murieron.
+María takes the book that her grandparents gave her before they died.
+
+
+Verb : *ends*	*termina*
+La época de discutir termina hoy.
+The time for arguing ends today.
+
+
+Noun : *get away*	*aléjate*
+Aléjate del combate si quieres estar contento.
+Stay away from the fight if you want to be happy.
+
+
+Verb : *look for*	*busco*
+Busco a alguien que conocía para recibir ayuda.  
+I am looking for someone I knew to receive help.
+
+
+Adjective : *glad*	*contento*
+Estoy contento de que no estés asustado cuando estás fuera.
+I am happy that you are not scared when you are outside.
+
+
+Noun : *date*	*date*
+Tomas es menor y tiene una cita.
+Tomas is younger and has a date.
+
+
+Noun : *grave*	*tumba*
+Visitamos la tumba después del almuerzo y luego caminamos por el canal.
+We visited the tomb after lunch and then walked along the canal.
+
+
+Noun : *grave*	*tumba*
+La droga negra tumbó al hombre.
+The black drug knocked the man down.
+
+
+Verb : *footprints*	*huellas*
+Las huellas en los papeles revelan las ideas del autor.  
+The fingerprints on the papers reveal the author's ideas.
+
+
+Noun : *bodies*	*cuerpos*
+Tomaré fotos de los cuerpos blancos.
+I will take photos of the white bodies.
+
+
+Adjective : *absolute*	*absoluto*
+El absoluto silencio en la biblioteca me permitía concentrarme en los detalles que no sabía.
+The absolute silence in the library allowed me to focus on the details I didn't know.
+
+
+Verb : *asks*	*pide*
+El general pide tropas gratis.
+The general asks for free troops.
+
+
+Adjective : *hard*	*dura*
+La puerta está abierta y el niño está asustado porque la noche es dura.
+The door is open and the boy is scared because the night is harsh.
+
+
+Adjective : *hard*	*dura*
+La feria dura tres días, así que si te quedas, podrás vender tus productos.
+The fair lasts three days, so if you stay, you can sell your products.
+
+
+Verb : *rest*	*descansar*
+Necesito descansar y olvidar los detalles de la venganza.
+I need to rest and forget the details of the revenge.
+
+
+Noun : *answers*	*respuestas*
+El ministro presentó las respuestas.
+The minister presented the answers.
+
+
+Noun : *property*	*propiedad*
+Perdóname, pero la elección de la propiedad no fue fácil.
+Forgive me, but the choice of the property was not easy.
+
+
+Verb : *calling*	*llamando*
+Perdone, estoy llamando porque necesito usar el teléfono.
+Excuse me, I am calling because I need to use the phone.
+
+
+Adjective : *asleep*	*dormido*
+El príncipe estaba dormido en el reino de las mentiras.
+The prince was asleep in the kingdom of lies.
+
+
+Verb : *castle*	*castillo*
+Comprendo que mires el castillo.
+I understand that you look at the castle.
+
+
+Adjective : *China*	*china*
+Me gustaba el pulso de la música china.
+I liked the rhythm of Chinese music.
+
+
+Adjective : *China*	*china*
+Si fueras a China, verías pocos turistas.  
+If you went to China, you would see few tourists.
+
+
+Noun : *data*	*datos*
+Perdone, pero no tengo tantos datos.
+Excuse me, but I don't have that much data.
+
+
+Verb : *tower*	*torre*
+Disculpen, ¿cuántos días falta para terminar la torre?
+Excuse me, how many days are left to finish the tower?
+
+
+Verb : *steal*	*robar*
+El hombre con la chaqueta negra intentó robar después de conocerte.
+The man with the black jacket tried to steal after meeting you.
+
+
+Noun : *American people*	*americanos*
+Los americanos aprendieron a sobrevivir con la ayuda de los locales.
+The Americans learned to survive with the help of the locals.
+
+
+Adjective : *bad*	*malos*
+Los pacientes estaban asustados porque los resultados eran malos.
+The patients were scared because the results were bad.
+
+
+Verb : *bottle*	*botella*
+Llegué con las tropas y una botella de agua.  
+I arrived with the troops and a bottle of water.
+
+
+Pronoun : *those*	*aquellos*
+Aquellos niños creen en la magia de su jardín privado.
+Those children believe in the magic of their private garden.
+
+
+Adverb : *lately*	*últimamente*
+Últimamente, Juan habló sobre quién robó el dinero.
+Lately, Juan talked about who stole the money.
+
+
+Noun : *witness*	*testigo*
+Cuando vuelvas, te contaré lo que pasó cuando llegué y hablé con el testigo.
+When you return, I will tell you what happened when I arrived and talked to the witness.
+
+
+Adjective : *I present*	*presento*
+Te presento a mi amigo para explicar la situación y estar alerta.
+I introduce you to my friend to explain the situation and be alert.
+
+
+Adjective : *newspaper*	*periódico*
+Leo el periódico a distancia mientras desayuno.  
+I read the newspaper remotely while having breakfast.
+
+
+Noun : *judge*	*juez*
+El juez pidió disculpen por la serie de errores.
+The judge asked for forgiveness for the series of mistakes.
+
+
+Noun : *stories*	*historias*
+En el barrio, mi abuelo siempre cuenta historias de cuando escuchó un disparo.
+In the neighborhood, my grandfather always tells stories of when he heard a gunshot.
+
+
+Verb : *liked*	*gustaba*
+Cuando era niño, me gustaba un juego que se llamaba "Aventuras", y ahora tomaré un descanso para recordarlo.
+When I was a child, I liked a game that was called "Adventures," and now I will take
+
+
+Verb : *believe me*	*créeme*
+Créeme, si te quedas y respira profundamente, te sentirás mejor.
+Believe me, if you stay and breathe deeply, you will feel better.
+
+
+Verb : *need*	*necesitar*
+Necesitaré que hables con ella antes de que la reunión dura mucho.
+I will need you to talk to her before the meeting lasts too long.
+
+
+Noun : *corner*	*esquina*
+Hay tantas huellas en la esquina de la calle.
+There are so many footprints on the corner of the street.
+
+
+Noun : *miles*	*millas*
+Los cuerpos de los corredores recorrieron pocas millas.
+The bodies of the runners covered a few miles.
+
+
+Adjective : *calls*	*llamadas*
+Recibí muchas llamadas durante el almuerzo, pero todas eran de malos vendedores.
+I received many calls during lunch, but they were all from bad salespeople.
+
+
+Adjective : *calls*	*llamadas*
+Recibimos muchas llamadas sobre la política de datos.
+We receive many calls about the data policy.
+
+
+Noun : *fountain*	*fuente*
+La fuente de empleo ofrece un contrato estable.
+The source of employment offers a stable contract.
+
+
+Verb : *we know*	*conocemos*
+Llamé al testigo que conocemos.
+I called the witness that we know.
+
+
+Noun : *ceiling*	*techo*
+El techo huele a pintura y debemos actuar rápido.
+The roof smells like paint and we must act quickly.
+
+
+Noun : *ceiling*	*techo*
+El techo que veía desde mi ventana se llamaba "El Refugio".
+The roof I saw from my window was called "The Refuge".
+
+
+Noun : *genius*	*genio*
+El genio del canal dijo que no necesitaría ayuda.
+The genius of the channel said that he wouldn't need help.
+
+
+Verb : *alert*	*alerta*
+La policía en China está en alerta por posibles actos de venganza.
+The police in China are on alert for possible acts of revenge.
+
+
+Noun : *ideas*	*ideas*
+Tengo tantos ideas presentes en mi mente.
+I have so many ideas present in my mind.
+
+
+Verb : *Tomas*	*tomas*
+Tomas aire fresco en el parque para respirar mejor.
+You take fresh air in the park to breathe better.
+
+
+Verb : *you take*	*tomas*
+Tomas tantos dulces que parece que los vas a robar.
+You take so many candies that it looks like you're going to steal them.
+
+
+Verb : *forget*	*olvidar*
+Hablé con ella y olvidé mencionar su talento.
+I talked to her and forgot to mention her talent.
+
+
+Adjective : *minor*	*menor*
+Conocemos al menor que tiene un buen pulso.
+We know the younger one who has a steady pulse.
+
+
+Adjective : *drug*	*droga*
+La clave para combatir el virus es encontrar una droga efectiva.
+The key to fighting the virus is to find an effective drug.
+
+
+Verb : *explain*	*explicar*
+Claro, aquí tienes una oración en español:
+"A menudo, el profesor necesita explicar el concepto en el bordo de la pizarra."
+Often, the teacher needs to explain the concept on the edge of the board.
+
+
+Adjective : *open*	*abierta*
+La puerta está abierta y conocen las huellas en el suelo.
+The door is open and they recognize the footprints on the ground.
+
+
+Adjective : *open*	*abierta*
+La puerta está abierta, pero no comprendo el sujeto.
+The door is open, but I don't understand the subject.
+
+
+Adjective : *private*	*privado*
+El colegio americano ofrece un curso privado gratis.
+The American school offers a free private course.
+
+
+Adjective : *private*	*privado*
+El jardín privado está en una zona privada.
+The private garden is in a private area.
+
+
+Noun : *members*	*miembros*
+Los miembros del equipo americano revisaron los números.
+The members of the American team reviewed the numbers.
+
+
+Adjective : *national*	*nacional*
+Vimos a María en el desfile nacional.
+We saw María at the national parade.
+
+
+Verb : *taste*	*gustó*
+Me gustó la clave que busco.  
+I liked the key that I am looking for.
+
+
+Verb : *argue*	*discutir*
+Los científicos quieren discutir sobre el virus y las huellas que deja.
+The scientists want to discuss the virus and the traces it leaves.
+
+
+Verb : *evidence*	*evidencia*
+La evidencia presente muestra que vives aquí.
+The present evidence shows that you live here.
+
+
+Noun : *details*	*detalles*
+A pesar de los detalles, todo salió bien.
+Despite the details, everything turned out well.
+
+
+Noun : *afternoon*	*tardes*
+La luz de las tardes desapareció con el efecto del atardecer.  
+The light of the afternoons disappeared with the effect of the sunset.
+
+
+Noun : *afternoon*	*tardes*
+Sabía que estaba enamorado cuando pasábamos las tardes juntos.
+I knew I was in love when we spent the afternoons together.
+
+
+Verb : *I will take*	*tomaré*
+Mañana tomaré el periódico que está en el techo.  
+Tomorrow I will take the newspaper that is on the roof.
+
+
+Adjective : *present*	*presente*
+De repente, recibí una botella como presente.  
+Suddenly, I received a bottle as a present.
+
+
+Adjective : *present*	*presente*
+Me da vergüenza presentar nuestros cuerpos.
+I am embarrassed to present our bodies.
+
+
+Adjective : *criminal*	*criminal*
+La muchacha vio al criminal en el techo.
+The girl saw the criminal on the roof.
+
+
+Proper noun : *prize*	*premio*
+Menudo combate, ¡y al final ganó el premio!
+What a fight, and in the end, he won the prize!
+
+
+Noun : *come back*	*vuelvas*
+No te preocupes por el empleo, solo quiero que vuelvas pronto.
+Don't worry about the job, I just want you to come back soon.
+
+
+Verb : *sit down*	*siéntese*
+Si necesita descansar, siéntese y relájese para mejorar su humor.
+If you need to rest, sit down and relax to improve your mood.
+
+
+Adjective : *did you come*	*viniste*
+Claro, aquí tienes una oración:
+"Viniste al paseo y olvidé mi mochila."
+You came to the walk and I forgot my backpack.
+
+
+Verb : *receive*	*recibir*
+Claro, aquí tienes una oración:
+"Recibí el periódico lleno de mentiras."
+I received the newspaper full of lies.
+
+
+Noun : *look*	*mires*
+No mires el pastel antes de pesar.
+Do not look at the cake before weighing.
+
+
+Verb : *having*	*teniendo*
+Estoy teniendo una conversación con mi vecino en el barrio antes de que termine el día.
+I am having a conversation with my neighbor in the neighborhood before the day ends.
+
+
+Noun : *smells*	*huele*
+La doctora huele a flores y piensa que alguien quiere robar su jardín.
+The doctor smells like flowers and thinks someone wants to steal her garden.
+
+
+Adjective : *you speak*	*hables*
+No me hables de mentiras en las tardes.
+Don't talk to me about lies in the afternoons.
+
+
+Noun : *guards*	*guardias*
+Los guardias verificaron el pulso y si podía respirar.  
+The guards checked the pulse and if he could breathe.
+
+
+Adjective : *in love*	*enamorado*
+Enamorado de la vida, Juan a menudo escribe sobre asesinos en sus novelas.
+In love with life, Juan often writes about killers in his novels.
+
+
+Adjective : *in love*	*enamorado*
+Estoy enamorado y mi vida cambia desde que visité la tumba.
+I am in love and my life changes since I visited the tomb.
+
+
+Verb : *look after*	*cuidar*
+Voy a cuidar al perro que pertenece a mi vecino a pesar de estar ocupado.
+I am going to take care of the dog that belongs to my neighbor despite being busy.
+
+
+Determiner : *few*	*pocos*
+Pocos murieron durante el paseo.
+Few died during the walk.
+
+
+Verb : *excuse me*	*perdone*
+Perdone, el presidente nacional habló ayer.
+Excuse me, the national president spoke yesterday.
+
+
+Adjective : *natural*	*natural*
+Las historias del sospechoso parecen naturales.  
+The stories of the suspect seem natural.
+
+
+Noun : *horses*	*caballos*
+La doctora encontró empleo cuidando caballos.  
+The doctor found a job taking care of horses.
+
+
+Verb : *I'm listening*	*escucho*
+Escucho los números mientras bebo agua de una botella.
+I listen to the numbers while drinking water from a bottle.
+
+
+Noun : *nurse*	*enfermera*
+Vimos a la enfermera en el hospital.
+We saw the nurse in the hospital.
+
+
+Proper noun : *angel*	*ángel*
+El ángel está matando el tiempo mientras tomaré un café.
+The angel is killing time while I will have a coffee.
+
+
+Adjective : *suspicious*	*sospechoso*
+El juez cree que el sospechoso robó la tienda.
+The judge believes that the suspect robbed the store.
+
+
+Adjective : *local*	*local*
+Viniste al local para ver los aviones.
+You came to the place to see the airplanes.
+
+
+Noun : *lies*	*mentiras*
+Las mentiras no terminan bien y la verdad es gratis.
+The lies don't end well and the truth is free.
+
+
+Noun : *shirt*	*camisa*
+Él pide una camisa negra.
+He asks for a black shirt.
+
+
+Verb : *trust*	*confía*
+Ella confía en que puedo manejar el coche sin problemas porque la clase fue gratis.
+She trusts that I can drive the car without problems because the class was free.
+
+
+Verb : *accept*	*aceptar*
+Acepto las huellas y las llamadas de la vida.
+I accept the footprints and the calls of life.
+
+
+Noun : *revenge*	*venganza*
+El uso de la venganza es una vergüenza.  
+The use of revenge is a shame.
+
+
+Verb : *we lost*	*perdimos*
+Nosotros perdimos el tren en Europa porque estábamos enamorados y distraídos.
+We missed the train in Europe because we were in love and distracted.
+
+
+Determiner : *how many*	*cuantos*
+¿Cuántos días viniste y cuántas películas vimos juntos?
+How many days did you come and how many movies did we watch together?
+
+
+Noun : *park*	*parque*
+El paseo en el parque termina y dura una hora.
+The walk in the park ends and lasts one hour.
+
+
+Noun : *games*	*juegos*
+Los juegos de mesa son una marca que no es una droga.
+Board games are a brand that is not a drug.
+
+
+Noun : *do you live*	*vives*
+¿Cuántos años tienes, muchacha, y dónde vives?
+How old are you, girl, and where do you live?
+
+
+Determiner : *several*	*varias*
+Escucho varias canciones que murieron en el olvido.
+I listen to several songs that died in oblivion.
+
+
+Noun : *would you do*	*harías*
+¿Qué harías si te gustó montar caballos?
+What would you do if you liked riding horses?
+
+
+Adjective : *slight*	*menudo*
+Estoy preocupado porque en la sección de comida no hay menudo.
+I am worried because in the food section there is no menudo.
+
+
+Verb : *leave me*	*déjenme*
+Déjenme seguir andando antes de que escuche otro disparo.
+Let me keep walking before I hear another shot.
+
+
+Noun : *neighborhood*	*barrio*
+Los agentes intentan explicar las reglas del barrio.
+The agents try to explain the rules of the neighborhood.
+
+
+Noun : *virus*	*virus*
+Es nuestra responsabilidad asegurarnos de que nadie se hiciera daño por el virus.
+It is our responsibility to ensure that no one gets harmed by the virus.
+
+
+Noun : *talent*	*talento*
+El ministro descubrió el talento del artista en la tumba.
+The minister discovered the artist's talent at the tomb.
+
+
+Noun : *Minister*	*ministro*
+El ministro está viendo una serie sobre detectives que resuelven casos de personas matando.
+The minister is watching a series about detectives solving cases of people killing.
+
+
+Verb : *did*	*hiciera*
+Si él hiciera lo correcto, devolvería lo que robó porque no le pertenece.
+If he did the right thing, he would return what he stole because it does not belong to him.
+
+
+Verb : *heist*	*robó*
+El ladrón robó el banco, pero no vuelvas a la escena del crimen cuando cae la noche.
+The thief robbed the bank, but don't return to the crime scene when night falls.
+
+
+Verb : *know you*	*conocerte*
+Me alegra conocerte en este reino después del combate.  
+I am glad to meet you in this kingdom after the battle.
+
+
+Verb : *living*	*viviendo*
+Estoy viviendo con el pulso de la ciudad.
+I am living with the pulse of the city.
+
+
+Noun : *responsibility*	*responsabilidad*
+La responsabilidad tiene un efecto positivo en una serie de decisiones.
+Responsibility has a positive effect on a series of decisions.
+
+
+Verb : *breathe*	*respira*
+Créeme, respira y no te preocupes por los detalles.  
+Believe me, breathe and don't worry about the details.
+
+
+Noun : *numbers*	*números*
+Déjenme mostrarles los números de mi ex.
+Let me show you the numbers of my ex.
+
+
+Verb : *belongs*	*pertenece*
+Vimos a la doctora que pertenece al hospital.
+We saw the doctor who belongs to the hospital.
+
+
+Noun : *breakfast*	*desayuno*
+Tengo tantos coches que no sé cómo manejar antes del desayuno.
+I have so many cars that I don't know how to drive before breakfast.
+
+
+Noun : *breakfast*	*desayuno*
+Mañana tomaré el desayuno antes de hacer las llamadas.
+Tomorrow I will have breakfast before making the calls.
+
+
+Noun : *champion*	*campeón*
+El campeón habló con los agentes sobre cómo sobrevivir.
+The champion spoke with the agents about how to survive.
+
+
+Verb : *check*	*controlar*
+María trata de controlar sus emociones en la tumba.
+María tries to control her emotions at the grave.
+
+
+Proper noun : *Maria*	*maría*
+Éramos amigos en la misma sección, María.
+We were friends in the same section, María.
+
+
+Proper noun : *Maria*	*maría*
+María perdió su empleo debido al virus.
+María lost her job due to the virus.
+
+
+Noun : *snow*	*nieve*
+Me llamaba Juan y te quedas en casa cuando hay nieve.
+My name was Juan and you stay at home when there is snow.
+
+
+Proper noun : *Mexico*	*méxico*
+El ángel pertenece a México.
+The angel belongs to Mexico.
+
+
+Adjective : *days*	*dias*
+El contrato indica que debemos actuar en tres días.
+The contract indicates that we must act in three days.
+
+
+Noun : *shame*	*vergüenza*
+Me da vergüenza cuando me pongo rojo a menudo y mis amigos se quedan blancos.
+I feel embarrassed when I often turn red and my friends turn pale.
+
+
+Noun : *doctor*	*doctora*
+La doctora hizo una elección de guantes blancos.
+The doctor made a choice of white gloves.
+
+
+Adjective : *white*	*blancos*
+Cuando llegué a la fiesta, vi que todos llevarán trajes blancos.
+When I arrived at the party, I saw that everyone will wear white suits.
+
+
+Verb : *smoke*	*fumar*
+El sospechoso dura mucho tiempo sin fumar.
+The suspect lasts a long time without smoking.
+
+
+Verb : *we carry*	*llevamos*
+Llegué a la fiesta, pero llevamos mucho tiempo aquí, así que aléjate un poco.
+I arrived at the party, but we've been here for a long time, so step back a little.
+
+
+Proper noun : *Europe*	*Europa*
+Conocemos a muchas personas en Europa que pueden explicar la historia.
+We know many people in Europe who can explain the history.
+
+
+Adverb : *I doubt*	*dudo*
+Dudo que sea natural que vuelvas tan pronto.  
+I doubt that it is natural for you to come back so soon.
+
+
+Noun : *cake*	*pastel*
+Claro, aquí tienes una oración:
+"Mi amigo habló sobre el pastel que hiciste cuando trabajas en la panadería."
+"My friend talked about the cake you made when you work at the bakery."
+
+
+Adjective : *stay*	*quedas*
+Aquellos libros te quedan perfectos, eres un genio.
+Those books suit you perfectly, you are a genius.
+
+
+Verb : *falls off*	*cae*
+El humor de Juan cae cuando está preocupado.
+Juan's mood drops when he is worried.
+
+
+Verb : *we saw*	*vimos*
+Vimos las tropas, pero dudo que sean suficientes.
+We saw the troops, but I doubt they are enough.
+
+
+Adjective : *received*	*recibido*
+Créeme, he recibido tu mensaje y tomaré una decisión pronto.
+Believe me, I have received your message and I will make a decision soon.
+
+
+Verb : *walking*	*andando*
+Los agentes vieron a un hombre asustado andando por la calle.
+The agents saw a scared man walking down the street.
+
+
+Noun : *agents*	*agentes*
+Los agentes americanos esperan recibir nuevas instrucciones.
+The American agents hope to receive new instructions.
+
+
+Noun : *you were*	*fueras*
+Si fueras a explicar algo privado, ten cuidado.
+If you were to explain something private, be careful.
+
+
+Noun : *you were*	*fueras*
+Si fueras una marca famosa, la enfermera te reconocería.
+If you were a famous brand, the nurse would recognize you.
+
+
+Adjective : *scared*	*asustado*
+El niño estaba asustado porque no sabía qué elección hacer para el almuerzo.
+The boy was scared because he didn't know what choice to make for lunch.
+
+
+Adjective : *scared*	*asustado*
+Llamé al doctor porque mi pulso estaba rápido y me sentía asustado.
+I called the doctor because my pulse was fast and I felt scared.
+
+
+Proper noun : *forgive me*	*perdóname*
+Perdóname, pero no piensan en el almuerzo.
+Forgive me, but they don't think about lunch.
+
+
+Proper noun : *kingdom*	*reino*
+El reino tiene una sección dedicada al pulso de la comunidad.
+The kingdom has a section dedicated to the pulse of the community.
+
+
+Proper noun : *kingdom*	*reino*
+El rey levantó la botella para detener el caos en su reino.
+The king raised the bottle to stop the chaos in his kingdom.
+
+
+Noun : *clue*	*clave*
+La clave para medir el pulso es la paciencia.
+The key to measuring the pulse is patience.
+
+
+Noun : *papers*	*papeles*
+Los papeles de China están sobre la mesa del almuerzo.
+The papers from China are on the lunch table.
+
+
+Verb : *killing*	*matando*
+El ángel está matando el tiempo mientras espera el almuerzo.
+The angel is killing time while waiting for lunch.
+
+
+Noun : *effect*	*efecto*
+Estoy preocupado porque perdimos el efecto deseado.
+I am worried because we lost the desired effect.
+
+
+Noun : *silver*	*plata*
+Vimos una puerta abierta con un adorno de plata.
+We saw an open door with a silver ornament.
+
+
+Noun : *forget*	*olvidé*
+Olvidé la torre que mencionó el testigo.
+I forgot the tower that the witness mentioned.
+
+
+Verb : *were going*	*iban*
+Los mensajeros iban al reino porque habían recibido una carta importante.
+The messengers were going to the kingdom because they had received an important letter.
+
+
+Noun : *universe*	*universo*
+El profesor intenta explicar el universo en el presente.
+The teacher tries to explain the universe in the present.
+
+
+Adjective : *policy*	*política*
+Es un placer conocerte, pero no me gusta hablar de política con un piloto.
+It is a pleasure to meet you, but I don't like to talk about politics with a pilot.
+
+
+Noun : *lunch*	*almuerzo*
+Claro, aquí tienes una oración:
+"El almuerzo está a poca distancia, pero los malos olores lo arruinan."
+The lunch is a short distance away, but the bad smells ruin it.
+
+
+Noun : *lunch*	*almuerzo*
+El genio almuerza bajo el techo.
+The genie has lunch under the roof.
+
+
+Noun : *Magic*	*magia*
+Las huellas en el suelo nos ayudaron a averiguar la magia del bosque.
+The footprints on the ground helped us to discover the magic of the forest.
+
+
+Noun : *rain*	*lluvia*
+La camisa del cerdo se mojó con la lluvia.
+The pig's shirt got wet with the rain.
+
+
+Noun : *humor*	*humor*
+Dudo que los chistes malos mejoren mi humor.
+I doubt that bad jokes will improve my mood.
+
+
+Adjective : *cars*	*autos*
+El criminal dudo antes de robar los autos.
+The criminal hesitated before stealing the cars.
+
+
+Verb : *saw*	*veía*
+Veía la propiedad y no podía detenerme de admirarla.
+I saw the property and couldn't stop admiring it.
+
+
+Determiner : *many*	*tantas*
+En la película, el héroe se presentó ante tantas enemigos.  
+In the movie, the hero faced so many enemies.
+
+
+Verb : *breathe*	*respirar*
+El cerdo respira mientras busca empleo.  
+The pig breathes while looking for a job.
+
+
+Verb : *sing*	*cantar*
+Los guardias del universo empiezan a cantar.
+The guards of the universe start to sing.
+
+
+Verb : *you work*	*trabajas*
+¿Sabías que la magia con la que trabajas es muy poderosa?
+Did you know that the magic you work with is very powerful?
+
+
+Adjective : *Shooting*	*disparo*
+El disparo de magia rompió la botella.
+The magic shot broke the bottle.
+
+
+Noun : *conversation*	*conversación*
+Tuvimos una conversación que cambia varias cosas.
+We had a conversation that changes several things.
+
+
+Noun : *smell*	*olor*
+El desayuno gratis tiene un olor delicioso.
+The free breakfast has a delicious smell.
+
+
+Adjective : *murderers*	*asesinos*
+María está asustada porque hay asesinos en la ciudad.
+Maria is scared because there are killers in the city.
+
+
+Adjective : *girl*	*muchacha*
+La muchacha dura mucho tiempo en aprender a manejar.
+The girl takes a long time to learn how to drive.
+
+
+Noun : *model*	*modelo*
+El modelo se llamaba Juan y siempre recordaba los números.  
+The model was called Juan and always remembered the numbers.
+
+
+Noun : *course*	*curso*
+Escucho atentamente en el curso que llamé interesante.
+I listen attentively in the course that I called interesting.
+
+
+Noun : *channel*	*canal*
+Perdimos el remo y el bote se fue a la deriva en el canal.
+We lost the oar and the boat drifted away in the canal.
+
+
+Noun : *rock*	*rock*
+La roca en el techo es obra de un genio.
+The rock on the roof is the work of a genius.
+
+
+Verb : *cry*	*llorar*
+Los americanos le dijeron al niño: "¡Aléjate y no empieces a llorar!"
+The Americans told the boy: "Step away and don't start crying!"
+
+
