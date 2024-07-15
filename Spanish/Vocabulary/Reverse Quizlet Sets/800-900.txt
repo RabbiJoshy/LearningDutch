@@ -1,0 +1,502 @@
+Noun : *army*	*ejército*
+El ejército implementó un nuevo sistema, pero fue una pena que no funcionara bien.
+The army implemented a new system, but it was a shame that it didn't work well.
+
+
+Noun : *future*	*futuro*
+Señorita, fuiste muy valiente y tu futuro será brillante.
+Miss, you were very brave and your future will be bright.
+
+
+Verb : *carry*	*llevar*
+Llevo a mi amigo al centro para ver un negocio.
+I take my friend to the center to see a business.
+
+
+Noun : *company*	*compañía*
+Voy a cambiar de compañía para empezar un nuevo trabajo.
+I am going to change companies to start a new job.
+
+
+Verb : *I come*	*venido*
+Claro, aquí tienes una oración:
+"Cuando ocurre algo importante, él ha venido y entra en la sala."
+"When something important happens, he has come and enters the room."
+
+
+Adjective : *ready*	*listos*
+Los estudiantes no son estúpidos, están listos para pedir permiso.  
+The students are not stupid, they are ready to ask for permission.
+
+
+Noun : *will*	*haremos*
+Haremos lo que suena divertido, como cuando fuiste al parque.
+We will do what sounds fun, like when you went to the park.
+
+
+Noun : *place*	*sitio*
+El sitio es bonito, vale la pena que andes por allí.
+The place is beautiful, it's worth walking around there.
+
+
+Verb : *see him*	*verlo*
+Quiero verlo en la llamada en línea.
+I want to see him on the online call.
+
+
+Verb : *position*	*puesto*
+El sistema vio que el puesto estaba vacío.
+The system saw that the position was empty.
+
+
+Verb : *position*	*puesto*
+He puesto un mensaje en la mesa por si ocurre algo.
+I have placed a message on the table in case something happens.
+
+
+Noun : *attention*	*atención*
+Fuiste muy amable al prestar atención a mi error.
+You were very kind to pay attention to my mistake.
+
+
+Conjunction : *but*	*sino*
+El sistema no es perfecto, sino que necesitamos que sean mejores.
+The system is not perfect, but we need them to be better.
+
+
+Verb : *change*	*cambiar*
+Es una pena que no pueda cambiar el pase.
+It's a shame that I can't change the pass.
+
+
+Noun : *mistake*	*error*
+Encontré un error en el puesto de trabajo.
+I found an error at the workstation.
+
+
+Adjective : *white*	*blanco*
+Presta atención al sitio blanco.
+Pay attention to the white place.
+
+
+Adjective : *queer*	*raro*
+El gato lindo hace algo raro cuando ocurre una tormenta.
+The cute cat does something strange when a storm happens.
+
+
+Noun : *words*	*palabras*
+Claro, aquí tienes una oración:
+"Con tu permiso, necesito algunas palabras para aclarar mi mente."
+"With your permission, I need some words to clear my mind."
+
+
+Verb : *arrive*	*llegó*
+Fuiste al parque y llegó un día lindo.
+You went to the park and a beautiful day arrived.
+
+
+Adjective : *salt*	*sal*
+El mató la sal cuando pase por la cocina.
+He killed the salt when he passed through the kitchen.
+
+
+Adjective : *salt*	*sal*
+Entendido, es imposible salir ahora.
+Understood, it is impossible to leave now.
+
+
+Verb : *happens*	*pase*
+Entra al parque y pase tiempo para ganar tranquilidad.
+Enter the park and spend time to gain tranquility.
+
+
+Noun : *mind*	*mente*
+Haremos una foto para recordar este momento en nuestra mente.
+We will take a photo to remember this moment in our mind.
+
+
+Noun : *system*	*sistema*
+El sistema del barco se rompió en mitad del viaje.
+The ship's system broke down in the middle of the trip.
+
+
+Noun : *movie*	*película*
+La película sobre el error en el negocio fue interesante.
+The movie about the mistake in the business was interesting.
+
+
+Verb : *go*	*anda*
+Mi novia anda por el parque.
+My girlfriend walks through the park.
+
+
+Pronoun : *it*	*ello*
+Ello es normal, no espere nada diferente.
+It is normal, do not expect anything different.
+
+
+Noun : *business*	*negocio*
+El sistema del negocio necesita más sal.
+The business system needs more salt.
+
+
+Noun : *business*	*negocio*
+El negocio de la tienda vale la pena, según la foto que vi.  
+The store's business is worth it, according to the photo I saw.
+
+
+Noun : *bride*	*novia*
+Mi novia vive en el piso de arriba, y me da pena no verla todos los días.
+My girlfriend lives on the floor above, and it makes me sad not to see her every day.
+
+
+Noun : *permission*	*permiso*
+Creí que tenía permiso para usar el puesto.
+I thought I had permission to use the position.
+
+
+Verb : *I believed*	*creí*
+Creí que el Grinch mató la navidad.
+I believed that the Grinch killed Christmas.
+
+
+Verb : *sounds*	*suena*
+El timbre suena cuando alguien abre la puerta para llevar el paquete.
+The doorbell rings when someone opens the door to deliver the package.
+
+
+Verb : *occurs*	*ocurre*
+El puesto abre cuando ocurre la feria.
+The stand opens when the fair occurs.
+
+
+Adjective : *official*	*oficial*
+No soy un oficial sino un escritor de palabras.
+I am not an official but a writer of words.
+
+
+Verb : *wait*	*espere*
+Espere hasta que llegó el coche blanco.
+Wait until the white car arrived.
+
+
+Noun : *air*	*aire*
+Estamos listos para ganar y sentir el aire fresco.
+We are ready to win and feel the fresh air.
+
+
+Verb : *killed*	*mató*
+El hombre mató a la serpiente en la mitad del camino sin pena.
+The man killed the snake in the middle of the road without remorse.
+
+
+Verb : *go back*	*regresar*
+Voy a regresar al centro después de terminar el negocio.
+I will return to the downtown after finishing the business.
+
+
+Verb : *saw*	*vio*
+El gato vio al ratón y lo mató con su trasero.
+The cat saw the mouse and killed it with its rear.
+
+
+Verb : *do it*	*hazlo*
+Hazlo ahora, cuando eras parte del ejército.
+Do it now, when you were part of the army.
+
+
+Adjective : *rear*	*trasero*
+El perro corre tras el gato, moviendo su trasero en el aire.
+The dog runs after the cat, wagging its rear in the air.
+
+
+Noun : *cluster*	*grupo*
+El grupo abre la película en el cine.
+The group opens the movie at the cinema.
+
+
+Adjective : *understood*	*entendido*
+He entendido lo que quieres decirle al grupo.
+I have understood what you want to tell the group.
+
+
+Verb : *Miss*	*señorita*
+La señorita nos dijo que haremos una visita a la compañía.
+The young lady told us that we will make a visit to the company.
+
+
+Noun : *music*	*música*
+Estamos listos para escuchar música, pero el ruido mató el ambiente.
+We are ready to listen to music, but the noise killed the mood.
+
+
+Verb : *bitch*	*perra*
+La perra busca atención tras la puerta.
+The dog seeks attention behind the door.
+
+
+Verb : *known*	*conoce*
+La señorita conoce al hombre que mató al perro.
+The young lady knows the man who killed the dog.
+
+
+Verb : *begin*	*empezar*
+Empieza en cinco segundos, hazlo ahora.
+Start in five seconds, do it now.
+
+
+Verb : *feel*	*siente*
+Ella se siente feliz cuando la llevan al centro.
+She feels happy when they take her to the center.
+
+
+Verb : *feel*	*siente*
+Siente su trasero en la silla y pasa la sal.
+Sit your bottom on the chair and pass the salt.
+
+
+Verb : *just*	*acabo*
+Acabo de ver un ejército raro.
+I just saw a strange army.
+
+
+Adjective : *idiot*	*estúpido*
+La compañía no quiere a alguien con una mente estúpida.
+The company does not want someone with a stupid mind.
+
+
+Adjective : *different*	*diferente*
+El futuro será diferente después del accidente.
+The future will be different after the accident.
+
+
+Noun : *suit*	*traje*
+Él no trajo el libro, sino que vio la película.  
+He didn't bring the book, but he watched the movie.
+
+
+Noun : *suit*	*traje*
+El traje que llevas es muy raro.
+The suit you are wearing is very strange.
+
+
+Noun : *mode*	*modo*
+Pase por aquí de modo que acabo rápido.
+Pass through here so that I finish quickly.
+
+
+Verb : *I found*	*encontré*
+Encontré a la persona que conoce y vio ayer.  
+I found the person you know and saw yesterday.
+
+
+Noun : *message*	*mensaje*
+Encontré un mensaje en mi buzón.
+I found a message in my mailbox.
+
+
+Adjective : *call*	*llamada*
+Recibí una llamada muy larga desde el centro.
+I received a very long call from the center.
+
+
+Adjective : *call*	*llamada*
+Recibí una llamada en la línea y necesito regresar.
+I received a call on the line and I need to return.
+
+
+Adjective : *Christmas*	*navidad*
+Podríamos tener una navidad normal este año.
+We could have a normal Christmas this year.
+
+
+Noun : *ages*	*eras*
+Eras el chico que todos conoce como estúpido.
+You were the boy everyone knows as stupid.
+
+
+Noun : *grief*	*pena*
+Me dio mucha pena no ganar la lotería de Navidad.
+I felt very sorry for not winning the Christmas lottery.
+
+
+Noun : *grief*	*pena*
+Sal y hazlo sin pena.
+Go out and do it without shame.
+
+
+Adjective : *long*	*largo*
+El piso es largo y funciona bien.
+The floor is long and works well.
+
+
+Adjective : *long*	*largo*
+Le hice una llamada larga para decirle la noticia.  
+I made a long call to tell him the news.
+
+
+Verb : *enters*	*entra*
+El gato entra por la puerta diferente.
+The cat enters through the different door.
+
+
+Noun : *floor*	*piso*
+Hay un error en el piso del centro.
+There is an error on the floor of the center.
+
+
+Noun : *floor*	*piso*
+El niño siente el piso frío en su trasero.
+The child feels the cold floor on his bottom.
+
+
+Noun : *photo*	*foto*
+Tomaste una foto cuando fuiste al aire libre.
+You took a photo when you went outdoors.
+
+
+Verb : *they said*	*dijeron*
+Me dijeron que la pena lo mató.
+They told me that the sorrow killed him.
+
+
+Adjective : *doctor*	*médico*
+El médico oficial sintió pena por el paciente.
+The official doctor felt sorry for the patient.
+
+
+Noun : *accident*	*accidente*
+Es una pena que el accidente no esté en la foto.
+It's a shame that the accident is not in the photo.
+
+
+Verb : *you were*	*fuiste*
+Fuiste a decirle sobre el negocio.
+You went to tell him about the business.
+
+
+Verb : *you were*	*fuiste*
+Fuiste muy amable en Navidad con tus palabras.
+You were very kind at Christmas with your words.
+
+
+Adjective : *impossible*	*imposible*
+Es imposible terminar el programa antes de Navidad.
+It is impossible to finish the program before Christmas.
+
+
+Auxiliary : *we could*	*podríamos*
+Podríamos hacerlo si el ejército nos ayuda.  
+We could do it if the army helps us.
+
+
+Noun : *line*	*línea*
+La línea del camino es muy larga, ¿fuiste por ahí?
+The line of the road is very long, did you go that way?
+
+
+Determiner : *own*	*propia*
+Acabo de ver una película que tiene su propia historia y el héroe mató al villano.
+I just watched a movie that has its own story and the hero killed the villain.
+
+
+Noun : *ship*	*barco*
+En segundos, fuiste al barco.
+In seconds, you went to the boat.
+
+
+Verb : *gain*	*ganar*
+Voy a decirle que no vale la pena ganar siempre.  
+I am going to tell him that it's not worth it to always win.
+
+
+Adjective : *normal*	*normal*
+Fuiste muy lindo, todo fue normal.
+You were very nice, everything was normal.
+
+
+Noun : *seconds*	*segundos*
+Mi novia llegó unos segundos después con un vestido diferente.
+My girlfriend arrived a few seconds later with a different dress.
+
+
+Verb : *lives*	*vive*
+Él ha entendido que vive por ello.
+He has understood that he lives for it.
+
+
+Noun : *half*	*mitad*
+Él conoce la mitad de la receta para hacer pan con sal.
+He knows half of the recipe to make bread with salt.
+
+
+Verb : *want*	*quiera*
+Podríamos llamar al médico cuando quiera.
+We could call the doctor whenever you want.
+
+
+Preposition : *after*	*tras*
+Tras llegar, decidió no regresar.
+After arriving, he decided not to return.
+
+
+Verb : *tell*	*decirle*
+Voy a empezar la llamada para decirle algo importante.
+I am going to start the call to tell him/her something important.
+
+
+Adjective : *nice*	*lindo*
+Voy a empezar un negocio lindo.
+I am going to start a nice business.
+
+
+Verb : *works*	*funciona*
+El sitio web de mi negocio funciona bien.
+The website of my business works well.
+
+
+Noun : *program*	*programa*
+El programa de televisión es muy lindo, pero necesito sal para la cena.
+The TV program is very nice, but I need salt for dinner.
+
+
+Verb : *came*	*vine*
+Vine a mi propia casa después de un largo viaje.
+I came to my own house after a long trip.
+
+
+Verb : *opens*	*abre*
+El grupo abre la puerta del piso.
+The group opens the door of the apartment.
+
+
+Auxiliary : *be*	*sean*
+Espero que se sientan bien al verlo.
+I hope you feel good seeing it.
+
+
+Verb : *pay*	*pagar*
+Él conoce el mensaje y necesita pagar.
+He knows the message and needs to pay.
+
+
+Noun : *photos*	*fotos*
+Estamos listos para tomar fotos normales.
+We are ready to take normal photos.
+
+
+Noun : *center*	*centro*
+Cuando eras niño, siempre querías ir al centro con tu traje favorito.
+When you were a child, you always wanted to go downtown with your favorite suit.
+
+
+Noun : *center*	*centro*
+El ejército va a empezar su entrenamiento en el centro.  
+The army is going to start its training in the center.
+
+
+Verb : *supposes*	*supone*
+El médico supone que no es una gripe, sino un resfriado.
+The doctor assumes that it is not the flu, but a cold.
+
+

@@ -1,0 +1,507 @@
+tiempo	*time*
+Nadie tiene otro tiempo para esperar.  
+Nobody has any more time to wait.
+
+
+verdad	*TRUE*
+Claro, aquí tienes una oración:
+"Podría estar diciendo la verdad."
+"He could be telling the truth."
+
+
+*estaba* (estar)	*was*
+Estaba en mi trabajo, pero no estaba seguro de qué hacer.
+I was at my job, but I wasn't sure what to do.
+
+
+mejor	*better*
+Claro, aquí tienes una oración:
+"Te dije que este es el mejor estado."
+"I told you that this is the best state."
+
+
+*están* (estar)	*are*
+Los niños están jugando hasta que puedes verlos.
+The children are playing until you can see them.
+
+
+*va* (ir)	*goes*
+Mañana tal vez va a llover.
+Tomorrow it might rain.
+
+
+hombre	*man*
+Claro, el hombre está sin sombrero.
+Of course, the man is without a hat.
+
+
+usted	*you*
+¿Usted siempre está feliz?
+Are you always happy?
+
+
+mucho	*a lot*
+El hombre me ayuda mucho a mí.
+The man helps me a lot.
+
+
+*hace* (hacer)	*does*
+Tú has hecho muchas cosas hoy.
+You have done many things today.
+
+
+entonces	*so*
+Estaba fuera, entonces decidí regresar.
+I was outside, so I decided to return.
+
+
+*siento* (sentir)	*I feel*
+Siento mucho hasta que llegues.
+I feel a lot until you arrive.
+
+
+*siento* (sentar)	*I feel*
+Claro, él quiere que me siento aquí.  
+Of course, he wants me to sit here.
+
+
+*tenemos* (tener)	*have*
+Nosotros tenemos claro el plan.
+We have the plan clear.
+
+
+*puedes* (poder)	*can*
+¿Puedes viajar a otro estado?
+Can you travel to another state?
+
+
+ahí	*there*
+Ahí es donde veo el parque desde mi ventana.
+There is where I see the park from my window.
+
+
+ti	*you*
+Solo quiero hablar contigo.  
+I just want to talk to you.
+
+
+vida	*life*
+La vida es más segura por la noche.
+Life is safer at night.
+
+
+ver	*see*
+Siempre me gusta ver las estrellas fuera.
+I always like to see the stars outside.
+
+
+alguien	*someone*
+Alguien ha cambiado mi vida.
+Someone has changed my life.
+
+
+*sr* (señor)	*Mr*
+Señor, ¿puedo hablar con usted ahí?
+Mr., can I talk to you there?
+
+
+hasta	*until*
+Hasta luego, Sr. García, espera aquí.
+Until later, Mr. García, wait here.
+
+
+sin	*without*
+Hablamos sobre el trabajo sin descanso.
+We talk about work without rest.
+
+
+mí	*my*
+Lo siento, señor, pero esto es para mí.
+I'm sorry, sir, but this is for me.
+
+
+solo	*only*
+Solo quiero otro libro entonces.  
+I only want another book then.
+
+
+*años* (año)	*years*
+El tiempo pasa muy rápido y en pocos años todo cambia.
+The time passes very quickly and in a few years everything changes.
+
+
+sobre	*about*
+Les hablé sobre uno de mis libros favoritos.
+I talked to them about one of my favorite books.
+
+
+decir	*say*
+Claro, aquí tienes una oración:
+"Ahí puedes ver y decir lo que piensas."
+"There you can see and say what you think."
+
+
+uno	*one*
+Nosotros hablamos con uno de los amigos.
+We talk with one of the friends.
+
+
+siempre	*always*
+Siempre siento que no tengo tiempo.
+I always feel that I don't have time.
+
+
+oh	*oh*
+Oh, ¿dónde está el otro libro?
+Oh, where is the other book?
+
+
+ir	*go*
+Voy a ir al tipo de tienda, ¿verdad?
+I am going to go to that type of store, right?
+
+
+*cosas* (cosa)	*things*
+Tú has comprado muchas cosas y están en la mesa.
+You have bought many things and they are on the table.
+
+
+*cosas* (coser)	*things*
+Claro, aquí tienes una oración:
+"Mi abuela quiere coser cosas para ti."
+"My grandmother wants to sew things for you."
+
+
+también	*also*
+A mí también me gusta estar fuera.
+I also like to be outside.
+
+
+antes	*before*
+Necesito encontrar un lugar antes de que oscurezca.
+I need to find a place before it gets dark.
+
+
+*has* (haber)	*you have*
+En ese momento, él ya había estado allí.
+At that moment, he had already been there.
+
+
+ni	*neither*
+María no quiere ni pizza ni pasta para su cumpleaños de diez años.
+María doesn't want either pizza or pasta for her ten-year-old birthday.
+
+
+*mis* (mi)	*my*
+Mis amigos siempre les ayudan.  
+My friends always help them.
+
+
+día	*day*
+Hoy hace calor y me siento feliz en este día.
+Today it is hot and I feel happy on this day.
+
+
+estar	*be*
+Estamos contentos porque tenemos muchas cosas.
+We are happy because we have many things.
+
+
+*estamos* (estar)	*we are*
+Estamos felices después de que estaba triste.  
+We are happy after I was sad.
+
+
+noche	*evening*
+Anoche estaba oscuro y han salido las estrellas.
+Last night it was dark and the stars have come out.
+
+
+nadie	*nobody*
+Nadie de nosotros vio a nuestro padre ayer.
+No one from us saw our father yesterday.
+
+
+*otra* (otro)	*other*
+Claro, aquí tienes una oración:
+"Espere un momento, por favor, necesito otra opinión de usted."
+"Wait a moment, please, I need another opinion from you."
+
+
+*quiere* (querer)	*wants*
+Ella también quiere una vida feliz.
+She also wants a happy life.
+
+
+*parece* (parecer)	*seems*
+Entonces, parece que el gato quiere salir fuera.
+So, it seems that the cat wants to go outside.
+
+
+nosotros	*us*
+Nosotros vamos a la tienda hasta que encontremos el tipo de pan que nos gusta.
+We go to the store until we find the type of bread we like.
+
+
+poco	*bit*
+Siempre digo poco.  
+I always say little.
+
+
+padre	*father*
+Mi padre quiere saber quién ha hecho esto.
+My father wants to know who has done this.
+
+
+trabajo	*job*
+Mi hijo tiene uno trabajo.
+My son has one job.
+
+
+*trabajo* (trabajar)	*job*
+Puedes saber más sobre el trabajo.
+You can learn more about the job.
+
+
+gente	*people*
+Después del hecho, la gente se fue a sus casas.
+After the event, the people went to their homes.
+
+
+*mira* (mirar)	*look*
+Mira, siento mucho, entonces vamos a hablar.
+Look, I'm very sorry, so let's talk.
+
+
+*vas* (ir)	*you go*
+¿Vas al parque donde siempre podemos jugar?
+Are you going to the park where we can always play?
+
+
+*sea* (ser)	*be*
+Después de la reunión, les dije que sea puntual.
+After the meeting, I told them to be punctual.
+
+
+les	*them*
+Después de la clase, ella les quiere dar un regalo.
+After the class, she wants to give them a gift.
+
+
+donde	*where*
+¿Dónde están tus libros, nosotros no los encontramos?
+Where are your books, we can't find them?
+
+
+mismo	*same*
+Mañana voy a la misma tienda que mí.
+Tomorrow I am going to the same store as me.
+
+
+*hecho* (hacer)	*made*
+En ese momento, todo lo que había hecho se quedó fuera.
+At that moment, everything I had done was left out.
+
+
+hecho	*made*
+Necesito que les muestres el hecho.
+I need you to show them the fact.
+
+
+ellos	*they*
+Ellos pasan por aquí, ¿usted los vio?
+They pass by here, did you see them?
+
+
+*dijo* (decir)	*said*
+Él dijo que estar aquí mucho tiempo.
+He said to be here for a long time.
+
+
+*pasa* (pasar)	*happens*
+Mis amigos están en la casa y no pasa nada.
+My friends are at the house and nothing is happening.
+
+
+dinero	*money*
+Él va a ver si tiene dinero.  
+He is going to see if he has money.
+
+
+hijo	*son*
+El hijo ha hecho amigos con la gente del barrio.
+The son has made friends with the people in the neighborhood.
+
+
+tal	*such*
+Si tal fuera el caso, podemos hablar.
+If such were the case, we can talk.
+
+
+otro	*other*
+El hombre llegó a un acuerdo con otro.
+The man reached an agreement with another.
+
+
+hablar	*talk*
+Mañana quiero hablar con otra persona.
+Tomorrow I want to talk with another person.
+
+
+seguro	*sure*
+Mi padre está seguro de que las cosas mejorarán.
+My father is sure that things will get better.
+
+
+claro	*clear*
+Claro, hijo, te daré dinero.  
+Of course, son, I will give you money.
+
+
+*estas* (este)	*are*
+Lo siento, ¿podrías decirme dónde estás?
+I'm sorry, could you tell me where you are?
+
+
+lugar	*place*
+Este lugar es el mejor para ver el mundo.
+This place is the best to see the world.
+
+
+mundo	*world*
+En este mundo, la vida no es ni fácil ni difícil.
+In this world, life is neither easy nor difficult.
+
+
+amigo	*friend*
+Mi amigo es un buen tipo en la vida.
+My friend is a good guy in life.
+
+
+*espera* (esperar)	*wait*
+Claro, aquí tienes una oración:
+"Espera un momento mientras busco la cosa para mí."
+"Wait a moment while I look for the thing for me."
+
+
+espera	*wait*
+Siento que la espera es segura.
+I feel that the wait is safe.
+
+
+mierda	*shit*
+El niño dijo que no quiere esa mierda.
+The boy said he doesn't want that crap.
+
+
+*han* (haber)	*they have*
+Han llegado ni antes ni después.
+They have arrived neither before nor after.
+
+
+*tus* (tu)	*your*
+Tus amigos saben que has hecho un buen trabajo.
+Your friends know that you have done a good job.
+
+
+*sabe* (saber)	*knows*
+¿Vas a decirme quién sabe lo que has hecho?
+Are you going to tell me who knows what you have done?
+
+
+después	*after*
+Después de la cena, jugamos otro juego, claro.  
+After dinner, we play another game, of course.
+
+
+momento	*moment*
+En ese momento, estaba feliz de estar con mi familia.
+In that moment, I was happy to be with my family.
+
+
+desde	*from*
+Desde el mismo día, no he vuelto después.  
+Since the same day, I haven't returned afterwards.
+
+
+fuera	*out*
+Fuera de la casa, había mierda en el jardín.
+Outside the house, there was poop in the garden.
+
+
+*fuera* (ir)	*out*
+Fuera con tus amigos y les compré helado.
+I went out with your friends and bought them ice cream.
+
+
+*fuera* (ser)	*out*
+Fuera de la casa, he hecho mi tarea mañana.
+Outside the house, I have done my homework for tomorrow.
+
+
+cosa	*stuff*
+La verdad es que esa cosa brilla en la noche.
+The truth is that thing shines at night.
+
+
+*cosa* (coser)	*stuff*
+Veo una cosa y también quiero coser.  
+I see a thing and also want to sew.
+
+
+tipo	*guy*
+Hay un tipo de trabajo ahí.
+There is a type of job there.
+
+
+mañana	*tomorrow*
+Mañana será un día bonito, ¡oh sí!
+Tomorrow will be a beautiful day, oh yes!
+
+
+*podemos* (poder)	*can*
+Podemos ver muchas cosas en la noche.
+We can see many things at night.
+
+
+*dije* (decir)	*said*
+Claro, aquí tienes una oración:
+"Dije que estas flores también son bonitas."
+"I said that these flowers are also beautiful."
+
+
+*gran* (grande)	*great*
+La cosa sabe a gran aventura.
+The thing tastes like a great adventure.
+
+
+*necesito* (necesitar)	*need*
+Necesito estar feliz en mi vida.
+I need to be happy in my life.
+
+
+*estado* (estar)	*state*
+El Sr. García siempre ha estado feliz.
+Mr. García has always been happy.
+
+
+estado	*state*
+Mira, he estado esperando para ver la película.
+Look, I have been waiting to see the movie.
+
+
+*podría* (poder)	*could*
+¿Podría tu hijo traer tus libros?
+Could your son bring your books?
+
+
+*acuerdo* (acordar)	*agreement*
+Ellos han llegado a un acuerdo sobre la cosa.
+They have reached an agreement about the thing.
+
+
+acuerdo	*agreement*
+Oh, usted está de acuerdo conmigo.
+Oh, you agree with me.
+
+

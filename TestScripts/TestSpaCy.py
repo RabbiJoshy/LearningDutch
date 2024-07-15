@@ -1,7 +1,7 @@
 import pandas as pd
 import spacy
 
-df = pd.read_csv('Frequency Lists/Spanish/Clean.csv').iloc[:100, :]
+df = pd.read_csv('../Frequency Lists/Spanish/Clean.csv').iloc[:100, :]
 # Load the Spanish spaCy model
 nlp = spacy.load("es_core_news_sm")
 

@@ -1,0 +1,502 @@
+llamar	*call*
+Voy a llamar al resto del equipo en el campo.  
+I am going to call the rest of the team in the field.
+
+
+*mala* (malo)	*bad*
+La comida adentro de la casa está mala, así que la dejamos frente a la puerta.
+The food inside the house is bad, so we left it in front of the door.
+
+
+mala	*bad*
+Ella tuvo un sueño malo antes de la prueba.
+She had a bad dream before the test.
+
+
+detrás	*behind*
+El daño en el campo está detrás de la casa.
+The damage in the field is behind the house.
+
+
+*viste* (ver)	*dresses*
+¿Viste la película que acaba de salir llamada "El Viaje"?
+Did you see the movie that just came out called "The Journey"?
+
+
+*dile* (decir)	*tell him*
+Dile que estuve pensando en lo que haría mañana.
+Tell him that I was thinking about what I would do tomorrow.
+
+
+*grandes* (grande)	*big*
+Los problemas grandes se acabó dado el esfuerzo de todos.  
+The big problems ended given everyone's effort.
+
+
+*recuerdas* (recordar)	*remember*
+¿Recuerdas el sueño que habías perdido?
+Do you remember the dream you had lost?
+
+
+real	*real*
+La ropa que oí en la tienda es real.
+The clothes I heard about in the store are real.
+
+
+*estaban* (estar)	*were*
+Estaban felices cuando miren los millones de estrellas en el cielo.
+They were happy when they saw the millions of stars in the sky.
+
+
+*mía* (mío)	*mine*
+Lamento que esta situación no hará feliz a mi amiga mía.
+I regret that this situation will not make my friend of mine happy.
+
+
+frente	*forehead*
+¿Recuerdas el campo frente a nuestra casa?
+Do you remember the field in front of our house?
+
+
+*perdido* (perder)	*lost*
+Me siento perdido y no quiero hacerte daño.
+I feel lost and I don't want to hurt you.
+
+
+*llamo* (llamar)	*called*
+Me llamo Ana y estaban comprando ropa.
+My name is Ana and they were buying clothes.
+
+
+*muertos* (muerto)	*dead*
+Probablemente es tonto tener miedo de los muertos.
+Probably it is silly to be afraid of the dead.
+
+
+*millones* (millón)	*millions*
+Hay millones de estrellas encima de nosotros, y no es tonto admirarlas.
+There are millions of stars above us, and it is not silly to admire them.
+
+
+asesino	*killer*
+El asesino real quisiera escapar.
+The real killer would like to escape.
+
+
+*asesino* (asesinar)	*killer*
+El asesino confesó al resto del grupo que había oído voces extrañas.
+The murderer confessed to the rest of the group that he had heard strange voices.
+
+
+sueño	*dream*
+Tengo un sueño donde hablo con muertos y me siento tonto.
+I have a dream where I talk to the dead and feel silly.
+
+
+*sueño* (soñar)	*dream*
+Detrás de mis ojos cerrados, estoy siendo guiado por un sueño.
+Behind my closed eyes, I am being guided by a dream.
+
+
+*quisiera* (querer)	*I'd like*
+Quisiera usar el teléfono, pero habría un problema.
+I would like to use the phone, but there would be a problem.
+
+
+*habría* (haber)	*there would be*
+Habría una habitación para ése.
+There would be a room for that one.
+
+
+*hará* (hacer)	*will*
+Probablemente, él hará una llamada mañana.
+He will probably make a call tomorrow.
+
+
+viaje	*journey*
+Querido amigo, espero que tuyo viaje sea maravilloso.
+Dear friend, I hope your trip is wonderful.
+
+
+*viaje* (viajar)	*journey*
+Me siento feliz cuando uso mi coche para un viaje.
+I feel happy when I use my car for a trip.
+
+
+probablemente	*probably*
+Probablemente quisiera una mala idea.
+I would probably want a bad idea.
+
+
+resto	*rest*
+He perdido el resto de las preguntas.
+I have lost the rest of the questions.
+
+
+*estaré* (estar)	*I will be*
+Estaré con las otras personas el resto del día.
+I will be with the other people for the rest of the day.
+
+
+maldición	*curse*
+La maldición cayó encima del avión.
+The curse fell on top of the plane.
+
+
+lamento	*lament*
+Lamento que mi sueño no pasara la prueba.
+I regret that my dream did not pass the test.
+
+
+*lamento* (lamentar)	*lament*
+Lamento llamar y causar daño.
+I regret calling and causing harm.
+
+
+muchacho	*young guy*
+El muchacho recuerda una mala experiencia.
+The boy remembers a bad experience.
+
+
+avión	*plane*
+El avión acabó la prueba.
+The plane finished the test.
+
+
+ropa	*clothes*
+He perdido la información sobre la ropa.
+I have lost the information about the clothes.
+
+
+fuerza	*force*
+El profesor tiene mucha fuerza.
+The teacher has a lot of strength.
+
+
+*fuerza* (forzar)	*force*
+El asesino está siendo llevado a la cárcel con fuerza.
+The murderer is being taken to jail with force.
+
+
+llamado	*called*
+Hay un lugar llamado Secreto que puedes visitar cuando quieras.
+There is a place called Secreto that you can visit whenever you want.
+
+
+*llamado* (llamar)	*called*
+El perro llamado Max tiene orejas grandes.
+The dog called Max has big ears.
+
+
+oído	*ear*
+He oído que el asesino sientes remordimiento.
+I have heard that the killer feels remorse.
+
+
+*oído* (oír)	*ear*
+Escuché un ruido detrás de mí durante el viaje.
+I heard a noise behind me during the trip.
+
+
+dado	*given*
+El dado está siendo querido por los niños.
+The die is being loved by the children.
+
+
+*dado* (dar)	*given*
+El mago me ha dado un libro llamado "La Maldición".
+The wizard has given me a book called "The Curse".
+
+
+encima	*on*
+El avión acaba de volar encima de la casa.
+The plane just flew over the house.
+
+
+negro	*black*
+El profesor tiene un avión negro.
+The teacher has a black airplane.
+
+
+usar	*wear*
+El muchacho tonto no sabe usar la computadora.
+The silly boy does not know how to use the computer.
+
+
+información	*information*
+La información sobre la ropa que viste es interesante.
+The information about the clothes you wear is interesting.
+
+
+*uds* (ustedes)	*You*
+Uds. se llaman los muertos.
+You all call yourselves the dead.
+
+
+*preguntas* (preguntar)	*questions*
+Claro, aquí tienes una oración:
+"He oído que tienes preguntas, ¿puedo decirte las respuestas?"
+"I've heard that you have questions, can I tell you the answers?"
+
+
+*preguntas* (pregunta)	*questions*
+El maestro llamado Juan siempre nos pide que hagamos preguntas en clase.
+The teacher called Juan always asks us to ask questions in class.
+
+
+*tuvo* (tener)	*had*
+El niño tuvo un día tranquilo, pero lamento que no pudo jugar.
+The boy had a calm day, but I regret that he couldn't play.
+
+
+secreto	*secret*
+Dile el secreto antes de que acabe la reunión.
+Tell him the secret before the meeting ends.
+
+
+*vuelve* (volver)	*comes back*
+Él vuelve con grandes noticias que habría querido compartir antes.
+He returns with big news that he would have wanted to share earlier.
+
+
+*miren* (mirar)	*look*
+Miren la prueba en las noticias.
+Look at the test on the news.
+
+
+*quieras* (querer)	*you want*
+Haz lo que quieras con la boca cerrada.
+Do whatever you want with your mouth closed.
+
+
+*haría* (hacer)	*would do*
+Haría cualquier cosa por ti, pero mi sueño acabó.
+I would do anything for you, but my dream ended.
+
+
+*acaba* (acabar)	*just*
+¿Te sientes querido cuando acaba el día?
+Do you feel loved when the day ends?
+
+
+*otras* (otro)	*others*
+Escuché otras canciones y fue un placer para mi oído.
+I listened to other songs and it was a pleasure for my ear.
+
+
+incluso	*even*
+Incluso el profesor tuvo una mala experiencia.
+Even the teacher had a bad experience.
+
+
+*sientes* (sentir)	*you feel*
+¿Te sientes bien al usar tu mano derecha?
+Do you feel good using your right hand?
+
+
+*sientes* (sentar)	*you feel*
+¿Te sientes con sueño? Hará bien descansar un poco.
+Do you feel sleepy? It will be good to rest a bit.
+
+
+*deberíamos* (deber)	*we should*
+Deberíamos llamar a la policía porque hay un asesino.
+We should call the police because there is a murderer.
+
+
+*haz* (hacer)	*beam*
+Haz el asunto y vuelve pronto.
+Do the task and come back soon.
+
+
+haz	*beam*
+Haz la tarea detrás del tonto.
+Do the homework behind the fool.
+
+
+*decirte* (decir)	*tell you*
+No quiero hacerte daño, solo quiero decirte que seas feliz.
+I don't want to hurt you, I just want to tell you to be happy.
+
+
+boca	*mouth*
+La prueba de la comida fue un placer para mi boca.
+The taste test of the food was a pleasure for my mouth.
+
+
+dolor	*pain*
+Tengo un sueño, pero el dolor no me deja decírtelo.
+I have a dream, but the pain doesn't let me tell you.
+
+
+baño	*bathroom*
+Claro, aquí tienes una oración:
+"El baño está cerrado, pero si tienes preguntas, usa la fuerza."
+"The bathroom is closed, but if you have questions, use force."
+
+
+*baño* (bañar)	*bathroom*
+Estuve perdido y no pude encontrar el baño.
+I was lost and couldn't find the bathroom.
+
+
+adentro	*inside*
+El dolor se siente menos adentro del campo.
+The pain feels less inside the field.
+
+
+profesor	*teacher*
+Puedes llamar al profesor cuando quieras.
+You can call the teacher whenever you want.
+
+
+habitación	*room*
+La habitación está al lado del baño, tonto.
+The room is next to the bathroom, silly.
+
+
+daño	*damage*
+Poner la planta adentro causó daño.
+Putting the plant inside caused damage.
+
+
+*daño* (dañar)	*damage*
+Quédate aquí, no haría daño a nadie.  
+Stay here, I wouldn't harm anyone.
+
+
+tuyo	*yours*
+La información que salió de tu boca es tuyo.
+The information that came out of your mouth is yours.
+
+
+*seas* (ser)	*be*
+Espero que seas mía, porque estuve esperando mucho tiempo.
+I hope you are mine, because I was waiting a long time.
+
+
+*noticias* (noticia)	*news*
+Las noticias dicen que encontraron una prueba contra el asesino.
+The news says they found evidence against the murderer.
+
+
+demás	*the rest*
+Los demás pasajeros del avión están muertos.
+The other passengers on the plane are dead.
+
+
+querido	*darling*
+Querido amigo, tengo un secreto para ti.
+Dear friend, I have a secret for you.
+
+
+*querido* (querer)	*darling*
+Querido amigo, hay diez personas adentro.
+Dear friend, there are ten people inside.
+
+
+duro	*hard*
+El trabajo en el campo es muy duro y puede causar daño.
+The work in the field is very hard and can cause damage.
+
+
+*duro* (durar)	*hard*
+El ruido acaba de empezar y no sé cuánto tiempo va a durar porque es muy duro para mis oídos.
+The noise just started and I don't know how long it will last because it is very hard on my ears.
+
+
+poner	*put*
+Quisiera que miren dónde poner el libro.
+I would like you to look where to put the book.
+
+
+prueba	*proof*
+La prueba está siendo un placer para todos.
+The test is being a pleasure for everyone.
+
+
+*prueba* (probar)	*proof*
+Voy a usar una prueba para ver si la comida está mala.
+I am going to use a test to see if the food is bad.
+
+
+*mire* (mirar)	*Look*
+Mire, no tengo respuestas a sus preguntas sobre el secreto.
+Look, I don't have answers to your questions about the secret.
+
+
+tonto	*silly*
+Eres tonto por decir esas cosas con otras personas en la boca.
+You are silly for saying those things with other people's words in your mouth.
+
+
+campo	*field*
+El dolor en el campo llamado "La Esperanza" es muy fuerte.
+The pain in the field called "La Esperanza" is very strong.
+
+
+*campo* (campar)	*field*
+Escuché un ruido en el campo y sentí algo encima de mi oído.
+I heard a noise in the field and felt something on top of my ear.
+
+
+*siendo* (ser)	*being*
+Él está siendo dado un trabajo duro.
+He is being given a hard job.
+
+
+diez	*ten*
+Haz una lista con diez puntos de información.
+Make a list with ten points of information.
+
+
+*ése* (ese)	*that*
+Ése tiene diez libros más que los demás.
+That one has ten more books than the others.
+
+
+tranquilo	*don't worry*
+El hombre tranquilo usó su fuerza para evitar el daño.
+The calm man used his strength to avoid the damage.
+
+
+asunto	*affair*
+El profesor explicó el asunto a los demás.
+The teacher explained the matter to the others.
+
+
+*acabó* (acabar)	*just*
+Ella recuerda cuando el partido en el campo acabó.
+She remembers when the game in the field ended.
+
+
+*quédate* (quedar)	*stay*
+Quédate aquí, uds necesitan descansar porque tienen mucho sueño.
+Stay here, you all need to rest because you are very sleepy.
+
+
+derecho	*right*
+El perro está adentro de la casa porque hace mala weather afuera.
+The dog is inside the house because the weather is bad outside.
+
+
+placer	*pleasure*
+Haz el asunto con placer.
+Do the task with pleasure.
+
+
+*recuerda* (recordar)	*remember*
+Recuerda que el dolor que sientes pasará.
+Remember that the pain you feel will pass.
+
+
+*estuve* (estar)	*I have been*
+Estuve tranquilo después del daño.  
+I was calm after the damage.
+
+
+*tratando* (tratar)	*treating*
+El muchacho estará tratando de aprender español.
+The boy will be trying to learn Spanish.
+
+

@@ -1,0 +1,505 @@
+Noun : *dad*	*papá*
+Papá tenía dos hombres trabajando en el jardín.
+Dad had two men working in the garden.
+
+
+Verb : *have*	*tener*
+La mujer debe tener paciencia.
+The woman must have patience.
+
+
+Verb : *says*	*dice*
+El policía dice que es cierto.
+The police officer says that it is true.
+
+
+Determiner : *mine*	*mío*
+El perro que tienes es mío desde hace tres años.
+The dog you have has been mine for three years.
+
+
+Adjective : *do you believe*	*crees*
+Quizá debes hacer lo que crees correcto.
+Maybe you should do what you believe is right.
+
+
+Adjective : *good*	*buena*
+La buena relación entre ellos requiere cuidado.
+The good relationship between them requires care.
+
+
+Adjective : *good*	*buena*
+Ellos pueden ver que tengo una buena idea.
+They can see that I have a good idea.
+
+
+Verb : *like*	*gusta*
+A ellos les gusta la van porque llega en diez minutos.
+They like the van because it arrives in ten minutes.
+
+
+Determiner : *our*	*nuestro*
+Nuestro amigo, quien hizo la cena, es muy amable.
+Our friend, who made dinner, is very kind.
+
+
+Adjective : *new*	*nuevo*
+Claro, aquí tienes una oración:
+Es tarde, pero no importa porque tengo un nuevo libro.
+It's late, but it doesn't matter because I have a new book.
+
+
+Auxiliary : *be*	*será*
+Oye, ese libro será mío.  
+Hey, that book will be mine.
+
+
+Verb : *doing*	*haciendo*
+Estoy haciendo tres tareas y es una buena idea.
+I am doing three tasks and it is a good idea.
+
+
+Noun : *days*	*días*
+Los días sin una idea están muertos.
+The days without an idea are dead.
+
+
+Noun : *name*	*nombre*
+Mi nombre debe estar en toda la lista.
+My name must be on the entire list.
+
+
+Adjective : *good*	*buen*
+Mi madre oye un buen consejo.
+My mother hears good advice.
+
+
+Auxiliary : *there was*	*había*
+Había unos libros que debo leer.
+There were some books that I must read.
+
+
+Verb : *come*	*ven*
+Ven allí, tienen algo interesante.
+Come there, they have something interesting.
+
+
+Verb : *come*	*ven*
+Ven todas las mañanas y resolveremos el problema.
+Come every morning and we will solve the problem.
+
+
+Numeral : *three*	*tres*
+Hay que tener cuidado con los tres gatos.  
+We must be careful with the three cats.
+
+
+Adverb : *less*	*menos*
+Hemos ido al parque menos veces este mes.
+We have gone to the park fewer times this month.
+
+
+Auxiliary : *has to*	*debe*
+Ven cada día y debe estudiar.
+Come every day and must study.
+
+
+Verb : *had*	*tenía*
+Tenía demasiado trabajo y no había tiempo para descansar.
+I had too much work and there was no time to rest.
+
+
+Adverb : *evil*	*mal*
+Él dice que no le gusta porque está mal.  
+He says he doesn't like it because it's bad.
+
+
+Pronoun : *with me*	*conmigo*
+Claro, aquí tienes una oración:
+¿Has visto más películas conmigo?
+Have you seen more movies with me?
+
+
+Noun : *mother*	*madre*
+Había una buena madre en la casa.
+There was a good mother in the house.
+
+
+Adverb : *today*	*hoy*
+Hoy hizo calor, pero mañana será fresco.
+Today it was hot, but tomorrow it will be cool.
+
+
+Pronoun : *who*	*quien*
+¿Quién es la chica amiga mía?
+Who is the girl friend of mine?
+
+
+Auxiliary : *been*	*sido*
+Ella ha sido una mujer llena de amor.
+She has been a woman full of love.
+
+
+Proper noun : *mother*	*mamá*
+Mamá, toda la comida está para usted.
+Mom, all the food is for you.
+
+
+Verb : *have*	*tienen*
+Allí tienen lo que hizo Juan.
+There they have what Juan made.
+
+
+Adverb : *then*	*luego*
+Luego, quiero saber qué parte te gusta más.  
+Later, I want to know which part you like the most.
+
+
+Pronoun : *all*	*todas*
+Todas las mujeres están entre los árboles.
+All the women are among the trees.
+
+
+Adverb : *over there*	*allí*
+Allí han sido menos felices.
+They have been less happy there.
+
+
+Determiner : *all*	*toda*
+Toda esta comida es tanto deliciosa como saludable.
+All this food is both delicious and healthy.
+
+
+Noun : *hour*	*hora*
+No tengo idea de qué hora puede haber sido.
+I have no idea what time it could have been.
+
+
+Noun : *women*	*mujer*
+La mujer está haciendo lo que hizo ayer.
+The woman is doing what she did yesterday.
+
+
+Adjective : *seen*	*visto*
+Hemos visto a la familia en el parque.
+We have seen the family in the park.
+
+
+Adjective : *you do*	*haces*
+¿Haces algún favor mío?
+Do you do any favor of mine?
+
+
+Verb : *matters*	*importa*
+No me importa de qué lado estás, alguna solución encontraremos.
+It doesn't matter to me which side you're on, we'll find some solution.
+
+
+Pronoun : *with you*	*contigo*
+Claro, aquí tienes una oración:
+"Quiero hablar contigo sobre algún asunto serio."
+"I want to talk with you about some serious matter."
+
+
+Verb : *go*	*ve*
+¿Ustedes ven la película esta tarde?
+Do you all see the movie this afternoon?
+
+
+Verb : *go*	*ve*
+Ve con papá al parque, pero vuelve en menos de una hora.
+Go with dad to the park, but come back in less than an hour.
+
+
+Adverb : *late*	*tarde*
+La chica llegó tarde y los hombres ya se habían ido.
+The girl arrived late and the men had already left.
+
+
+Adverb : *late*	*tarde*
+La chica tarda más en llegar.
+The girl takes longer to arrive.
+
+
+Verb : *hey*	*oye*
+Oye, ve a saludar con un "buenas".
+Listen, go say hello with a "good day".
+
+
+Noun : *part*	*parte*
+Estoy haciendo unos pasteles y tú puedes ser parte.
+I am making some cakes and you can be a part.
+
+
+Noun : *part*	*parte*
+Todas las personas van a la parte del parque.
+All the people go to the part of the park.
+
+
+Auxiliary : *to have*	*haber*
+Hay un problema serio y es mal.
+There is a serious problem and it is bad.
+
+
+Noun : *men*	*hombres*
+Unos hombres llegaron tarde.
+Some men arrived late.
+
+
+Noun : *problem*	*problema*
+La chica debe resolver el problema.
+The girl must solve the problem.
+
+
+Adverb : *further*	*mas*
+Necesito más amor allí.  
+I need more love there.
+
+
+Verb : *know*	*saber*
+Nuestro profesor quiere saber parte de la historia.
+Our teacher wants to know part of the story.
+
+
+Verb : *wanted to*	*quería*
+Quería saber tu nombre porque te he visto antes.
+I wanted to know your name because I have seen you before.
+
+
+Adverb : *still*	*aún*
+Aún debo hacer una buena tarea.
+I still have to do a good task.
+
+
+Noun : *times*	*veces*
+A veces le digo a la mujer que es muy amable.
+Sometimes I tell the woman that she is very kind.
+
+
+Determiner : *our*	*nuestra*
+Nuestra familia hace toda la comida juntos.
+Our family makes all the food together.
+
+
+Verb : *do it*	*hacerlo*
+Voy a hacerlo más tarde.
+I am going to do it later.
+
+
+Determiner : *each*	*cada*
+Cada día somos demasiado felices.
+Each day we are too happy.
+
+
+Verb : *did*	*hizo*
+Había cierto encanto en lo que hizo.
+There was a certain charm in what he did.
+
+
+Verb : *I see*	*veo*
+Realmente veo mal sin mis gafas.
+I really see poorly without my glasses.
+
+
+Adverb : *so much*	*tanto*
+Hay tanto que ver allí en el nuevo parque.
+There is so much to see there in the new park.
+
+
+Noun : *reason*	*razón*
+Mis amigos y yo creemos que los hombres tienen razón.
+My friends and I believe that the men are right.
+
+
+Pronoun : *you*	*ustedes*
+¿Ustedes creen que las manzanas son buenas?
+Do you all believe that apples are good?
+
+
+Noun : *idea*	*idea*
+Los hombres de la familia tienen una buena idea.
+The men of the family have a good idea.
+
+
+Determiner : *those*	*esos*
+Esos libros entre los estantes no importan.
+Those books between the shelves do not matter.
+
+
+Auxiliary : *go*	*van*
+Ellos van al parque porque la idea les hizo felices.
+They go to the park because the idea made them happy.
+
+
+Adverb : *maybe*	*quizá*
+Quizá cada día te quiero más, cariño.
+Maybe each day I love you more, darling.
+
+
+Auxiliary : *I must*	*debo*
+Debo saber lo que digo.
+I must know what I say.
+
+
+Determiner : *some*	*alguna*
+Alguna vez has sido más feliz?
+Have you ever been happier?
+
+
+Determiner : *TRUE*	*cierto*
+Allá, digo que es cierto.
+Over there, I say that it is true.
+
+
+Proper noun : *You*	*ud*
+¿Cómo se llama usted y qué pasó con su nombre?  
+What is your name and what happened to your name?
+
+
+Adjective : *dead*	*muerto*
+El gato está muerto porque no tuvo cuidado y salió tarde.
+The cat is dead because it wasn't careful and went out late.
+
+
+Adjective : *dead*	*muerto*
+El gato está muerto porque lo hizo hacerlo.
+The cat is dead because he made him do it.
+
+
+Determiner : *some*	*unos*
+Unos días serán buenas oportunidades para aprender.
+Some days will be good opportunities to learn.
+
+
+Pronoun : *these*	*estos*
+Estos libros, digo, son de mi madre.
+These books, I say, are my mother's.
+
+
+Verb : *go out*	*salir*
+Mis amigos y yo salimos ayer y lo pasamos muy bien.
+My friends and I went out yesterday and had a great time.
+
+
+Noun : *police*	*policía*
+Hemos llamado a la policía para saber qué pasó.
+We have called the police to find out what happened.
+
+
+Adverb : *really*	*realmente*
+Realmente, tengo alguna duda sobre unos temas.
+Really, I have some doubts about a few topics.
+
+
+Adverb : *too much*	*demasiado*
+Es demasiado tarde para recordar su nombre a esta hora.
+It's too late to remember his name at this hour.
+
+
+Noun : *family*	*familia*
+Oye, mi familia quiere hacerlo juntos.
+Listen, my family wants to do it together.
+
+
+Auxiliary : *they can*	*pueden*
+Entre alguna de las opciones, pueden elegir la que prefieran.
+Between some of the options, they can choose the one they prefer.
+
+
+Noun : *head*	*cabeza*
+Claro, aquí tienes una oración:
+"¿Crees que me duele tanto la cabeza?"
+"Do you think my head hurts so much?"
+
+
+Auxiliary : *we have*	*hemos*
+Oye, hemos encontrado el libro que tenía.
+Hey, we have found the book that he/she had.
+
+
+Noun : *friends*	*amigos*
+Mis amigos están muertos, ¿y usted?
+My friends are dead, and you?
+
+
+Adjective : *girl*	*chica*
+Oye, chica, ¿cómo han sido tus días?
+Hey, girl, how have your days been?
+
+
+Adjective : *girl*	*chica*
+La chica ha sido muy amable y su nombre es Ana.
+The girl has been very kind and her name is Ana.
+
+
+Noun : *dear*	*cariño*
+Hoy tengo una idea, cariño.
+Today I have an idea, dear.
+
+
+Noun : *side*	*lado*
+Somos amigos y siempre estamos al lado.  
+We are friends and always by each other's side.
+
+
+Adverb : *there*	*allá*
+Me gusta ir allá por la tarde.
+I like to go there in the afternoon.
+
+
+Preposition : *between*	*entre*
+Entre amigos, quizá podamos resolver el problema.
+Between friends, maybe we can solve the problem.
+
+
+Noun : *minutes*	*minutos*
+Claro, aquí tienes una oración:
+"Puedes haber pasado unos minutos conmigo."
+"You could have spent a few minutes with me."
+
+
+Verb : *say*	*digo*
+Digo "te quiero" demasiadas veces.
+I say "I love you" too many times.
+
+
+Determiner : *some*	*algún*
+María ve algún libro que quería comprar.
+María sees some book that she wanted to buy.
+
+
+Adjective : *Serious*	*serio*
+Él tiene una idea seria allí.
+He has a serious idea there.
+
+
+Adjective : *careful*	*cuidado*
+Ten cuidado cuando estés haciendo las cosas, y ten buenas intenciones.
+Be careful when you are doing things, and have good intentions.
+
+
+Adjective : *careful*	*cuidado*
+Ten cuidado, esto es muy serio.  
+Be careful, this is very serious.
+
+
+Verb : *passed*	*pasó*
+Él no supo qué pasó con su nombre.
+He didn't know what happened with his name.
+
+
+Adjective : *hello good*	*buenas*
+Ella hizo un trabajo con buenas notas y mucho cuidado.
+She did a job with good grades and a lot of care.
+
+
+Auxiliary : *are*	*somos*
+Somos del lado de la buena gente.
+We are on the side of good people.
+
+
+Noun : *love*	*amor*
+Ustedes pueden hacerlo con amor.
+You can do it with love.
+
+

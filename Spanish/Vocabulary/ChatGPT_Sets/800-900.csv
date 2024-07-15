@@ -1,0 +1,233 @@
+,Unnamed: 0,Spanish,show,lemma,ChatGPT_Sentence
+0,800,ejército,ejército,ejército,"El ejército implementó un nuevo sistema, pero fue una pena que no funcionara bien.
+The army implemented a new system, but it was a shame that it didn't work well."
+1,801,futuro,futuro,futuro,"Señorita, fuiste muy valiente y tu futuro será brillante.
+Miss, you were very brave and your future will be bright."
+2,802,llevar,llevar,llevar,"Llevo a mi amigo al centro para ver un negocio.
+I take my friend to the center to see a business."
+3,803,compañía,compañía,compañía,"Voy a cambiar de compañía para empezar un nuevo trabajo.
+I am going to change companies to start a new job."
+4,804,venido,*venido* (venir),venir,"Claro, aquí tienes una oración:
+
+""Cuando ocurre algo importante, él ha venido y entra en la sala.""
+
+""When something important happens, he has come and enters the room."""
+5,805,listos,*listos* (listo),listo,"Los estudiantes no son estúpidos, están listos para pedir permiso.  
+The students are not stupid, they are ready to ask for permission."
+6,806,haremos,*haremos* (hacer),hacer,"Haremos lo que suena divertido, como cuando fuiste al parque.
+
+We will do what sounds fun, like when you went to the park."
+7,807,sitio,sitio,sitio,"El sitio es bonito, vale la pena que andes por allí.
+The place is beautiful, it's worth walking around there."
+8,808,verlo,*verlo* (ver),ver,"Quiero verlo en la llamada en línea.
+I want to see him on the online call."
+9,809,puesto,puesto,puesto,"El sistema vio que el puesto estaba vacío.
+The system saw that the position was empty."
+10,810,puesto,*puesto* (poner),poner,"He puesto un mensaje en la mesa por si ocurre algo.
+
+I have placed a message on the table in case something happens."
+11,811,atención,atención,atención,"Fuiste muy amable al prestar atención a mi error.
+You were very kind to pay attention to my mistake."
+12,812,sino,sino,sino,"El sistema no es perfecto, sino que necesitamos que sean mejores.
+
+The system is not perfect, but we need them to be better."
+13,813,cambiar,cambiar,cambiar,"Es una pena que no pueda cambiar el pase.
+
+It's a shame that I can't change the pass."
+14,814,error,error,error,"Encontré un error en el puesto de trabajo.
+I found an error at the workstation."
+15,815,blanco,blanco,blanco,"Presta atención al sitio blanco.
+
+Pay attention to the white place."
+16,816,raro,raro,raro,"El gato lindo hace algo raro cuando ocurre una tormenta.
+The cute cat does something strange when a storm happens."
+17,817,palabras,*palabras* (palabra),palabra,"Claro, aquí tienes una oración:
+
+""Con tu permiso, necesito algunas palabras para aclarar mi mente.""
+
+""With your permission, I need some words to clear my mind."""
+18,818,llegó,*llegó* (llegar),llegar,"Fuiste al parque y llegó un día lindo.
+You went to the park and a beautiful day arrived."
+19,819,sal,sal,sal,"El mató la sal cuando pase por la cocina.
+He killed the salt when he passed through the kitchen."
+20,820,sal,*sal* (salir),salir,"Entendido, es imposible salir ahora.
+
+Understood, it is impossible to leave now."
+21,821,pase,*pase* (pasar),pasar,"Entra al parque y pase tiempo para ganar tranquilidad.
+Enter the park and spend time to gain tranquility."
+22,822,mente,mente,mente,"Haremos una foto para recordar este momento en nuestra mente.
+We will take a photo to remember this moment in our mind."
+23,823,sistema,sistema,sistema,"El sistema del barco se rompió en mitad del viaje.
+The ship's system broke down in the middle of the trip."
+24,824,película,película,película,"La película sobre el error en el negocio fue interesante.
+The movie about the mistake in the business was interesting."
+25,825,anda,*anda* (andar),andar,"Mi novia anda por el parque.
+My girlfriend walks through the park."
+26,826,ello,ello,ello,"Ello es normal, no espere nada diferente.
+It is normal, do not expect anything different."
+27,827,negocio,negocio,negocio,"El sistema del negocio necesita más sal.
+The business system needs more salt."
+28,828,negocio,*negocio* (negociar),negociar,"El negocio de la tienda vale la pena, según la foto que vi.  
+The store's business is worth it, according to the photo I saw."
+29,829,novia,novia,novia,"Mi novia vive en el piso de arriba, y me da pena no verla todos los días.
+My girlfriend lives on the floor above, and it makes me sad not to see her every day."
+30,830,permiso,permiso,permiso,"Creí que tenía permiso para usar el puesto.
+I thought I had permission to use the position."
+31,831,creí,*creí* (creer),creer,"Creí que el Grinch mató la navidad.
+
+I believed that the Grinch killed Christmas."
+32,832,suena,*suena* (sonar),sonar,"El timbre suena cuando alguien abre la puerta para llevar el paquete.
+The doorbell rings when someone opens the door to deliver the package."
+33,833,ocurre,*ocurre* (ocurrir),ocurrir,"El puesto abre cuando ocurre la feria.
+The stand opens when the fair occurs."
+34,834,oficial,oficial,oficial,"No soy un oficial sino un escritor de palabras.
+I am not an official but a writer of words."
+35,835,espere,*espere* (esperar),esperar,"Espere hasta que llegó el coche blanco.
+Wait until the white car arrived."
+36,836,aire,aire,aire,"Estamos listos para ganar y sentir el aire fresco.
+
+We are ready to win and feel the fresh air."
+37,837,mató,*mató* (matar),matar,"El hombre mató a la serpiente en la mitad del camino sin pena.
+The man killed the snake in the middle of the road without remorse."
+38,838,regresar,regresar,regresar,"Voy a regresar al centro después de terminar el negocio.
+I will return to the downtown after finishing the business."
+39,839,vio,*vio* (ver),ver,"El gato vio al ratón y lo mató con su trasero.
+The cat saw the mouse and killed it with its rear."
+40,840,hazlo,*hazlo* (hacer),hacer,"Hazlo ahora, cuando eras parte del ejército.
+
+Do it now, when you were part of the army."
+41,841,trasero,trasero,trasero,"El perro corre tras el gato, moviendo su trasero en el aire.
+The dog runs after the cat, wagging its rear in the air."
+42,842,grupo,grupo,grupo,"El grupo abre la película en el cine.
+The group opens the movie at the cinema."
+43,843,entendido,*entendido* (entender),entender,"He entendido lo que quieres decirle al grupo.
+I have understood what you want to tell the group."
+44,844,señorita,señorita,señorita,"La señorita nos dijo que haremos una visita a la compañía.
+The young lady told us that we will make a visit to the company."
+45,845,música,música,música,"Estamos listos para escuchar música, pero el ruido mató el ambiente.
+We are ready to listen to music, but the noise killed the mood."
+46,846,perra,perra,perra,"La perra busca atención tras la puerta.
+The dog seeks attention behind the door."
+47,847,conoce,*conoce* (conocer),conocer,"La señorita conoce al hombre que mató al perro.
+The young lady knows the man who killed the dog."
+48,848,empezar,empezar,empezar,"Empieza en cinco segundos, hazlo ahora.
+
+Start in five seconds, do it now."
+49,849,siente,*siente* (sentir),sentir,"Ella se siente feliz cuando la llevan al centro.
+She feels happy when they take her to the center."
+50,850,siente,*siente* (sentar),sentar,"Siente su trasero en la silla y pasa la sal.
+
+Sit your bottom on the chair and pass the salt."
+51,851,acabo,*acabo* (acabar),acabar,"Acabo de ver un ejército raro.
+
+I just saw a strange army."
+52,852,estúpido,estúpido,estúpido,"La compañía no quiere a alguien con una mente estúpida.
+The company does not want someone with a stupid mind."
+53,853,diferente,diferente,diferente,"El futuro será diferente después del accidente.
+The future will be different after the accident."
+54,854,traje,*traje* (traer),traer,"Él no trajo el libro, sino que vio la película.  
+He didn't bring the book, but he watched the movie."
+55,855,traje,traje,traje,"El traje que llevas es muy raro.
+The suit you are wearing is very strange."
+56,856,modo,modo,modo,"Pase por aquí de modo que acabo rápido.
+
+Pass through here so that I finish quickly."
+57,857,encontré,*encontré* (encontrar),encontrar,"Encontré a la persona que conoce y vio ayer.  
+I found the person you know and saw yesterday."
+58,858,mensaje,mensaje,mensaje,"Encontré un mensaje en mi buzón.
+I found a message in my mailbox."
+59,859,llamada,llamada,llamada,"Recibí una llamada muy larga desde el centro.
+
+I received a very long call from the center."
+60,860,llamada,*llamada* (llamar),llamar,"Recibí una llamada en la línea y necesito regresar.
+
+I received a call on the line and I need to return."
+61,861,navidad,navidad,navidad,"Podríamos tener una navidad normal este año.
+
+We could have a normal Christmas this year."
+62,862,eras,*eras* (ser),ser,"Eras el chico que todos conoce como estúpido.
+You were the boy everyone knows as stupid."
+63,863,pena,pena,pena,"Me dio mucha pena no ganar la lotería de Navidad.
+I felt very sorry for not winning the Christmas lottery."
+64,864,pena,*pena* (penar),penar,"Sal y hazlo sin pena.
+Go out and do it without shame."
+65,865,largo,largo,largo,"El piso es largo y funciona bien.
+The floor is long and works well."
+66,866,largo,*largo* (largar),largar,"Le hice una llamada larga para decirle la noticia.  
+I made a long call to tell him the news."
+67,867,entra,*entra* (entrar),entrar,"El gato entra por la puerta diferente.
+The cat enters through the different door."
+68,868,piso,piso,piso,"Hay un error en el piso del centro.
+There is an error on the floor of the center."
+69,869,piso,*piso* (pisar),pisar,"El niño siente el piso frío en su trasero.
+The child feels the cold floor on his bottom."
+70,870,foto,foto,foto,"Tomaste una foto cuando fuiste al aire libre.
+You took a photo when you went outdoors."
+71,871,dijeron,*dijeron* (decir),decir,"Me dijeron que la pena lo mató.
+
+They told me that the sorrow killed him."
+72,872,médico,médico,médico,"El médico oficial sintió pena por el paciente.
+The official doctor felt sorry for the patient."
+73,873,accidente,accidente,accidente,"Es una pena que el accidente no esté en la foto.
+It's a shame that the accident is not in the photo."
+74,874,fuiste,*fuiste* (ir),ir,"Fuiste a decirle sobre el negocio.
+
+You went to tell him about the business."
+75,875,fuiste,*fuiste* (ser),ser,"Fuiste muy amable en Navidad con tus palabras.
+
+You were very kind at Christmas with your words."
+76,876,imposible,imposible,imposible,"Es imposible terminar el programa antes de Navidad.
+It is impossible to finish the program before Christmas."
+77,877,podríamos,*podríamos* (poder),poder,"Podríamos hacerlo si el ejército nos ayuda.  
+We could do it if the army helps us."
+78,878,línea,línea,línea,"La línea del camino es muy larga, ¿fuiste por ahí?
+The line of the road is very long, did you go that way?"
+79,879,propia,*propia* (propio),propio,"Acabo de ver una película que tiene su propia historia y el héroe mató al villano.
+
+I just watched a movie that has its own story and the hero killed the villain."
+80,880,barco,barco,barco,"En segundos, fuiste al barco.
+
+In seconds, you went to the boat."
+81,881,ganar,ganar,ganar,"Voy a decirle que no vale la pena ganar siempre.  
+I am going to tell him that it's not worth it to always win."
+82,882,normal,normal,normal,"Fuiste muy lindo, todo fue normal.
+
+You were very nice, everything was normal."
+83,883,segundos,*segundos* (segundo),segundo,"Mi novia llegó unos segundos después con un vestido diferente.
+My girlfriend arrived a few seconds later with a different dress."
+84,884,vive,*vive* (vivir),vivir,"Él ha entendido que vive por ello.
+
+He has understood that he lives for it."
+85,885,mitad,mitad,mitad,"Él conoce la mitad de la receta para hacer pan con sal.
+He knows half of the recipe to make bread with salt."
+86,886,quiera,*quiera* (querer),querer,"Podríamos llamar al médico cuando quiera.
+
+We could call the doctor whenever you want."
+87,887,tras,tras,tras,"Tras llegar, decidió no regresar.
+After arriving, he decided not to return."
+88,888,decirle,*decirle* (decir),decir,"Voy a empezar la llamada para decirle algo importante.
+I am going to start the call to tell him/her something important."
+89,889,lindo,lindo,lindo,"Voy a empezar un negocio lindo.
+I am going to start a nice business."
+90,890,funciona,*funciona* (funcionar),funcionar,"El sitio web de mi negocio funciona bien.
+The website of my business works well."
+91,891,programa,programa,programa,"El programa de televisión es muy lindo, pero necesito sal para la cena.
+The TV program is very nice, but I need salt for dinner."
+92,892,vine,*vine* (venir),venir,"Vine a mi propia casa después de un largo viaje.
+I came to my own house after a long trip."
+93,893,abre,*abre* (abrir),abrir,"El grupo abre la puerta del piso.
+The group opens the door of the apartment."
+94,894,sean,*sean* (ser),ser,"Espero que se sientan bien al verlo.
+
+I hope you feel good seeing it."
+95,895,pagar,pagar,pagar,"Él conoce el mensaje y necesita pagar.
+
+He knows the message and needs to pay."
+96,896,fotos,*fotos* (foto),foto,"Estamos listos para tomar fotos normales.
+We are ready to take normal photos."
+97,897,centro,centro,centro,"Cuando eras niño, siempre querías ir al centro con tu traje favorito.
+When you were a child, you always wanted to go downtown with your favorite suit."
+98,898,centro,*centro* (centrar),centrar,"El ejército va a empezar su entrenamiento en el centro.  
+The army is going to start its training in the center."
+99,899,supone,*supone* (suponer),suponer,"El médico supone que no es una gripe, sino un resfriado.
+The doctor assumes that it is not the flu, but a cold."

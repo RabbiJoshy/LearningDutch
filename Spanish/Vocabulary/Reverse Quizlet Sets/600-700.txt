@@ -1,0 +1,503 @@
+Verb : *continue*	*seguir*
+La pequeña niña necesita seguir el control del maestro.
+The little girl needs to follow the teacher's control.
+
+
+Noun : *town*	*pueblo*
+Te diré si conoces el pueblo.
+I will tell you if you know the town.
+
+
+Verb : *have*	*tenga*
+Espero que tenga el último cambio.
+I hope you have the last change.
+
+
+Noun : *gentlemen*	*caballeros*
+Querida, no digas nada a los caballeros.
+Dear, don't say anything to the gentlemen.
+
+
+Noun : *moron*	*idiota*
+Disculpe, agente, pero ese hombre es un idiota.
+Excuse me, officer, but that man is an idiot.
+
+
+Verb : *gave*	*dio*
+El doctor nos dio buenas noticias en el hospital sobre nuestras pruebas.
+The doctor gave us good news at the hospital about our tests.
+
+
+Adjective : *minute*	*minuto*
+Lleva un minuto y ya se siente peor.
+It takes a minute and he already feels worse.
+
+
+Noun : *baby*	*bebé*
+La bebé es muy querida y recibe mucha atención.
+The baby is very loved and receives a lot of attention.
+
+
+Adjective : *only*	*única*
+La única cosa peor que ese coche es su precio.
+The only thing worse than that car is its price.
+
+
+Adverb : *far*	*lejos*
+El pueblo está lejos del control.
+The town is far from control.
+
+
+Determiner : *our*	*nuestras*
+Nuestras conversaciones acerca de dormir son interesantes.
+Our conversations about sleeping are interesting.
+
+
+Noun : *plan*	*plan*
+Me gustó el último plan que hicimos.  
+I liked the last plan we made.
+
+
+Verb : *I think*	*pienso*
+Pienso que el presidente del pueblo es muy amable.
+I think that the president of the town is very kind.
+
+
+Noun : *sense*	*sentido*
+Claro, aquí tienes una oración:
+"Te diré el sentido que debes seguir."
+"I will tell you the direction you should follow."
+
+
+Noun : *sense*	*sentido*
+En el sentido de lo que hacemos, vámonos juntos.
+In the sense of what we do, let's go together.
+
+
+Verb : *sleep*	*dormir*
+Queremos dormir cerca de la playa.
+We want to sleep near the beach.
+
+
+Noun : *you say*	*digas*
+No digas que nuestras ideas no son libres.
+Do not say that our ideas are not free.
+
+
+Noun : *word*	*palabra*
+La peor falta es no cumplir tu palabra.
+The worst fault is not keeping your word.
+
+
+Adjective : *correct*	*correcto*
+El resultado es correcto y es increíble.
+The result is correct and it is incredible.
+
+
+Noun : *control*	*control*
+Estoy diciendo que os falta control.
+I am saying that you lack control.
+
+
+Verb : *we see*	*vemos*
+Querida amiga, te extraño mucho y espero que nos vemos pronto.
+Dear friend, I miss you a lot and hope to see you soon.
+
+
+Noun : *you understand*	*entiendes*
+¿Entiendes el cambio perfecto?
+Do you understand the perfect change?
+
+
+Noun : *country*	*país*
+Disculpe, ¿cómo está el cielo en su país?
+Excuse me, how is the sky in your country?
+
+
+Numeral : *six*	*seis*
+Tenemos seis controles para nuestras tareas.
+We have six controls for our tasks.
+
+
+Adjective : *last*	*último*
+El último país que vemos es hermoso.
+The last country we see is beautiful.
+
+
+Pronoun : *this*	*ésta*
+Ésta es la razón por la que necesito un cambio, así que cállate.
+This is the reason why I need a change, so be quiet.
+
+
+Verb : *say*	*diga*
+Diga lo que os pienso.
+Say what I think of you.
+
+
+Noun : *could you*	*podrías*
+¿Podrías evitar la calle que odio?
+Could you avoid the street that I hate?
+
+
+Adjective : *small*	*pequeña*
+La pequeña fiesta sucede en un lugar especial.
+The small party happens in a special place.
+
+
+Noun : *be quiet*	*cállate*
+Caballeros, cállate y vámonos.
+Gentlemen, be quiet and let's go.
+
+
+Verb : *deal*	*trato*
+Odio el trato que el rey me dio.
+I hate the treatment that the king gave me.
+
+
+Verb : *deal*	*trato*
+Trato de entender cada palabra en el libro.
+I try to understand each word in the book.
+
+
+Noun : *king*	*rey*
+El rey tenga el peor castillo.
+The king has the worst castle.
+
+
+Verb : *happens*	*sucede*
+En general, nada especial sucede hoy.
+In general, nothing special happens today.
+
+
+Noun : *boys*	*muchachos*
+Anoche, los muchachos no sabían qué sucede.  
+Last night, the boys didn't know what was happening.
+
+
+Adverb : *never*	*jamás*
+Cállate, jamás hables así en la oficina.
+Shut up, never speak like that in the office.
+
+
+Noun : *bed*	*cama*
+El control remoto lleva mucho tiempo debajo de la cama.
+The remote control has been under the bed for a long time.
+
+
+Adjective : *Ms*	*srta*
+La srta. García, además, es la reina del baile.
+Miss García, moreover, is the queen of the dance.
+
+
+Verb : *help*	*ayudar*
+Claro, aquí tienes una oración:
+"Por favor, cállate y ayúdame a hacer la cama."
+"Please, be quiet and help me make the bed."
+
+
+Adverb : *about*	*acerca*
+Hacemos una reunión para hablar acerca de lo que tenga que hacer.
+We are having a meeting to talk about what needs to be done.
+
+
+Adverb : *about*	*acerca*
+Os quiero acercar para buscar ayuda.
+I want to bring you closer to seek help.
+
+
+Verb : *gave*	*di*
+Di el sentido en un minuto.
+Give the meaning in a minute.
+
+
+Noun : *change*	*cambio*
+Odio el cambio que hizo el presidente.
+I hate the change that the president made.
+
+
+Noun : *change*	*cambio*
+Hacemos un cambio porque odio esta situación.
+We make a change because I hate this situation.
+
+
+Noun : *lack*	*falta*
+En general, falta tiempo para nuestras tareas.
+In general, there is not enough time for our tasks.
+
+
+Noun : *lack*	*falta*
+Vámonos, falta poco tiempo para que el tren se acerca.
+Let's go, there's little time left before the train approaches.
+
+
+Noun : *hospital*	*hospital*
+Vemos el hospital y luego vamos a dormir.
+We see the hospital and then we go to sleep.
+
+
+Verb : *carry*	*lleva*
+Él lleva mucha ropa en el peor día del verano.
+He wears a lot of clothes on the worst day of summer.
+
+
+Noun : *president*	*presidente*
+El presidente no tiene sentido, cállate.
+The president makes no sense, be quiet.
+
+
+Numeral : *thousand*	*mil*
+El presidente dio un discurso a mil personas.
+The president gave a speech to a thousand people.
+
+
+Noun : *taste*	*gusto*
+Me gusta seguir mis pasiones, pero odio la rutina.
+I like to follow my passions, but I hate the routine.
+
+
+Noun : *taste*	*gusto*
+Me gusta el pueblo donde trabaja el agente.
+I like the town where the agent works.
+
+
+Noun : *you know*	*conoces*
+¿Conoces a mucha gente en nuestras clases?
+Do you know a lot of people in our classes?
+
+
+Verb : *saying*	*diciendo*
+Los muchachos me dijeron que dijera la verdad, y ahora estoy diciendo todo.
+The boys told me to tell the truth, and now I am saying everything.
+
+
+Pronoun : *you*	*os*
+Os he ido a buscar porque odio esperar.  
+I went to look for you all because I hate waiting.
+
+
+Verb : *gone*	*ido*
+He ido a la calle a comprar un libro.
+I have gone to the street to buy a book.
+
+
+Adjective : *general*	*general*
+En general, el trato en la calle es amable.
+In general, the treatment on the street is kind.
+
+
+Adjective : *strange*	*extraño*
+Extraño el trato que recibí cuando compré mi coche.
+I miss the treatment I received when I bought my car.
+
+
+Adjective : *strange*	*extraño*
+Extraño a mi amigo, pero lo peor es que no sé nada acerca de él.
+I miss my friend, but the worst part is that I don't know anything about him.
+
+
+Noun : *weeks*	*semanas*
+Tengo dos semanas libres, ¿es correcto?
+I have two free weeks, is that correct?
+
+
+Noun : *car*	*coche*
+El agente os mostró el coche.
+The agent showed you the car.
+
+
+Adjective : *worse*	*peor*
+El cambio fue para peor, no hubo ningún cambio positivo.
+The change was for the worse, there was no positive change.
+
+
+Adjective : *worse*	*peor*
+El presidente tiene el peor coche.
+The president has the worst car.
+
+
+Determiner : *a lot*	*mucha*
+Ella tiene mucha tarea y necesita ayuda para no perder tiempo.
+She has a lot of homework and needs help to not waste time.
+
+
+Verb : *excuse me*	*disculpe*
+Disculpe, habrá una fiesta increíble mañana.
+Excuse me, there will be an incredible party tomorrow.
+
+
+Verb : *I will say*	*diré*
+Les diré a los muchachos acerca del plan.
+I will tell the boys about the plan.
+
+
+Adverb : *last night*	*anoche*
+Anoche, el agente me preguntó si podrías ayudar.
+Last night, the agent asked me if you could help.
+
+
+Verb : *lose*	*perder*
+Extraño perder el trato con mis amigos.
+I miss losing the interaction with my friends.
+
+
+Noun : *let's go*	*vámonos*
+¡Vámonos al parque y no digas nada sobre el trato!
+Let's go to the park and don't say anything about the deal!
+
+
+Noun : *ship*	*nave*
+Los caballeros perdieron el sentido de la dirección en la nave.
+The knights lost their sense of direction in the ship.
+
+
+Noun : *darling*	*cielo*
+Pienso que el cielo se ve hermoso desde la calle.
+I think the sky looks beautiful from the street.
+
+
+Auxiliary : *there will be*	*habrá*
+Mañana habrá una fiesta, así que lleva tu saco de dormir.
+Tomorrow there will be a party, so bring your sleeping bag.
+
+
+Noun : *order*	*orden*
+Querida, ¿podrías poner la mesa en orden?
+Dear, could you set the table in order?
+
+
+Adjective : *safe*	*segura*
+Estoy segura de que extraño tenga una solución.
+I am sure that the stranger has a solution.
+
+
+Adjective : *Dear*	*querida*
+Querida, el presidente necesita dormir.
+Dear, the president needs to sleep.
+
+
+Adjective : *Dear*	*querida*
+Querida amiga, estaba diciendo que tu idea es increíble.
+Dear friend, I was saying that your idea is incredible.
+
+
+Adjective : *Dear*	*querida*
+Querida amiga, tengo un sentido especial acerca de este lugar.
+Dear friend, I have a special feeling about this place.
+
+
+Noun : *little girl*	*niña*
+La niña no es idiota, es correcto.
+The girl is not an idiot, she is correct.
+
+
+Adjective : *incredible*	*increíble*
+Hacemos un trabajo increíble en general.
+We do an incredible job in general.
+
+
+Adverb : *besides*	*además*
+Además, no sé qué sucede porque no he ido allí.
+Besides, I don't know what happens because I haven't gone there.
+
+
+Auxiliary : *they must*	*deben*
+Los estudiantes deben jamás olvidar esta lección especial.
+The students must never forget this special lesson.
+
+
+Noun : *book*	*libro*
+Necesito un minuto para irme con mi libro.
+I need a minute to leave with my book.
+
+
+Noun : *street*	*calle*
+¿Podrías decirme si este es el camino correcto a la calle principal?
+Could you tell me if this is the correct way to the main street?
+
+
+Noun : *street*	*calle*
+Pienso que la calle necesita un cambio.
+I think the street needs a change.
+
+
+Noun : *coffee*	*café*
+Os diré dónde está el café.
+I will tell you where the coffee is.
+
+
+Verb : *you think*	*piensas*
+¿Por qué piensas que odio mi cama?
+Why do you think I hate my bed?
+
+
+Verb : *we make*	*hacemos*
+Hacemos una llamada a nuestra querida amiga porque la extraño.
+We make a call to our dear friend because I miss her.
+
+
+Adjective : *special*	*especial*
+Vámonos, tenemos un minuto para algo especial.
+Let's go, we have a minute for something special.
+
+
+Verb : *we want*	*queremos*
+Queremos ver a nuestra querida amiga mañana.
+We want to see our dear friend tomorrow.
+
+
+Verb : *leave*	*irme*
+Necesito irme a un país especial.
+I need to go to a special country.
+
+
+Adjective : *perfect*	*perfecto*
+Vámonos, caballeros, todo está perfecto.
+Let's go, gentlemen, everything is perfect.
+
+
+Verb : *look for*	*buscar*
+Además, voy a buscar el hospital.  
+Additionally, I am going to look for the hospital.
+
+
+Verb : *hate*	*odio*
+Odio perder tiempo en el hospital.
+I hate losing time in the hospital.
+
+
+Verb : *hate*	*odio*
+Odio levantarme a las seis, querida.
+I hate getting up at six, dear.
+
+
+Verb : *think*	*piensa*
+¿Conoces lo que piensa diciendo eso?
+Do you know what he/she thinks by saying that?
+
+
+Adjective : *office*	*oficina*
+Claro, aquí tienes una oración:
+"Diga, ¿cómo puedo ayudarle en la oficina? Es un gusto atenderle."
+"Hello, how can I help you in the office? It's a pleasure to assist you."
+
+
+Noun : *speak*	*hablas*
+¿Hablas con nuestras querida amigas?
+Do you speak with our dear friends?
+
+
+Noun : *speak*	*hablas*
+¿Podrías decirme de qué hablas anoche?
+Could you tell me what you were talking about last night?
+
+
+Adjective : *free*	*libre*
+A las seis te diré si estoy libre.
+At six, I will tell you if I am free.
+
+
+Noun : *agent*	*agente*
+El agente nos informó acerca del evento.
+The agent informed us about the event.
+
+

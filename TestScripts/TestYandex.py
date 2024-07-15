@@ -1,12 +1,12 @@
 import json
-with open('config.json') as config_file:
+with open('../config.json') as config_file:
     config = json.load(config_file)
     YANDEX_API_KEY = config['Yandex_api_key']
 
 import pandas as pd
 import requests
 
-df = pd.read_csv('Frequency Lists/Spanish/Clean.csv').iloc[:20, :]
+df = pd.read_csv('../Frequency Lists/Spanish/Clean.csv').iloc[:20, :]
 YANDEX_TRANSLATE_URL = 'https://translate.yandex.net/api/v1.5/tr.json/translate'
 YANDEX_DICTIONARY_URL = 'https://dictionary.yandex.net/api/v1/dicservice.json/lookup'
 

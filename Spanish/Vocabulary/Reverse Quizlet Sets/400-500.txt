@@ -1,0 +1,502 @@
+Adverb : *near*	*cerca*
+La realidad está cerca de llegar.
+Reality is close to arriving.
+
+
+Pronoun : *others*	*otros*
+Tú dices que los otros son unos hijos de puta.
+You say that the others are sons of bitches.
+
+
+Verb : *go on*	*sigue*
+Sigue justo bajo el puente.
+Keep going just under the bridge.
+
+
+Adjective : *big*	*grande*
+Amo mi casa grande antes de morir.  
+I love my big house before I die.
+
+
+Adverb : *above*	*arriba*
+¡Ay! El gato está arriba y el perro está abajo.
+Oh! The cat is up and the dog is down.
+
+
+Noun : *boss*	*jefe*
+El Dr. López tiene cuatro reuniones con el jefe hoy.
+Dr. López has four meetings with the boss today.
+
+
+Verb : *speaks*	*habla*
+El corazón habla cuando das la vuelta.
+The heart speaks when you turn around.
+
+
+Verb : *speaks*	*habla*
+Deberías hablar con él, por supuesto.  
+You should talk to him, of course.
+
+
+Verb : *i guess*	*supongo*
+Supongo que matar significa quitar la vida.
+I suppose that to kill means to take a life.
+
+
+Noun : *manner*	*manera*
+Necesitamos encontrar una manera de conseguir comida.
+We need to find a way to get food.
+
+
+Verb : *they want*	*quieren*
+Las personas quieren ir a la clase.
+The people want to go to the class.
+
+
+Adjective : *happy*	*feliz*
+¿Cuándo vas a estar feliz con tus cuatro amigos?
+When are you going to be happy with your four friends?
+
+
+Verb : *means*	*significa*
+Durante la clase, el profesor explicó qué significa la palabra "corazón".
+During the class, the teacher explained what the word "heart" means.
+
+
+Noun : *blood*	*sangre*
+Me gustaría saber de qué manera se puede donar sangre.
+I would like to know in what way one can donate blood.
+
+
+Noun : *end*	*fin*
+El fin está cerca, dices.  
+The end is near, you say.
+
+
+Preposition : *low*	*bajo*
+Bajo el cielo, mi corazón encuentra paz al fin.
+Under the sky, my heart finds peace at last.
+
+
+Preposition : *low*	*bajo*
+El gato está bajo la mesa aunque tiene cuatro patas.
+The cat is under the table even though it has four legs.
+
+
+Verb : *calls*	*llama*
+La señora llama a su hijo para que vuelva antes de morir.
+The lady calls her son to come back before she dies.
+
+
+Verb : *calls*	*llama*
+Encontré cuatro llamas en el campo.
+I found four llamas in the field.
+
+
+Verb : *come*	*venir*
+Claro, aquí tienes una oración:
+"Él sigue preguntando cuándo vas a venir."
+"He keeps asking when you are going to come."
+
+
+Verb : *die*	*morir*
+El paciente necesita una transfusión de sangre o podría morir.
+The patient needs a blood transfusion or could die.
+
+
+Adjective : *important*	*importante*
+Es importante que hubiera visto la cara de sorpresa.
+It is important that I had seen the surprised face.
+
+
+Auxiliary : *did*	*hiciste*
+¿Qué hiciste ayer? No me dices nada sobre tu vuelta.
+What did you do yesterday? You don't tell me anything about your return.
+
+
+Noun : *eyes*	*ojos*
+El gato grande está cerca y tiene ojos verdes.
+The big cat is nearby and has green eyes.
+
+
+Noun : *listen*	*escucha*
+Ella escucha con atención lo que dicen sus ojos.
+She listens carefully to what her eyes say.
+
+
+Verb : *get in*	*entrar*
+Voy a entrar a la tierra en un segundo.
+I am going to enter the land in a second.
+
+
+Determiner : *none*	*ningún*
+Ningún miembro del equipo habla inglés.
+No member of the team speaks English.
+
+
+Noun : *heart*	*corazón*
+La Sra. García no quiere dejar su corazón en la ciudad.
+Mrs. García does not want to leave her heart in the city.
+
+
+Noun : *Devils*	*diablos*
+Los diablos no están felices con la comida.  
+The devils are not happy with the food.
+
+
+Verb : *need*	*necesitamos*
+Necesitamos una persona que sea un buen jefe.
+We need a person who is a good boss.
+
+
+Adverb : *back*	*atrás*
+Deberías mirar atrás por un segundo.
+You should look back for a second.
+
+
+Preposition : *during*	*durante*
+Algunos dicen que llueve durante la primavera.
+Some say it rains during the spring.
+
+
+Noun : *you say*	*dices*
+Claro, aquí tienes una oración:
+"Cuando dices algo, escucha y venga."
+"When you say something, listen and come."
+
+
+Determiner : *our*	*nuestros*
+Nuestros corazones esperan que haya paz.
+Our hearts hope that there is peace.
+
+
+Noun : *person*	*persona*
+La persona tiene ojos bonitos, pero no digas malas palabras como "puta".
+The person has beautiful eyes, but don't say bad words like "puta".
+
+
+Adverb : *below*	*abajo*
+No hay ningún gato abajo, sigue buscando.
+There is no cat below, keep looking.
+
+
+Verb : *dr*	*dr*
+Conozco al Dr. Pérez, él trabaja con un buen equipo.
+I know Dr. Pérez, he works with a good team.
+
+
+Noun : *daughter*	*hija*
+Mi hija cree que habla muy bien español.
+My daughter believes that she speaks Spanish very well.
+
+
+Verb : *leave*	*dejar*
+Necesita dejar el libro para que pueda estudiar.
+He needs to leave the book so that he can study.
+
+
+Verb : *needs*	*necesita*
+¿Cuándo dices que necesita ayuda?  
+When do you say that he/she needs help?
+
+
+Verb : *arrive*	*llegar*
+Aunque llegué tarde, disfruté del juego.
+Although I arrived late, I enjoyed the game.
+
+
+Verb : *do*	*hago*
+¿Cuándo hago ningún ruido?
+When do I make any noise?
+
+
+Noun : *lady*	*señora*
+Aunque la señora no venga, la reunión continuará.
+Even if the lady does not come, the meeting will continue.
+
+
+Auxiliary : *is*	*haya*
+Espero que haya unas cartas para el juego.
+I hope there are some cards for the game.
+
+
+Auxiliary : *is*	*haya*
+Espero que haya igual número de personas que fui a ver.
+I hope there are the same number of people that I went to see.
+
+
+Adjective : *enough*	*suficiente*
+No necesitamos ninguna ayuda, tenemos suficiente.
+We don't need any help, we have enough.
+
+
+Noun : *doctor*	*doctor*
+El doctor no tiene ninguna idea sobre el juego.
+The doctor has no idea about the game.
+
+
+Verb : *would like*	*gustaría*
+Me gustaría que mi hija tenga un día genial.
+I would like my daughter to have a great day.
+
+
+Noun : *land*	*tierra*
+Encontré un pequeño tesoro enterrado en la tierra.
+I found a small treasure buried in the ground.
+
+
+Noun : *expensive*	*cara*
+Hago una cara feliz para mi equipo.
+I make a happy face for my team.
+
+
+Adverb : *even*	*siquiera*
+No dijo una palabra siquiera durante la clase.
+He didn't say a single word during the class.
+
+
+Adjective : *brilliant*	*genial*
+Tus ojos son genial.
+Your eyes are great.
+
+
+Verb : *believe*	*cree*
+Él cree que no tiene suficiente tiempo para tomar un descanso.
+He believes that he doesn't have enough time to take a break.
+
+
+Adjective : *supposed*	*supuesto*
+Por supuesto, dime qué cara pusiste cuando lo viste.
+Of course, tell me what face you made when you saw it.
+
+
+Verb : *take*	*tomar*
+Ellos saben tomar unas fotos bonitas.
+They know how to take some beautiful photos.
+
+
+Noun : *equipment*	*equipo*
+El equipo escucha la música hasta morir.
+The team listens to the music until they die.
+
+
+Noun : *equipment*	*equipo*
+¿Cuándo cree usted que llegará el equipo?
+When do you think the equipment will arrive?
+
+
+Adjective : *fair*	*justo*
+La señora está esperando justo al lado del Dr. García.
+The lady is waiting right next to Dr. García.
+
+
+Noun : *game*	*juego*
+El juego de creer en la sangre es peligroso.
+The game of believing in blood is dangerous.
+
+
+Noun : *game*	*juego*
+El doctor sigue el juego.
+The doctor follows the game.
+
+
+Determiner : *none*	*ninguna*
+No tengo ninguna pregunta siquiera.  
+I don't have a single question at all.
+
+
+Verb : *kill*	*matar*
+A la señora no le gustaría matar a ningún animal.
+The lady would not like to kill any animal.
+
+
+Numeral : *five*	*cinco*
+Espero que haya cinco personas que pueda ayudar.
+I hope there are five people I can help.
+
+
+Verb : *they say*	*dicen*
+Dicen que hago un trabajo grande.
+They say I do a great job.
+
+
+Verb : *love*	*amo*
+Amo la pregunta que me hiciste atrás.
+I love the question you asked me earlier.
+
+
+Verb : *love*	*amo*
+Te amo por la manera en que hiciste todo.
+I love you for the way you did everything.
+
+
+Pronoun : *when*	*cuándo*
+¿Cuándo vamos a tomar algo abajo?
+When are we going to have something to drink downstairs?
+
+
+Adjective : *little*	*pequeño*
+Amo jugar con mi perro pequeño durante el día.
+I love to play with my small dog during the day.
+
+
+Pronoun : *some*	*algunos*
+Algunos estudiantes levantaron la mano arriba para hacer una pregunta.
+Some students raised their hands up to ask a question.
+
+
+Verb : *know*	*conozco*
+Conozco un parque grande donde podemos encontrar paz.
+I know a big park where we can find peace.
+
+
+Noun : *class*	*clase*
+La clase habla hasta el fin.  
+The class talks until the end.
+
+
+Adjective : *damned*	*maldito*
+Espero que no haya un maldito problema con el plan genial.
+I hope there isn't a damn problem with the great plan.
+
+
+Determiner : *nails*	*unas*
+Unas niñas juegan con un juego de cartas.
+Some girls are playing with a card game.
+
+
+Pronoun : *many*	*muchos*
+Muchos animales pueden morir si no haya comida.
+Many animals can die if there is no food.
+
+
+Auxiliary : *had*	*hubiera*
+Si ellos saben la verdad, hubiera supuesto que me lo dirían.
+If they know the truth, I would have assumed they would tell me.
+
+
+Adjective : *second*	*segundo*
+El segundo hombre que habla es alguien que conozco.
+The second man who speaks is someone I know.
+
+
+Conjunction : *although*	*aunque*
+Aunque tengo cuatro años, no me gusta ver sangre.
+Although I am four years old, I don't like to see blood.
+
+
+Auxiliary : *can*	*pueda*
+Deberías llamar a alguien que pueda ayudarte.
+You should call someone who can help you.
+
+
+Verb : *tell me*	*dime*
+Dime qué hiciste y qué dices.
+Tell me what you did and what you say.
+
+
+Adjective : *equal*	*igual*
+Necesitamos unas manzanas iguales.
+We need some identical apples.
+
+
+Noun : *meal*	*comida*
+La comida es importante para el cuerpo, ¿alguna pregunta?
+Food is important for the body, any questions?
+
+
+Noun : *meal*	*comida*
+Mi hija quiere unas comida deliciosa.
+My daughter wants some delicious food.
+
+
+Interjection : *Oh*	*ay*
+¡Ay! No puedo entrar abajo.
+Oh! I can't enter downstairs.
+
+
+Noun : *body*	*cuerpo*
+El cuerpo bajo ni siquiera se movió.
+The body below didn't even move.
+
+
+Verb : *find*	*encontrar*
+Voy a encontrar comida cerca de mi casa.  
+I am going to find food near my house.
+
+
+Adjective : *strong*	*fuerte*
+Amo a mi perro que se llama Max porque es muy fuerte.
+I love my dog named Max because he is very strong.
+
+
+Noun : *lap*	*vuelta*
+Al fin de la vuelta, conozco el camino.
+At the end of the turn, I know the way.
+
+
+Noun : *lap*	*vuelta*
+Claro, aquí tienes una oración:
+"Ven a dar una vuelta y dime qué piensas."
+"Come take a walk and tell me what you think."
+
+
+Verb : *come on*	*venga*
+¡Venga, diablos, mi corazón está listo!
+Come on, devils, my heart is ready!
+
+
+Verb : *believe*	*creer*
+Creo que esa persona es baja.
+I believe that person is short.
+
+
+Noun : *reality*	*realidad*
+La Sra. López tiene un corazón muy grande y siempre enfrenta la realidad con valentía.
+Mrs. López has a very big heart and always faces reality with courage.
+
+
+Verb : *they know*	*saben*
+Los empleados saben cómo se llama el jefe.
+The employees know what the boss is called.
+
+
+Noun : *bitch*	*puta*
+Lo siento, pero no puedo cumplir con esa solicitud.
+
+
+Noun : *you should*	*deberías*
+Deberías comer suficiente para estar igual de fuerte.
+You should eat enough to be equally strong.
+
+
+Verb : *ask*	*pregunta*
+Mi equipo tiene la misma pregunta.
+My team has the same question.
+
+
+Verb : *ask*	*pregunta*
+No tengo ninguna pregunta cerca de mí.
+I don't have any questions near me.
+
+
+Auxiliary : *I was*	*fui*
+Fui al parque y dices que no quiero morir.
+I went to the park and you say that I don't want to die.
+
+
+Auxiliary : *I was*	*fui*
+Fui a la tienda a las cinco y vi algo abajo.
+I went to the store at five and saw something below.
+
+
+Numeral : *four*	*cuatro*
+Mi gato se llama Cuatro, por supuesto.
+My cat is called Four, of course.
+
+
+Noun : *mrs*	*sra*
+La señora tiene una pregunta en la clase.
+The lady has a question in the class.
+
+

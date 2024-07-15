@@ -1,0 +1,507 @@
+Noun : *time*	*tiempo*
+Nadie tiene otro tiempo para esperar.  
+Nobody has any more time to wait.
+
+
+Noun : *TRUE*	*verdad*
+Claro, aquí tienes una oración:
+"Podría estar diciendo la verdad."
+"He could be telling the truth."
+
+
+Auxiliary : *was*	*estaba*
+Estaba en mi trabajo, pero no estaba seguro de qué hacer.
+I was at my job, but I wasn't sure what to do.
+
+
+Adjective : *better*	*mejor*
+Claro, aquí tienes una oración:
+"Te dije que este es el mejor estado."
+"I told you that this is the best state."
+
+
+Auxiliary : *are*	*están*
+Los niños están jugando hasta que puedes verlos.
+The children are playing until you can see them.
+
+
+Auxiliary : *goes*	*va*
+Mañana tal vez va a llover.
+Tomorrow it might rain.
+
+
+Noun : *man*	*hombre*
+Claro, el hombre está sin sombrero.
+Of course, the man is without a hat.
+
+
+Pronoun : *you*	*usted*
+¿Usted siempre está feliz?
+Are you always happy?
+
+
+Adverb : *a lot*	*mucho*
+El hombre me ayuda mucho a mí.
+The man helps me a lot.
+
+
+Verb : *does*	*hace*
+Tú has hecho muchas cosas hoy.
+You have done many things today.
+
+
+Adverb : *so*	*entonces*
+Estaba fuera, entonces decidí regresar.
+I was outside, so I decided to return.
+
+
+Verb : *I feel*	*siento*
+Siento mucho hasta que llegues.
+I feel a lot until you arrive.
+
+
+Verb : *I feel*	*siento*
+Claro, él quiere que me siento aquí.  
+Of course, he wants me to sit here.
+
+
+Verb : *have*	*tenemos*
+Nosotros tenemos claro el plan.
+We have the plan clear.
+
+
+Auxiliary : *can*	*puedes*
+¿Puedes viajar a otro estado?
+Can you travel to another state?
+
+
+Adverb : *there*	*ahí*
+Ahí es donde veo el parque desde mi ventana.
+There is where I see the park from my window.
+
+
+Pronoun : *you*	*ti*
+Solo quiero hablar contigo.  
+I just want to talk to you.
+
+
+Noun : *life*	*vida*
+La vida es más segura por la noche.
+Life is safer at night.
+
+
+Verb : *see*	*ver*
+Siempre me gusta ver las estrellas fuera.
+I always like to see the stars outside.
+
+
+Pronoun : *someone*	*alguien*
+Alguien ha cambiado mi vida.
+Someone has changed my life.
+
+
+Auxiliary : *Mr*	*sr*
+Señor, ¿puedo hablar con usted ahí?
+Mr., can I talk to you there?
+
+
+Preposition : *until*	*hasta*
+Hasta luego, Sr. García, espera aquí.
+Until later, Mr. García, wait here.
+
+
+Preposition : *without*	*sin*
+Hablamos sobre el trabajo sin descanso.
+We talk about work without rest.
+
+
+Pronoun : *my*	*mí*
+Lo siento, señor, pero esto es para mí.
+I'm sorry, sir, but this is for me.
+
+
+Adjective : *only*	*solo*
+Solo quiero otro libro entonces.  
+I only want another book then.
+
+
+Noun : *years*	*años*
+El tiempo pasa muy rápido y en pocos años todo cambia.
+The time passes very quickly and in a few years everything changes.
+
+
+Preposition : *about*	*sobre*
+Les hablé sobre uno de mis libros favoritos.
+I talked to them about one of my favorite books.
+
+
+Verb : *say*	*decir*
+Claro, aquí tienes una oración:
+"Ahí puedes ver y decir lo que piensas."
+"There you can see and say what you think."
+
+
+Pronoun : *one*	*uno*
+Nosotros hablamos con uno de los amigos.
+We talk with one of the friends.
+
+
+Adverb : *always*	*siempre*
+Siempre siento que no tengo tiempo.
+I always feel that I don't have time.
+
+
+Interjection : *oh*	*oh*
+Oh, ¿dónde está el otro libro?
+Oh, where is the other book?
+
+
+Verb : *go*	*ir*
+Voy a ir al tipo de tienda, ¿verdad?
+I am going to go to that type of store, right?
+
+
+Noun : *things*	*cosas*
+Tú has comprado muchas cosas y están en la mesa.
+You have bought many things and they are on the table.
+
+
+Noun : *things*	*cosas*
+Claro, aquí tienes una oración:
+"Mi abuela quiere coser cosas para ti."
+"My grandmother wants to sew things for you."
+
+
+Adverb : *also*	*también*
+A mí también me gusta estar fuera.
+I also like to be outside.
+
+
+Adverb : *before*	*antes*
+Necesito encontrar un lugar antes de que oscurezca.
+I need to find a place before it gets dark.
+
+
+Auxiliary : *you have*	*has*
+En ese momento, él ya había estado allí.
+At that moment, he had already been there.
+
+
+Conjunction : *neither*	*ni*
+María no quiere ni pizza ni pasta para su cumpleaños de diez años.
+María doesn't want either pizza or pasta for her ten-year-old birthday.
+
+
+Determiner : *my*	*mis*
+Mis amigos siempre les ayudan.  
+My friends always help them.
+
+
+Noun : *day*	*día*
+Hoy hace calor y me siento feliz en este día.
+Today it is hot and I feel happy on this day.
+
+
+Auxiliary : *be*	*estar*
+Estamos contentos porque tenemos muchas cosas.
+We are happy because we have many things.
+
+
+Auxiliary : *we are*	*estamos*
+Estamos felices después de que estaba triste.  
+We are happy after I was sad.
+
+
+Noun : *evening*	*noche*
+Anoche estaba oscuro y han salido las estrellas.
+Last night it was dark and the stars have come out.
+
+
+Pronoun : *nobody*	*nadie*
+Nadie de nosotros vio a nuestro padre ayer.
+No one from us saw our father yesterday.
+
+
+Determiner : *other*	*otra*
+Claro, aquí tienes una oración:
+"Espere un momento, por favor, necesito otra opinión de usted."
+"Wait a moment, please, I need another opinion from you."
+
+
+Verb : *wants*	*quiere*
+Ella también quiere una vida feliz.
+She also wants a happy life.
+
+
+Verb : *seems*	*parece*
+Entonces, parece que el gato quiere salir fuera.
+So, it seems that the cat wants to go outside.
+
+
+Pronoun : *us*	*nosotros*
+Nosotros vamos a la tienda hasta que encontremos el tipo de pan que nos gusta.
+We go to the store until we find the type of bread we like.
+
+
+Pronoun : *bit*	*poco*
+Siempre digo poco.  
+I always say little.
+
+
+Noun : *father*	*padre*
+Mi padre quiere saber quién ha hecho esto.
+My father wants to know who has done this.
+
+
+Verb : *job*	*trabajo*
+Mi hijo tiene uno trabajo.
+My son has one job.
+
+
+Verb : *job*	*trabajo*
+Puedes saber más sobre el trabajo.
+You can learn more about the job.
+
+
+Noun : *people*	*gente*
+Después del hecho, la gente se fue a sus casas.
+After the event, the people went to their homes.
+
+
+Verb : *look*	*mira*
+Mira, siento mucho, entonces vamos a hablar.
+Look, I'm very sorry, so let's talk.
+
+
+Adjective : *you go*	*vas*
+¿Vas al parque donde siempre podemos jugar?
+Are you going to the park where we can always play?
+
+
+Auxiliary : *be*	*sea*
+Después de la reunión, les dije que sea puntual.
+After the meeting, I told them to be punctual.
+
+
+Pronoun : *them*	*les*
+Después de la clase, ella les quiere dar un regalo.
+After the class, she wants to give them a gift.
+
+
+Pronoun : *where*	*donde*
+¿Dónde están tus libros, nosotros no los encontramos?
+Where are your books, we can't find them?
+
+
+Determiner : *same*	*mismo*
+Mañana voy a la misma tienda que mí.
+Tomorrow I am going to the same store as me.
+
+
+Adjective : *made*	*hecho*
+En ese momento, todo lo que había hecho se quedó fuera.
+At that moment, everything I had done was left out.
+
+
+Adjective : *made*	*hecho*
+Necesito que les muestres el hecho.
+I need you to show them the fact.
+
+
+Pronoun : *they*	*ellos*
+Ellos pasan por aquí, ¿usted los vio?
+They pass by here, did you see them?
+
+
+Verb : *said*	*dijo*
+Él dijo que estar aquí mucho tiempo.
+He said to be here for a long time.
+
+
+Verb : *happens*	*pasa*
+Mis amigos están en la casa y no pasa nada.
+My friends are at the house and nothing is happening.
+
+
+Noun : *money*	*dinero*
+Él va a ver si tiene dinero.  
+He is going to see if he has money.
+
+
+Noun : *son*	*hijo*
+El hijo ha hecho amigos con la gente del barrio.
+The son has made friends with the people in the neighborhood.
+
+
+Determiner : *such*	*tal*
+Si tal fuera el caso, podemos hablar.
+If such were the case, we can talk.
+
+
+Determiner : *other*	*otro*
+El hombre llegó a un acuerdo con otro.
+The man reached an agreement with another.
+
+
+Verb : *talk*	*hablar*
+Mañana quiero hablar con otra persona.
+Tomorrow I want to talk with another person.
+
+
+Adjective : *sure*	*seguro*
+Mi padre está seguro de que las cosas mejorarán.
+My father is sure that things will get better.
+
+
+Adjective : *clear*	*claro*
+Claro, hijo, te daré dinero.  
+Of course, son, I will give you money.
+
+
+Determiner : *are*	*estas*
+Lo siento, ¿podrías decirme dónde estás?
+I'm sorry, could you tell me where you are?
+
+
+Noun : *place*	*lugar*
+Este lugar es el mejor para ver el mundo.
+This place is the best to see the world.
+
+
+Noun : *world*	*mundo*
+En este mundo, la vida no es ni fácil ni difícil.
+In this world, life is neither easy nor difficult.
+
+
+Noun : *friend*	*amigo*
+Mi amigo es un buen tipo en la vida.
+My friend is a good guy in life.
+
+
+Verb : *wait*	*espera*
+Claro, aquí tienes una oración:
+"Espera un momento mientras busco la cosa para mí."
+"Wait a moment while I look for the thing for me."
+
+
+Verb : *wait*	*espera*
+Siento que la espera es segura.
+I feel that the wait is safe.
+
+
+Adjective : *shit*	*mierda*
+El niño dijo que no quiere esa mierda.
+The boy said he doesn't want that crap.
+
+
+Auxiliary : *they have*	*han*
+Han llegado ni antes ni después.
+They have arrived neither before nor after.
+
+
+Determiner : *your*	*tus*
+Tus amigos saben que has hecho un buen trabajo.
+Your friends know that you have done a good job.
+
+
+Verb : *knows*	*sabe*
+¿Vas a decirme quién sabe lo que has hecho?
+Are you going to tell me who knows what you have done?
+
+
+Adverb : *after*	*después*
+Después de la cena, jugamos otro juego, claro.  
+After dinner, we play another game, of course.
+
+
+Noun : *moment*	*momento*
+En ese momento, estaba feliz de estar con mi familia.
+In that moment, I was happy to be with my family.
+
+
+Preposition : *from*	*desde*
+Desde el mismo día, no he vuelto después.  
+Since the same day, I haven't returned afterwards.
+
+
+Auxiliary : *out*	*fuera*
+Fuera de la casa, había mierda en el jardín.
+Outside the house, there was poop in the garden.
+
+
+Auxiliary : *out*	*fuera*
+Fuera con tus amigos y les compré helado.
+I went out with your friends and bought them ice cream.
+
+
+Auxiliary : *out*	*fuera*
+Fuera de la casa, he hecho mi tarea mañana.
+Outside the house, I have done my homework for tomorrow.
+
+
+Noun : *stuff*	*cosa*
+La verdad es que esa cosa brilla en la noche.
+The truth is that thing shines at night.
+
+
+Noun : *stuff*	*cosa*
+Veo una cosa y también quiero coser.  
+I see a thing and also want to sew.
+
+
+Noun : *guy*	*tipo*
+Hay un tipo de trabajo ahí.
+There is a type of job there.
+
+
+Adverb : *tomorrow*	*mañana*
+Mañana será un día bonito, ¡oh sí!
+Tomorrow will be a beautiful day, oh yes!
+
+
+Auxiliary : *can*	*podemos*
+Podemos ver muchas cosas en la noche.
+We can see many things at night.
+
+
+Verb : *said*	*dije*
+Claro, aquí tienes una oración:
+"Dije que estas flores también son bonitas."
+"I said that these flowers are also beautiful."
+
+
+Adjective : *great*	*gran*
+La cosa sabe a gran aventura.
+The thing tastes like a great adventure.
+
+
+Verb : *need*	*necesito*
+Necesito estar feliz en mi vida.
+I need to be happy in my life.
+
+
+Auxiliary : *state*	*estado*
+El Sr. García siempre ha estado feliz.
+Mr. García has always been happy.
+
+
+Auxiliary : *state*	*estado*
+Mira, he estado esperando para ver la película.
+Look, I have been waiting to see the movie.
+
+
+Auxiliary : *could*	*podría*
+¿Podría tu hijo traer tus libros?
+Could your son bring your books?
+
+
+Noun : *agreement*	*acuerdo*
+Ellos han llegado a un acuerdo sobre la cosa.
+They have reached an agreement about the thing.
+
+
+Noun : *agreement*	*acuerdo*
+Oh, usted está de acuerdo conmigo.
+Oh, you agree with me.
+
+

@@ -1,0 +1,502 @@
+Noun : *trash*	*basura*
+La vista desde aquí es hermosa, pero hay mucha basura.
+The view from here is beautiful, but there is a lot of trash.
+
+
+Noun : *situation*	*situación*
+Necesitamos conseguir una solución para mejorar la situación y dar voz a todos.
+We need to find a solution to improve the situation and give a voice to everyone.
+
+
+Adjective : *top*	*mejores*
+Mis mejores amigos me esperaron en la media hora de mi regreso.
+My best friends waited for me at the half-hour of my return.
+
+
+Verb : *they come*	*vienen*
+Los niños vienen al parque, y es un honor verlos jugar de manera tan graciosa.
+The children come to the park, and it is an honor to see them play so amusingly.
+
+
+Adjective : *loves*	*encanta*
+A mi hermano le encanta correr y tendrá una carrera mañana.
+My brother loves to run and he will have a race tomorrow.
+
+
+Noun : *husband*	*marido*
+Mi marido guarda silencio mientras yo hablo.
+My husband stays silent while I speak.
+
+
+Adjective : *staff*	*personal*
+El personal viene a limpiar el culo del bebé.
+The staff comes to clean the baby's bottom.
+
+
+Noun : *teacher*	*maestro*
+El maestro tiene su propio jardín bonito.
+The teacher has his own beautiful garden.
+
+
+Noun : *hunger*	*hambre*
+Espero que no tengas hambre a la vista de la comida.
+I hope you are not hungry at the sight of the food.
+
+
+Noun : *stroke*	*ataque*
+El perro me atacó, pero estoy salvo y solo tengo un rasguño en el pelo.
+The dog attacked me, but I am safe and only have a scratch on my hair.
+
+
+Noun : *stroke*	*ataque*
+Siéntate en silencio para evitar un ataque.  
+Sit in silence to avoid an attack.
+
+
+Noun : *ass*	*culo*
+Tenías que estar en silencio, pero te caíste y te golpeaste el culo.
+You had to be quiet, but you fell and hit your butt.
+
+
+Verb : *Go ahead*	*dale*
+Dale el teléfono a Juan mientras hablo del peligro.
+Give the phone to Juan while I talk about the danger.
+
+
+Noun : *foot*	*pie*
+Ellos hicieron una caminata y ahora me duele el pie porque la montaña es muy baja.
+They went for a hike and now my foot hurts because the mountain is very low.
+
+
+Verb : *get*	*conseguir*
+El maestro quiere conseguir éxito en sus negocios.
+The teacher wants to achieve success in his business.
+
+
+Verb : *working*	*trabajando*
+Estoy trabajando y me duele el culo porque me tiré del pelo.
+I am working and my butt hurts because I pulled my hair.
+
+
+Adjective : *funny*	*gracioso*
+El perro ha vuelto a casa y su vista es muy graciosa.
+The dog has returned home and its look is very funny.
+
+
+Verb : *let*	*dejó*
+Él dejó dos tipos de basura en la calle.
+He left two types of trash on the street.
+
+
+Auxiliary : *could*	*pudo*
+Él pudo corre antes de que sale el sol.
+He was able to run before the sun rises.
+
+
+Adjective : *right*	*derecha*
+El hotel está a la derecha, salvo que haya cambiado de lugar.
+The hotel is on the right, unless it has changed location.
+
+
+Adjective : *left*	*izquierda*
+La casa de las llamas está a la izquierda del sol.
+The house of the llamas is to the left of the sun.
+
+
+Adjective : *next*	*próxima*
+Voy a sentir la próxima calle a la derecha.
+I will feel the next street to the right.
+
+
+Adjective : *poor*	*pobre*
+La próxima semana, el hombre dejó una donación para el pobre.
+Next week, the man left a donation for the poor.
+
+
+Noun : *answer*	*respuesta*
+La respuesta tendrá un valor de oro.
+The answer will have a value of gold.
+
+
+Noun : *guys*	*tipos*
+Hay muchos tipos de oro, disculpa si no lo sabías.
+There are many types of gold, sorry if you didn't know.
+
+
+Verb : *feel*	*sentir*
+Me siento mal cuando me baja el ánimo y me duele el culo.
+I feel bad when my mood drops and my butt hurts.
+
+
+Noun : *you had*	*tenías*
+Cuando eras una nena, tenías un juguete humano.
+When you were a little girl, you had a human toy.
+
+
+Auxiliary : *could*	*pude*
+Claro, aquí tienes una oración:
+Después del ataque, pude salir cuando el guardia dejó la puerta abierta.
+After the attack, I was able to leave when the guard left the door open.
+
+
+Verb : *give him*	*darle*
+Voy a darle el oro a las llamas.
+I am going to give the gold to the llamas.
+
+
+Noun : *voice*	*voz*
+Escucho tu voz cuando me llamas y mi corazón corre.
+I hear your voice when you call me and my heart races.
+
+
+Noun : *friend*	*amiga*
+Mi amiga estaría en el hotel.
+My friend would be at the hotel.
+
+
+Verb : *they like*	*gustan*
+A mi amiga le gustan los anillos de oro.
+My friend likes gold rings.
+
+
+Adjective : *view*	*vista*
+Lo siento, pero no puedo cumplir con esa solicitud.
+
+
+Adjective : *view*	*vista*
+El humano tuvo un ataque al ver la vista desde la montaña.
+The human had an attack upon seeing the view from the mountain.
+
+
+Preposition : *except*	*salvo*
+Salvo la próxima vista, todo está bien.
+Except for the next view, everything is fine.
+
+
+Preposition : *except*	*salvo*
+El bombero dejó la media en el suelo y salvó al gato.
+The firefighter left the sock on the ground and saved the cat.
+
+
+Verb : *crazy*	*loca*
+La vista desde la montaña tendrá a todos locos.  
+The view from the mountain will drive everyone crazy.
+
+
+Noun : *hotel*	*hotel*
+Voy a conseguir una habitación en el hotel.
+I am going to get a room in the hotel.
+
+
+Verb : *they made*	*hicieron*
+Ellos hicieron negocios después de haber llegado.
+They did business after having arrived.
+
+
+Verb : *have*	*ten*
+Tengo hambre y quiero un bonito almuerzo.
+I am hungry and I want a nice lunch.
+
+
+Verb : *I fear*	*temo*
+Temo que las llamas sean un peligro.
+I fear that the flames are a danger.
+
+
+Noun : *sign*	*señal*
+Cuando tengas el pelo largo, sigue la señal.  
+When you have long hair, follow the sign.
+
+
+Noun : *hair*	*pelo*
+Simplemente quiero decirme que tu pelo es bonito.
+Simply, I want to tell myself that your hair is beautiful.
+
+
+Noun : *hair*	*pelo*
+El pobre niño tiene un corte de pelo gracioso.
+The poor boy has a funny haircut.
+
+
+Verb : *he took*	*llevo*
+Llevo mi voz a donde vienen mis amigos.
+I carry my voice to where my friends come.
+
+
+Adverb : *yesterday*	*ayer*
+Ayer fue un día bonito y todos estuvimos a salvo.
+Yesterday was a beautiful day and we were all safe.
+
+
+Adjective : *you give*	*das*
+Das un paso hacia la puerta baja porque temo la oscuridad.  
+You take a step towards the low door because I fear the darkness.
+
+
+Proper noun : *chick*	*nena*
+La pobre nena tiene una misión importante.  
+The poor girl has an important mission.
+
+
+Noun : *service*	*servicio*
+El servicio está a la izquierda y están trabajando en él.
+The service is on the left and they are working on it.
+
+
+Verb : *train*	*tren*
+Mi amiga llegará enseguida en el tren.
+My friend will arrive soon on the train.
+
+
+Adjective : *pretty*	*bonito*
+Te llamas Juan y tenías un perro bonito.
+Your name is Juan and you had a cute dog.
+
+
+Noun : *month*	*mes*
+En el mes de abril, nos dan bolsas para recoger la basura.
+In the month of April, they give us bags to collect the trash.
+
+
+Verb : *will have*	*tendrá*
+Mañana tendrá sol y buen servicio en el hotel.
+Tomorrow it will have sun and good service at the hotel.
+
+
+Adjective : *you will have*	*tendrás*
+Tendrás mejores resultados si evitas un ataque de pánico.
+You will have better results if you avoid a panic attack.
+
+
+Noun : *age*	*edad*
+Ayer volví a la escuela y pude ver que la edad no importa.
+Yesterday I returned to school and I could see that age doesn't matter.
+
+
+Pronoun : *they*	*ellas*
+Ellas encontraron oro en el río, pero no hablaron sobre su sexo.
+They found gold in the river, but they did not talk about their gender.
+
+
+Adjective : *beautiful*	*hermosa*
+La vista del humano es hermosa.
+The human's view is beautiful.
+
+
+Noun : *honor*	*honor*
+El estudiante tendrá un honor especial como señal de su esfuerzo.
+The student will have a special honor as a sign of his effort.
+
+
+Adverb : *simply*	*simplemente*
+Simplemente me gustan las montañas cuando la niebla baja.
+Simply, I like the mountains when the fog comes down.
+
+
+Noun : *calls*	*llamas*
+Te llamas salvo en una situación de emergencia.
+You call except in an emergency situation.
+
+
+Noun : *calls*	*llamas*
+Las llamas son animales divertidos y hay muchos tipos.
+The llamas are fun animals and there are many types.
+
+
+Noun : *have*	*tengas*
+Espero que tengas la edad cuando hayas llegado a la fiesta.  
+I hope you are old enough when you arrive at the party.
+
+
+Verb : *runs*	*corre*
+El niño corre rápido cuando ve la señal con el pie.
+The boy runs fast when he sees the sign with his foot.
+
+
+Adjective : *low*	*baja*
+El sol baja y brilla como oro.
+The sun sets and shines like gold.
+
+
+Adjective : *low*	*baja*
+Ella baja la basura donde están los contenedores.
+She takes down the trash where the containers are.
+
+
+Noun : *sun*	*sol*
+El sol tiene su propio ataque de calor.
+The sun has its own heat attack.
+
+
+Verb : *Sit down*	*siéntate*
+Simplemente siéntate, humano.
+Simply sit down, human.
+
+
+Verb : *give*	*dan*
+Los payasos dan un espectáculo gracioso y se caen de culo.
+The clowns put on a funny show and fall on their butts.
+
+
+Adjective : *human*	*humano*
+El humano estaría feliz con su familia.
+The human would be happy with his family.
+
+
+Adjective : *fun*	*divertido*
+Estaría muy divertido ir a la próxima fiesta.
+It would be very fun to go to the next party.
+
+
+Adjective : *fun*	*divertido*
+El niño con el pelo rizado está a la izquierda y es muy divertido.
+The boy with curly hair is on the left and is very fun.
+
+
+Noun : *sex*	*sexo*
+Salvo tu disculpa, no quiero hablar de sexo.
+Except for your apology, I don't want to talk about sex.
+
+
+Verb : *turned*	*vuelto*
+La nena ha vuelto con un collar de oro.
+The girl has returned with a gold necklace.
+
+
+Verb : *turned*	*vuelto*
+He vuelto del servicio en silencio.
+I have returned from the service in silence.
+
+
+Noun : *danger*	*peligro*
+La caja pudo causar peligro.
+The box could cause danger.
+
+
+Noun : *danger*	*peligro*
+El pueblo está en peligro de un ataque, pero todos están a salvo.
+The town is in danger of an attack, but everyone is safe.
+
+
+Noun : *table*	*mesa*
+He vuelto a poner la vista en la mesa.
+I have turned my gaze back to the table.
+
+
+Adjective : *following*	*siguiente*
+La siguiente vista es difícil de conseguir.
+The following view is difficult to obtain.
+
+
+Verb : *speak*	*hablo*
+Hablo con mi amigo y le he vuelto a decirme la verdad.
+I talk with my friend and I have asked him again to tell me the truth.
+
+
+Noun : *sorry*	*disculpa*
+Disculpa, ¿me das el vuelto?
+Excuse me, can you give me the change?
+
+
+Noun : *sorry*	*disculpa*
+Disculpa, ¿tendrá una bolsa para la basura?
+Excuse me, do you have a bag for the trash?
+
+
+Verb : *tell me*	*decirme*
+Claro, aquí tienes una oración:
+¿Podrías decirme si tenías alguna señal?
+Could you tell me if you had any signal?
+
+
+Verb : *box*	*caja*
+El mes pasado, mi hermano dejó una caja en mi habitación.
+Last month, my brother left a box in my room.
+
+
+Noun : *business*	*negocios*
+Estoy trabajando en la caja de negocios.
+I am working at the business's cash register.
+
+
+Noun : *business*	*negocios*
+Este mes temo que los negocios no vayan bien.
+This month I fear that the business is not going well.
+
+
+Noun : *mission*	*misión*
+Mi misión es sentir la situación con cuidado.
+My mission is to feel the situation carefully.
+
+
+Noun : *silence*	*silencio*
+El propio ataque ocurrió en silencio.
+The attack itself happened in silence.
+
+
+Verb : *comes out*	*sale*
+Él sale de la casa y regresa cuando baja el sol.
+He leaves the house and returns when the sun goes down.
+
+
+Verb : *arrived*	*llegado*
+He llegado y temo que la basura no se ha recogido.
+I have arrived and I fear that the trash has not been collected.
+
+
+Auxiliary : *It would*	*estaría*
+Estaría bonito tener negocios exitosos.
+It would be nice to have successful businesses.
+
+
+Noun : *return*	*regreso*
+El humano regresó a la izquierda.
+The human returned to the left.
+
+
+Noun : *return*	*regreso*
+Ellos hicieron una linda fiesta para mi regreso.
+They made a lovely party for my return.
+
+
+Numeral : *half*	*media*
+Llevo media hora esperando el servicio.
+I have been waiting for the service for half an hour.
+
+
+Numeral : *half*	*media*
+El humano está a salvo en el medio del bosque.
+The human is safe in the middle of the forest.
+
+
+Verb : *are*	*estan*
+Ellos están en la próxima clase y les gustan los libros.
+They are in the next class and they like the books.
+
+
+Adjective : *own*	*propio*
+Hablo con mi amigo sobre mi propio juego divertido.
+I talk with my friend about my own fun game.
+
+
+Noun : *gold*	*oro*
+El humano encontró una respuesta en el oro.
+The human found an answer in the gold.
+
+
+Noun : *gold*	*oro*
+Oro a media noche en honor a mi familia.
+I pray at midnight in honor of my family.
+
+
+Adverb : *right away*	*enseguida*
+Claro, aquí tienes una oración:
+"Enseguida pudo encontrar algo divertido."
+"Right away he/she could find something fun."
+
+
+Adjective : *beautiful*	*linda*
+La nena estaría muy linda con ese vestido.
+The little girl would look very pretty in that dress.
+
+

@@ -1,0 +1,502 @@
+Noun : *door*	*puerta*
+La nueva puerta ha sido dicho que es muy resistente.
+The new door has been said to be very sturdy.
+
+
+Verb : *you see*	*ves*
+Debes tomar el libro que ves.
+You must take the book that you see.
+
+
+Verb : *Oh*	*vaya*
+Primero, déjame ir al mercado.
+First, let me go to the market.
+
+
+Adverb : *oh*	*ah*
+Ah, primero debemos estudiar.
+Ah, first we must study.
+
+
+Noun : *luck*	*suerte*
+Quizás tenga suerte hoy.
+Maybe I'll have luck today.
+
+
+Interjection : *Hey*	*eh*
+¿Eh, viene una nueva película?
+Hey, is a new movie coming?
+
+
+Adjective : *fast*	*rápido*
+Debería tener suerte para correr tan rápido.
+I should be lucky to run so fast.
+
+
+Verb : *account*	*cuenta*
+Ella cuenta los problemas durante dos horas.
+She counts the problems for two hours.
+
+
+Verb : *account*	*cuenta*
+Él se dio cuenta de que tenía algo en la mano al pasar por la puerta.
+He realized that he had something in his hand as he passed through the door.
+
+
+Adverb : *maybe*	*quizás*
+Quizás vale la pena seguir este camino.
+Perhaps it's worth following this path.
+
+
+Determiner : *those*	*esas*
+Pensé que esas flores iban a ser más bonitas.
+I thought those flowers were going to be prettier.
+
+
+Conjunction : *well*	*pues*
+Todavía no he visto la nueva película, pues no he tenido tiempo.
+I still haven't seen the new movie, since I haven't had time.
+
+
+Adjective : *past*	*pasado*
+El pasado verano hice un viaje a la ciudad.
+Last summer I took a trip to the city.
+
+
+Adjective : *past*	*pasado*
+El pasado, Juan se dio cuenta de que tenía las manos sucias.
+The past, Juan realized that he had dirty hands.
+
+
+Verb : *I thought*	*pensé*
+Pensé que en este caso todo estaría ok.
+I thought that in this case everything would be ok.
+
+
+Adverb : *still*	*todavía*
+Todavía no quiero volver a casa.
+I still don't want to go back home.
+
+
+Noun : *brother*	*hermano*
+Mi hermano me ayuda en caso de emergencia.
+My brother helps me in case of emergency.
+
+
+Auxiliary : *you must*	*debes*
+Debes ser un buen capitán.
+You must be a good captain.
+
+
+Adverb : *almost*	*casi*
+Casi sería el primero en llegar.
+I would almost be the first to arrive.
+
+
+Noun : *shape*	*forma*
+Debes llenar la forma, vale.  
+You must fill out the form, okay.
+
+
+Auxiliary : *here*	*aqui*
+Aquí hay muchas estrellas en las noches.
+Here, there are many stars at night.
+
+
+Adjective : *boy*	*chico*
+El chico todavía toma leche.
+The boy still drinks milk.
+
+
+Preposition : *okay*	*ok*
+Ok, necesito tu ayuda este año.
+Ok, I need your help this year.
+
+
+Verb : *saying*	*dicho*
+Casi no entendí el dicho en la primera vez.
+I almost didn't understand the saying the first time.
+
+
+Verb : *saying*	*dicho*
+Mientras tú hablas, yo haré lo que me has dicho.
+While you talk, I will do what you have told me.
+
+
+Adjective : *new*	*nueva*
+Ella abrió una cuenta nueva.
+She opened a new account.
+
+
+Adjective : *new*	*nueva*
+Casi hice una nueva amiga.
+I almost made a new friend.
+
+
+Verb : *knew*	*sabía*
+Mi hermano sabía que muchas personas vendrían a la fiesta.
+My brother knew that many people would come to the party.
+
+
+Determiner : *many*	*muchas*
+Muchas personas han dicho que el verano viene pronto.
+Many people have said that summer is coming soon.
+
+
+Adverb : *inside*	*dentro*
+Dentro de la nueva guerra, hay mucha incertidumbre.
+Within the new war, there is much uncertainty.
+
+
+Verb : *I did*	*hice*
+Hice una nueva receta, ¡ah!
+I made a new recipe, ah!
+
+
+Preposition : *against*	*contra*
+El viejo necesita ayuda contra la tormenta.
+The old man needs help against the storm.
+
+
+Noun : *car*	*auto*
+El auto se detuvo en la esquina y vi una mano pintada con la palabra "muerte".
+The car stopped at the corner and I saw a hand painted with the word "death".
+
+
+Noun : *path*	*camino*
+Ves el camino sin problemas.
+You see the path without problems.
+
+
+Noun : *path*	*camino*
+Vi un camino que sería perfecto para caminar.
+I saw a path that would be perfect for walking.
+
+
+Noun : *aid*	*ayuda*
+¿Puedes ayudarme, ah?
+Can you help me, ah?
+
+
+Noun : *aid*	*ayuda*
+El capitán pidió ayuda la semana pasada.
+The captain asked for help last week.
+
+
+Adjective : *first*	*primera*
+Vete hablando con la primera persona que veas.
+Go talking to the first person you see.
+
+
+Adjective : *first*	*primera*
+Vi la primera película y haré una reseña.
+I saw the first movie and I will write a review.
+
+
+Preposition : *toward*	*hacia*
+El auto se mueve hacia las noches tranquilas.
+The car moves towards the quiet nights.
+
+
+Verb : *saw*	*vi*
+Vi al capitán loco en el puerto.
+I saw the crazy captain at the port.
+
+
+Noun : *fear*	*miedo*
+Quizás primero sienta miedo.
+Perhaps first I feel fear.
+
+
+Interjection : *bye*	*adiós*
+Necesito ayuda contra el problema, adiós.
+I need help against the problem, goodbye.
+
+
+Adverb : *first*	*primero*
+Primero, estoy hablando con mi primera amiga.  
+First, I am talking with my first friend.
+
+
+Auxiliary : *ought*	*debería*
+Debería comprar un regalo para mi esposa.
+I should buy a gift for my wife.
+
+
+Noun : *can*	*poder*
+Este año quiero volver a poder viajar.
+This year I want to be able to travel again.
+
+
+Noun : *children*	*niños*
+Mi esposa debería cuidar a los niños.
+My wife should take care of the children.
+
+
+Auxiliary : *I would be*	*sería*
+Sería mejor si deja el camino libre.
+It would be better if you leave the path clear.
+
+
+Noun : *history*	*historia*
+La historia de ese lugar es casi única.  
+The history of that place is almost unique.
+
+
+Verb : *hey*	*hey*
+Hey, ¿qué ha pasado, capitán?
+Hey, what happened, captain?
+
+
+Conjunction : *while*	*mientras*
+Mi esposa debería descansar mientras yo cocino.
+My wife should rest while I cook.
+
+
+Noun : *city*	*ciudad*
+Caminamos juntos por la ciudad.
+We walk together through the city.
+
+
+Verb : *said*	*dijiste*
+Claro, aquí tienes una oración:
+"Tú me dijiste que el dicho da suerte."
+You told me that the saying brings luck.
+
+
+Verb : *wait*	*espero*
+Espero que me ves hablando.
+I hope you see me talking.
+
+
+Pronoun : *how much*	*cuánto*
+¿Cuánto tiempo pensé primero en esa idea?
+How long did I think about that idea at first?
+
+
+Noun : *wife*	*esposa*
+Vi a mi esposa en el parque.  
+I saw my wife in the park.
+
+
+Noun : *wife*	*esposa*
+Mi esposa es la única persona que veo cada semana.
+My wife is the only person I see every week.
+
+
+Adverb : *soon*	*pronto*
+La primera clase casi termina pronto.
+The first class almost ends soon.
+
+
+Noun : *guys*	*chicos*
+Eh, chicos, miren al capitán.
+Hey, guys, look at the captain.
+
+
+Determiner : *any*	*cualquier*
+Puedes elegir cualquier libro, pues hay muchas opciones.
+You can choose any book, as there are many options.
+
+
+Adjective : *old*	*viejo*
+El libro viejo está en las manos de cualquier persona.
+The old book is in the hands of anyone.
+
+
+Auxiliary : *must*	*debemos*
+Debemos encontrar una forma de pedir ayuda.
+We must find a way to ask for help.
+
+
+Verb : *leaves*	*deja*
+Ella deja el libro en la mesa mientras escucha lo que has dicho.
+She leaves the book on the table while listening to what you have said.
+
+
+Noun : *year*	*año*
+Este año será bueno en cualquier aspecto.
+This year will be good in any aspect.
+
+
+Noun : *death*	*muerte*
+Aquí se ha dicho que la muerte es inevitable.
+Here it has been said that death is inevitable.
+
+
+Verb : *talking*	*hablando*
+Estoy hablando de los problemas que toma tiempo resolver.
+I am talking about the problems that take time to solve.
+
+
+Noun : *hands*	*manos*
+Claro, aquí tienes una oración:
+"Tú dijiste que el único problema eran mis manos."
+You said that the only problem was my hands.
+
+
+Verb : *gives*	*da*
+Quizás ella da dulces a los chicos.
+Perhaps she gives candies to the kids.
+
+
+Adjective : *crazy*	*loco*
+¡Vete, hay muchas personas locas aquí!
+Go away, there are many crazy people here!
+
+
+Noun : *issues*	*problemas*
+Tengo buenos amigos que me ayudan con mis problemas a todas horas.
+I have good friends who help me with my problems at all hours.
+
+
+Noun : *hand*	*mano*
+Ella cuenta una historia con su mano.
+She tells a story with her hand.
+
+
+Noun : *war*	*guerra*
+Debes hablar con tu esposa sobre la guerra.
+You must talk to your wife about the war.
+
+
+Noun : *week*	*semana*
+Debería terminar mi proyecto esta semana antes de la muerte del plazo.
+I should finish my project this week before the deadline.
+
+
+Verb : *pass*	*pasar*
+Quizás no sabía qué iba a pasar.
+Perhaps I didn't know what was going to happen.
+
+
+Verb : *OK*	*vale*
+¡Ah, muchas gracias, eso vale mucho!
+Ah, thank you very much, that is worth a lot!
+
+
+Verb : *OK*	*vale*
+Vi a mi esposa en el mercado, vale.
+I saw my wife at the market, okay.
+
+
+Pronoun : *which*	*cuál*
+¿Cuál está listo y cuánto cuesta?
+Which one is ready and how much does it cost?
+
+
+Verb : *comes*	*viene*
+María viene pronto, pues tiene una reunión.
+María is coming soon, since she has a meeting.
+
+
+Verb : *return*	*volver*
+Me di cuenta de que quiero volver a casa.  
+I realized that I want to return home.
+
+
+Verb : *take*	*toma*
+En este caso, toma en cuenta las opiniones de las personas.
+In this case, consider the opinions of the people.
+
+
+Noun : *case*	*caso*
+En caso de emergencia, usa tus manos para llamar por las noches.
+In case of emergency, use your hands to call at night.
+
+
+Noun : *case*	*caso*
+Dentro del primer caso, encontramos la solución.  
+Inside the first case, we found the solution.
+
+
+Noun : *water*	*agua*
+El agua del río ha pasado por el puente.
+The water from the river has passed under the bridge.
+
+
+Verb : *I will do*	*haré*
+¿Cuál dijiste que haré mañana?
+Which did you say I will do tomorrow?
+
+
+Verb : *go away*	*vete*
+Vete pronto y déjame solo.
+Go soon and leave me alone.
+
+
+Verb : *I understand*	*entiendo*
+Todavía no entiendo, pero está bien, ok.
+I still don't understand, but it's fine, ok.
+
+
+Noun : *hours*	*horas*
+Necesito ayuda con mis problemas durante las horas de clase.
+I need help with my problems during class hours.
+
+
+Noun : *people*	*personas*
+Muchas personas se dieron cuenta, pues era evidente.
+Many people realized, for it was evident.
+
+
+Noun : *captain*	*capitán*
+Pensé cuánto respeto tiene el capitán.
+I thought about how much respect the captain has.
+
+
+Adverb : *forward*	*adelante*
+Adelante, pues cuenta conmigo.
+Go ahead, you can count on me.
+
+
+Noun : *child*	*niño*
+El niño disfrutó de sus primeras noches en el campamento.
+The boy enjoyed his first nights at the camp.
+
+
+Adjective : *ready*	*listo*
+Estoy listo para leer la historia.
+I am ready to read the story.
+
+
+Noun : *nights*	*noches*
+Las noches dan una nueva esperanza.
+The nights give a new hope.
+
+
+Adjective : *good*	*buenos*
+Pasé buenos momentos cuando vi a mis amigos.
+I had good times when I saw my friends.
+
+
+Verb : *I was going*	*iba*
+Los niños iban al parque, ¡ah qué divertido!
+The children were going to the park, oh how fun!
+
+
+Adjective : *together*	*juntos*
+Pensé que podríamos caminar juntos de la mano.  
+I thought we could walk together hand in hand.
+
+
+Adjective : *give to me*	*dame*
+Dame suerte mientras estudio para el examen.
+Give me luck while I study for the exam.
+
+
+Adjective : *only*	*único*
+Déjame ser el único que lo haré.
+Let me be the only one who will do it.
+
+
+Verb : *let me*	*déjame*
+Déjame pasar, chico.
+Let me pass, boy.
+
+
+Adverb : *near*	*cerca*
+La historia de la fuente de agua está cerca.
+The story of the water fountain is nearby.
+
+
